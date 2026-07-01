@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:103",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 탈레스 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_103.json",
+  "text": "## [2026-06-26] rebuild | 탈레스 항목 정리\n\n[탈레스](characters/personas/탈레스/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [알렉시아](universe/realms/balance/nations/알렉시아.md)의 아나그노리시스, 오르가논, 검은 석판, 최초의 질문, 유예와 소각 구조에 맞췄다.\n\n- 정리: 질문의 의지, 검은 석판과 최초의 질문, 오르가논의 연산, 엘피스의 유예, 메테우스의 소각, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [탈레스 외형](characters/personas/탈레스/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 탈레스 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 486,
+    "sha256": "76bf08e2bdec2198e6aa30b653a080ee639c30ec15d9e6927cf5f46337bd8126"
+  }
+}

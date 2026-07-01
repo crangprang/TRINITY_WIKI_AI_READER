@@ -1,0 +1,24 @@
+{
+  "id": "doc_67d9ff6fc9cb90f9:003",
+  "document_id": "doc_67d9ff6fc9cb90f9",
+  "path": "wiki/characters/fellsions/정적의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/정적의_펠시온/support/appearance.md",
+  "title": "정적의 펠시온 외형",
+  "section": "묵음",
+  "summary": "정적의 펠시온의 검은 무사복, 머리를 수평으로 관통한 귀마개 검, 닫힌 입의 귀뚜라미 백골 가면, 발도 직전의 정적을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_003.json",
+  "text": "## 묵음\n\n머리를 수평으로 관통한 검 `묵음`이 핵심 소품이다. 이 검은 칼집 없는 봉인검이자 귀마개 검으로 보인다. 손에 든 장식 검이나 평범한 무사 소품으로 바뀌면 정적의 중심 인상이 약해진다.\n\n검을 뽑았을 때는 고통과 분노에 찬 검귀의 압력이 열린다. 눈앞의 소음을 제거하려는 파괴 본능이 자세 전체에 드러난다.",
+  "metadata": {
+    "char_count": 179,
+    "sha256": "1c402932974e5d0695dfe1cb0b9e451c59b7bb30703a39c8f6f1c083e4ce66b6"
+  }
+}

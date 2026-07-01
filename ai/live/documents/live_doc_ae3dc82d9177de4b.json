@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_ae3dc82d9177de4b",
+  "path": "02_LORE/L08_PEACE/L08_BRANCH_IDEA.txt",
+  "title": "L08_파라디소 / BRANCH_IDEA",
+  "summary": "L08_파라디소 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L08_PEACE",
+  "suffix": ".txt",
+  "sha256": "a8c4d9bd58c60514861c478b88e04e3dfa4de3c658087681cf74c4f124f76d97",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_ae3dc82d9177de4b.json",
+  "chunks": [
+    {
+      "id": "live_doc_ae3dc82d9177de4b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_ae3dc82d9177de4b_000.json",
+      "char_count": 690
+    }
+  ]
+}

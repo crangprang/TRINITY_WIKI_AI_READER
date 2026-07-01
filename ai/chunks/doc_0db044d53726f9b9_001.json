@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:001",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "기본 톤",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_001.json",
+  "text": "## 기본 톤\n\n길티어의 기본 공개 얼굴은 가시 망루다. 그는 사람을 앉히고, 먹이고, 묶고, 뒤를 보게 만드는 말로 들린다.\n\n말은 짧고 거칠다. 먼저 끊고, 필요하면 그다음에 이유를 붙인다. 기분, 이념, 사정은 뒤에 오고 물통, 걸음, 숨, 끈, 도주선이 앞에 선다. 자주 튀는 명사는 물, 밥, 잠, 짐, 다리, 뒤, 사선, 지금, 당장이다.\n\n위로는 늦게 온다. 대신 앉아, 마셔, 멈춰, 뒤 봐, 지금 같은 행동어가 먼저 튄다. 거칠어도 눈앞에 묶어 두는 소리다.",
+  "metadata": {
+    "char_count": 265,
+    "sha256": "9a6ae9b36f368a2f1917bf0b4ce0bb4f0b8a0cecea1194f320cab1b84ed2ef20"
+  }
+}

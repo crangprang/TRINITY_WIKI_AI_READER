@@ -1,0 +1,133 @@
+{
+  "id": "doc_cd047a94dc1d7724",
+  "path": "wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md",
+  "wiki_path": "events/삼위의_군상/3부/초인의_시대/줄거리.md",
+  "title": "삼위의 군상/3부/초인의 시대/줄거리",
+  "summary": "두 번째 불지피기 이후 완성된 오리진이 누구에게도 소유되지 않으면서, 초인적 선택들이 충돌하는 3부의 큰 줄거리다.",
+  "status": "draft",
+  "type": "story",
+  "tags": [
+    "story",
+    "narrative",
+    "삼위의_군상",
+    "초인의_시대"
+  ],
+  "updated": "2026-06-28",
+  "category": "events:삼위의_군상",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "삼위의 군상/3부/초인의 시대/줄거리"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "초인의 시대"
+    },
+    {
+      "level": 2,
+      "title": "니그리스의 내려놓음"
+    },
+    {
+      "level": 2,
+      "title": "라케시스와 책임"
+    },
+    {
+      "level": 2,
+      "title": "배신과 에르고의 선택"
+    },
+    {
+      "level": 2,
+      "title": "감독과 결말 이후"
+    },
+    {
+      "level": 2,
+      "title": "결말의 성격"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/2부/신들의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    }
+  ],
+  "sha256": "2c1e06a8c56350eef8cb93c97aef50b8f0be79a9c494435633592d6914936e2c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cd047a94dc1d7724.json",
+  "chunks": [
+    {
+      "id": "doc_cd047a94dc1d7724:000",
+      "section": "삼위의 군상/3부/초인의 시대/줄거리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_000.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_001.json",
+      "char_count": 364
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:002",
+      "section": "초인의 시대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_002.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:003",
+      "section": "니그리스의 내려놓음",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_003.json",
+      "char_count": 301
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:004",
+      "section": "라케시스와 책임",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_004.json",
+      "char_count": 313
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:005",
+      "section": "배신과 에르고의 선택",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_005.json",
+      "char_count": 329
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:006",
+      "section": "감독과 결말 이후",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_006.json",
+      "char_count": 284
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:007",
+      "section": "결말의 성격",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_007.json",
+      "char_count": 312
+    },
+    {
+      "id": "doc_cd047a94dc1d7724:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cd047a94dc1d7724_008.json",
+      "char_count": 313
+    }
+  ]
+}

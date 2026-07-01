@@ -1,0 +1,558 @@
+{
+  "id": "doc_8506b92a8e4c7b16",
+  "path": "wiki/universe/realms/balance/nations/마사오트.md",
+  "wiki_path": "universe/realms/balance/nations/마사오트.md",
+  "title": "마사오트",
+  "summary": "마사오트는 노틸러스호 본선을 중심으로 8척의 길드선이 도는 하늘 위 함대국가다. 본선 갑판의 풍차와 출항 준비, 구베르나의 탐험가 길드 본진, 우편 꾸러미와 비공정 함대가 이 나라의 좋은 말이며, 사람들은 땅보다 더 넓은 하늘길을 자기 국토처럼 여긴다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마사오트"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 3,
+      "title": "언어권과 항로 언어"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "노틸러스호와 8척 길드선"
+    },
+    {
+      "level": 3,
+      "title": "구베르나"
+    },
+    {
+      "level": 3,
+      "title": "브리지와 거주 구역"
+    },
+    {
+      "level": 3,
+      "title": "벤트리스"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "방주"
+    },
+    {
+      "level": 3,
+      "title": "편지"
+    },
+    {
+      "level": 3,
+      "title": "불멸"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "건국기"
+    },
+    {
+      "level": 3,
+      "title": "마지막 원정"
+    },
+    {
+      "level": 3,
+      "title": "유랑 국가의 질서"
+    },
+    {
+      "level": 2,
+      "title": "조직과 길드"
+    },
+    {
+      "level": 3,
+      "title": "탐험가 길드"
+    },
+    {
+      "level": 2,
+      "title": "장치와 국토"
+    },
+    {
+      "level": 3,
+      "title": "엑소도스와 키베르노스"
+    },
+    {
+      "level": 3,
+      "title": "카리브디스와 편지"
+    },
+    {
+      "level": 3,
+      "title": "티폰"
+    },
+    {
+      "level": 2,
+      "title": "생활과 문화"
+    },
+    {
+      "level": 3,
+      "title": "편지"
+    },
+    {
+      "level": 3,
+      "title": "풍차"
+    },
+    {
+      "level": 3,
+      "title": "길드 인장과 지부"
+    },
+    {
+      "level": 3,
+      "title": "던전과 음식"
+    },
+    {
+      "level": 3,
+      "title": "로그북, 스카이 웨일링, 닻"
+    },
+    {
+      "level": 3,
+      "title": "날씨"
+    },
+    {
+      "level": 3,
+      "title": "출항과 접현 절차"
+    },
+    {
+      "level": 3,
+      "title": "벤트리스와 편지 의무"
+    },
+    {
+      "level": 2,
+      "title": "주요 인물"
+    },
+    {
+      "level": 3,
+      "title": "프로스페로"
+    },
+    {
+      "level": 3,
+      "title": "미란다"
+    },
+    {
+      "level": 3,
+      "title": "에어리얼"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "탐험과 도피"
+    },
+    {
+      "level": 3,
+      "title": "기억과 노역"
+    },
+    {
+      "level": 3,
+      "title": "정착"
+    },
+    {
+      "level": 2,
+      "title": "생태와 수수께끼"
+    },
+    {
+      "level": 3,
+      "title": "용의 수수께끼"
+    },
+    {
+      "level": 3,
+      "title": "생태와 크리쳐"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "항로의 표면"
+    },
+    {
+      "level": 3,
+      "title": "관련 작품 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    }
+  ],
+  "sha256": "e88b48612c6fb3fc369fee2674787b939c4cc247484c3451f4afd374e58c7ecf",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8506b92a8e4c7b16.json",
+  "chunks": [
+    {
+      "id": "doc_8506b92a8e4c7b16:000",
+      "section": "마사오트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_000.json",
+      "char_count": 601
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_001.json",
+      "char_count": 444
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:002",
+      "section": "언어권과 항로 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_002.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:003",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_003.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:004",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_004.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:005",
+      "section": "노틸러스호와 8척 길드선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_005.json",
+      "char_count": 372
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:006",
+      "section": "구베르나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_006.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:007",
+      "section": "브리지와 거주 구역",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_007.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:008",
+      "section": "벤트리스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_008.json",
+      "char_count": 208
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:009",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_009.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:010",
+      "section": "방주",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_010.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:011",
+      "section": "편지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_011.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:012",
+      "section": "불멸",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_012.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:013",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_013.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:014",
+      "section": "건국기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_014.json",
+      "char_count": 475
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:015",
+      "section": "마지막 원정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_015.json",
+      "char_count": 738
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:016",
+      "section": "유랑 국가의 질서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_016.json",
+      "char_count": 386
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:017",
+      "section": "조직과 길드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:018",
+      "section": "탐험가 길드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_018.json",
+      "char_count": 299
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:019",
+      "section": "장치와 국토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_019.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:020",
+      "section": "엑소도스와 키베르노스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_020.json",
+      "char_count": 489
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:021",
+      "section": "카리브디스와 편지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_021.json",
+      "char_count": 168
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:022",
+      "section": "티폰",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_022.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:023",
+      "section": "생활과 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_023.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:024",
+      "section": "편지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_024.json",
+      "char_count": 120
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:025",
+      "section": "풍차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_025.json",
+      "char_count": 84
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:026",
+      "section": "길드 인장과 지부",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_026.json",
+      "char_count": 102
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:027",
+      "section": "던전과 음식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_027.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:028",
+      "section": "로그북, 스카이 웨일링, 닻",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_028.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:029",
+      "section": "날씨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_029.json",
+      "char_count": 68
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:030",
+      "section": "출항과 접현 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_030.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:031",
+      "section": "벤트리스와 편지 의무",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_031.json",
+      "char_count": 327
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:032",
+      "section": "주요 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_032.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:033",
+      "section": "프로스페로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_033.json",
+      "char_count": 123
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:034",
+      "section": "미란다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_034.json",
+      "char_count": 83
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:035",
+      "section": "에어리얼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_035.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:036",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_036.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:037",
+      "section": "탐험과 도피",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_037.json",
+      "char_count": 126
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:038",
+      "section": "기억과 노역",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_038.json",
+      "char_count": 115
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:039",
+      "section": "정착",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_039.json",
+      "char_count": 117
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:040",
+      "section": "생태와 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_040.json",
+      "char_count": 11
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:041",
+      "section": "용의 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_041.json",
+      "char_count": 84
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:042",
+      "section": "생태와 크리쳐",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_042.json",
+      "char_count": 297
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:043",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_043.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:044",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_044.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:045",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_045.json",
+      "char_count": 124
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:046",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_046.json",
+      "char_count": 180
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:047",
+      "section": "항로의 표면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_047.json",
+      "char_count": 117
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:048",
+      "section": "관련 작품 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_048.json",
+      "char_count": 84
+    },
+    {
+      "id": "doc_8506b92a8e4c7b16:049",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8506b92a8e4c7b16_049.json",
+      "char_count": 629
+    }
+  ]
+}

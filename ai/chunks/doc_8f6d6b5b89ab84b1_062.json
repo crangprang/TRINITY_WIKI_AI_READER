@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:062",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 2026-05-23 판타즈마 추천 항목 대조",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_062.json",
+  "text": "## [2026-06-28] review | 2026-05-23 판타즈마 추천 항목 대조\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md` §19의 판타즈마 추천 항목을 기존 [판타즈마](beings/phantasmas/index.md), [하위신](universe/laws/하위신.md), [펠시온](characters/fellsions/index.md) 문서와 대조했다. 원문은 의제명뿐이고 새 세부 claim을 제공하지 않으므로 독자용 본문에는 새 값을 추가하지 않았다.\n\n판타즈마가 하위신이 아니며, 동명 판타즈마가 펠시온의 소환수나 복제품이 아니라 균형계의 생태적 오독으로 자연 발생한다는 경계는 이미 본문에 반영되어 있다. 주체 생물과 침투 기관 후보는 사용자 보류 지시에 따라 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남긴다.",
+  "metadata": {
+    "char_count": 460,
+    "sha256": "ac8136a19f005dc2b19e01ade53e2bc57e42dec1691d320b5e99c80a0b27fbbe"
+  }
+}

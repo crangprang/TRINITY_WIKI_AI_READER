@@ -1,0 +1,105 @@
+{
+  "id": "doc_b8a1f4b7640b37cf",
+  "path": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md",
+  "wiki_path": "universe/realms/balance/organizations/그레트헨_연구소.md",
+  "title": "그레트헨 연구소",
+  "summary": "그레트헨 연구소는 오아시스 기반의 기능조직으로, 기술고문, 유물 감정, 고대 기술 해석, 비술 흔적 판독을 대륙 실무로 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "그레트헨 연구소"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "업무와 위험"
+    },
+    {
+      "level": 2,
+      "title": "국가와 후보"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    }
+  ],
+  "sha256": "cf52dd4c54fbba4d5420bbd3e62a8ddb9bc21247d54bed8bb160416377605263",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b8a1f4b7640b37cf.json",
+  "chunks": [
+    {
+      "id": "doc_b8a1f4b7640b37cf:000",
+      "section": "그레트헨 연구소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_000.json",
+      "char_count": 307
+    },
+    {
+      "id": "doc_b8a1f4b7640b37cf:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_001.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_b8a1f4b7640b37cf:002",
+      "section": "업무와 위험",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_002.json",
+      "char_count": 256
+    },
+    {
+      "id": "doc_b8a1f4b7640b37cf:003",
+      "section": "국가와 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_003.json",
+      "char_count": 215
+    },
+    {
+      "id": "doc_b8a1f4b7640b37cf:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_004.json",
+      "char_count": 250
+    }
+  ]
+}

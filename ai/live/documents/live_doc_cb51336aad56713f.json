@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_cb51336aad56713f",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX03_PROSPERO.txt",
+  "title": "프로스페로",
+  "summary": "프로스페로",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "2d0fb549d732ed41a62e578d487b695f7277e34ba060acf4ac93c7084af45be2",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_cb51336aad56713f.json",
+  "chunks": [
+    {
+      "id": "live_doc_cb51336aad56713f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cb51336aad56713f_000.json",
+      "char_count": 1819
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:020",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 염한 L01 상세 재확장 회계 완료",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_020.json",
+  "text": "## [2026-06-28] review | 염한 L01 상세 재확장 회계 완료\n\nLIVE `L01_STRUGGLE` 전체를 [염한](universe/realms/balance/nations/염한.md)과 다시 대조해 전면, 국가 프로필, 역사, 장치, 지리와 사회, 생활과 문화, 핵심 군상, 용의 수수께끼 claim의 소유 상태를 확인했다.\n\n[세계관 개발 TODO](review/worldbuilding_development_todo.md)의 염한 상세 재확장 부모 항목을 완료 처리하고, 국가 리뉴얼 표의 염한 행을 기준 샘플 완료 상태로 갱신했다. 역사 사건명 세부는 기존 판정대로 별도 플롯 범위 보류에 남겼다.",
+  "metadata": {
+    "char_count": 348,
+    "sha256": "44312cb971482fcfc42dcd32443e0957a04b8d109ddf8ff6ab5bc97f680786b8"
+  }
+}

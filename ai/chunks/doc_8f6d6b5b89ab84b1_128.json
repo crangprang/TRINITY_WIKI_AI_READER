@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:128",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 모방의 펠시온 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_128.json",
+  "text": "## [2026-06-26] rebuild | 모방의 펠시온 항목 정리\n\n[모방의 펠시온](characters/fellsions/모방의_펠시온/index.md)의 중복 개요와 `기본 정보` 표면을 인물 기사 구조로 정리했다.\n\n- 정리: 정체와 역할, 공허와 기술자 윤리, 만화경의 눈, 비술 복제와 한계, 위장과 수업, 우니오네와 예술의 나라, 전투 양식, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 외형: [모방의 펠시온 외형](characters/fellsions/모방의_펠시온/support/appearance.md)의 관리 문구와 번호형 항목을 제거하고 20대 중후반 남성 실루엣, 광대 배우 위장, 사마귀 모티프 전면 가면, 검과 칼 소품 중심으로 다시 세웠다.\n- 색인: 펠시온 색인의 모방의 펠시온 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 420,
+    "sha256": "faccc681ef0c13ad3b8e427bf9c4ac11d059c31ca3aa727bf8d7e908771d7934"
+  }
+}

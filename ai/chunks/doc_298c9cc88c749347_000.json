@@ -1,0 +1,24 @@
+{
+  "id": "doc_298c9cc88c749347:000",
+  "document_id": "doc_298c9cc88c749347",
+  "path": "wiki/characters/personas/에어리얼/support/appearance.md",
+  "wiki_path": "characters/personas/에어리얼/support/appearance.md",
+  "title": "에어리얼 외형",
+  "section": "에어리얼 외형",
+  "summary": "에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_000.json",
+  "text": "# 에어리얼 외형\n\n에어리얼 외형은 [에어리얼](../index.md)의 바람 안내자 실루엣, 소용돌이 가면, 편지, 방주 항로, 구름 속 브리지를 한 몸에 모으는 외형 항목이다.",
+  "metadata": {
+    "char_count": 100,
+    "sha256": "579142ff12354bc5f0ff4e4b0e29a33d83888081e7d3f3af3faf6ae8660d262a"
+  }
+}

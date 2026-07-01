@@ -1,0 +1,105 @@
+{
+  "id": "doc_6bf7ab38a59f19b9",
+  "path": "wiki/characters/fellsions/모방의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/모방의_펠시온/support/appearance.md",
+  "title": "모방의 펠시온 외형",
+  "summary": "모방의 펠시온의 20대 중후반 남성 실루엣, 광대 배우 위장, 사마귀 백골 전면 가면, 사마귀 쌍곡도를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "모방의 펠시온 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "광대 배우 위장"
+    },
+    {
+      "level": 2,
+      "title": "굶주린 기술자"
+    },
+    {
+      "level": 2,
+      "title": "가면과 무기"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    }
+  ],
+  "sha256": "79e9e783e4d0eb873440c3e1d55a20f30c58436439cd50a96757cfa8ba959b6d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6bf7ab38a59f19b9.json",
+  "chunks": [
+    {
+      "id": "doc_6bf7ab38a59f19b9:000",
+      "section": "모방의 펠시온 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_000.json",
+      "char_count": 116
+    },
+    {
+      "id": "doc_6bf7ab38a59f19b9:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_001.json",
+      "char_count": 264
+    },
+    {
+      "id": "doc_6bf7ab38a59f19b9:002",
+      "section": "광대 배우 위장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_002.json",
+      "char_count": 183
+    },
+    {
+      "id": "doc_6bf7ab38a59f19b9:003",
+      "section": "굶주린 기술자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_003.json",
+      "char_count": 186
+    },
+    {
+      "id": "doc_6bf7ab38a59f19b9:004",
+      "section": "가면과 무기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_004.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_6bf7ab38a59f19b9:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_005.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_6bf7ab38a59f19b9:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6bf7ab38a59f19b9_006.json",
+      "char_count": 100
+    }
+  ]
+}

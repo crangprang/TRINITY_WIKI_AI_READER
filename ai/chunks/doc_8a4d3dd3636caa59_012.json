@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:012",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "관련 문서",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_012.json",
+  "text": "## 관련 문서\n\n- [옌](../index.md) - 흰 성녀 이미지, 덧칠된 무지개, 악마 낙인이 한 몸에 붙는 인물.\n- [옌 보이스](voice.md) - 사회어와 색 판정어가 외형의 층위 변화와 맞물리는 보이스 항목.\n- [옌 음악](music.md) - 흰 막, 검은 안쪽, 덧칠된 무지개의 시각 층위가 악기 탈락과 마지막 어쿠스틱 기타로 이어지는 음악 항목.\n- [아인](../../아인/index.md) - 옌이 검은색의 예외로 붙잡는 리더이자 색 판정의 예외점.",
+  "metadata": {
+    "char_count": 267,
+    "sha256": "b0c1821636e8e36811b8b911295ec7c59ea3700fc5ccad5de7eb335ce2f5aae3"
+  }
+}

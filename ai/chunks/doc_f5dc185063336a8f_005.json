@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:005",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "달빛 중독자",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_005.json",
+  "text": "### 달빛 중독자\n\n피, 달빛, 치명상, 부활 직전의 선명함이 닿을 때 열린다. 문장은 더 짧고 직접적이며, 호흡은 살아 있다는 감각을 감추지 못한다. 웃음과 도발이 늦게 붙고, 그 웃음에는 환희와 혐오가 함께 섞인다.\n\n잘 맞는 단어는 `달`, `피`, `좋군`, `더`, `아직`, `끝내기엔 이르다`다. 좋다는 말을 끝까지 삼키면서도, 좋아하는 숨이 문장 뒤에 묻어야 한다.",
+  "metadata": {
+    "char_count": 213,
+    "sha256": "1f476e5ca5b3a32773d2be715fbe510212a376473925fdb14b940335aa69a1a9"
+  }
+}

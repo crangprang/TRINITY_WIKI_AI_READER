@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_859bb18636afe87b:000",
+  "document_id": "live_doc_859bb18636afe87b",
+  "path": "03_WORLD/04_CREATURE/00_CREATURE_README.txt",
+  "title": "04_CREATURE",
+  "section": "04_CREATURE",
+  "summary": "`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_000.json",
+  "text": "# 04_CREATURE\n\n`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "metadata": {
+    "char_count": 80,
+    "sha256": "79f114ccb0c75055e3fb4adbba87f8f84cff0a171eb1c8d0c056834d7402c28a"
+  }
+}

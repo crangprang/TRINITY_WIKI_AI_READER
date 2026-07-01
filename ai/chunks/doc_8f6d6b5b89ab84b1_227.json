@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:227",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 엘리자베스 공용 몸 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_227.json",
+  "text": "## [2026-06-26] rebuild | 엘리자베스 공용 몸 항목 정리\n\n[엘리자베스](characters/main_party/엘리자베스/index.md)를 블랑/스칼렛 설명 모음에서 공용 몸, 전환, 재연, 기억 좌표를 소유하는 인물 항목으로 정리했다.\n\n- 정리: 본문은 마고리아 재구성, 공용 몸, 재연의 편집·각본·연출, 사이프러스 단검 꿈 절반의 좌표성, 반사면, 관계를 담당하게 했다.\n- 지원: [엘리자베스 / 외형](characters/main_party/엘리자베스/support/appearance.md)은 공용 몸과 전면별 시각 차이의 허브로 낮추고, 세부 생성 프롬프트는 블랑/스칼렛 외형 support가 소유하게 했다.\n- 문체: 작가용 구조어, 미확정 가면 모티프, 번호형 하위 제목, 긴 외형 fact 중복을 제거하고 선언형 위키 항목으로 바꿨다.",
+  "metadata": {
+    "char_count": 435,
+    "sha256": "03903496e8731f0084f6b485c42fc826e36194ed539b9a1f534335dbb8a4221c"
+  }
+}

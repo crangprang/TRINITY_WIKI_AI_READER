@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f7f0489d13d79d23",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_REFERENCE.txt",
+  "title": "메피스토 / REFERENCE",
+  "summary": "메피스토 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "fd7498c63a5c58405edea9851b0e640b4710bbe7919a847933398078ecefbe9f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f7f0489d13d79d23.json",
+  "chunks": [
+    {
+      "id": "live_doc_f7f0489d13d79d23:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f7f0489d13d79d23_000.json",
+      "char_count": 183
+    }
+  ]
+}

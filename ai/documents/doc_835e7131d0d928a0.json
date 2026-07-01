@@ -1,0 +1,105 @@
+{
+  "id": "doc_835e7131d0d928a0",
+  "path": "wiki/review/contradictions.md",
+  "wiki_path": "review/contradictions.md",
+  "title": "충돌 기록",
+  "summary": "알려진 모순, 긴장, 양립하기 어려운 해석을 기록하는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "contradictions"
+  ],
+  "updated": "2026-06-28",
+  "category": "review:contradictions.md",
+  "is_support": false,
+  "is_review": true,
+  "headings": [
+    {
+      "level": 1,
+      "title": "충돌 기록"
+    },
+    {
+      "level": 2,
+      "title": "활성 충돌"
+    },
+    {
+      "level": 2,
+      "title": "해결된 충돌"
+    },
+    {
+      "level": 3,
+      "title": "FEL-002: 정복의 펠시온 가면 모티프"
+    },
+    {
+      "level": 3,
+      "title": "FEL-001: 침식의 펠시온 정체 표현"
+    },
+    {
+      "level": 3,
+      "title": "PER-001: 퍼시스 사망 방식과 초대 투쟁 엑시온 동귀어진 표기"
+    }
+  ],
+  "links": [
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "정복의 펠시온 외형",
+      "target": "wiki/characters/fellsions/정복의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "침식의 펠시온 외형",
+      "target": "wiki/characters/fellsions/침식의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    }
+  ],
+  "sha256": "3e440d015b939b347874868895f9fabf2fad8e4722301143802833d337bedf93",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_835e7131d0d928a0.json",
+  "chunks": [
+    {
+      "id": "doc_835e7131d0d928a0:000",
+      "section": "충돌 기록",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_000.json",
+      "char_count": 7
+    },
+    {
+      "id": "doc_835e7131d0d928a0:001",
+      "section": "활성 충돌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_001.json",
+      "char_count": 22
+    },
+    {
+      "id": "doc_835e7131d0d928a0:002",
+      "section": "해결된 충돌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_835e7131d0d928a0:003",
+      "section": "FEL-002: 정복의 펠시온 가면 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_003.json",
+      "char_count": 329
+    },
+    {
+      "id": "doc_835e7131d0d928a0:004",
+      "section": "FEL-001: 침식의 펠시온 정체 표현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_004.json",
+      "char_count": 337
+    },
+    {
+      "id": "doc_835e7131d0d928a0:005",
+      "section": "PER-001: 퍼시스 사망 방식과 초대 투쟁 엑시온 동귀어진 표기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_005.json",
+      "char_count": 412
+    }
+  ]
+}

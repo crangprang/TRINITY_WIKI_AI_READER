@@ -1,0 +1,119 @@
+{
+  "id": "doc_682ebab80cc6f6e1",
+  "path": "wiki/characters/main_party/아인/support/music.md",
+  "wiki_path": "characters/main_party/아인/support/music.md",
+  "title": "아인 음악",
+  "summary": "아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아인 음악"
+    },
+    {
+      "level": 2,
+      "title": "음악 콘셉트"
+    },
+    {
+      "level": 2,
+      "title": "음악 키워드"
+    },
+    {
+      "level": 2,
+      "title": "명사 물성"
+    },
+    {
+      "level": 2,
+      "title": "악기와 스타일"
+    },
+    {
+      "level": 2,
+      "title": "가사 모티프"
+    },
+    {
+      "level": 2,
+      "title": "곡 진행"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "아인 외형",
+      "target": "wiki/characters/main_party/아인/support/appearance.md"
+    },
+    {
+      "label": "아인 보이스",
+      "target": "wiki/characters/main_party/아인/support/voice.md"
+    }
+  ],
+  "sha256": "840904947d20932e10e39400fdc0c1f0acf9de59cffd07846de083cabd725281",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_682ebab80cc6f6e1.json",
+  "chunks": [
+    {
+      "id": "doc_682ebab80cc6f6e1:000",
+      "section": "아인 음악",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_000.json",
+      "char_count": 7
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:001",
+      "section": "음악 콘셉트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_001.json",
+      "char_count": 329
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:002",
+      "section": "음악 키워드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_002.json",
+      "char_count": 62
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:003",
+      "section": "명사 물성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_003.json",
+      "char_count": 676
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:004",
+      "section": "악기와 스타일",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_004.json",
+      "char_count": 297
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:005",
+      "section": "가사 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_005.json",
+      "char_count": 376
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:006",
+      "section": "곡 진행",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_006.json",
+      "char_count": 414
+    },
+    {
+      "id": "doc_682ebab80cc6f6e1:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_007.json",
+      "char_count": 222
+    }
+  ]
+}

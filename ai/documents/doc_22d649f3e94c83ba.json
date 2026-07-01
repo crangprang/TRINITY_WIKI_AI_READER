@@ -1,0 +1,126 @@
+{
+  "id": "doc_22d649f3e94c83ba",
+  "path": "wiki/beings/phantasmas/탐욕의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/탐욕의_판타즈마.md",
+  "title": "탐욕의 판타즈마",
+  "summary": "탐욕이 자본 흐름과 전력망을 먹고 도시 전체로 뻗어 나간 시스템형 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "탐욕의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "더 나은 내일",
+      "target": "wiki/events/singularities/더_나은_내일.md"
+    },
+    {
+      "label": "레이어드 3등급 판타즈마",
+      "target": "wiki/beings/phantasmas/레이어드_3등급_판타즈마.md"
+    }
+  ],
+  "sha256": "15736e7258afc60a47dd739d5b7b717267b75aa8c13cee1bd8113b9ea3466b66",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_22d649f3e94c83ba.json",
+  "chunks": [
+    {
+      "id": "doc_22d649f3e94c83ba:000",
+      "section": "탐욕의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_000.json",
+      "char_count": 156
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_001.json",
+      "char_count": 49
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_002.json",
+      "char_count": 368
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_003.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_004.json",
+      "char_count": 186
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_005.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_006.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_22d649f3e94c83ba:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_007.json",
+      "char_count": 282
+    }
+  ]
+}

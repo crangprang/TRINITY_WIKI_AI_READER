@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:028",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "하위 항목",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_028.json",
+  "text": "## 하위 항목\n\n- [세레나 외형](support/appearance.md) - 순례자 검객 실루엣, 검은 외피, 뿔과 적안, 이동·휴식·전투 상태.\n- [세레나 보이스](support/voice.md) - 층위별 발화, 관계별 어조, 전투·후퇴·위기 발화.",
+  "metadata": {
+    "char_count": 145,
+    "sha256": "acd90bbb4df8dd8210700ed1e9cd50e63d2a815fc922c027d085c6db094049c9"
+  }
+}

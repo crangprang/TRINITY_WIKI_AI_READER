@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:008",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "관계별 어조",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_008.json",
+  "text": "## 관계별 어조",
+  "metadata": {
+    "char_count": 9,
+    "sha256": "32e0a59be75aa3e6f3033f60fc133f5b602c58074601bee3d01473be2e9974bc"
+  }
+}

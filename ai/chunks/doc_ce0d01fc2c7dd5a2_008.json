@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce0d01fc2c7dd5a2:008",
+  "document_id": "doc_ce0d01fc2c7dd5a2",
+  "path": "wiki/universe/realms/balance/language/index.md",
+  "wiki_path": "universe/realms/balance/language/index.md",
+  "title": "균형계 언어",
+  "section": "관련 문서",
+  "summary": "균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "language",
+    "naming"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_008.json",
+  "text": "## 관련 문서\n\n- [균형계](../index.md) - 이름과 신앙이 현실 압력으로 바뀌는 중심 세계.\n- [균형계 문화](../culture/index.md) - 언어와 이름이 의례, 가면, 금기로 작동하는 방식.\n- [아홉 나라](../nations/index.md) - 국가별 언어권과 아포라투스 이름이 놓이는 국가 질서.",
+  "metadata": {
+    "char_count": 185,
+    "sha256": "3713656ec36fb10144b506b86be6965758897454058d6d08662b194ee36fd426"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:287",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] cleanup | 미사용 토론 CLI 제거",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_287.json",
+  "text": "## [2026-06-26] cleanup | 미사용 토론 CLI 제거\n\n웹 서버가 토론 세션의 생성, 조회, 승인·기각 경로를 직접 제공하므로 별도 참조가 없는 `tools/discussion_sessions.py`를 제거했다.",
+  "metadata": {
+    "char_count": 128,
+    "sha256": "df51e0c70f24932be4eb6e454ec74f27b6c1438a58303e3d9fc2bdeb92176b32"
+  }
+}

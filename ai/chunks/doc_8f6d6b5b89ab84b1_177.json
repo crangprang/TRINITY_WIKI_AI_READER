@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:177",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | character card residue 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_177.json",
+  "text": "## [2026-06-26] maintenance | character card residue 정리\n\n펠시온과 트리네아드 일부 문서에 남아 있던 원문 카드 라벨을 독자용 prose로 정리했다.\n\n- 정리: 모방의 펠시온과 정적의 펠시온의 라벨형 설명을 핵심 컨셉, 기원과 철학, 능력/전투, 목표/동기 문단으로 흡수했다.\n- 정리: 기만의 펠시온의 사냥 단계 라벨을 문장형 bullet로 바꿨다.\n- 정리: 트리네아드 공통 문서의 역할/가면/기원 카드 행을 문단 설명으로 흡수하고, 라케시스의 기원적 뿌리 라벨을 문장으로 바꿨다.",
+  "metadata": {
+    "char_count": 296,
+    "sha256": "6410acc8c579031cb7490b3e825b37f92e7ea4a6e4238e81385ffa9dabf43b1f"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "doc_9c11d6ca14ab2130",
+  "path": "wiki/characters/axions/가인/support/appearance.md",
+  "wiki_path": "characters/axions/가인/support/appearance.md",
+  "title": "가인 외형",
+  "summary": "가인의 검은 머리와 붉은 눈, 몸보다 큰 여제 예복, 굴레의 가면, 원한검, 시기별 외형 변화를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "가인 외형"
+    },
+    {
+      "level": 2,
+      "title": "공통 디자인 원칙"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "현재 여제 외형"
+    },
+    {
+      "level": 2,
+      "title": "시기별 외형"
+    },
+    {
+      "level": 3,
+      "title": "어린 가인"
+    },
+    {
+      "level": 3,
+      "title": "황녀 가인"
+    },
+    {
+      "level": 3,
+      "title": "즉위 순간"
+    },
+    {
+      "level": 2,
+      "title": "굴레의 가면"
+    },
+    {
+      "level": 2,
+      "title": "특이점 외형"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    }
+  ],
+  "sha256": "38c057636c6675ceb35f191957331bfc0bb98f6d50391f60c3dfa96d67257bf3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9c11d6ca14ab2130.json",
+  "chunks": [
+    {
+      "id": "doc_9c11d6ca14ab2130:000",
+      "section": "가인 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_000.json",
+      "char_count": 99
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:001",
+      "section": "공통 디자인 원칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_001.json",
+      "char_count": 321
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:002",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_002.json",
+      "char_count": 299
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:003",
+      "section": "현재 여제 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_003.json",
+      "char_count": 541
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:004",
+      "section": "시기별 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_004.json",
+      "char_count": 629
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:005",
+      "section": "어린 가인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_005.json",
+      "char_count": 315
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:006",
+      "section": "황녀 가인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_006.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:007",
+      "section": "즉위 순간",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_007.json",
+      "char_count": 272
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:008",
+      "section": "굴레의 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_008.json",
+      "char_count": 422
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:009",
+      "section": "특이점 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_009.json",
+      "char_count": 525
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:010",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_010.json",
+      "char_count": 508
+    },
+    {
+      "id": "doc_9c11d6ca14ab2130:011",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_011.json",
+      "char_count": 360
+    }
+  ]
+}

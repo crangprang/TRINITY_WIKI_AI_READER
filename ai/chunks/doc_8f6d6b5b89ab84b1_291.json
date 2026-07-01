@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:291",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 색인 선언문 정본화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_291.json",
+  "text": "## [2026-06-26] style | 색인 선언문 정본화\n\n상위 색인 일부의 `항목군` 표현을 독자용 분류 서술로 바꾸고, 본문과 서포트 항목의 `~에 가까운`식 완충 표현을 더 단정적인 세계 내부 묘사로 정리했다.",
+  "metadata": {
+    "char_count": 123,
+    "sha256": "62afa36bfd2c5aa5be3491f12111f6b9cbf570e3e2b79fe65dcf676c8949ecf2"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "doc_09fc33f28d61cfb1",
+  "path": "wiki/characters/fellsions/index.md",
+  "wiki_path": "characters/fellsions/index.md",
+  "title": "펠시온",
+  "summary": "펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이며, 균형계에 침투해 각 나라의 상처와 혼란을 파괴계 언어로 벌리는 존재다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "fellsions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "펠시온"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "이름과 군단"
+    },
+    {
+      "level": 2,
+      "title": "균형계 침투"
+    },
+    {
+      "level": 2,
+      "title": "인격과 동명 재앙"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "기근의 펠시온",
+      "target": "wiki/characters/fellsions/기근의_펠시온/index.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "속박의 펠시온",
+      "target": "wiki/characters/fellsions/속박의_펠시온/index.md"
+    },
+    {
+      "label": "역병의 펠시온",
+      "target": "wiki/characters/fellsions/역병의_펠시온/index.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    }
+  ],
+  "sha256": "dde977ade8eeed3a7073f1b4efc310f046574ea879b5323695c40a2e1c60f1fa",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_09fc33f28d61cfb1.json",
+  "chunks": [
+    {
+      "id": "doc_09fc33f28d61cfb1:000",
+      "section": "펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_000.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_09fc33f28d61cfb1:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_001.json",
+      "char_count": 631
+    },
+    {
+      "id": "doc_09fc33f28d61cfb1:002",
+      "section": "이름과 군단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_002.json",
+      "char_count": 732
+    },
+    {
+      "id": "doc_09fc33f28d61cfb1:003",
+      "section": "균형계 침투",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_003.json",
+      "char_count": 341
+    },
+    {
+      "id": "doc_09fc33f28d61cfb1:004",
+      "section": "인격과 동명 재앙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_004.json",
+      "char_count": 379
+    },
+    {
+      "id": "doc_09fc33f28d61cfb1:005",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_005.json",
+      "char_count": 811
+    },
+    {
+      "id": "doc_09fc33f28d61cfb1:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_006.json",
+      "char_count": 289
+    }
+  ]
+}

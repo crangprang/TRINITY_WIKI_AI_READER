@@ -1,0 +1,130 @@
+{
+  "id": "doc_05eed2faa24f12f6",
+  "path": "wiki/universe/realms/balance/organizations/스트레인저.md",
+  "wiki_path": "universe/realms/balance/organizations/스트레인저.md",
+  "title": "스트레인저",
+  "summary": "스트레인저는 퍼시스 사건 이후 아홉 나라의 정주민 질서와 정교 체계 바깥으로 밀려난 사람들을 서로 잃어버리지 않게 붙드는 외지 공동체이자 정교가 배신자로 분류하는 이단 축이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy",
+    "eremos"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "스트레인저"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "형성"
+    },
+    {
+      "level": 2,
+      "title": "횃불과 모닥불"
+    },
+    {
+      "level": 2,
+      "title": "거래와 생존"
+    },
+    {
+      "level": 2,
+      "title": "정교와의 관계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    }
+  ],
+  "sha256": "7a241fd9da8131739f9110d1d463951f7fe035e8b90a8d9b2499cf1e78cc383c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_05eed2faa24f12f6.json",
+  "chunks": [
+    {
+      "id": "doc_05eed2faa24f12f6:000",
+      "section": "스트레인저",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_000.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_05eed2faa24f12f6:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_001.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_05eed2faa24f12f6:002",
+      "section": "형성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_002.json",
+      "char_count": 523
+    },
+    {
+      "id": "doc_05eed2faa24f12f6:003",
+      "section": "횃불과 모닥불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_003.json",
+      "char_count": 425
+    },
+    {
+      "id": "doc_05eed2faa24f12f6:004",
+      "section": "거래와 생존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_004.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_05eed2faa24f12f6:005",
+      "section": "정교와의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_005.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_05eed2faa24f12f6:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_006.json",
+      "char_count": 341
+    }
+  ]
+}

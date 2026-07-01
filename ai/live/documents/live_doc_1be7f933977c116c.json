@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_1be7f933977c116c",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_VOICE_SAMPLE.txt",
+  "title": "에어리얼 / VOICE_SAMPLE",
+  "summary": "에어리얼 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "d35ed0ff6c8e75fab87422cf7c1c85e2bc93630228c86b5ccbf2a72bb5fddba8",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_1be7f933977c116c.json",
+  "chunks": [
+    {
+      "id": "live_doc_1be7f933977c116c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1be7f933977c116c_000.json",
+      "char_count": 175
+    }
+  ]
+}

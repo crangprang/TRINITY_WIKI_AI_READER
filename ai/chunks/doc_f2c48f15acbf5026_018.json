@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:018",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "약속",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_018.json",
+  "text": "### 약속\n\n저주 `약속`은 워크맨을 통해 작동한다. 워크맨은 상황과 어긋나는 음악을 흘리고, 위기의 순간에는 딱 맞는 박자로 진을 다시 민다. 음악은 고문이면서 동시에 닻이다.\n\n이미 약속에 속박되어 있기 때문에, 진은 속박과 제약 계열 비술에 큰 저항을 가진다. 그는 워크맨의 리듬을 싫어해도 결국 그 리듬 위에서 다시 몸을 맞춘다.",
+  "metadata": {
+    "char_count": 189,
+    "sha256": "e823e2de9187b6d83698f33ca570fa42dfacd75eb203cb5b547325c94f6d85df"
+  }
+}

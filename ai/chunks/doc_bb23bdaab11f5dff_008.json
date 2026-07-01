@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:008",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "세레나",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_008.json",
+  "text": "### 세레나\n\n[세레나](../../세레나/index.md)에게 단테는 가장 쉽게 시비를 건다. `공주님` 같은 별명이 붙고, 농담은 날카롭지만 완전히 버리는 말로 흐르지 않는다. 세레나가 곧게 부러질 길로 들어서면 단테는 일부러 길을 틀고 칼끝을 빼는 말을 던진다.\n\n세레나 앞의 단테는 악우처럼 굴면서도 자멸을 먼저 본다. 막판에는 더러운 선택을 자기 쪽으로 당기며, 그 행동을 끝까지 선의라고 설명하지 않는다.",
+  "metadata": {
+    "char_count": 233,
+    "sha256": "39ef70dc5a03f4f6a802ff913e49bb747dbfb28064d1f0e0b31ae2716a74f1dd"
+  }
+}

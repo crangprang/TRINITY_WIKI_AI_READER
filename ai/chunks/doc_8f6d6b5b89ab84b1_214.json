@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:214",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-25] visual lock | 아인 curated 시각 앵커 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_214.json",
+  "text": "## [2026-06-25] visual lock | 아인 curated 시각 앵커 반영\n\n아인의 외형 기준을 승인된 curated 시각 앵커의 형태값에 맞춰 정리했다.\n\n- 반영: [아인](characters/main_party/아인/index.md)\n- 주요 판단: 아인은 긴 차콜/먹색/잿빛 남색 여행자 외투, 높은 칼라, 두꺼운 스카프, 버클 달린 여밈, 작은 어깨가방, 바깥 손목시계, 검은 레이스업 여행 부츠가 기본 축이다. 금지해야 할 것은 긴 외투 자체가 아니라 매끈한 현대 탐정 코트, 영웅 망토, 악역 참모풍 올블랙 코트, 전술 하네스, 과장된 군화로 오독되는 방향이다.",
+  "metadata": {
+    "char_count": 329,
+    "sha256": "bd990802fec96f2b4b7c92e9eb7c5d5e43bb9a692f71f6a3121c7fb868c827f5"
+  }
+}

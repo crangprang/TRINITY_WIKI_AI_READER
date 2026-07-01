@@ -1,0 +1,23 @@
+{
+  "id": "doc_2060ee2608647347:011",
+  "document_id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "section": "고통은 끝이 있어야 한다",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_011.json",
+  "text": "### 고통은 끝이 있어야 한다\n\n블랑의 핵심 오답은 `고통은 끝이 있어야 한다`는 믿음이다. 이 믿음은 선의이며 동시에 흔들리는 고리다. 블랑은 끝없이 이어지는 고통을 그냥 둘 수 없고, 그 고통을 만들어 내는 대상까지 치료와 분리와 제거의 경계 안에서 읽는다.\n\n그래서 블랑은 가장 위험한 순간에 더 차분하고 더 공손해진다. 망설임이 길어질수록 더 많은 사람이 아파진다는 결론이 몸에 남아 있기 때문이다. 이 결심은 사람을 살리기도 하고, 스칼렛을 끝내야 할 병으로 오진하게 만들기도 한다.",
+  "metadata": {
+    "char_count": 276,
+    "sha256": "d5b7dac4e725be1e97b2f019d210cf5bbf0133e3a0ae8b744885ffa926d16321"
+  }
+}

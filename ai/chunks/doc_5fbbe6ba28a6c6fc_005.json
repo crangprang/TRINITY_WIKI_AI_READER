@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:005",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "지워진 자화상",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_005.json",
+  "text": "### 지워진 자화상\n\n이름, 자리, 질투, 보호가 한꺼번에 새어 나올 때 열리는 층위다. 속도는 느려지고 웃음은 마르거나 사라진다. 문장은 더 사적이고 날것이 되지만, 어린아이처럼 무너지지 않는다.\n\n잘 맞는 단어는 `그 이름`, `내 자리`, `남겨 둬`, `내가 먼저 갔어야 했어`, `지워지지 않아`, `나도 있었어`다. 이 층위의 스칼렛은 악역 흉내를 벗고, 사라지지 않겠다는 사람으로 선명해진다.",
+  "metadata": {
+    "char_count": 227,
+    "sha256": "b440df4ae3bf1eba89c54138d8acb78844a93b5766001b61018228c7f7c290c9"
+  }
+}

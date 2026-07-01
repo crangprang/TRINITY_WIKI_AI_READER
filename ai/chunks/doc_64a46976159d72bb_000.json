@@ -1,0 +1,24 @@
+{
+  "id": "doc_64a46976159d72bb:000",
+  "document_id": "doc_64a46976159d72bb",
+  "path": "wiki/universe/realms/balance/organizations/유랑_서커스.md",
+  "wiki_path": "universe/realms/balance/organizations/유랑_서커스.md",
+  "title": "유랑 서커스",
+  "section": "유랑 서커스",
+  "summary": "유랑 서커스는 우니오네 기반의 기능조직으로, 순회 공연 면허와 흥행망을 통해 공연, 후원자 접촉, 정보 수집을 함께 수행한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_64a46976159d72bb_000.json",
+  "text": "# 유랑 서커스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 기능조직 |\n| 기반 국가 | [우니오네](../nations/우니오네.md) |\n| 주요 업무 | 순회 공연 / 흥행 / 후원자 접촉 / 지역 정보 수집 |\n| 정교 관계 | 삼위정교 면허를 받은 국가 기반 위탁 조직 |\n| 대표 구세주 후보 | [로렌초 카발리에리](../../../../characters/savior_candidates/로렌초_카발리에리/index.md) |\n| 관련 엑시온 | [유리디스 도리안 드 발루아](../../../../characters/axions/유리디스_도리안_드_발루아/index.md) |",
+  "metadata": {
+    "char_count": 337,
+    "sha256": "ecf8b56245eb9107126123a4f598e75503f734f67aad822c588ce359b2dcc6b0"
+  }
+}

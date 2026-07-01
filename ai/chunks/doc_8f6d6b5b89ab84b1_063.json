@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:063",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 아포라투스 국가 출력 축 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_063.json",
+  "text": "## [2026-06-28] ingest | 아포라투스 국가 출력 축 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md` §19 C의 아포라투스 국가 규모 생명필터 해석을 [아포라투스](universe/realms/balance/apparatus/index.md)에 반영했다. 기존 제어핵의 필로시온-뇌, 보물-심장, 아타노르·용 잔재-척수 대응을 나라별 매질과 기관에 통과시켜, 각 국가의 이성, 감정, 본능 출력 축을 조회표로 정리했다.\n\n새 기관명이나 새 물성을 만들지 않고, 기존 국가별 작동 방식과 매질 설명을 재배열했다. 다음 처리 포인터는 같은 원문의 추천 순서 중 판타즈마 항목이다.",
+  "metadata": {
+    "char_count": 349,
+    "sha256": "49d751259e38fbd9b66e3b18b8470e19e6e950546d3ab26b3aa0662b2c4e45fb"
+  }
+}

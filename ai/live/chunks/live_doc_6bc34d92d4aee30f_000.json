@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f:000",
+  "document_id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "section": "CREATIVE_RULES",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_000.json",
+  "text": "# CREATIVE_RULES\n\n[문서 성격]\n- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.\n- `GOAL.txt`는 운영 철학과 판정 방향을, 이 파일은 창작 결과물의 세부 점검 기준을 담당한다.\n- 이 파일은 live canon 본문이 아니라 canon-facing 작성 품질 기준이다.",
+  "metadata": {
+    "char_count": 200,
+    "sha256": "e723f7205d065c05e62c99f5598a516baf0132bf106d2e35168c1dc4c8377985"
+  }
+}

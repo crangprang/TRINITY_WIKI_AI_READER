@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:143",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 에르고 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_143.json",
+  "text": "## [2026-06-26] rebuild | 에르고 항목 정리\n\n[에르고](characters/trineads/에르고/index.md)의 중복 기본 정보 블록과 번호형 하위 제목을 정리했다.\n\n- 정리: 정체와 역할, 역사, 내면 구조, 능력과 제약, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 분해: 붕괴의 트리네아드, 이상의 보물, 불가능을 부수는 왕, 생존 전쟁, 죽음에게 진 패배, 정적의 감옥, 위상 분할 강림, 에르의 시험, 주요 관계를 조회 가능한 하위항목으로 세웠다.\n- 색인: 트리네아드 색인의 에르고 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 312,
+    "sha256": "5b60ec51eae41f6dcf726dd715bd9d65decbe198d2009f5586a228ae8f7e7469"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "doc_13351a3343adfca7",
+  "path": "wiki/characters/personas/미노스/support/appearance.md",
+  "wiki_path": "characters/personas/미노스/support/appearance.md",
+  "title": "미노스 외형",
+  "summary": "미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "미노스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "제복의 판관"
+    },
+    {
+      "level": 2,
+      "title": "황소와 판관 가면"
+    },
+    {
+      "level": 2,
+      "title": "스노우볼 속 별"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    }
+  ],
+  "sha256": "ffdc594adccaa08cdb193691ebb65df738ed0df669ce862c7a06aa065c3d8952",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_13351a3343adfca7.json",
+  "chunks": [
+    {
+      "id": "doc_13351a3343adfca7:000",
+      "section": "미노스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_000.json",
+      "char_count": 107
+    },
+    {
+      "id": "doc_13351a3343adfca7:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_001.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_13351a3343adfca7:002",
+      "section": "제복의 판관",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_002.json",
+      "char_count": 208
+    },
+    {
+      "id": "doc_13351a3343adfca7:003",
+      "section": "황소와 판관 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_003.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_13351a3343adfca7:004",
+      "section": "스노우볼 속 별",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_004.json",
+      "char_count": 217
+    },
+    {
+      "id": "doc_13351a3343adfca7:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_005.json",
+      "char_count": 181
+    },
+    {
+      "id": "doc_13351a3343adfca7:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_006.json",
+      "char_count": 288
+    }
+  ]
+}

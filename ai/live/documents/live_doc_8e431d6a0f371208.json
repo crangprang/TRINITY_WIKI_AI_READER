@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_8e431d6a0f371208",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P01_EIN/P01_FACT_DETAIL.txt",
+  "title": "P01_아인 / FACT_DETAIL",
+  "summary": "P01_아인 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "49bf5f6a24eed203ade421d69532fc49e53c00111da06ecf3a498347fa2a6037",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_8e431d6a0f371208.json",
+  "chunks": [
+    {
+      "id": "live_doc_8e431d6a0f371208:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_8e431d6a0f371208_000.json",
+      "char_count": 9607
+    }
+  ]
+}

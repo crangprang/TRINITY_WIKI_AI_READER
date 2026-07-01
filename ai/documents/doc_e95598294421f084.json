@@ -1,0 +1,197 @@
+{
+  "id": "doc_e95598294421f084",
+  "path": "wiki/characters/axions/index.md",
+  "wiki_path": "characters/axions/index.md",
+  "title": "엑시온",
+  "summary": "엑시온은 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권, 통치, 역사로 번역하는 하위신급 통치 얼굴이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "axions",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:axions",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "엑시온"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "왕권과 보물"
+    },
+    {
+      "level": 2,
+      "title": "계승의 실제 절차"
+    },
+    {
+      "level": 2,
+      "title": "장치와 페르소나"
+    },
+    {
+      "level": 2,
+      "title": "권한과 경계"
+    },
+    {
+      "level": 2,
+      "title": "계승과 수명"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    }
+  ],
+  "sha256": "3d3fd91d40c432c6386fda15700f86e59c698f74dc88242b104b21deae14870f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e95598294421f084.json",
+  "chunks": [
+    {
+      "id": "doc_e95598294421f084:000",
+      "section": "엑시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_000.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_e95598294421f084:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_001.json",
+      "char_count": 469
+    },
+    {
+      "id": "doc_e95598294421f084:002",
+      "section": "왕권과 보물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_002.json",
+      "char_count": 521
+    },
+    {
+      "id": "doc_e95598294421f084:003",
+      "section": "계승의 실제 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_003.json",
+      "char_count": 487
+    },
+    {
+      "id": "doc_e95598294421f084:004",
+      "section": "장치와 페르소나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_004.json",
+      "char_count": 509
+    },
+    {
+      "id": "doc_e95598294421f084:005",
+      "section": "권한과 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_005.json",
+      "char_count": 286
+    },
+    {
+      "id": "doc_e95598294421f084:006",
+      "section": "계승과 수명",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_006.json",
+      "char_count": 364
+    },
+    {
+      "id": "doc_e95598294421f084:007",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_007.json",
+      "char_count": 943
+    },
+    {
+      "id": "doc_e95598294421f084:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_008.json",
+      "char_count": 417
+    }
+  ]
+}

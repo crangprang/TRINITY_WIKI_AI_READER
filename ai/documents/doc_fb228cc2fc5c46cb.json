@@ -1,0 +1,125 @@
+{
+  "id": "doc_fb228cc2fc5c46cb",
+  "path": "wiki/characters/main_party/파티/support/visual_grammar.md",
+  "wiki_path": "characters/main_party/파티/support/visual_grammar.md",
+  "title": "파티 시각 문법",
+  "summary": "파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "visual_grammar"
+  ],
+  "updated": "2026-07-01",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "파티 시각 문법"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "운용 원칙"
+    },
+    {
+      "level": 2,
+      "title": "3층위 복장"
+    },
+    {
+      "level": 2,
+      "title": "3층위 가면"
+    },
+    {
+      "level": 2,
+      "title": "경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "공적 가면",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    }
+  ],
+  "sha256": "460e7cdd06801df2c44116328766d10137a220b7f4392da9ee350b29dd5f1f9d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb228cc2fc5c46cb.json",
+  "chunks": [
+    {
+      "id": "doc_fb228cc2fc5c46cb:000",
+      "section": "파티 시각 문법",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_000.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_fb228cc2fc5c46cb:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_001.json",
+      "char_count": 361
+    },
+    {
+      "id": "doc_fb228cc2fc5c46cb:002",
+      "section": "운용 원칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_002.json",
+      "char_count": 387
+    },
+    {
+      "id": "doc_fb228cc2fc5c46cb:003",
+      "section": "3층위 복장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_003.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_fb228cc2fc5c46cb:004",
+      "section": "3층위 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_004.json",
+      "char_count": 313
+    },
+    {
+      "id": "doc_fb228cc2fc5c46cb:005",
+      "section": "경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_005.json",
+      "char_count": 378
+    },
+    {
+      "id": "doc_fb228cc2fc5c46cb:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_006.json",
+      "char_count": 240
+    }
+  ]
+}

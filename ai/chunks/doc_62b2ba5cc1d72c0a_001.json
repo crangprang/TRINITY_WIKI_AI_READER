@@ -1,0 +1,23 @@
+{
+  "id": "doc_62b2ba5cc1d72c0a:001",
+  "document_id": "doc_62b2ba5cc1d72c0a",
+  "path": "wiki/events/singularities/Fahrenheit_451.md",
+  "wiki_path": "events/singularities/Fahrenheit_451.md",
+  "title": "Fahrenheit 451",
+  "section": "개요",
+  "summary": "기록과 해석을 태우려는 압력이 도시의 지식 장치를 뒤집는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_62b2ba5cc1d72c0a_001.json",
+  "text": "## 개요\n\nFahrenheit 451은 기록과 해석을 태우려는 압력이 도시의 지식 장치를 뒤집는 특이점이다. 진리의 나라는 질문과 기록을 통해 어둠을 견디지만, 이 사건에서는 기록을 지키는 장치와 기록을 소각하는 힘이 같은 불길 안에서 충돌한다.\n\n이 사건은 안전한 지식의 장소를 위험한 기록 현장으로 바꾼다. 서가, 장부, 촛불, 검역 통로, 질문석은 해답을 보관하는 장소에서 무엇을 남기고 무엇을 태울지 결정하는 전장이 된다.",
+  "metadata": {
+    "char_count": 241,
+    "sha256": "9c7581695299aaee4c1805ceecf843e7ef0bbc5e6759d18cd8a0ce10d9a06241"
+  }
+}

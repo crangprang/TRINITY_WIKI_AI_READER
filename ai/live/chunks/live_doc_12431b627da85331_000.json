@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_12431b627da85331:000",
+  "document_id": "live_doc_12431b627da85331",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_02_SCARLETT/P05_02_SCARLETT_BRANCH_IDEA.txt",
+  "title": "P05_02_SCARLETT / BRANCH_IDEA",
+  "section": "body",
+  "summary": "P05_02_SCARLETT / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_12431b627da85331_000.json",
+  "text": "P05_02_SCARLETT / BRANCH_IDEA\n\n[이 문서 사용법]\n- `../P05_CORE.txt`가 공용 게이트다.\n- 스칼렛 트랙의 정본 흐름은 `../P05_CORE.txt -> P05_02_SCARLETT_CORE.txt -> P05_02_SCARLETT_FACT_DETAIL.txt / P05_02_SCARLETT_VOICE_SAMPLE.txt`이다.\n- 이 파일은 스칼렛 전용 분기, reveal sequencing, 실험안을 둔다.\n- 아직 정본이 아닌 후보만 적고, 블랑 쪽 사실을 여기서 대신 확정하지 않는다.\n\n1. 후보 분기\n\n- 스칼렛이 `엘리자베스`라는 이름을 언제 어떤 조건에서 자기 호명으로 다시 받는지에 대한 분기.\n- 스칼렛이 `나는 나쁜 쪽`이라는 오해를 언제 어디까지 방치하고, 언제부터 직접 거부할지에 대한 분기.\n- 몸의 원주인 감각이 장면 안에서 더 또렷해지는 순간, 스칼렛이 블랑을 `침입자`가 아니라 `빚진 동반자`로 다시 읽는 순서 조정.\n- 잃어버린 과거가 조금씩 돌아올 때, 죄책감이 보호 본능으로만 남을지, 자기 책임 인식으로 바뀔지에 대한 실험안.\n- 반사면과 거울이 단순 공포 트리거가 아니라, 자기 프레임을 깨는 장면 장치가 될지에 대한 후보.\n\n2. 이름 / 역할 분기\n\n- `엘리자베스`라는 이름이 명찰이 아니라 자기 호명으로 완전히 돌아오는 순간이 생길지.\n- `늦으면 안 된다` 같은 남은 규칙이 보호 본능에서 약속으로 바뀌는 전환점이 있을지.\n- `내가 더 위험한 쪽이 되면 된다`라는 규칙이 언제 처음부터 틀렸다는 걸 스칼렛이 받아들이는지에 대한 실험안.\n\n3. 관계 분기\n\n- 블랑을 `지켜야 할 사람`에서 `같이 살아남아야 할 사람`으로 다시 읽게 되는 시점이 언제인지.\n- 외부 인물이 스칼렛을 pure evil로 잘못 고정했을 때, 스칼렛이 그 프레임을 깨는 방식이 공격인지 침묵인지에 대한 분기.\n- 스칼렛이 자기 죄책감을 블랑에게 직접 말하는 날이 오면, 그것이 고백인지 방어인지 구분되는지에 대한 실험안.\n\n4. 보류 이유\n\n- 이름 수용과 역할 재정렬은 후반 서사 무게가 커서 초중반 사실층으로 올리기 이르다.\n- 스칼렛의 위협적이고 유혹적인 표면을 너무 빨리 해명해 버리면, 초반의 오해와 비극적 대비가 약해진다.\n- 몸의 원주인 감각은 live FACT_DETAIL에 오른 기준을 따른다. 다만 장면 안에서 너무 빨리 명시하면 현재 쌍 구조의 긴장과 초반의 오해가 줄어든다.",
+  "metadata": {
+    "char_count": 1214,
+    "sha256": "8f83b1e22dbce99079ac46e9af3bed5ee5b7a3ca1089d71613b0b57d1cdcc505"
+  }
+}

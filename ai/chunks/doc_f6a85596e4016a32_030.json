@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:030",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "관련 문서",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_030.json",
+  "text": "## 관련 문서\n\n- [파티](../파티/index.md) - 아인의 리더십과 복수의 방향이 실제 동료 관계 속에서 검증되는 이동 집단.\n- [길티어](../길티어/index.md) - 아인을 리더로 인정하면서도 이미 많이 망가진 아이로 보는 보호자 축.\n- [블랑](../블랑/index.md) - 희생의 논리와 자기 몸을 계산에 넣는 선택을 낮고 단정하게 멈춰 세우는 견제축.\n- [옌](../옌/index.md) - 아인의 여러 얼굴을 색의 농도 차처럼 읽고 복수의 조커패로 끌려드는 증인.\n- [파우스트](../../axions/파우스트/index.md) - 그레트헨 실험소와 아인의 복수 저주를 만든 오아시스 엑시온.\n- [랄](../../savior_candidates/랄/index.md) - 자기 자리를 밀어 주어 아인에게 양보받은 시간과 증명 강박을 남긴 후보.\n- [오아시스](../../../universe/realms/balance/nations/오아시스.md) - 자유의 약속과 실험소의 폐기 논리가 아인의 출신과 복수축을 만든 나라.\n- [마사오트](../../../universe/realms/balance/nations/마사오트.md) - 백색 폐허, 유령 의뢰, 위조 의뢰를 통해 파티의 첫 기능 협업이 선명해지는 항해 권역.\n- [진](../진/index.md) - 사람이 계산 안으로 들어갈 때 아인의 판에 참견하고 적자를 몸으로 가로막는 동료.",
+  "metadata": {
+    "char_count": 716,
+    "sha256": "070dfbb9dbfb4205137ab3557936dd2d730f5c88561f1595e1892fc39196e310"
+  }
+}

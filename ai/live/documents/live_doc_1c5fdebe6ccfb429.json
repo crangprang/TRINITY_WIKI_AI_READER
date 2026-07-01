@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_1c5fdebe6ccfb429",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_BRANCH_IDEA.txt",
+  "title": "에어리얼 / BRANCH_IDEA",
+  "summary": "에어리얼 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "f44b7b77113c658386bf294ddf1a829af7a66c08b735fd608081477d1daa73d3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_1c5fdebe6ccfb429.json",
+  "chunks": [
+    {
+      "id": "live_doc_1c5fdebe6ccfb429:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1c5fdebe6ccfb429_000.json",
+      "char_count": 88
+    }
+  ]
+}

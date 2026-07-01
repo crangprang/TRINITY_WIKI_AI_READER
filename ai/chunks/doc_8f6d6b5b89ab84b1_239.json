@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:239",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 세계사 사건 흐름 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_239.json",
+  "text": "## [2026-06-26] rebuild | 세계사 사건 흐름 항목 정리\n\n[세계사](events/world_history/index.md)를 혼돈의 시대부터 아홉 나라의 시대까지 이어지는 세계사 사건 항목으로 정리했다.\n\n- 정리: 범위, 중심 인과, 주요 결과를 상단 표로 보강하고 창조계 개입, 대공명, 퍼시스와 스트레인저, 아홉 영웅의 시대 흐름을 사건 서술로 연결했다.\n- 문체: 공식 기록 대비, 추정형 후보 문장, 비교 접속형 문장을 독자용 정본 서술로 바꿨다.\n- 관계: 하위신과 삼위의 군상/1부/아홉 나라의 시대 연결을 관련 문서에 추가했다.",
+  "metadata": {
+    "char_count": 314,
+    "sha256": "f4362df70531218e325aae75b02e629fb438dae2c88ed1d24eb4af7cc652c25f"
+  }
+}

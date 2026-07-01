@@ -1,0 +1,160 @@
+{
+  "id": "doc_d947fef64340dc04",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/index.md",
+  "title": "삼위의 군상/1부/아홉 나라의 시대",
+  "summary": "삼위의 군상 1부에서 아홉 나라의 비극 구조가 파티 초반 사건, 기록 추적, 특이점 축으로 펼쳐지는 시대.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "삼위의_군상",
+    "아홉_나라의_시대"
+  ],
+  "updated": "2026-06-29",
+  "category": "events:삼위의_군상",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "삼위의 군상/1부/아홉 나라의 시대"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "파티와 단서 구조"
+    },
+    {
+      "level": 2,
+      "title": "시대의 흐름"
+    },
+    {
+      "level": 2,
+      "title": "아홉 나라 3축"
+    },
+    {
+      "level": 2,
+      "title": "초반 사건 흐름"
+    },
+    {
+      "level": 2,
+      "title": "국가별 전환의 의미"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "삼위의 군상 프롤로그",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md"
+    },
+    {
+      "label": "백색 폐허와 유령 의뢰",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    }
+  ],
+  "sha256": "3e0a03d70b7bf41a6c86769873353822833cecb4a177b5427c2098756ea89471",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d947fef64340dc04.json",
+  "chunks": [
+    {
+      "id": "doc_d947fef64340dc04:000",
+      "section": "삼위의 군상/1부/아홉 나라의 시대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_000.json",
+      "char_count": 238
+    },
+    {
+      "id": "doc_d947fef64340dc04:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_001.json",
+      "char_count": 435
+    },
+    {
+      "id": "doc_d947fef64340dc04:002",
+      "section": "파티와 단서 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_002.json",
+      "char_count": 377
+    },
+    {
+      "id": "doc_d947fef64340dc04:003",
+      "section": "시대의 흐름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_003.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_d947fef64340dc04:004",
+      "section": "아홉 나라 3축",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_004.json",
+      "char_count": 808
+    },
+    {
+      "id": "doc_d947fef64340dc04:005",
+      "section": "초반 사건 흐름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_005.json",
+      "char_count": 403
+    },
+    {
+      "id": "doc_d947fef64340dc04:006",
+      "section": "국가별 전환의 의미",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_006.json",
+      "char_count": 340
+    },
+    {
+      "id": "doc_d947fef64340dc04:007",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_007.json",
+      "char_count": 386
+    },
+    {
+      "id": "doc_d947fef64340dc04:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_008.json",
+      "char_count": 445
+    }
+  ]
+}

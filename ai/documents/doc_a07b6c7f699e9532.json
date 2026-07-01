@@ -1,0 +1,94 @@
+{
+  "id": "doc_a07b6c7f699e9532",
+  "path": "wiki/beings/creatures/마사오트_원생_생물.md",
+  "wiki_path": "beings/creatures/마사오트_원생_생물.md",
+  "title": "마사오트 원생 생물",
+  "summary": "난류젤리, 증기근, 무게포가 선체와 하늘 항로의 열·기류·무게 조건에서 이루는 마사오트 미시 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마사오트 원생 생물"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "생활과 생태 반응"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    }
+  ],
+  "sha256": "9142edaa3be2701bd7d1916feba5169febeeabc01f1286199f4ab928478e64d4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a07b6c7f699e9532.json",
+  "chunks": [
+    {
+      "id": "doc_a07b6c7f699e9532:000",
+      "section": "마사오트 원생 생물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_000.json",
+      "char_count": 85
+    },
+    {
+      "id": "doc_a07b6c7f699e9532:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_001.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_a07b6c7f699e9532:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_002.json",
+      "char_count": 41
+    },
+    {
+      "id": "doc_a07b6c7f699e9532:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_003.json",
+      "char_count": 247
+    },
+    {
+      "id": "doc_a07b6c7f699e9532:004",
+      "section": "생활과 생태 반응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_004.json",
+      "char_count": 245
+    },
+    {
+      "id": "doc_a07b6c7f699e9532:005",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_005.json",
+      "char_count": 175
+    }
+  ]
+}

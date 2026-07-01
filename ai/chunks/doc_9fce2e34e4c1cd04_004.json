@@ -1,0 +1,24 @@
+{
+  "id": "doc_9fce2e34e4c1cd04:004",
+  "document_id": "doc_9fce2e34e4c1cd04",
+  "path": "wiki/characters/savior_candidates/메테우스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/메테우스/support/appearance.md",
+  "title": "메테우스 외형",
+  "section": "봉쇄 현장",
+  "summary": "메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_004.json",
+  "text": "## 봉쇄 현장\n\n배경은 알렉시아의 봉쇄 현장이다. 쇠사슬 서가, 광산 승강기, 감염된 대열람실, 벌레가 핥은 기록 상자, 소각 전 대피선이 장면을 만든다. 보라 불빛은 중심 소품보다 조명으로 사용하고, 재난 봉인 버너와 집행자 장비를 앞에 둔다.\n\n메테우스가 선 곳에는 사람이 빠져나간 통로와 곧 태워질 기록이 함께 보여야 한다. 그는 재앙을 봉쇄하는 사람이며, 그 무게 때문에 장면의 침묵이 길어진다.",
+  "metadata": {
+    "char_count": 226,
+    "sha256": "e52829df6ae8c4b2903bf004c12e37bf59d43a1800f37c80562bd2ea9bafe549"
+  }
+}

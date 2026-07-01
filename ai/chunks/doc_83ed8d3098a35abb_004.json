@@ -1,0 +1,24 @@
+{
+  "id": "doc_83ed8d3098a35abb:004",
+  "document_id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "section": "느와르 도시",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_004.json",
+  "text": "## 느와르 도시\n\n배경은 느와르 풍 도시를 사용한다. 젖은 골목, 계약 현장, 낮은 조명, 회색 비, 닫힌 문 앞의 대치가 어울린다. 황금 신용과 현대 기업 장식보다, 계약이 깨지기 직전의 건조한 긴장과 도시의 어두운 거래 감각을 앞세운다.\n\n케르베로스의 자세는 즉시 대응 가능한 경계 자세다. 몸은 느슨해 보여도 세 방향 모두에 반응할 수 있고, 표정은 계산을 끝낸 사람처럼 짧게 굳어 있다.",
+  "metadata": {
+    "char_count": 221,
+    "sha256": "d7a4e044cd1acedb4ce5a18a601c51ac4442a020e92fb2b15206aac50efcb162"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f060fcf134079c95",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/02_TIAMAT.txt",
+  "title": "티아마트",
+  "summary": "티아마트",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "0cc19e6206458542cba1c57a0e278aacb954acc332ae3f0dec441c6b99021643",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f060fcf134079c95.json",
+  "chunks": [
+    {
+      "id": "live_doc_f060fcf134079c95:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f060fcf134079c95_000.json",
+      "char_count": 1137
+    }
+  ]
+}

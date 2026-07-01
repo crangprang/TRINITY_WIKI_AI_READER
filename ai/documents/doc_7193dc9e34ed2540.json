@@ -1,0 +1,236 @@
+{
+  "id": "doc_7193dc9e34ed2540",
+  "path": "wiki/review/ownership_locks.md",
+  "wiki_path": "review/ownership_locks.md",
+  "title": "항목 소유권 잠금",
+  "summary": "비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "decomposition",
+    "locks"
+  ],
+  "updated": "2026-06-29",
+  "category": "review:ownership_locks.md",
+  "is_support": false,
+  "is_review": true,
+  "headings": [
+    {
+      "level": 1,
+      "title": "항목 소유권 잠금"
+    },
+    {
+      "level": 2,
+      "title": "소유 기준"
+    },
+    {
+      "level": 2,
+      "title": "최종 소유"
+    },
+    {
+      "level": 2,
+      "title": "신설하지 않은 항목"
+    },
+    {
+      "level": 2,
+      "title": "운영"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계/언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "균형계/문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    },
+    {
+      "label": "그레트헨 연구소",
+      "target": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "마스크맨",
+      "target": "wiki/universe/realms/balance/organizations/마스크맨.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "필그림즈",
+      "target": "wiki/universe/realms/balance/organizations/필그림즈.md"
+    },
+    {
+      "label": "염객방",
+      "target": "wiki/universe/realms/balance/organizations/염객방.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "흉조",
+      "target": "wiki/universe/realms/balance/organizations/흉조.md"
+    },
+    {
+      "label": "매니악",
+      "target": "wiki/universe/realms/balance/organizations/매니악.md"
+    },
+    {
+      "label": "에이티스트",
+      "target": "wiki/universe/realms/balance/organizations/에이티스트.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "드래그니즘",
+      "target": "wiki/universe/realms/balance/organizations/드래그니즘.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    }
+  ],
+  "sha256": "817f29fee7810ce1841daf2bff395b02eda3f1e6df0e8b7958e3e1a91820b025",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7193dc9e34ed2540.json",
+  "chunks": [
+    {
+      "id": "doc_7193dc9e34ed2540:000",
+      "section": "항목 소유권 잠금",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_000.json",
+      "char_count": 101
+    },
+    {
+      "id": "doc_7193dc9e34ed2540:001",
+      "section": "소유 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_001.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_7193dc9e34ed2540:002",
+      "section": "최종 소유",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_002.json",
+      "char_count": 3086
+    },
+    {
+      "id": "doc_7193dc9e34ed2540:003",
+      "section": "신설하지 않은 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_003.json",
+      "char_count": 300
+    },
+    {
+      "id": "doc_7193dc9e34ed2540:004",
+      "section": "운영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_004.json",
+      "char_count": 129
+    }
+  ]
+}

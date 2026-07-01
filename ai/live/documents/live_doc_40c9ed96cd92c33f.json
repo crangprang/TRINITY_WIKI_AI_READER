@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_40c9ed96cd92c33f",
+  "path": "03_WORLD/04_CREATURE/C04_TRADE/01_NONSAPI/01_BEAST/C04_BEAST_BRANCH_IDEA.txt",
+  "title": "C04_TRADE / BEAST_BRANCH_IDEA",
+  "summary": "C04_TRADE / BEAST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "bcd0c8931a8e37700c65fdedd21dac55b0973706a9e7eea0c51c9e12f4b5a9ea",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_40c9ed96cd92c33f.json",
+  "chunks": [
+    {
+      "id": "live_doc_40c9ed96cd92c33f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_40c9ed96cd92c33f_000.json",
+      "char_count": 1564
+    }
+  ]
+}

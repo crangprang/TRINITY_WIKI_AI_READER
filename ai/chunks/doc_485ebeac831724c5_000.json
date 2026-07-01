@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:000",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "메피스토 외형",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_000.json",
+  "text": "# 메피스토 외형\n\n메피스토 외형은 [메피스토](../index.md)의 설계도와 퀘스트 태그, 램프 연기, 가면, 피라미디온의 청사진 감각을 한 몸에 모으는 외형 항목이다.",
+  "metadata": {
+    "char_count": 97,
+    "sha256": "c51b9f50c3421260c8b67867718b38e9c5623b99a8266312e92a5e1d5dd37bd2"
+  }
+}

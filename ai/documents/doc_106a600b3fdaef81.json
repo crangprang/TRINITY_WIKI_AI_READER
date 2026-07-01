@@ -1,0 +1,132 @@
+{
+  "id": "doc_106a600b3fdaef81",
+  "path": "wiki/characters/index.md",
+  "wiki_path": "characters/index.md",
+  "title": "인물",
+  "summary": "인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "characters"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:index.md",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "인물"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "이름과 책임"
+    },
+    {
+      "level": 2,
+      "title": "역할과 관계"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "주인공 파티",
+      "target": "wiki/characters/main_party/index.md"
+    },
+    {
+      "label": "앙상블",
+      "target": "wiki/characters/ensemble/index.md"
+    },
+    {
+      "label": "역사적 행위자",
+      "target": "wiki/characters/historical/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    }
+  ],
+  "sha256": "4fd32cea9ec21da30b036590656b1ecd19730fc6aef719677f2681372154a569",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_106a600b3fdaef81.json",
+  "chunks": [
+    {
+      "id": "doc_106a600b3fdaef81:000",
+      "section": "인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_000.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_106a600b3fdaef81:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_001.json",
+      "char_count": 328
+    },
+    {
+      "id": "doc_106a600b3fdaef81:002",
+      "section": "이름과 책임",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_002.json",
+      "char_count": 401
+    },
+    {
+      "id": "doc_106a600b3fdaef81:003",
+      "section": "역할과 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_003.json",
+      "char_count": 358
+    },
+    {
+      "id": "doc_106a600b3fdaef81:004",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_004.json",
+      "char_count": 689
+    },
+    {
+      "id": "doc_106a600b3fdaef81:005",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_005.json",
+      "char_count": 352
+    }
+  ]
+}

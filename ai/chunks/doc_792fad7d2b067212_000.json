@@ -1,0 +1,23 @@
+{
+  "id": "doc_792fad7d2b067212:000",
+  "document_id": "doc_792fad7d2b067212",
+  "path": "wiki/characters/axions/엘피스/index.md",
+  "wiki_path": "characters/axions/엘피스/index.md",
+  "title": "엘피스",
+  "section": "엘피스",
+  "summary": "엘피스는 판도라가 남긴 질문과 메테우스의 소각 사이에서 알렉시아의 하루를 유예로 버티게 만드는 계승자이자 진리 성좌의 엑시온이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_792fad7d2b067212_000.json",
+  "text": "# 엘피스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 엘피스 |\n| 성별/프레젠테이션 | 여성 |\n| 머리색 | 청색 |\n| 눈색 | 회색 |\n| 소속/지역 | 9성좌 공의회, 진리의 나라 [알렉시아](../../../universe/realms/balance/nations/알렉시아.md) |\n| 직책/역할 | 계승자 / 엑시온 / 진리 성좌 |\n| 계승 상태 | 계승자 엑시온 |\n| 연결된 아포라투스 | 아나그노리시스 |\n| 제어기관 | 오르가논 |\n| 보물 | 이해의 보물, 검은 석판 |\n| 권능 | 빛, 해석, 기록 산출, 질문 순서 조정 |\n| 보물 선택 조건 | 판도라가 남긴 질문과 메테우스의 소각 사이에서 도시의 하루를 유예하려는 관리자 윤리 |\n| 왕권 상징 | 작은 촛불, 질문 기록, 봉쇄 서가 열쇠, 푸른 정전 |\n| 대응 페르소나 | [탈레스](../../personas/탈레스/index.md) |\n| 선대 | [판도라](../판도라/index.md) |",
+  "metadata": {
+    "char_count": 512,
+    "sha256": "0108b039bfeab4569eb2b4b66716f4429536ace5ae8127d1c270789397475126"
+  }
+}

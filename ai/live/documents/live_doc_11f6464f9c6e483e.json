@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_11f6464f9c6e483e",
+  "path": "02_LORE/L03_EXPLORER/L03_CORE.txt",
+  "title": "L03_아르카르타 / CORE",
+  "summary": "L03_아르카르타 / CORE",
+  "root": "02_LORE",
+  "category": "02_LORE:L03_EXPLORER",
+  "suffix": ".txt",
+  "sha256": "4bf301d90d4ecf63d3ef309161619302c6c2d1d0f619abb75a8d1bb6a4f22dea",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_11f6464f9c6e483e.json",
+  "chunks": [
+    {
+      "id": "live_doc_11f6464f9c6e483e:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_11f6464f9c6e483e_000.json",
+      "char_count": 1882
+    }
+  ]
+}

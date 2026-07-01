@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:122",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 설리반 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_122.json",
+  "text": "## [2026-06-26] rebuild | 설리반 항목 정리\n\n[설리반](characters/axions/설리반/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리했다.\n\n- 정리: 구조를 공개하는 대주교, 검은 비와 비용, 카타르시스와 에우카리스, 세리엔의 우의, 헬렌, 옌과 프로젝트 에덴, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [설리반 외형](characters/axions/설리반/support/appearance.md)의 관리 문구와 미완성 support 표면을 제거하고 방호복형 흰 보호복, 격납 돔형 helmet-mask, 검은 비 통제 장면 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 설리반 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 390,
+    "sha256": "0111c69809700646ed84038c4abc0d3793d44097c8786c80b80fc2686136d7fa"
+  }
+}

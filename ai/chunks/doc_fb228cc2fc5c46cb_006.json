@@ -1,0 +1,24 @@
+{
+  "id": "doc_fb228cc2fc5c46cb:006",
+  "document_id": "doc_fb228cc2fc5c46cb",
+  "path": "wiki/characters/main_party/파티/support/visual_grammar.md",
+  "wiki_path": "characters/main_party/파티/support/visual_grammar.md",
+  "title": "파티 시각 문법",
+  "section": "관련 문서",
+  "summary": "파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "visual_grammar"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_006.json",
+  "text": "## 관련 문서\n\n- [파티](../index.md) - 주인공 파티의 공통 문법과 구성.\n- [균형계 문화](../../../../universe/realms/balance/culture/index.md) - 공적 가면과 이름 맹세, 통행 문화의 상위 구조.\n- [올림피아](../../../../universe/realms/balance/nations/올림피아.md) - 공적 가면과 후보 의례가 중앙 무대에서 작동하는 국가.",
+  "metadata": {
+    "char_count": 240,
+    "sha256": "d91a62984383d79e2ddcbe405e0bd18f8615dbb557515e0dd199d2d52ba68de4"
+  }
+}

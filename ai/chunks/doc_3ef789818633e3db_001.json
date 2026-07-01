@@ -1,0 +1,24 @@
+{
+  "id": "doc_3ef789818633e3db:001",
+  "document_id": "doc_3ef789818633e3db",
+  "path": "wiki/characters/main_party/아인/support/appearance.md",
+  "wiki_path": "characters/main_party/아인/support/appearance.md",
+  "title": "아인 외형",
+  "section": "외형 기준",
+  "summary": "아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 20대 초반 |\n| 체형 | 170cm 전후로 읽히는 크지 않은 체구, 약 6.6등신 안팎의 JRPG 비율. |\n| 피부 | 자유의 나라 햇빛이 남은 따뜻한 베이지/올리브 계열의 낮은 그을림. |\n| 머리 | 검은 짧은 레이어, 이마 대부분을 덮는 비대칭 앞머리, 바람에 흐트러진 잔가닥. |\n| 눈 | 검은 눈. 어두운 홍채 안에 낮은 금빛이나 갈색 반사가 남고, 시선 방향이 또렷하다. |\n| 의상 | 차콜, 먹색, 잿빛 남색의 긴 여행자 외투, 높은 칼라, 두꺼운 어두운 스카프, 어두운 조끼, 회베이지 리넨 셔츠, 어두운 바지, 검은 레이스업 여행 부츠. |\n| 소품 | 바깥 손목의 납작한 손목시계, 작은 여행용 어깨가방, 손바닥 안에서 굴리는 낡은 황동 기어-너트/밸브 토큰. |\n| 표정 | 감정을 정리한 닫힌 입매, 비스듬히 붙드는 어두운 눈, 젊은 얼굴 안에 오래 생각한 눈. |",
+  "metadata": {
+    "char_count": 503,
+    "sha256": "ab2d0edb308a5769d9a146cc328c3451bbef96c88fb41e4412c9b6efeff4cb5f"
+  }
+}

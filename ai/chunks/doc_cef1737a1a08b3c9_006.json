@@ -1,0 +1,23 @@
+{
+  "id": "doc_cef1737a1a08b3c9:006",
+  "document_id": "doc_cef1737a1a08b3c9",
+  "path": "wiki/universe/realms/balance/nations/알렉시아.md",
+  "wiki_path": "universe/realms/balance/nations/알렉시아.md",
+  "title": "알렉시아",
+  "section": "100~900 지식 구역",
+  "summary": "알렉시아는 푸른 수정과 촛불이 밤을 버티는 질문의 지하 도시다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_006.json",
+  "text": "### 100~900 지식 구역\n\n100 철학 수도는 질문을 허가하고, 어떤 물음이 도시의 빛을 쓸 자격이 있는지 판정한다. 이곳의 권력은 답을 많이 아는 데서보다 질문의 순서를 정하는 데서 나온다. 한 질문이 먼저 열리면 다른 질문은 늦춰지고, 늦춰진 질문 하나가 광산 작업, 봉쇄문, 소각 일정까지 바꿀 수 있다.\n\n300 사회과학 구역은 인간을 분류하고 제도와 집단을 읽는 힘을 쥔다. 사람의 소속, 증언, 오염 위험, 학파와 길드의 이해관계가 여기서 표로 바뀐다. 900 역사와 지리 구역은 세계의 기억과 좌표를 붙들며, 어떤 사건이 실제로 있었는지, 어느 기록이 지워졌는지, 어느 나라의 지도가 더 이상 믿을 수 없는지를 다툰다. 100이 질문을, 300이 인간을, 900이 세계를 쥔다는 말은 알렉시아 정치의 실제 분업이다.",
+  "metadata": {
+    "char_count": 411,
+    "sha256": "8187f07ad24c1fb842f2873c491bc3cff5ec2af76cc2ec600afcfec9d8573e34"
+  }
+}

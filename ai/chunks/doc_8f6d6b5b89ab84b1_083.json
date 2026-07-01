@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:083",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 아홉 보물과 아포라투스 체계 분리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_083.json",
+  "text": "## [2026-06-27] structure | 아홉 보물과 아포라투스 체계 분리\n\n[아홉 보물](universe/structure/아홉_보물.md), [필로시온](universe/laws/필로시온.md), [아포라투스](universe/realms/balance/apparatus/index.md)를 독립 조회어로 세웠다. 오리진 조각, 빈 보물, 프로토타입 필로시온, 대공명, 엑시온 호출권, 페르소나 심층 관리가 이어지는 경로를 공통 항목으로 분리하고, 기존 오리진/하위신/균형계/아홉 나라/인물군 색인은 새 항목으로 연결했다.\n\n- 정리: 아홉 보물 항목에 보물별 영웅 원형, 트리네아드 계승, 국가 표면, 아포라투스 연결을 한 표와 개별 설명으로 묶었다.\n- 정리: 필로시온 항목에 프로토타입과 양산형 구분, 국가별 이름과 직무 흔적을 정리했다.\n- 정리: 아포라투스 항목에 생성 구조, 권한 구조, 국가별 매질과 핵심기관, 판타즈마와의 연결을 정리했다.\n- 후속: 영원의 보물 물체 형태, 필로시온 원형 시절 세부, 아포라투스 핵심기관 상세 작동은 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다.",
+  "metadata": {
+    "char_count": 599,
+    "sha256": "b530b4142fcf4b1cb0997755de95c990e10bfffc6c667bddb44ea276ecb0b5f3"
+  }
+}

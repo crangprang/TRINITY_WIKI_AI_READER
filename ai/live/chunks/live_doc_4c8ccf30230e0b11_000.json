@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_4c8ccf30230e0b11:000",
+  "document_id": "live_doc_4c8ccf30230e0b11",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_01_BLANC/P05_01_BLANC_BRANCH_IDEA.txt",
+  "title": "P05_01_BLANC / BRANCH_IDEA",
+  "section": "body",
+  "summary": "P05_01_BLANC / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4c8ccf30230e0b11_000.json",
+  "text": "P05_01_BLANC / BRANCH_IDEA\n\n[이 문서 사용법]\n- `../P05_CORE.txt`가 공용 게이트다.\n- 블랑 트랙의 정본 흐름은 `../P05_CORE.txt -> P05_01_BLANC_CORE.txt -> P05_01_BLANC_FACT_DETAIL.txt / P05_01_BLANC_VOICE_SAMPLE.txt`이다.\n- 이 파일은 블랑 전용 분기, reveal sequencing, 실험안을 둔다.\n- 아직 정본이 아닌 후보만 적고, 반대 트랙 사실을 여기서 대신 확정하지 않는다.\n\n1. 후보 분기\n\n- 블랑이 스칼렛을 끝내 한 사람으로 인정하는 방향이 열릴지, 아니면 끝까지 경계선으로만 남을지에 대한 장기 분기.\n- 블랑이 `고통은 끝이 있어야 한다`는 믿음을 언제부터 자기 몸의 진실 쪽으로 연결해 읽게 되는지에 대한 reveal timing.\n- 예술의 나라 빌드업과 특이점 심화 구간에서 블랑이 무엇을 먼저 떠올리는지의 순서 조정.\n- 블랑이 자기 초반 목표를 `치료`보다 `분리`로 더 분명히 자각하게 되는 시점의 실험안.\n\n2. 이름 / 기억 분기\n\n- `흰 별명`을 블랑이 언제 다시 인간적 호출로 받아들이는지.\n- `액자만 남은 기억`이 단순 공포에서 자기 서사 붕괴로 넘어가는 계기.\n- `저주의 치료법`이 개인 구원에서 세계의 언어로 넘어가는 시점.\n- `스칼렛에서 벗어난다`는 문장이 자각된 의지가 되는지, 아니면 마지막까지 무의식적 목표로 남는지.\n\n3. 보류 이유\n\n- 이름 수용과 상호 인정은 후반 서사 무게가 커서 초중반 사실층으로 올리기 이르다.\n- 반사면과 악몽은 장면 장치로 강하지만, 너무 빨리 굳히면 비밀이 먼저 풀린다.\n- 블랑의 이상주의는 초반에 선명해야 하지만, 곧바로 과거 진실을 드러내는 장치로 쓰면 힘이 줄어든다.",
+  "metadata": {
+    "char_count": 893,
+    "sha256": "88a17bca059ceef3cea134b352e86833681083eeece5645f785c062d40a30043"
+  }
+}

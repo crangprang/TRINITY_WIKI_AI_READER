@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:217",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] visual lock | 아인 1층위 흰 배경 앵커 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_217.json",
+  "text": "## [2026-06-26] visual lock | 아인 1층위 흰 배경 앵커 반영\n\n아인 1층위 캐릭터 앵커를 책과 장면 배경이 없는 흰 배경 전신 이미지에 맞춰 정리했다.\n\n- 반영: [아인](characters/main_party/아인/index.md)\n- 주요 판단: 기본 손소품은 낡은 책이나 노트가 아니라 손바닥 안의 황동 기어-너트/밸브 토큰이다. 자유의 나라 수로 배경은 장면 컷의 주변 물성으로 두고, 기본 캐릭터 앵커는 완전한 흰 배경에서 얼굴, 비율, 외투, 가방, 손목시계, 토큰을 분리해 읽는다.",
+  "metadata": {
+    "char_count": 291,
+    "sha256": "35a582dcb4309301e0293fbbd927416fa5c24d4a912504593472e2d0d5dea306"
+  }
+}

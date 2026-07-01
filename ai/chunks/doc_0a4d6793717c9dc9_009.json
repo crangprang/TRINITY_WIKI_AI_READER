@@ -1,0 +1,23 @@
+{
+  "id": "doc_0a4d6793717c9dc9:009",
+  "document_id": "doc_0a4d6793717c9dc9",
+  "path": "wiki/characters/personas/미노스/index.md",
+  "wiki_path": "characters/personas/미노스/index.md",
+  "title": "미노스",
+  "section": "관련 문서",
+  "summary": "미노스는 오르딜리아의 페르소나로, 페리페테이아와 파놉티콘을 통해 정의와 질서를 하나의 재판 무대로 압축하는 연출자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a4d6793717c9dc9_009.json",
+  "text": "## 관련 문서\n\n- [페르소나](../index.md) - 나라 내부의 장치 심층 관리자 의식과 표층 대변자.\n- [미노스 외형](support/appearance.md) - 제복 판관, 황소/판관 가면, 파놉티콘과 스노우볼 보석이 재판 무대의 압력을 고정하는 외형 항목.\n- [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) - 미노스의 재판 무대가 되는 정의의 나라.\n- [마텔다](../../axions/마텔다/index.md) - 미노스가 완벽의 보석과 공포 기반 정의로 유혹하는 엑시온.\n- [단테](../../main_party/단테/index.md) - 미노스의 질문을 통해 결투 재판을 다시 읽는 순례자.",
+  "metadata": {
+    "char_count": 378,
+    "sha256": "aa6158393a6d43044b423449bd86fb096932dba19245f002b74ef66e8cf948a7"
+  }
+}

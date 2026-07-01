@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6e67c715252ae7a9",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS08_MIMICRY.txt",
+  "title": "모방의 펠시온",
+  "summary": "모방의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "9f168e96adc7c9c993fde8870543bd147ef96bf557f6572e8975e24a20030cad",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6e67c715252ae7a9.json",
+  "chunks": [
+    {
+      "id": "live_doc_6e67c715252ae7a9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6e67c715252ae7a9_000.json",
+      "char_count": 5159
+    }
+  ]
+}

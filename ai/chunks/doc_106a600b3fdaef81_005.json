@@ -1,0 +1,21 @@
+{
+  "id": "doc_106a600b3fdaef81:005",
+  "document_id": "doc_106a600b3fdaef81",
+  "path": "wiki/characters/index.md",
+  "wiki_path": "characters/index.md",
+  "title": "인물",
+  "section": "관련 문서",
+  "summary": "인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "characters"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_005.json",
+  "text": "## 관련 문서\n\n- [삼위의 군상/1부/아홉 나라의 시대](../events/삼위의_군상/1부/아홉_나라의_시대/index.md) - 주요 인물들이 본격적으로 움직이는 1부 시대.\n- [세계사](../events/world_history/index.md) - 장수한 인물, 트리네아드, 오리진, 아홉 영웅의 선택이 이어지는 사건 흐름.\n- [아홉 나라](../universe/realms/balance/nations/index.md) - 엑시온, 페르소나, 구세주 후보가 각 국가 이념과 연결되는 세계 항목.\n- [하위신](../universe/laws/하위신.md) - 필로시온, 엑시온, 펠시온과 페르소나 파생의 존재 층위.",
+  "metadata": {
+    "char_count": 352,
+    "sha256": "cf5c6d1a4a1016da8dee7ddb07a01e824cfa896dc5fea7d71f2c6d6260067f37"
+  }
+}

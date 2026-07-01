@@ -1,0 +1,23 @@
+{
+  "id": "doc_1a14934f9eecd2ec:006",
+  "document_id": "doc_1a14934f9eecd2ec",
+  "path": "wiki/universe/realms/balance/culture/index.md",
+  "wiki_path": "universe/realms/balance/culture/index.md",
+  "title": "균형계 문화",
+  "section": "공인조직과 공적 선의",
+  "summary": "균형계에서 이름, 공적 가면, 이름 맹세, 모닥불 유예, 죽은 자의 잔불, 금기와 통행이 사회적 역할과 의례로 작동하는 방식.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "culture"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_006.json",
+  "text": "## 공인조직과 공적 선의\n\n[구세군](../organizations/구세군.md), [파르마콘](../organizations/파르마콘.md), [크로니클](../organizations/크로니클.md)은 삼위정교와 올림피아 질서 안에서 공적으로 인정받는 주요 조직이다. 구세군은 구조와 전장 대응, 파르마콘은 치료와 구호, 크로니클은 기록과 보존을 표면 임무로 삼는다. 이들은 실제로 사람을 살리고, 재난을 수습하고, 기록을 남기는 선한 기능을 수행한다.\n\n그러나 조직 전체의 선의가 수뇌부의 명령 체계까지 투명하게 만들지는 않는다. 각 조직의 장과 핵심 명령 계통은 감독의 장기 구도와 맞물리는 코레고스 구조를 가질 수 있으며, 일반 구성원은 그 내막을 모른 채 자기 직무를 수행한다. 그래서 공인조직은 선한 실무와 비밀 각본이 한 조직 안에서 겹치는 균형계 특유의 문화 장치가 된다.\n\n크로니클은 기록 조직으로 출발하지만, 후대에는 스타시몬 계열의 기억과 공연, 기록의 문제와도 맞물린다. 이 흐름은 기록이 사실을 보존하는 일만이 아니라, 어떤 사건을 어떤 이름으로 남길지 정하는 문화 권한임을 보여 준다.",
+  "metadata": {
+    "char_count": 567,
+    "sha256": "0bfd7d587d3fed8fe219d0bfc3417006a544bcf0f1d9653ade897a4a658770dd"
+  }
+}

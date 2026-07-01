@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_83bcd6579ef7c5cf:001",
+  "document_id": "live_doc_83bcd6579ef7c5cf",
+  "path": "05_PLOT_AND_SCENE/01_PLOT_AND_SCENE_README.txt",
+  "title": "05_PLOT_AND_SCENE",
+  "section": "Current Contract",
+  "summary": "`05_PLOT_AND_SCENE` is the live surface for plot order, episode flow, and scene beats.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:01_PLOT_AND_SCENE_README.txt",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_001.json",
+  "text": "## Current Contract\n\n- `CHAPTER`: long progression unit\n- `EPISODE`: readable beat unit\n- `MODULE`: functional beat inside an episode\n- `SCENE`: the concrete scene itself",
+  "metadata": {
+    "char_count": 170,
+    "sha256": "36ebb3d8bfe282da1958f91ddc1b6c666fd0b8a97a57526e017eb88c456ba924"
+  }
+}

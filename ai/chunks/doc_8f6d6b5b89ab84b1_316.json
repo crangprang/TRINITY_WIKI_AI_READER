@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:316",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] style | 하급 생물 문서 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_316.json",
+  "text": "## [2026-06-27] style | 하급 생물 문서 표면 정리\n\n[마사오트 원생 생물](beings/creatures/마사오트_원생_생물.md), [마사오트 항해 생태](beings/creatures/마사오트_항해_생태.md), [레이어드 원생 생물](beings/creatures/레이어드_원생_생물.md), [레이어드 하층 생태](beings/creatures/레이어드_하층_생태.md), [알렉시아 원생 생물](beings/creatures/알렉시아_원생_생물.md), [알렉시아 동굴·서가 생태](beings/creatures/알렉시아_동굴_서가_생태.md), [플라센티아 원생 생물](beings/creatures/플라센티아_원생_생물.md), [플라센티아 숲 생태](beings/creatures/플라센티아_숲_생태.md)의 정보표 중복 `분류` 키를 `세부 계열`로 고쳤다. `생활 기능과 현장 대응`, `현장 대응은`, `처리 방향` 같은 메모형 표면은 생활권과 생태 반응 설명으로 정리했다.",
+  "metadata": {
+    "char_count": 511,
+    "sha256": "de6c22d335a19bc15de269c1f81ec475f76bbc061f51afc2130e348e7e4d5ccc"
+  }
+}

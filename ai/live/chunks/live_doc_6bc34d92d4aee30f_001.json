@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f:001",
+  "document_id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "section": "공통 문장 QA",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_001.json",
+  "text": "## 공통 문장 QA\n\n- 세계 내부 사실, 인물 욕망, 장면 압력을 먼저 보이고 메타 설명을 뒤로 뺀다.\n- 추상 명사만으로 분위기를 밀지 않는다. 추상어가 필요하면 행동, 물건, 장소, 말버릇, 제도, 몸의 반응으로 받친다.\n- 같은 문단 안에서 같은 의미의 명사와 형용사를 반복해 밀도를 가장하지 않는다.\n- 짧음만을 미덕으로 보지 않는다. 필요한 장면 정보가 사라지면 문장을 줄이지 않는다.\n- 설명문은 독자가 다음 장면이나 설정 판단에 쓸 수 있는 정보만 남긴다.",
+  "metadata": {
+    "char_count": 264,
+    "sha256": "acb22200c27af64c9a710f1b9c8d9bec8bd080232198033bba3e1be6f330a9d7"
+  }
+}

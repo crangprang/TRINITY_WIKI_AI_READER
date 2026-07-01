@@ -1,0 +1,150 @@
+{
+  "id": "doc_3c23e7d88b4ecc9d",
+  "path": "wiki/characters/ensemble/소피아/index.md",
+  "wiki_path": "characters/ensemble/소피아/index.md",
+  "title": "소피아",
+  "summary": "소피아는 용과 인간의 시대에 니그리스, 오피온과 함께 최초의 삼위를 이룬 인물이며, 에마나치온 이후 니그리스의 기억에 이성의 형태로 남아 지혜의 트리네아드 기원이 된다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "characters",
+    "ensemble",
+    "world-history"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:ensemble",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "소피아"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "최초의 삼위"
+    },
+    {
+      "level": 2,
+      "title": "배신과 에마나치온"
+    },
+    {
+      "level": 2,
+      "title": "기억으로 남은 이성"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "니그리스 알비우스 시트리노"
+    },
+    {
+      "level": 3,
+      "title": "오피온"
+    },
+    {
+      "level": 3,
+      "title": "라케시스"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "누미노스",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    }
+  ],
+  "sha256": "bfa3ca49333e4d18389851e3d0dbcacfca84dfa129176527d927b45a15dfd64d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3c23e7d88b4ecc9d.json",
+  "chunks": [
+    {
+      "id": "doc_3c23e7d88b4ecc9d:000",
+      "section": "소피아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_000.json",
+      "char_count": 180
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_001.json",
+      "char_count": 493
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:002",
+      "section": "최초의 삼위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_002.json",
+      "char_count": 377
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:003",
+      "section": "배신과 에마나치온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_003.json",
+      "char_count": 488
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:004",
+      "section": "기억으로 남은 이성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_004.json",
+      "char_count": 455
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:005",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_005.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:006",
+      "section": "니그리스 알비우스 시트리노",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_006.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:007",
+      "section": "오피온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_007.json",
+      "char_count": 159
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:008",
+      "section": "라케시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_008.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_3c23e7d88b4ecc9d:009",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_009.json",
+      "char_count": 395
+    }
+  ]
+}

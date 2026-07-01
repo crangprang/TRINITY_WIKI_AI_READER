@@ -1,0 +1,24 @@
+{
+  "id": "doc_7610e3feb05faa0c:009",
+  "document_id": "doc_7610e3feb05faa0c",
+  "path": "wiki/characters/main_party/스칼렛/support/appearance.md",
+  "wiki_path": "characters/main_party/스칼렛/support/appearance.md",
+  "title": "스칼렛 외형",
+  "section": "배제 프롬프트",
+  "summary": "스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_009.json",
+  "text": "### 배제 프롬프트\n\n```text\n다른 체형, 다른 나이, 다른 얼굴, 10대, 어린아이, 베이비페이스, 치비, 인형 얼굴, 20대 후반 글래머 인상, 30대 팜므파탈 인상, 성숙한 팜므파탈, 넓은 어깨, 거대한 가슴, 지나친 모델식 키 과장, 숏컷, 단발, bob cut, pixie cut, tiny ponytail, 납작한 포니테일, 눌린 정수리, 납작한 뒤통수, 넓게 드러난 이마, 높은 이마, 양쪽 귀가 모두 완전히 드러난 머리, 평평한 일자 앞머리, blunt straight bangs, blunt horizontal fringe, 완전 대칭 앞머리, 정중앙 센터파트 앞머리, 커튼형 갈라짐 없는 시스루뱅, 과한 웨이브 또는 컬 헤어, 두꺼운 일자뱅, 무거운 헬멧형 앞머리, 얼굴을 막는 무거운 옆머리, 양쪽 눈 모두 녹색, 양쪽 눈 모두 같은 색, 약한 오드아이, 누락된 오드아이, 붉은 눈화장처럼 보이는 오드아이, 둥글게 크게 열린 눈, 순하게 크게 뜬 눈, 어린 모에식 큰 눈, 실눈, 동공이 거의 안 보임, 홍채가 거의 안 보임, 졸린 눈, 죽은 눈, 공허한 얼굴, 무표정한 빈 얼굴, 립스틱, 립글로스, 붉은 입술 화장, 어두운 립, 스모키 메이크업, 진한 아이라인, 다크서클, 번진 화장, 고딕 메이크업, 현대 복식, 오피스레이디, 현대 패션 화보, 오프숄더, 맨어깨, 셔츠 단추 네 개 이상 풀림, 완전히 풀린 허리 여밈, 바닥까지 끌리는 스커트, floor-sweeping hem, train, high-waist tight skirt, bodycon skirt, pencil skirt, 단일 레이어 스커트, 단순한 검은 치마, 검은 겉치마 전체 레이스, 넓은 붉은 겉치마, 현대식 광택 소재, 금박, 글리터, 검은 조끼, 코르셋, 망토, 두꺼운 코트, 가죽 드레스, 암살자 의상, 붙은 양발, 좁게 모인 다리, 두 다리가 한 덩어리처럼 보이는 포즈, 런웨이식 좁은 교차보행, 얌전하게 모은 발\n```",
+  "metadata": {
+    "char_count": 970,
+    "sha256": "dfe67df079833b987b42ab3a1f6b177bfbca33fc94be48209dc5ccd67bf9d11f"
+  }
+}

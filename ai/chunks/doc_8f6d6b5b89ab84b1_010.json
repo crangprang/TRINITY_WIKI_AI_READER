@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:010",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] fellsion | 정복·침식 판단 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_010.json",
+  "text": "## [2026-06-28] fellsion | 정복·침식 판단 반영\n\n사용자 결정에 따라 [정복의 펠시온](characters/fellsions/정복의_펠시온/index.md)은 장수풍뎅이형 백골 투구와 공성추형 뿔을 정본으로 반영했다. 군마성은 동반 생물이나 하체 변형보다 자세, 행군, 돌격 리듬의 보조 언어로 낮췄다.\n\n[침식의 펠시온](characters/fellsions/침식의_펠시온/index.md)은 죄수 축을 유지하고, 송장벌레 백골 가면·붉은 봉인 문신·검은 침식 문신을 본문과 외형 support에 반영했다. [FEL-001](review/contradictions.md#fel-001-침식의-펠시온-정체-표현)과 [FEL-002](review/contradictions.md#fel-002-정복의-펠시온-가면-모티프)는 해결된 충돌로 옮기고 판단 요청 큐를 비웠다.",
+  "metadata": {
+    "char_count": 441,
+    "sha256": "ee4bbfba0785417304ec112c54c26adb2efb70847705ec5dabbc80da230c8ad1"
+  }
+}

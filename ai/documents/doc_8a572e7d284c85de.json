@@ -1,0 +1,108 @@
+{
+  "id": "doc_8a572e7d284c85de",
+  "path": "wiki/beings/phantasmas/플라센티아_3등급_판타즈마.md",
+  "wiki_path": "beings/phantasmas/플라센티아_3등급_판타즈마.md",
+  "title": "플라센티아 3등급 판타즈마",
+  "summary": "사냥, 변태, 변목, 메아리를 중심으로 구성된 플라센티아의 3등급 판타즈마군.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "플라센티아 3등급 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    }
+  ],
+  "sha256": "bb47713633dcf600e2ceea8968308f4adbc605ea3c2f29b3d2fffcec1687689d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a572e7d284c85de.json",
+  "chunks": [
+    {
+      "id": "doc_8a572e7d284c85de:000",
+      "section": "플라센티아 3등급 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_000.json",
+      "char_count": 96
+    },
+    {
+      "id": "doc_8a572e7d284c85de:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_001.json",
+      "char_count": 113
+    },
+    {
+      "id": "doc_8a572e7d284c85de:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_002.json",
+      "char_count": 73
+    },
+    {
+      "id": "doc_8a572e7d284c85de:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_003.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_8a572e7d284c85de:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_004.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_8a572e7d284c85de:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_005.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_8a572e7d284c85de:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a572e7d284c85de_006.json",
+      "char_count": 256
+    }
+  ]
+}

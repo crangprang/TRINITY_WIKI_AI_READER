@@ -1,0 +1,24 @@
+{
+  "id": "doc_7610e3feb05faa0c:004",
+  "document_id": "doc_7610e3feb05faa0c",
+  "path": "wiki/characters/main_party/스칼렛/support/appearance.md",
+  "wiki_path": "characters/main_party/스칼렛/support/appearance.md",
+  "title": "스칼렛 외형",
+  "section": "의상",
+  "summary": "스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_004.json",
+  "text": "## 의상\n\n스칼렛은 흰 카라 블라우스와 중세 판타지풍 레이어드 스커트라는 공용 의상 계열을 쓴다. 블랑의 검은 조끼는 스칼렛의 상체에 오지 않는다. 스칼렛의 상체는 흰 블라우스 단독 실루엣, 열린 칼라, 걷힌 소매, 느슨한 천의 압력으로 읽힌다.\n\n셔츠의 최상단 단추 세 개까지 풀릴 수 있다. 어깨선은 덮여 있고, 맨어깨와 오프숄더로 흐르지 않는다. 소매는 단추가 풀린 채 팔뚝 쪽으로 거칠게 걷혀 있다.\n\n스커트는 반투명한 블랙 시어 겉치마와 차분한 크림슨 시어 쉬폰 언더스커트가 겹친 구조다. 검은 겉치마는 발목선에서 끝나며 밑단에만 블랙 플로럴 레이스가 붙는다. 붉은 언더스커트는 검은 겉치마 아래에서 은은하게 드러나고, 끝단에는 크림슨 레이스가 붙는다.\n\n스칼렛은 앞쪽 옆골반 아래의 작은 고정핀으로 겉치마 한쪽을 걷어 올려 앞쪽 옆면 슬릿을 만든다. 이 슬릿은 다리 선과 허벅지 일부, 붉은 레이스 언더스커트를 드러낸다. 고정핀에는 가느다란 붉은 실이 느슨하게 묶이거나 한두 줄 흘러내릴 수 있다.\n\n낮은 홀스터나 두 줄 허벅지 스트랩은 공유 의상 안쪽의 수동적 흔적으로만 남는다. 별도 장식 하네스, 암살자 의상, 악역 드레스, 코르셋, 망토, 두꺼운 코트, 가죽 드레스는 스칼렛의 기본 의상 계열을 흐린다.",
+  "metadata": {
+    "char_count": 628,
+    "sha256": "9a3f54565d56b4e4d6c2a7a6e96a7ae9b182d9b3df6e8b61dce802a325df9445"
+  }
+}

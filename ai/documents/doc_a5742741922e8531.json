@@ -1,0 +1,122 @@
+{
+  "id": "doc_a5742741922e8531",
+  "path": "wiki/beings/phantasmas/오만의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/오만의_판타즈마.md",
+  "title": "오만의 판타즈마",
+  "summary": "오만이 자기 꼬리를 물고 끝없이 굴러가며 삶의 진행을 짓이기는 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "오만의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "사상누각",
+      "target": "wiki/events/singularities/사상누각.md"
+    }
+  ],
+  "sha256": "8c0406cfd74589e95121daff036e1f9733b111744da1e215a2c37df3f44b7455",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a5742741922e8531.json",
+  "chunks": [
+    {
+      "id": "doc_a5742741922e8531:000",
+      "section": "오만의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_000.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_a5742741922e8531:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_001.json",
+      "char_count": 47
+    },
+    {
+      "id": "doc_a5742741922e8531:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_002.json",
+      "char_count": 385
+    },
+    {
+      "id": "doc_a5742741922e8531:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_003.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_a5742741922e8531:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_004.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_a5742741922e8531:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_005.json",
+      "char_count": 154
+    },
+    {
+      "id": "doc_a5742741922e8531:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_006.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_a5742741922e8531:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5742741922e8531_007.json",
+      "char_count": 219
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:009",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "블랑",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_009.json",
+  "text": "### 블랑\n\n[블랑](../../블랑/index.md) 앞에서는 위로를 받기 전에 경계가 선다. 블랑이 자멸의 논리를 조용히 끊을수록 세레나는 더 단정하고 딱딱해진다. 그래도 그 시선을 쉽게 무시하지 못한다.",
+  "metadata": {
+    "char_count": 117,
+    "sha256": "52ea731c3612fd81d760c5c86709ab8df8732a65de2784c9c91809551c66e0c4"
+  }
+}

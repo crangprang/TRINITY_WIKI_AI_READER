@@ -1,0 +1,25 @@
+{
+  "id": "doc_05eed2faa24f12f6:006",
+  "document_id": "doc_05eed2faa24f12f6",
+  "path": "wiki/universe/realms/balance/organizations/스트레인저.md",
+  "wiki_path": "universe/realms/balance/organizations/스트레인저.md",
+  "title": "스트레인저",
+  "section": "관련 문서",
+  "summary": "스트레인저는 퍼시스 사건 이후 아홉 나라의 정주민 질서와 정교 체계 바깥으로 밀려난 사람들을 서로 잃어버리지 않게 붙드는 외지 공동체이자 정교가 배신자로 분류하는 이단 축이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy",
+    "eremos"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_05eed2faa24f12f6_006.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 스트레인저가 놓이는 조직 색인.\n- [삼위정교](삼위정교.md) - 스트레인저를 배신자 이단 축으로 분류하는 정교 체계.\n- [에레모스](../nations/에레모스.md) - 스트레인저의 중심 권역.\n- [니그리스 알비우스 시트리노](../../../../characters/ensemble/니그리스_알비우스_시트리노/index.md) - 스트레인저를 보호하는 불지기.\n- [이레귤러 헌터](이레귤러_헌터.md) - 스트레인저가 의뢰와 소문을 함정으로 의심하는 배경.\n- [디아도코이](디아도코이.md) - 스트레인저 주변에서 갈라진 비공식 전승선.",
+  "metadata": {
+    "char_count": 341,
+    "sha256": "d09f90aa09bd25f078629bf16c042d8a0ffb676247ce64e27524a043c2c47f4d"
+  }
+}

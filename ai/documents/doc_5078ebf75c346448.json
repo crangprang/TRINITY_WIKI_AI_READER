@@ -1,0 +1,117 @@
+{
+  "id": "doc_5078ebf75c346448",
+  "path": "wiki/characters/savior_candidates/랄/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/랄/support/appearance.md",
+  "title": "랄 외형",
+  "summary": "랄의 20대 초반 슬림 실루엣, 코랄 머리와 흰 눈, 기록 태그, `1위를 유지하라` 메모, 체스 습관을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "랄 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "기록을 읽는 연구소장"
+    },
+    {
+      "level": 2,
+      "title": "1위를 유지하라"
+    },
+    {
+      "level": 2,
+      "title": "반복된 하루의 방"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    }
+  ],
+  "sha256": "f4029cd87b52667170fc42e2ded1d7b24241eb24f90e46b73301b75fcd2ed5c3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5078ebf75c346448.json",
+  "chunks": [
+    {
+      "id": "doc_5078ebf75c346448:000",
+      "section": "랄 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_000.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_5078ebf75c346448:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_001.json",
+      "char_count": 339
+    },
+    {
+      "id": "doc_5078ebf75c346448:002",
+      "section": "기록을 읽는 연구소장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_002.json",
+      "char_count": 240
+    },
+    {
+      "id": "doc_5078ebf75c346448:003",
+      "section": "1위를 유지하라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_003.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_5078ebf75c346448:004",
+      "section": "반복된 하루의 방",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_004.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_5078ebf75c346448:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_005.json",
+      "char_count": 164
+    },
+    {
+      "id": "doc_5078ebf75c346448:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_006.json",
+      "char_count": 284
+    }
+  ]
+}

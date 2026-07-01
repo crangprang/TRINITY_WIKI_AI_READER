@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_cac0a46f195b2b2b:001",
+  "document_id": "live_doc_cac0a46f195b2b2b",
+  "path": "01_CANON/README.md",
+  "title": "01_CANON",
+  "section": "Live Contract",
+  "summary": "`01_CANON` is the canon stabilizer for the repo.",
+  "root": "01_CANON",
+  "category": "01_CANON:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_001.json",
+  "text": "## Live Contract\n\n- Numbered `.txt` files are the live canon truth surface.\n- `*_index.json` files are navigation only.\n- Canon text is the source of truth; indexes help find it, but do not outrank it.\n- `WC01_DETAILS_02_COMPOSITION.txt` is now split by category. Read the sibling `02A`-`02D` files for divine system, dragon/treasure tables, apparatus system, and phenomena/technique details.",
+  "metadata": {
+    "char_count": 392,
+    "sha256": "3001af28b1790d55f6b5bde7c723aa6af6a5076d55e26fcbc286ee517c22d8d2"
+  }
+}

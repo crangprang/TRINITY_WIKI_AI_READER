@@ -1,0 +1,23 @@
+{
+  "id": "doc_c8e05d47909a1fef:000",
+  "document_id": "doc_c8e05d47909a1fef",
+  "path": "wiki/characters/axions/프로스페로/index.md",
+  "wiki_path": "characters/axions/프로스페로/index.md",
+  "title": "프로스페로",
+  "section": "프로스페로",
+  "summary": "프로스페로는 마사오트의 엑시온이자 노틸러스의 선장으로, 탐험가 길드망과 바람 권능으로 유랑 국가를 이끌며 티폰의 추격을 자기 세대에서 끝내려는 복수자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c8e05d47909a1fef_000.json",
+  "text": "# 프로스페로\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 프로스페로 |\n| 성별/프레젠테이션 | 남성 |\n| 소속/지역 | 9성좌 공의회, 탐험의 나라 [마사오트](../../../universe/realms/balance/nations/마사오트.md) |\n| 직책/역할 | 선장, 엑시온, 탐험 성좌 |\n| 계승 상태 | 계승자 엑시온 |\n| 연결된 아포라투스 | 엑소도스 |\n| 제어기관 | 키베르노스 |\n| 보물 | 불멸의 보물, 불멸의 나침반 |\n| 권능 | 바람, 항로 개방, 이동, 회피, 구조 |\n| 보물 선택 조건 | 티폰 추격을 자기 세대에서 끝내고 다음 세대에게 정착 가능한 삶을 남기려는 복수심과 편지 의무 |\n| 왕권 상징 | 불멸의 나침반, 조타륜, 찢어진 돛 가면, 편지 봉인 |\n| 대응 페르소나 | [에어리얼](../../personas/에어리얼/index.md) |\n| 주요 위협 | [운명의 판타즈마](../../../beings/phantasmas/운명의_판타즈마.md) |",
+  "metadata": {
+    "char_count": 526,
+    "sha256": "0eaecedf483d245ba25996d292e9350ea669e0fd1fb7d0997112bf80158899df"
+  }
+}

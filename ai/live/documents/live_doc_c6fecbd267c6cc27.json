@@ -1,0 +1,37 @@
+{
+  "id": "live_doc_c6fecbd267c6cc27",
+  "path": "02_LORE/README.md",
+  "title": "02_LORE",
+  "summary": "`02_LORE` is the live lore surface.",
+  "root": "02_LORE",
+  "category": "02_LORE:README.md",
+  "suffix": ".md",
+  "sha256": "765df5a763dce0bac453cc27c73ffe80d0af14ab0627331581dee301eb63e4f9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c6fecbd267c6cc27.json",
+  "chunks": [
+    {
+      "id": "live_doc_c6fecbd267c6cc27:000",
+      "section": "02_LORE",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_000.json",
+      "char_count": 46
+    },
+    {
+      "id": "live_doc_c6fecbd267c6cc27:001",
+      "section": "Live Contract",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_001.json",
+      "char_count": 1703
+    },
+    {
+      "id": "live_doc_c6fecbd267c6cc27:002",
+      "section": "Read Order",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_002.json",
+      "char_count": 321
+    },
+    {
+      "id": "live_doc_c6fecbd267c6cc27:003",
+      "section": "Current Boundary",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_003.json",
+      "char_count": 302
+    }
+  ]
+}

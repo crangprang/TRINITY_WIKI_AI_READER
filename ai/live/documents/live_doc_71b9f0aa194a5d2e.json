@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_71b9f0aa194a5d2e",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TR04_DEATH.txt",
+  "title": "죽음의 트리네아드",
+  "summary": "죽음의 트리네아드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "0bc969ac85d837777bd096f1ec213bee0328993fc9deca530ebbc261bde12b9e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_71b9f0aa194a5d2e.json",
+  "chunks": [
+    {
+      "id": "live_doc_71b9f0aa194a5d2e:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_71b9f0aa194a5d2e_000.json",
+      "char_count": 1154
+    }
+  ]
+}

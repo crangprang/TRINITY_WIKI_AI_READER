@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_477a0d58b8447af7",
+  "path": "02_LORE/L10_EREMOS/L10_REFERENCE.txt",
+  "title": "L10_에레모스 / REFERENCE",
+  "summary": "L10_에레모스 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L10_EREMOS",
+  "suffix": ".txt",
+  "sha256": "3f4f0c5c7f4b34cd62a7006ca8cbf1d8d8141b08b3750243bc04cc871dad6e3e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_477a0d58b8447af7.json",
+  "chunks": [
+    {
+      "id": "live_doc_477a0d58b8447af7:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_477a0d58b8447af7_000.json",
+      "char_count": 880
+    }
+  ]
+}

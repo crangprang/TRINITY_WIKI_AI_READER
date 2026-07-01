@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:001",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "기본 톤",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_001.json",
+  "text": "## 기본 톤\n\n블랑의 파티 내부 기본 발화는 절제된 반말이다. 환자, 외부인, 협상 상대, 경고가 필요한 자리에서는 정갈한 존댓말로 넘어간다. 존댓말은 거리와 선을 세우는 방식이다.\n\n말은 먼저 부드럽고, 다음 박자에 단호해진다. 블랑은 소리를 높여 장면을 장악하지 않는다. 숨을 보고, 열을 보고, 출혈을 보고, 상대가 넘어선 선을 짚는다. 위기 앞에서는 문장이 짧아지고 자세가 더 반듯해진다.\n\n평상시 블랑은 정숙한 의사 가면으로만 들리지 않는다. 낯선 것에 궁금해하고, 장난을 바로 이해하지 못하면 되묻고, 예쁜 이름의 차나 간식을 한 번 더 들여다본다. 의사성은 상대의 몸과 마음이 임계선에 닿을 때 켜지는 상황 모드다.",
+  "metadata": {
+    "char_count": 352,
+    "sha256": "c2135f5b7b80be1900037131db58d748d6e5812c3f946c85ad9dbb002db3fd2b"
+  }
+}

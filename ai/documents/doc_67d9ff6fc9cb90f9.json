@@ -1,0 +1,115 @@
+{
+  "id": "doc_67d9ff6fc9cb90f9",
+  "path": "wiki/characters/fellsions/정적의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/정적의_펠시온/support/appearance.md",
+  "title": "정적의 펠시온 외형",
+  "summary": "정적의 펠시온의 검은 무사복, 머리를 수평으로 관통한 귀마개 검, 닫힌 입의 귀뚜라미 백골 가면, 발도 직전의 정적을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "정적의 펠시온 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "외형과 인상"
+    },
+    {
+      "level": 2,
+      "title": "묵음"
+    },
+    {
+      "level": 2,
+      "title": "닫힌 입 가면"
+    },
+    {
+      "level": 2,
+      "title": "자세와 표정"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    },
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    }
+  ],
+  "sha256": "fd83ad04110ddd194143c35b916c34b33b24e275fd1300af6b2fccce04f7760a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_67d9ff6fc9cb90f9.json",
+  "chunks": [
+    {
+      "id": "doc_67d9ff6fc9cb90f9:000",
+      "section": "정적의 펠시온 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_000.json",
+      "char_count": 124
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_001.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:002",
+      "section": "외형과 인상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_002.json",
+      "char_count": 196
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:003",
+      "section": "묵음",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_003.json",
+      "char_count": 179
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:004",
+      "section": "닫힌 입 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_004.json",
+      "char_count": 124
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:005",
+      "section": "자세와 표정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_005.json",
+      "char_count": 174
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:006",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_006.json",
+      "char_count": 122
+    },
+    {
+      "id": "doc_67d9ff6fc9cb90f9:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_007.json",
+      "char_count": 98
+    }
+  ]
+}

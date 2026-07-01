@@ -1,0 +1,23 @@
+{
+  "id": "doc_e4d6c40bf3d0405d:001",
+  "document_id": "doc_e4d6c40bf3d0405d",
+  "path": "wiki/characters/personas/빈센트/index.md",
+  "wiki_path": "characters/personas/빈센트/index.md",
+  "title": "빈센트",
+  "section": "개요",
+  "summary": "빈센트는 우니오네의 페르소나로, 미메시스와 마고리아를 통해 가장 아름다운 출구를 열고 현실을 꿈 쪽으로 기울이는 꿈의 큐레이터다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e4d6c40bf3d0405d_001.json",
+  "text": "## 개요\n\n빈센트는 우니오네의 아포라투스 `미메시스`와 제어기관 `마고리아`에 연결된 페르소나다. 그는 현실이 허락하지 않은 결말을 가장 아름다운 장면으로 다시 열고, 그 장면을 스스로 선택한 도피처럼 느끼게 만든다.\n\n빈센트의 표층 인터페이스는 방랑 예술가와 꿈의 큐레이터다. 그는 사람을 미는 힘보다 문을 여는 유혹을 쓴다. 음악과 조명과 가장 그리운 얼굴을 준비하며, 상대가 자기 발로 수면 아래로 들어가게 만든다.",
+  "metadata": {
+    "char_count": 236,
+    "sha256": "e163ef2227bb3a54c6810200e7c677409d75db3a11192d66dbc3b16ac15ae33c"
+  }
+}

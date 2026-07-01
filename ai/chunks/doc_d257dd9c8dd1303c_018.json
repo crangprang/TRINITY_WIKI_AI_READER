@@ -1,0 +1,24 @@
+{
+  "id": "doc_d257dd9c8dd1303c:018",
+  "document_id": "doc_d257dd9c8dd1303c",
+  "path": "wiki/characters/trineads/공허의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/공허의_트리네아드/index.md",
+  "title": "공허의 트리네아드",
+  "section": "관련 문서",
+  "summary": "공허의 트리네아드는 꿈의 보물에서 태어난 파괴계의 나태한 왕이다. 그는 파괴와 감정의 축에서 이름과 지배를 피하려는 자유, 아무것도 하지 않는 방치, 약자가 살아남기 위해 익힌 생존기술의 원천을 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_018.json",
+  "text": "## 관련 문서\n\n- [트리네아드](../index.md) - 공허가 속한 파괴계 트리네아드의 공통 기원과 계통.\n- [죽음의 트리네아드](../죽음의_트리네아드/index.md) - 공허를 제압하고 정적의 감옥에 유폐한 파괴계 절대 왕.\n- [에르고](../에르고/index.md) - 공허가 항복하고 이후 탈출 조언을 남긴 파괴계 왕.\n- [펠시온](../../fellsions/index.md) - 공허 군단의 생존기술과 이름 결핍이 하위신 계열로 드러나는 존재층.\n- [배신의 펠시온](../../ensemble/배신의_펠시온/index.md) - 공허의 이름 없음과 죽음의 이름 판결 사이에서 상처를 얻은 파괴계 인물.",
+  "metadata": {
+    "char_count": 351,
+    "sha256": "1cca314a0fa4c10fc10d2793cb7e7749f924df9c6327166f58770983f3c1041d"
+  }
+}

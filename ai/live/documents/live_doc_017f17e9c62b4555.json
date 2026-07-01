@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_017f17e9c62b4555",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P04_JIN/P04_BRANCH_IDEA.txt",
+  "title": "P04_진 / BRANCH_IDEA",
+  "summary": "P04_진 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "c1e8b002d1c225ca5ff4f7da62dca16a4ad28bd519028b35d83f8bfbbee3c2ac",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_017f17e9c62b4555.json",
+  "chunks": [
+    {
+      "id": "live_doc_017f17e9c62b4555:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_017f17e9c62b4555_000.json",
+      "char_count": 1073
+    }
+  ]
+}

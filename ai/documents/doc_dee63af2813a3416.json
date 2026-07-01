@@ -1,0 +1,180 @@
+{
+  "id": "doc_dee63af2813a3416",
+  "path": "wiki/beings/dragonkin/용인.md",
+  "wiki_path": "beings/dragonkin/용인.md",
+  "title": "용인",
+  "summary": "용인은 용과 인간의 시대에 형성된 용인 혈통이 삼계 환경에 적응하며 분화한 지성체 집단이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "dragonkin",
+    "sapient"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:dragonkin",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "용인"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "분류 기준"
+    },
+    {
+      "level": 2,
+      "title": "적응형"
+    },
+    {
+      "level": 3,
+      "title": "레프코스"
+    },
+    {
+      "level": 3,
+      "title": "드래그나"
+    },
+    {
+      "level": 3,
+      "title": "마브로스"
+    },
+    {
+      "level": 3,
+      "title": "팔라이아"
+    },
+    {
+      "level": 2,
+      "title": "드래그니즘"
+    },
+    {
+      "level": 2,
+      "title": "세계사에서의 위치"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "드래그니즘",
+      "target": "wiki/universe/realms/balance/organizations/드래그니즘.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "용 계열",
+      "target": "wiki/beings/dragonkin/index.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "드래그니즘",
+      "target": "wiki/universe/realms/balance/organizations/드래그니즘.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    }
+  ],
+  "sha256": "602e051d0830435357733ed8ac28535ef2b8928a5af6125cb240e11e83cb187d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dee63af2813a3416.json",
+  "chunks": [
+    {
+      "id": "doc_dee63af2813a3416:000",
+      "section": "용인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_000.json",
+      "char_count": 176
+    },
+    {
+      "id": "doc_dee63af2813a3416:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_001.json",
+      "char_count": 320
+    },
+    {
+      "id": "doc_dee63af2813a3416:002",
+      "section": "분류 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_002.json",
+      "char_count": 304
+    },
+    {
+      "id": "doc_dee63af2813a3416:003",
+      "section": "적응형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_003.json",
+      "char_count": 6
+    },
+    {
+      "id": "doc_dee63af2813a3416:004",
+      "section": "레프코스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_004.json",
+      "char_count": 224
+    },
+    {
+      "id": "doc_dee63af2813a3416:005",
+      "section": "드래그나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_005.json",
+      "char_count": 239
+    },
+    {
+      "id": "doc_dee63af2813a3416:006",
+      "section": "마브로스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_006.json",
+      "char_count": 250
+    },
+    {
+      "id": "doc_dee63af2813a3416:007",
+      "section": "팔라이아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_007.json",
+      "char_count": 287
+    },
+    {
+      "id": "doc_dee63af2813a3416:008",
+      "section": "드래그니즘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_008.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_dee63af2813a3416:009",
+      "section": "세계사에서의 위치",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_009.json",
+      "char_count": 356
+    },
+    {
+      "id": "doc_dee63af2813a3416:010",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_010.json",
+      "char_count": 556
+    }
+  ]
+}

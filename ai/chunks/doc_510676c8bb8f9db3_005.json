@@ -1,0 +1,23 @@
+{
+  "id": "doc_510676c8bb8f9db3:005",
+  "document_id": "doc_510676c8bb8f9db3",
+  "path": "wiki/universe/realms/balance/index.md",
+  "wiki_path": "universe/realms/balance/index.md",
+  "title": "균형계",
+  "section": "하위 항목",
+  "summary": "인간 공동체와 아홉 나라가 자리하며 창조계와 파괴계의 압력을 이름, 신앙, 국가, 장치로 번역하는 중심 세계.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_005.json",
+  "text": "## 하위 항목\n\n- [균형계 문화](culture/index.md) - 균형계의 금기, 의례, 공적 가면, 생활 질서.\n- [균형계 언어](language/index.md) - 이름, 호칭, 나라별 명명 방식.\n- [균형계 조직](organizations/index.md) - 기능조직, 삼위정교 공인 조직, 이레귤러 헌터, 외지 공동체, 이단 세력.\n- [아포라투스](apparatus/index.md) - 아홉 나라의 생존 기능과 비극 구조를 만드는 국가 장치.\n- [아홉 나라](nations/index.md) - 균형계 국가 질서와 주변 권역.",
+  "metadata": {
+    "char_count": 309,
+    "sha256": "9aea32a729908c21e36d189e7b987b8c643a706e9bfdb40bc298cac4d6765af8"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:018",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "하얀 성녀",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_018.json",
+  "text": "### 하얀 성녀\n\n- `[처음 보는 어른 앞]` `아저씨, ..조금만 천천히 가 주실래요?`\n- `[블랑 앞에서 다정함을 받을 때]` `언니, ...그건 어디서 난 거예요? 예뻐서요.`\n- `[진 앞에서 먼저 맞춰 줄 때]` `오빠는 늘 그렇게 웃어요? ...왜 그런지, 조금 궁금해요.`\n- `[아인에게 따라붙을 때]` `아인. 네가 가는 길이라면, 끝이 어디든 난 따라갈 수 있어.`\n- `[아인에게 바로 받아칠 때]` `왜 불러? 내 검은색.`\n- `[무심코 색을 말했을 때]` `언니는 웃을 때 더 예쁜 연녹색이 돼요.`\n- `[들켰다가 다시 숨을 때]` `아, 그냥 그렇게 보여서요.`\n- `[전투 / 아인과 연결될 때]` `아인, 오른쪽 검은색 둘.`\n- `[전투 / 아인과 연결될 때]` `뒤에 붉은색 하나. 가까워.`\n- `[후퇴]` `이쪽이에요.`\n- `[후퇴]` `괜찮아요. 계속 가요.`",
+  "metadata": {
+    "char_count": 452,
+    "sha256": "b76676c7a14a72e549f853019cb7b6c641e1fe3312cae3977251c8bc6904d985"
+  }
+}

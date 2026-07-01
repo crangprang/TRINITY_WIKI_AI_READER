@@ -1,0 +1,23 @@
+{
+  "id": "doc_56f587c4cb5fd5fd:006",
+  "document_id": "doc_56f587c4cb5fd5fd",
+  "path": "wiki/characters/ensemble/index.md",
+  "wiki_path": "characters/ensemble/index.md",
+  "title": "앙상블",
+  "section": "관련 문서",
+  "summary": "앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "ensemble",
+    "character_group"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_006.json",
+  "text": "## 관련 문서\n\n- [인물](../index.md) - 주인공, 조연, 상위 신격, 하위신이 함께 놓이는 상위 인물 항목.\n- [세계사](../../events/world_history/index.md) - 니그리스 알비우스 시트리노가 관통하는 큰 사건 흐름.\n- [펠시온](../fellsions/index.md) - 배신의 펠시온이 놓이는 파괴계 이름 판결의 인물 축.\n- [에르고](../trineads/에르고/index.md) - 배신의 펠시온이 새 이름을 요구하는 왕.\n- [주인공 파티](../main_party/index.md) - 앙상블과 다른 자리에서 눈앞의 나라와 사건을 통과하는 주인공 집단.",
+  "metadata": {
+    "char_count": 343,
+    "sha256": "d980335df24670a1aa90de701d3448b7c4575bc88e15a591034d31ff995e6968"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_7193dc9e34ed2540:002",
+  "document_id": "doc_7193dc9e34ed2540",
+  "path": "wiki/review/ownership_locks.md",
+  "wiki_path": "review/ownership_locks.md",
+  "title": "항목 소유권 잠금",
+  "section": "최종 소유",
+  "summary": "비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "decomposition",
+    "locks"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_002.json",
+  "text": "## 최종 소유\n\n- [균형계/언어](../universe/realms/balance/language/index.md): 아홉 나라 명명 체계, 언어권, 아포라투스/기관명 운용을 균형계 하위 조회어로 정리한다.\n- [균형계/문화](../universe/realms/balance/culture/index.md): 올림피아 중심의 공적 가면과 이름 맹세 규범, 각 나라 변형을 균형계 하위 조회어로 정리한다.\n- [신격과 신적 권위](../universe/laws/신격과_신적_권위.md): 아난케, 오리진, 태초의 불꽃, 고요한 종말, 아홉 용, 트리네아드, 하위신 계열의 실재성, 의지, 행위성, 계열 구분을 우주 법칙 조회어로 정리한다.\n- [하위신](../universe/laws/하위신.md): 필로시온, 엑시온, 펠시온의 기본 하위신 계열과 페르소나 파생, 판타즈마 경계 기준을 우주 법칙 조회어로 정리한다.\n- [필로시온](../universe/laws/필로시온.md): 창조계 인공 신격체, 프로토타입/양산형 구분, 국가별 프로토타입 직무 흔적을 우주 법칙 조회어로 정리한다.\n- [세 에너지](../universe/laws/세_에너지.md): 에테르, 이데아, 마니아와 섭리, 축복, 저주, 비술, 기적의 기준점을 우주 법칙 조회어로 정리한다.\n- [삼위일체 우주](../universe/structure/삼위일체_우주.md): 창조계, 균형계, 파괴계, 용기의문, 절제의문, 대공명과 균열을 우주 구조 조회어로 정리한다.\n- [오리진](../universe/structure/오리진.md): 오리진, 오리진 조각, 누미노스/역 누미노스를 우주 구조 조회어로 정리한다.\n- [아홉 보물](../universe/structure/아홉_보물.md): 오리진 조각에서 분화한 보물, 트리네아드 계승, 엑시온 선택, 아포라투스 권능 매개를 우주 구조 조회어로 정리한다.\n- [아포라투스](../universe/realms/balance/apparatus/index.md): 아타노르 잔재, 빈 보물, 프로토타입 필로시온이 대공명에서 결합한 국가 장치와 매질, 제어기관, 페르소나/엑시온 권한을 균형계 장치 조회어로 정리한다.\n- [균형계 조직](../universe/realms/balance/organizations/index.md): 균형계의 기능조직, 삼위정교 공인 조직, 이레귤러 헌터, 외지 공동체, 이단 세력 색인을 소유한다.\n- [글로벌 코텍스](../universe/realms/balance/organizations/글로벌_코텍스.md), [그레트헨 연구소](../universe/realms/balance/organizations/그레트헨_연구소.md), [탐험가 길드](../universe/realms/balance/organizations/탐험가_길드.md), [유랑 서커스](../universe/realms/balance/organizations/유랑_서커스.md), [마스크맨](../universe/realms/balance/organizations/마스크맨.md), [아웃로](../universe/realms/balance/organizations/아웃로.md), [필그림즈](../universe/realms/balance/organizations/필그림즈.md), [염객방](../universe/realms/balance/organizations/염객방.md), [인퀴지터](../universe/realms/balance/organizations/인퀴지터.md): 아홉 기능조직의 독립 항목을 소유한다.\n- [구세군](../universe/realms/balance/organizations/구세군.md), [파르마콘](../universe/realms/balance/organizations/파르마콘.md), [크로니클](../universe/realms/balance/organizations/크로니클.md): 삼위정교 공인 조직의 독립 항목을 소유한다.\n- [이레귤러 헌터](../universe/realms/balance/organizations/이레귤러_헌터.md): 정교의 저주 보유자 속죄·소모 현장 제도를 소유한다.\n- [흉조](../universe/realms/balance/organizations/흉조.md), [매니악](../universe/realms/balance/organizations/매니악.md), [에이티스트](../universe/realms/balance/organizations/에이티스트.md), [스트레인저](../universe/realms/balance/organizations/스트레인저.md), [드래그니즘](../universe/realms/balance/organizations/드래그니즘.md), [디아도코이](../universe/realms/balance/organizations/디아도코이.md): 균형계 이단 세력 여섯 축의 독립 항목을 소유한다.\n- [디아도코이](../universe/realms/balance/organizations/디아도코이.md): 정교 기록 바깥에서 개인 비술의 이름과 발동 조건, 실패 기록을 잇는 이단 세력을 소유한다.\n- [트리네아드](../characters/trineads/index.md): 트리네아드의 정의, 기원, 소속 구성, 공통 작동 원리를 공통 인물군 조회어로 정리한다. 현실, 자연, 생명, 용기, 지혜, 절제, 죽음, 공허, 붕괴의 각 트리네아드는 개별 character package가 성격, 사건 기능, 관계, 권능을 소유한다.\n- [감독](../characters/trineads/감독/index.md), [라케시스](../characters/trineads/라케시스/index.md), [에르고](../characters/trineads/에르고/index.md): 중요 캐릭터 대표 항목은 한 대표명만 제목으로 쓰고, 신격명과 별칭은 alias redirect와 정보표에서 관리한다.\n- [알레인의 동화책](../events/world_history/알레인의_동화책.md): 공포를 아이가 부를 수 있는 이름으로 번역한 이야기 체계, `별을 쫓는 기사`, 아홉 아타노르명과 후대 오독으로 이어지는 공통 서사층을 세계사 하위 항목으로 소유한다.",
+  "metadata": {
+    "char_count": 3086,
+    "sha256": "f3a4c21a51d18f653e999c272f14c8332646160dc736eba29ce04b012d90dffa"
+  }
+}

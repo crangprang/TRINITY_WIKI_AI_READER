@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:007",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "별의 시선",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_007.json",
+  "text": "### 별의 시선\n\n단테가 보는 세상에는 아직 어딘가에 별이 남아 있다. 그 별은 루시아이고, 마지막 질문이며, 자신을 늘 바라보는 시선이다. 단테는 별을 찾아야 속죄의 길도 열린다고 믿는다.\n\n별의 시선은 단테를 앞으로 걷게 만든다. 동시에 그 시선은 단테의 목을 죄는 판결이 된다. 별을 잃으면 루시아를 다시 잃고, 자신이 속죄할 수 있다는 가능성까지 닫힌다. 그래서 단테의 승리 강박은 자존심에서 나오지 않고, 별을 잃는 공포에서 솟는다.",
+  "metadata": {
+    "char_count": 248,
+    "sha256": "a4f0ff448a879cc6d9873ab6d66ae3a5bdb417e9cf5d0f88536d1d19deb75403"
+  }
+}

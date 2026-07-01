@@ -1,0 +1,24 @@
+{
+  "id": "doc_ae24374eddbaf553:000",
+  "document_id": "doc_ae24374eddbaf553",
+  "path": "wiki/universe/realms/balance/organizations/인퀴지터.md",
+  "wiki_path": "universe/realms/balance/organizations/인퀴지터.md",
+  "title": "인퀴지터",
+  "section": "인퀴지터",
+  "summary": "인퀴지터는 알렉시아 기반의 기능조직으로, 판타즈마와 원생물, 오염 기록과 벌레를 봉쇄하고 태우는 재난 토벌 조직이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_000.json",
+  "text": "# 인퀴지터\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 기능조직 |\n| 기반 국가 | [알렉시아](../nations/알렉시아.md) |\n| 주요 업무 | 재난 토벌 / 봉쇄 / 오염 기록 처리 / 벌레와 감염 서가 소각 |\n| 정교 관계 | 삼위정교 면허를 받은 국가 기반 위탁 조직 |\n| 대표 구세주 후보 | [메테우스](../../../../characters/savior_candidates/메테우스/index.md) |\n| 관련 엑시온 | [엘피스](../../../../characters/axions/엘피스/index.md) / [판도라](../../../../characters/axions/판도라/index.md) |",
+  "metadata": {
+    "char_count": 361,
+    "sha256": "4cdff8ad71a6171a1654386a419464e1b8f31d307fa93a76945309f63b4d97f3"
+  }
+}

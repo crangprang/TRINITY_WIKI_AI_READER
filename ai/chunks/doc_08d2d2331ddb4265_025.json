@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:025",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "루시아",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_025.json",
+  "text": "### 루시아\n\n루시아는 단테가 찾는 별이자 자신을 바라보는 시선이다. 그녀는 단테에게 죄책감, 미련, 이상, 질문을 동시에 부르는 이름이다. 마지막 고마움과 마지막 질문 때문에 단테의 죄는 미움으로 정리되지 않는다.",
+  "metadata": {
+    "char_count": 121,
+    "sha256": "787ccff3fd6310eb9de0eeb7b5e25ef4de36513db7c80ee6fab8d87c5fdc4aa5"
+  }
+}

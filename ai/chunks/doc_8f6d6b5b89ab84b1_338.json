@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:338",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 염한 기준 국가 슬롯 정렬",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_338.json",
+  "text": "## [2026-06-27] structure | 염한 기준 국가 슬롯 정렬\n\n염한을 국가 문서 기준형으로 유지하고, 레이어드·마사오트·알렉시아·오르딜리아·오아시스·우니오네·파라디소·플라센티아에 `기원과 모티프`와 `핵심 질문` 슬롯을 승격했다. LIVE lore의 교체 전 국가명·장치명·인물명은 독자용 본문에 보존하지 않고 현재 WIKI 정본명을 우선했다. 올림피아와 에레모스는 핵심 아홉 나라가 아닌 주변 권역이므로 원샷 국가 슬롯을 그대로 적용하지 않았다.",
+  "metadata": {
+    "char_count": 259,
+    "sha256": "c7015f3a7a27468f1f80b80714768073d3551974417fb282030c59a73d625432"
+  }
+}

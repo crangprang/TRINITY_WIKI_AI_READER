@@ -1,0 +1,24 @@
+{
+  "id": "doc_e8f429a1a72e56b4:002",
+  "document_id": "doc_e8f429a1a72e56b4",
+  "path": "wiki/universe/realms/balance/organizations/아웃로.md",
+  "wiki_path": "universe/realms/balance/organizations/아웃로.md",
+  "title": "아웃로",
+  "section": "하층 물류",
+  "summary": "아웃로는 오르딜리아 기반의 기능조직으로, 공식 운송망이 닿지 않는 곳에서 사람과 짐, 정보와 비공식 구난을 옮기는 하층 물류망이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e8f429a1a72e56b4_002.json",
+  "text": "## 하층 물류\n\n아웃로는 철도 조직 하나로 닫히지 않는다. 열차 노선, 배관 통로, 검문선의 사각, 중앙 기록이 놓친 지하 길을 이어 사람과 물건을 옮긴다. 공식 통행권이 막힌 현장에서 아웃로의 평판과 암호는 다른 종류의 통행증이 된다.\n\n물류는 곧 정보다. 누가 어디로 도망쳤는지, 어느 검문이 비었는지, 어떤 위조 신분이 아직 통하는지 아는 사람이 곧 길을 쥔다. 그래서 아웃로는 오르딜리아의 정의 질서가 숨긴 균열을 가장 많이 아는 조직이 된다.",
+  "metadata": {
+    "char_count": 253,
+    "sha256": "61ab9effe8365197a855416a8dbf29307c24e08c6cead819243f751224d23bfa"
+  }
+}

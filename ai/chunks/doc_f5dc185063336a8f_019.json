@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:019",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "발화 샘플",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_019.json",
+  "text": "## 발화 샘플",
+  "metadata": {
+    "char_count": 8,
+    "sha256": "71f425a451290e7aabb564be6489969cc1f1b3a5010fcd07d3a6b826d3a99c3f"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:018",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "생존 기술",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_018.json",
+  "text": "### 생존 기술\n\n단테는 민첩성, 균형감각, 반사신경, 잠입 감각, 손재주, 은닉과 바꿔치기, 잔기술 사용에 능하다. 학문적 정리력은 약해도 상황을 보고 빠져나가는 눈치가 빠르다. 신발끈, 출구, 잠금장치, 주머니, 값나가는 물건의 위치를 먼저 보는 습관이 몸에 붙어 있다.",
+  "metadata": {
+    "char_count": 154,
+    "sha256": "22353a2db49538be865b7da3abaa94b0d539c14c06e5ea1cebb5c668c4f6c4f2"
+  }
+}

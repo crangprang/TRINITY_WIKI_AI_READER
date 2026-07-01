@@ -1,0 +1,291 @@
+{
+  "id": "doc_ed488eec4d90ec3a",
+  "path": "wiki/characters/trineads/index.md",
+  "wiki_path": "characters/trineads/index.md",
+  "title": "트리네아드",
+  "summary": "트리네아드는 세 세계의 상위 신격과 미덕, 왕권이 이름과 사건으로 드러나는 존재 층위다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "trineads",
+    "character_group"
+  ],
+  "updated": "2026-06-30",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "외형 원리"
+    },
+    {
+      "level": 2,
+      "title": "계통"
+    },
+    {
+      "level": 3,
+      "title": "창조계 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "균형계 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "파괴계 트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "구성"
+    },
+    {
+      "level": 2,
+      "title": "작동 원리"
+    },
+    {
+      "level": 3,
+      "title": "보물과 탄생"
+    },
+    {
+      "level": 3,
+      "title": "정보 불균형"
+    },
+    {
+      "level": 3,
+      "title": "하마르티아와 에르"
+    },
+    {
+      "level": 3,
+      "title": "세계 경계와 하위신"
+    },
+    {
+      "level": 3,
+      "title": "이름과 판결"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "용기의문과 절제의문",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "용기의 트리네아드",
+      "target": "wiki/characters/trineads/용기의_트리네아드/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "절제의 트리네아드",
+      "target": "wiki/characters/trineads/절제의_트리네아드/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "용기의 트리네아드",
+      "target": "wiki/characters/trineads/용기의_트리네아드/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "절제의 트리네아드",
+      "target": "wiki/characters/trineads/절제의_트리네아드/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    }
+  ],
+  "sha256": "59e051c20fc9f31ce9a1c304b523d3011eed1fb37a557af3de065390c3be3f03",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed488eec4d90ec3a.json",
+  "chunks": [
+    {
+      "id": "doc_ed488eec4d90ec3a:000",
+      "section": "트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_000.json",
+      "char_count": 290
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_001.json",
+      "char_count": 700
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:002",
+      "section": "외형 원리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_002.json",
+      "char_count": 720
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:003",
+      "section": "계통",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_003.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:004",
+      "section": "창조계 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_004.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:005",
+      "section": "균형계 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_005.json",
+      "char_count": 326
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:006",
+      "section": "파괴계 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_006.json",
+      "char_count": 245
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:007",
+      "section": "구성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_007.json",
+      "char_count": 1066
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:008",
+      "section": "작동 원리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_008.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:009",
+      "section": "보물과 탄생",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_009.json",
+      "char_count": 1391
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:010",
+      "section": "정보 불균형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_010.json",
+      "char_count": 302
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:011",
+      "section": "하마르티아와 에르",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_011.json",
+      "char_count": 460
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:012",
+      "section": "세계 경계와 하위신",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_012.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:013",
+      "section": "이름과 판결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_013.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:014",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_014.json",
+      "char_count": 966
+    },
+    {
+      "id": "doc_ed488eec4d90ec3a:015",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_015.json",
+      "char_count": 309
+    }
+  ]
+}

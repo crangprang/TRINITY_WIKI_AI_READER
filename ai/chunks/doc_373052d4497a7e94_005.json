@@ -1,0 +1,24 @@
+{
+  "id": "doc_373052d4497a7e94:005",
+  "document_id": "doc_373052d4497a7e94",
+  "path": "wiki/characters/axions/설리반/support/appearance.md",
+  "wiki_path": "characters/axions/설리반/support/appearance.md",
+  "title": "설리반 외형",
+  "section": "시각 경계",
+  "summary": "설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_005.json",
+  "text": "## 시각 경계\n\n- 종이와 기록은 중심 소품에서 빠진다.\n- 방사능 표식은 작고 추상화된 경고 패널 정도로 제한된다.\n- 의료 마스크와 의사 표면은 설리반의 격납 통제자 인상을 약하게 만든다.",
+  "metadata": {
+    "char_count": 108,
+    "sha256": "5a23cd4ac8c90d16e013f93cfc82729d37ecf85c58e8819b73abfac10fddb1c1"
+  }
+}

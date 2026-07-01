@@ -1,0 +1,141 @@
+{
+  "id": "doc_80e6bc6e2a9c33bb",
+  "path": "wiki/characters/main_party/엘리자베스/support/appearance.md",
+  "wiki_path": "characters/main_party/엘리자베스/support/appearance.md",
+  "title": "엘리자베스 외형",
+  "summary": "엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "엘리자베스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "전면별 차이"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "스칼렛"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "블랑 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "블랑 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "블랑 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    }
+  ],
+  "sha256": "7e3b23c982a47d5278ade410b1c66c7d99e226590baa5d91ec1e68306cdd0478",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_80e6bc6e2a9c33bb.json",
+  "chunks": [
+    {
+      "id": "doc_80e6bc6e2a9c33bb:000",
+      "section": "엘리자베스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_000.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_80e6bc6e2a9c33bb:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_001.json",
+      "char_count": 525
+    },
+    {
+      "id": "doc_80e6bc6e2a9c33bb:002",
+      "section": "전면별 차이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_80e6bc6e2a9c33bb:003",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_003.json",
+      "char_count": 196
+    },
+    {
+      "id": "doc_80e6bc6e2a9c33bb:004",
+      "section": "스칼렛",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_004.json",
+      "char_count": 205
+    },
+    {
+      "id": "doc_80e6bc6e2a9c33bb:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_005.json",
+      "char_count": 355
+    },
+    {
+      "id": "doc_80e6bc6e2a9c33bb:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_006.json",
+      "char_count": 377
+    }
+  ]
+}

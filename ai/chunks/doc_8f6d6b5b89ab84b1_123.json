@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:123",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 마텔다 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_123.json",
+  "text": "## [2026-06-26] rebuild | 마텔다 항목 정리\n\n[마텔다](characters/axions/마텔다/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리하고 소속명을 [오르딜리아](universe/realms/balance/nations/오르딜리아.md) 기준으로 맞췄다.\n\n- 정리: 무법 이후의 법, 오르딜리아의 통치, 페리페테이아와 파놉티콘, 마스터 링, 미노스, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [마텔다 외형](characters/axions/마텔다/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 판결 직전의 심판관, 서리 파프니르 기사 바이저, 마스터 링과 반지 공명 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 마텔다 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 440,
+    "sha256": "993527a98f8c7381b71e46afd777bb4b4e29e4b847836a479b0a099bf688e647"
+  }
+}

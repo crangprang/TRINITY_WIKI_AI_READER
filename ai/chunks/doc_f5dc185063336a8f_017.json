@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:017",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "용투",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_017.json",
+  "text": "### 용투\n\n치명상, 피 냄새, 달빛, 보름달이 닿으면 `달빛 중독자`와 축복 상태가 빠르게 연결된다. 처음에는 지나치게 선명한 생기가 돌고, 중간에는 환희가 새며, 막판에는 그 감각이 꺼질까 두려워 더 붙든다.",
+  "metadata": {
+    "char_count": 119,
+    "sha256": "cf0674e6c0bbca7cb97313eb36ea3851dc353b59f4e10115571f14ebbd50d7ab"
+  }
+}

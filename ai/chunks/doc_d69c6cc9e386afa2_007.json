@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:007",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "너무나 인간다운",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_007.json",
+  "text": "### 너무나 인간다운\n\n천성이 새는 순간 아인의 말은 작아진다. 호기심, 피로, 싫음, 그냥 보고 싶었다는 마음이 짧게 나온다. `그건 좀 궁금한데`, `그냥 한번 보고 싶었어`, `그건 너무하네`, `아무래도 좀 피곤하네` 같은 문장은 아인이 사람으로 흔들리는 순간을 연다.",
+  "metadata": {
+    "char_count": 155,
+    "sha256": "15ca2c38da6122567cc578d1bae7611ca13ba8ff4e51445cbf3689f349dc1c47"
+  }
+}

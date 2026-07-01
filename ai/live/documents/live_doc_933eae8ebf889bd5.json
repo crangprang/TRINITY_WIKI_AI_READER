@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_933eae8ebf889bd5",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC07_VALDEMAR.txt",
+  "title": "발데마르",
+  "summary": "발데마르",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "0da2a8a3a2d074a03820d7e2992789e939b744c726def7b4fd794245553cb9e0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_933eae8ebf889bd5.json",
+  "chunks": [
+    {
+      "id": "live_doc_933eae8ebf889bd5:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_933eae8ebf889bd5_000.json",
+      "char_count": 798
+    }
+  ]
+}

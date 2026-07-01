@@ -1,0 +1,120 @@
+{
+  "id": "doc_c5f1f3ae6fad3c51",
+  "path": "wiki/events/singularities/건곤일척.md",
+  "wiki_path": "events/singularities/건곤일척.md",
+  "title": "건곤일척",
+  "summary": "장기 정보 수집 끝에 티폰 토벌을 건 건곤일척의 원정 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "건곤일척"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "60a8bada2988e493ac74f3ee41c2acd4e0a8f7f4794b9a90e50ba8a5efa73eed",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c5f1f3ae6fad3c51.json",
+  "chunks": [
+    {
+      "id": "doc_c5f1f3ae6fad3c51:000",
+      "section": "건곤일척",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_000.json",
+      "char_count": 165
+    },
+    {
+      "id": "doc_c5f1f3ae6fad3c51:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_001.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_c5f1f3ae6fad3c51:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_002.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_c5f1f3ae6fad3c51:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_003.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_c5f1f3ae6fad3c51:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_004.json",
+      "char_count": 179
+    },
+    {
+      "id": "doc_c5f1f3ae6fad3c51:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_005.json",
+      "char_count": 204
+    },
+    {
+      "id": "doc_c5f1f3ae6fad3c51:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_006.json",
+      "char_count": 233
+    }
+  ]
+}

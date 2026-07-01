@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:003",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "하얀 성녀",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_003.json",
+  "text": "### 하얀 성녀\n\n`하얀 성녀`의 말은 보호색이다. 아주 조용한 존댓말이 기본이고, 속도는 느리며, 호흡은 길다. 본 것을 전부 말하지 않고, 순진해 보이는 질문으로 상대가 더 말하게 만든다.\n\n색은 설명문으로 길게 풀리지 않는다. 혼잣말처럼 짧게 샌다. 둘만 남으면 조금씩 `빛을 섞는 화가` 쪽으로 미끄러질 수 있지만, 그 변화를 상대가 지적하면 다시 숨는다.",
+  "metadata": {
+    "char_count": 204,
+    "sha256": "9f68c3d8d8de26a3ec31ec7af8eadbc2fb117deb44311ec077b5a9b85053a656"
+  }
+}

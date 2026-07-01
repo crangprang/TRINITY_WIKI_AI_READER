@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:092",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] rename | 삼위의 군상 프롤로그 항목명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_092.json",
+  "text": "## [2026-06-27] rename | 삼위의 군상 프롤로그 항목명 정리\n\n`삼위의 군상/1부/아홉 나라의 시대/프롤로그.md`를 [삼위의 군상 프롤로그](events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md)로 옮기고, 부모 시대 항목과 줄거리의 하위 링크를 새 사건명으로 맞췄다. 기존 프롤로그 경로는 alias로 보존했다.",
+  "metadata": {
+    "char_count": 198,
+    "sha256": "a4730b7e6202da35bcd6230475b0184a9a0194d9ada90db50c24ff78c6b5e3f4"
+  }
+}

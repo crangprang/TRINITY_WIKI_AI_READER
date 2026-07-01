@@ -1,0 +1,106 @@
+{
+  "id": "doc_eb47f553d06edbe8",
+  "path": "wiki/universe/realms/balance/organizations/드래그니즘.md",
+  "wiki_path": "universe/realms/balance/organizations/드래그니즘.md",
+  "title": "드래그니즘",
+  "summary": "드래그니즘은 용인 공동체의 전통, 역사, 신앙, 생존 기술을 묶는 이단 축으로, 염한의 박해와 에레모스의 잔존 공동체를 통해 이어진다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy",
+    "dragonkin"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "드래그니즘"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "박해와 잔존"
+    },
+    {
+      "level": 2,
+      "title": "정교와의 관계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    }
+  ],
+  "sha256": "94dedc6cf7d4b5073558e6f3cfbf0662d2e7f8b7fb940c27011ca49a0a8970f9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_eb47f553d06edbe8.json",
+  "chunks": [
+    {
+      "id": "doc_eb47f553d06edbe8:000",
+      "section": "드래그니즘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_eb47f553d06edbe8_000.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_eb47f553d06edbe8:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_eb47f553d06edbe8_001.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_eb47f553d06edbe8:002",
+      "section": "박해와 잔존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_eb47f553d06edbe8_002.json",
+      "char_count": 228
+    },
+    {
+      "id": "doc_eb47f553d06edbe8:003",
+      "section": "정교와의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_eb47f553d06edbe8_003.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_eb47f553d06edbe8:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_eb47f553d06edbe8_004.json",
+      "char_count": 347
+    }
+  ]
+}

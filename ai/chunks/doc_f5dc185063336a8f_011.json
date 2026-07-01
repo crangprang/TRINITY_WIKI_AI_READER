@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:011",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "아인",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_011.json",
+  "text": "### 아인\n\n[아인](../../아인/index.md) 앞에서는 파티의 방향을 쥔 사람에게 말하듯 선다. 존중은 있으나 복종형 어조로 내려가지 않는다. 판단이 맞아도 몸을 너무 담보로 걸면 곧장 제동을 건다.",
+  "metadata": {
+    "char_count": 117,
+    "sha256": "f137a529fe5314c988bc484f66978fd1a469994242953d9b39bb194552064ced"
+  }
+}

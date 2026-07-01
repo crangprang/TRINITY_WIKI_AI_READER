@@ -1,0 +1,23 @@
+{
+  "id": "doc_920497070d83f1fc:008",
+  "document_id": "doc_920497070d83f1fc",
+  "path": "wiki/universe/realms/balance/nations/에레모스.md",
+  "wiki_path": "universe/realms/balance/nations/에레모스.md",
+  "title": "에레모스",
+  "section": "장막과 야영지",
+  "summary": "에레모스는 아홉 나라 바깥에서 길과 야영지와 구난 루트가 살아 움직이는 외지 권역이다. 돌로 닦인 길 대신 살아 돌아온 발걸음이 길을 만들고, 국경 대신 장막과 통과구와 임시 야영지가 생활권을 잇는다. 스트레인저, 용인 공동체, 떠돌이 기술자 같은 바깥의 사람들이 서로를 경계하면서도 끝내 길과 구조를 이어 붙인다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_008.json",
+  "text": "### 장막과 야영지\n\n장막은 에레모스의 임시 성벽이다. 피난민은 장막 아래에서 치료와 교환, 통행 소문을 나누고, 구조자는 그곳에서 다음 구난 루트를 짠다. 낡은 천과 말뚝, 화로와 물통, 구조 로프와 표지목이 모이면 하루짜리 국경이 생긴다.\n\n야영지는 고정 도시의 형식 없이도 생활권의 중심이 된다. 장막 하나가 어느 날에는 피난처가 되고, 어느 날에는 검문소가 되며, 또 어느 날에는 통과구를 기다리는 사람들의 임시 시장이 된다.",
+  "metadata": {
+    "char_count": 243,
+    "sha256": "fef4bd594d9a1a8b5069621463f4df2f4529ff5ca876ca6d983c450e373b78ee"
+  }
+}

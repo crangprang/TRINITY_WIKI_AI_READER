@@ -1,0 +1,502 @@
+{
+  "id": "doc_b622bc1efcf2e840",
+  "path": "wiki/universe/realms/balance/nations/플라센티아.md",
+  "wiki_path": "universe/realms/balance/nations/플라센티아.md",
+  "title": "플라센티아",
+  "summary": "플라센티아는 거신의 갈비뼈와 생체 숲이 맞물린 사냥의 나라다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "플라센티아"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "소마"
+    },
+    {
+      "level": 3,
+      "title": "옴팔로스와 복부 3x3"
+    },
+    {
+      "level": 3,
+      "title": "히스테라"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "거신과 숲"
+    },
+    {
+      "level": 3,
+      "title": "거짓말 금기"
+    },
+    {
+      "level": 3,
+      "title": "고치와 심장"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "잔재의 기원"
+    },
+    {
+      "level": 3,
+      "title": "혼돈의 시대"
+    },
+    {
+      "level": 3,
+      "title": "대공명"
+    },
+    {
+      "level": 3,
+      "title": "사냥과 생존의 질서"
+    },
+    {
+      "level": 2,
+      "title": "장치와 순환"
+    },
+    {
+      "level": 2,
+      "title": "사회와 문화"
+    },
+    {
+      "level": 3,
+      "title": "핵심 계층"
+    },
+    {
+      "level": 3,
+      "title": "거짓말 금기"
+    },
+    {
+      "level": 3,
+      "title": "표식과 암호"
+    },
+    {
+      "level": 3,
+      "title": "식탁과 불"
+    },
+    {
+      "level": 3,
+      "title": "허물 장례"
+    },
+    {
+      "level": 2,
+      "title": "주요 인물"
+    },
+    {
+      "level": 3,
+      "title": "제페토"
+    },
+    {
+      "level": 3,
+      "title": "투르키나"
+    },
+    {
+      "level": 3,
+      "title": "피노키오"
+    },
+    {
+      "level": 3,
+      "title": "그레고르"
+    },
+    {
+      "level": 3,
+      "title": "마스크맨 사냥단"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "진실과 생존"
+    },
+    {
+      "level": 3,
+      "title": "구원과 변이"
+    },
+    {
+      "level": 3,
+      "title": "끊기와 멸종"
+    },
+    {
+      "level": 2,
+      "title": "생태와 사냥"
+    },
+    {
+      "level": 3,
+      "title": "소마, 옴팔로스, 히스테라"
+    },
+    {
+      "level": 3,
+      "title": "피톤과 케찰코아틀의 구분"
+    },
+    {
+      "level": 3,
+      "title": "사냥 절차"
+    },
+    {
+      "level": 3,
+      "title": "크리쳐 양식"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "이름층과 성상"
+    },
+    {
+      "level": 3,
+      "title": "용의 수수께끼"
+    },
+    {
+      "level": 3,
+      "title": "관련 작품 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    }
+  ],
+  "sha256": "3a969517dd9f6fa190f05982ee2c38c3b0317ba38b1d89de5ff07ce326c89959",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b622bc1efcf2e840.json",
+  "chunks": [
+    {
+      "id": "doc_b622bc1efcf2e840:000",
+      "section": "플라센티아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_000.json",
+      "char_count": 611
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_001.json",
+      "char_count": 452
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:002",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:003",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_003.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:004",
+      "section": "소마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_004.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:005",
+      "section": "옴팔로스와 복부 3x3",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_005.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:006",
+      "section": "히스테라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_006.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:007",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_007.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:008",
+      "section": "거신과 숲",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_008.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:009",
+      "section": "거짓말 금기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_009.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:010",
+      "section": "고치와 심장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_010.json",
+      "char_count": 122
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:011",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_011.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:012",
+      "section": "잔재의 기원",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_012.json",
+      "char_count": 170
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:013",
+      "section": "혼돈의 시대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_013.json",
+      "char_count": 199
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:014",
+      "section": "대공명",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_014.json",
+      "char_count": 411
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:015",
+      "section": "사냥과 생존의 질서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_015.json",
+      "char_count": 149
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:016",
+      "section": "장치와 순환",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_016.json",
+      "char_count": 826
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:017",
+      "section": "사회와 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:018",
+      "section": "핵심 계층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_018.json",
+      "char_count": 163
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:019",
+      "section": "거짓말 금기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_019.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:020",
+      "section": "표식과 암호",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_020.json",
+      "char_count": 100
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:021",
+      "section": "식탁과 불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_021.json",
+      "char_count": 119
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:022",
+      "section": "허물 장례",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_022.json",
+      "char_count": 93
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:023",
+      "section": "주요 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_023.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:024",
+      "section": "제페토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_024.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:025",
+      "section": "투르키나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_025.json",
+      "char_count": 92
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:026",
+      "section": "피노키오",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_026.json",
+      "char_count": 100
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:027",
+      "section": "그레고르",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_027.json",
+      "char_count": 89
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:028",
+      "section": "마스크맨 사냥단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_028.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:029",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_029.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:030",
+      "section": "진실과 생존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_030.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:031",
+      "section": "구원과 변이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_031.json",
+      "char_count": 123
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:032",
+      "section": "끊기와 멸종",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_032.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:033",
+      "section": "생태와 사냥",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_033.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:034",
+      "section": "소마, 옴팔로스, 히스테라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_034.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:035",
+      "section": "피톤과 케찰코아틀의 구분",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_035.json",
+      "char_count": 299
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:036",
+      "section": "사냥 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_036.json",
+      "char_count": 550
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:037",
+      "section": "크리쳐 양식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_037.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:038",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_038.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:039",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_039.json",
+      "char_count": 221
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:040",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_040.json",
+      "char_count": 54
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:041",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_041.json",
+      "char_count": 133
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:042",
+      "section": "이름층과 성상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_042.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:043",
+      "section": "용의 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_043.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:044",
+      "section": "관련 작품 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_044.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_b622bc1efcf2e840:045",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b622bc1efcf2e840_045.json",
+      "char_count": 417
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_dc72191980823236",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_02A_DIVINE_SYSTEM.txt",
+  "title": "WC01_DETAILS_02A_DIVINE_SYSTEM",
+  "summary": "WC01_DETAILS_02A_DIVINE_SYSTEM",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "6d3151993b6f83937c09b7f3a595f76f223c2d076f5a55f35c24608bad6a605b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_dc72191980823236.json",
+  "chunks": [
+    {
+      "id": "live_doc_dc72191980823236:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_dc72191980823236_000.json",
+      "char_count": 5719
+    }
+  ]
+}

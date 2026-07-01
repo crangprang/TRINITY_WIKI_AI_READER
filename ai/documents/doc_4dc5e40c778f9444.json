@@ -1,0 +1,570 @@
+{
+  "id": "doc_4dc5e40c778f9444",
+  "path": "wiki/universe/realms/balance/nations/레이어드.md",
+  "wiki_path": "universe/realms/balance/nations/레이어드.md",
+  "title": "레이어드",
+  "summary": "레이어드는 지하 공동 속에 층층이 박힌 거래의 나라다. 네메아의 황금 왕관, 지상으로 향하던 바벨의 상승 역사, 피뢰침처럼 솟은 헤드포인트 1~9, 비와 광고와 금융이 뒤엉킨 기업도시의 광휘가 외지인에게는 \\\"여기서는 과거 대신 기회가 통한다\\\"는 약속처럼 보인다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "레이어드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 3,
+      "title": "언어권과 계약 언어"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "네메아와 바벨"
+    },
+    {
+      "level": 3,
+      "title": "헤드포인트 1~9"
+    },
+    {
+      "level": 3,
+      "title": "레르나"
+    },
+    {
+      "level": 3,
+      "title": "아케론"
+    },
+    {
+      "level": 3,
+      "title": "스틱스"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "바벨"
+    },
+    {
+      "level": 3,
+      "title": "거래와 불"
+    },
+    {
+      "level": 3,
+      "title": "탐욕"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "건국기"
+    },
+    {
+      "level": 3,
+      "title": "바벨의 전복"
+    },
+    {
+      "level": 3,
+      "title": "신용과 계약의 질서"
+    },
+    {
+      "level": 2,
+      "title": "장치와 사회"
+    },
+    {
+      "level": 3,
+      "title": "카타바시스"
+    },
+    {
+      "level": 3,
+      "title": "플루토스와 스틱스"
+    },
+    {
+      "level": 3,
+      "title": "무한의 보물"
+    },
+    {
+      "level": 2,
+      "title": "생활과 문화"
+    },
+    {
+      "level": 3,
+      "title": "크레딧"
+    },
+    {
+      "level": 3,
+      "title": "불"
+    },
+    {
+      "level": 3,
+      "title": "기업 암투와 우산"
+    },
+    {
+      "level": 3,
+      "title": "구룡 기업"
+    },
+    {
+      "level": 3,
+      "title": "레르나의 하층 경제"
+    },
+    {
+      "level": 3,
+      "title": "아케론과 결산 감각"
+    },
+    {
+      "level": 2,
+      "title": "조직과 집단"
+    },
+    {
+      "level": 3,
+      "title": "글로벌 코텍스"
+    },
+    {
+      "level": 3,
+      "title": "구룡"
+    },
+    {
+      "level": 3,
+      "title": "까마귀"
+    },
+    {
+      "level": 2,
+      "title": "주요 인물"
+    },
+    {
+      "level": 3,
+      "title": "마이더스"
+    },
+    {
+      "level": 3,
+      "title": "카론"
+    },
+    {
+      "level": 3,
+      "title": "케르베로스"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "상승"
+    },
+    {
+      "level": 3,
+      "title": "담보"
+    },
+    {
+      "level": 3,
+      "title": "결산"
+    },
+    {
+      "level": 2,
+      "title": "용과 생태"
+    },
+    {
+      "level": 3,
+      "title": "히드라와 구룡 금수장"
+    },
+    {
+      "level": 3,
+      "title": "용의 수수께끼"
+    },
+    {
+      "level": 3,
+      "title": "생태와 크리쳐"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "기회와 결산"
+    },
+    {
+      "level": 3,
+      "title": "관련 작품 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "탐욕의 판타즈마",
+      "target": "wiki/beings/phantasmas/탐욕의_판타즈마.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    }
+  ],
+  "sha256": "00e81ee2b6d97bf91839175779887955ff4b86453d2ac027edd60d09a6597df5",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4dc5e40c778f9444.json",
+  "chunks": [
+    {
+      "id": "doc_4dc5e40c778f9444:000",
+      "section": "레이어드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_000.json",
+      "char_count": 627
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_001.json",
+      "char_count": 455
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:002",
+      "section": "언어권과 계약 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_002.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:003",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_003.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:004",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_004.json",
+      "char_count": 336
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:005",
+      "section": "네메아와 바벨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_005.json",
+      "char_count": 147
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:006",
+      "section": "헤드포인트 1~9",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_006.json",
+      "char_count": 274
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:007",
+      "section": "레르나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_007.json",
+      "char_count": 179
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:008",
+      "section": "아케론",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_008.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:009",
+      "section": "스틱스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_009.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:010",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_010.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:011",
+      "section": "바벨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_011.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:012",
+      "section": "거래와 불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_012.json",
+      "char_count": 155
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:013",
+      "section": "탐욕",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_013.json",
+      "char_count": 119
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:014",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_014.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:015",
+      "section": "건국기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_015.json",
+      "char_count": 639
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:016",
+      "section": "바벨의 전복",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_016.json",
+      "char_count": 227
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:017",
+      "section": "신용과 계약의 질서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_017.json",
+      "char_count": 262
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:018",
+      "section": "장치와 사회",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_018.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:019",
+      "section": "카타바시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_019.json",
+      "char_count": 581
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:020",
+      "section": "플루토스와 스틱스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_020.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:021",
+      "section": "무한의 보물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_021.json",
+      "char_count": 368
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:022",
+      "section": "생활과 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_022.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:023",
+      "section": "크레딧",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_023.json",
+      "char_count": 91
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:024",
+      "section": "불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_024.json",
+      "char_count": 113
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:025",
+      "section": "기업 암투와 우산",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_025.json",
+      "char_count": 116
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:026",
+      "section": "구룡 기업",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_026.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:027",
+      "section": "레르나의 하층 경제",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_027.json",
+      "char_count": 362
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:028",
+      "section": "아케론과 결산 감각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_028.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:029",
+      "section": "조직과 집단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_029.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:030",
+      "section": "글로벌 코텍스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_030.json",
+      "char_count": 273
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:031",
+      "section": "구룡",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_031.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:032",
+      "section": "까마귀",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_032.json",
+      "char_count": 96
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:033",
+      "section": "주요 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_033.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:034",
+      "section": "마이더스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_034.json",
+      "char_count": 125
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:035",
+      "section": "카론",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_035.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:036",
+      "section": "케르베로스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_036.json",
+      "char_count": 100
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:037",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_037.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:038",
+      "section": "상승",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_038.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:039",
+      "section": "담보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_039.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:040",
+      "section": "결산",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_040.json",
+      "char_count": 109
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:041",
+      "section": "용과 생태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_041.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:042",
+      "section": "히드라와 구룡 금수장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_042.json",
+      "char_count": 278
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:043",
+      "section": "용의 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_043.json",
+      "char_count": 75
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:044",
+      "section": "생태와 크리쳐",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_044.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:045",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_045.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:046",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_046.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:047",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_047.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:048",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_048.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:049",
+      "section": "기회와 결산",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_049.json",
+      "char_count": 113
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:050",
+      "section": "관련 작품 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_050.json",
+      "char_count": 99
+    },
+    {
+      "id": "doc_4dc5e40c778f9444:051",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4dc5e40c778f9444_051.json",
+      "char_count": 495
+    }
+  ]
+}

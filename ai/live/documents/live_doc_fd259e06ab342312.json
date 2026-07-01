@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_fd259e06ab342312",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_09_CULTURE_AND_TABOOS.txt",
+  "title": "WC01_DETAILS",
+  "summary": "WC01_DETAILS",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "05ca0ce70d52e83dad7239dade7ec810de08f080cba3fe4eb1bc8101791eb8d4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_fd259e06ab342312.json",
+  "chunks": [
+    {
+      "id": "live_doc_fd259e06ab342312:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_fd259e06ab342312_000.json",
+      "char_count": 5859
+    }
+  ]
+}

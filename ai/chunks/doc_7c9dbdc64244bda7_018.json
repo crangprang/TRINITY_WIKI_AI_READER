@@ -1,0 +1,24 @@
+{
+  "id": "doc_7c9dbdc64244bda7:018",
+  "document_id": "doc_7c9dbdc64244bda7",
+  "path": "wiki/universe/structure/아홉_보물.md",
+  "wiki_path": "universe/structure/아홉_보물.md",
+  "title": "아홉 보물",
+  "section": "관련 문서",
+  "summary": "아홉 보물은 세 오리진 조각의 공명을 붙잡던 제어장치였고, 칼시네이션 뒤에는 트리네아드, 엑시온, 아포라투스, 아홉 나라의 비극 구조를 잇는 빈 그릇으로 남았다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "structure",
+    "origin",
+    "treasures"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c9dbdc64244bda7_018.json",
+  "text": "## 관련 문서\n\n- [오리진](오리진.md) - 아홉 보물의 근원 매듭과 누미노스/역 누미노스의 상위 구조.\n- [트리네아드](../../characters/trineads/index.md) - 보물에서 분리된 고결한 의지와 신격 계통.\n- [아포라투스](../realms/balance/apparatus/index.md) - 보물, 아타노르 잔재, 프로토타입 필로시온이 결합한 국가 장치.\n- [엑시온](../../characters/axions/index.md) - 보물이 선택한 인간 숙주와 왕권 호출자.\n- [아홉 나라](../realms/balance/nations/index.md) - 보물과 아포라투스가 국가 질서로 굳은 균형계 표면.",
+  "metadata": {
+    "char_count": 363,
+    "sha256": "3425c3a2e585c7c4cb7c761b2aed6294356d9227553ae50430c84e6a10f0b63c"
+  }
+}

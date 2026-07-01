@@ -1,0 +1,24 @@
+{
+  "id": "doc_a68823035d6d8828:000",
+  "document_id": "doc_a68823035d6d8828",
+  "path": "wiki/events/world_history/알레인의_동화책.md",
+  "wiki_path": "events/world_history/알레인의_동화책.md",
+  "title": "알레인의 동화책",
+  "section": "알레인의 동화책",
+  "summary": "알레인의 동화책은 공포를 아이가 부를 수 있는 이름으로 다시 번역한 이야기 체계이며, 아홉 아타노르의 이름과 아홉 나라의 오독으로 이어지는 세계사 핵심 서사 물건이다.",
+  "status": "draft",
+  "type": "event_artifact",
+  "tags": [
+    "events",
+    "world-history",
+    "artifact",
+    "alaine"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a68823035d6d8828_000.json",
+  "text": "# 알레인의 동화책\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 세계사 서사 물건 |\n| 관련 시대 | 아홉 영웅의 시대 |\n| 관련 인물 | 알레인 / 리그레드 / 알비우스 |\n| 주요 동화 | 별을 쫓는 기사 |\n| 중심 기능 | 공포를 아이가 부를 수 있는 이름으로 번역하고, 후대가 세계를 오독하는 이야기층이 된다. |",
+  "metadata": {
+    "char_count": 187,
+    "sha256": "31db89d7e7d1f3420bca2eae5a68b1f463ae1290c7bd420c20479cbd18a49dbe"
+  }
+}

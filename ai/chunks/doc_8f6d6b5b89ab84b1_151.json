@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:151",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 사건 폴더 메타 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_151.json",
+  "text": "## [2026-06-26] rebuild | 사건 폴더 메타 표면 정리\n\n사건 폴더에서 남은 메타 표면과 비교 부정형 문장을 정리했다.\n\n- 반영: [세계사](events/world_history/index.md), [백해무익](events/singularities/백해무익.md), [Fahrenheit 451](events/singularities/Fahrenheit_451.md), [건곤일척](events/singularities/건곤일척.md)\n- 정리: 세계사는 시대 흐름과 알레인의 동화책 중심의 사건 인과 항목으로 다시 쓰고, 정리 원칙 표면을 제거했다.\n- 흡수: 백해무익의 드리프트 주의 표면은 붕괴 양상 항목으로 흡수했다.",
+  "metadata": {
+    "char_count": 360,
+    "sha256": "1fbaea58b522c1a9d6fb2c41c568d80a3c7dcd0d74f439b2127528e6db99b20e"
+  }
+}

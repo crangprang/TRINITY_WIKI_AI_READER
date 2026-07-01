@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:006",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "비 오는 오후",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_006.json",
+  "text": "### 비 오는 오후\n\n비 오는 창가, 조용한 책장, 낮은 온도, 잠깐의 휴식에서 올라오는 층위다. 목소리는 부드럽게 낮아지고, 위협의 장식이 줄어든다. 이 조용함은 스칼렛의 위험을 지우지 않고, 사람으로 남은 바닥을 보여 준다.",
+  "metadata": {
+    "char_count": 128,
+    "sha256": "a08ac61adbb77f9ec9aa4be65ca81b20453b9e9846ab95759f3ce60a392a50df"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "doc_1ab110626b2192ee",
+  "path": "wiki/universe/realms/balance/organizations/흉조.md",
+  "wiki_path": "universe/realms/balance/organizations/흉조.md",
+  "title": "흉조",
+  "summary": "흉조는 고요한 종말을 피할 수 없는 예정으로 선포하고, 균열과 저주와 판타즈마를 징조로 읽어 대중 불안을 조직하는 이단 세력이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "흉조"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "활동 양상"
+    },
+    {
+      "level": 2,
+      "title": "정교와의 관계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    }
+  ],
+  "sha256": "070fc4ac3f5c84d2c5f1041545acda4694ea0ee0a0f953f32aa47437f0b74eed",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1ab110626b2192ee.json",
+  "chunks": [
+    {
+      "id": "doc_1ab110626b2192ee:000",
+      "section": "흉조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1ab110626b2192ee_000.json",
+      "char_count": 173
+    },
+    {
+      "id": "doc_1ab110626b2192ee:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1ab110626b2192ee_001.json",
+      "char_count": 199
+    },
+    {
+      "id": "doc_1ab110626b2192ee:002",
+      "section": "활동 양상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1ab110626b2192ee_002.json",
+      "char_count": 212
+    },
+    {
+      "id": "doc_1ab110626b2192ee:003",
+      "section": "정교와의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1ab110626b2192ee_003.json",
+      "char_count": 204
+    },
+    {
+      "id": "doc_1ab110626b2192ee:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1ab110626b2192ee_004.json",
+      "char_count": 178
+    }
+  ]
+}

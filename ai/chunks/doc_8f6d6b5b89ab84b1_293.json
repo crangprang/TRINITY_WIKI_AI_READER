@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:293",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | README와 잠금 문구 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_293.json",
+  "text": "## [2026-06-26] maintenance | README와 잠금 문구 정리\n\n루트 README의 legacy folder 설명을 alias redirect 설명으로 맞추고, 사용자 잠금 기록의 캐릭터 문서 표현을 항목 표현으로 바꿨다.",
+  "metadata": {
+    "char_count": 136,
+    "sha256": "789f068d382d3f3c93a308dbc25e1cf1f88555171bb7361c16ab36968d51276f"
+  }
+}

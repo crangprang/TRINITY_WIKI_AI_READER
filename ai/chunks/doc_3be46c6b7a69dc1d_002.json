@@ -1,0 +1,24 @@
+{
+  "id": "doc_3be46c6b7a69dc1d:002",
+  "document_id": "doc_3be46c6b7a69dc1d",
+  "path": "wiki/universe/realms/balance/organizations/구세군.md",
+  "wiki_path": "universe/realms/balance/organizations/구세군.md",
+  "title": "구세군",
+  "section": "현장 권한",
+  "summary": "구세군은 삼위정교 공인 조직으로, 용기의 이름 아래 파괴계 침공과 전조 대응, 구조, 치안, 현장 무력 투입을 수행한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_002.json",
+  "text": "## 현장 권한\n\n구세군은 재난 현장, 침공 전조, 외지 권역의 치안 공백에 들어간다. 통행권과 징발권은 현장 대응 속도를 보장하지만, 동시에 각 나라가 자기 내부 문제를 대륙 질서의 이름으로 넘기게 만드는 통로가 된다.\n\n파르마콘이 대동될 때 구세군의 진입은 단순한 구조가 아니라 판정과 단속으로 바뀐다. 신고되지 않은 이레귤러, 이단 의심자, 저주 보유자, 격리 대상은 구조 대상과 위험 대상 사이에서 재분류된다.\n\n구세군은 사람을 구하기 위해 문을 열고, 같은 문으로 사람을 끌고 나간다. 현장 시민에게는 구호대이지만, 이단 세력과 외지 공동체에게는 공인 무력의 얼굴이다. 이 양면성이 구세군을 균형계에서 가장 환영받으면서도 두려운 조직으로 만든다.",
+  "metadata": {
+    "char_count": 366,
+    "sha256": "f22e0895819e39a31ee9193d2d20e1375ab900da310c27e7de91fdb27f4d09cd"
+  }
+}

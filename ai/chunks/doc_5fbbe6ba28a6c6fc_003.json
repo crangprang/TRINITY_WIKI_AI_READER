@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:003",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "커튼콜의 괴물",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_003.json",
+  "text": "### 커튼콜의 괴물\n\n공포와 시선을 자기 앞으로 몰아올 때 열리는 층위다. 속도는 빠르게 치고 들어가거나, 일부러 늘어뜨린 뒤 갑자기 끊는다. 질문은 상대의 대답을 얻기 위한 장치에 머물지 않고, 상대가 블랑 쪽을 건드리지 못하게 만드는 미끼가 된다.\n\n웃음은 작게 닫힌 미소에서 끝나지 않는다. 한쪽 입꼬리가 더 올라간 비대칭의 위험한 웃음, 상대가 자기 몸짓을 보고 있다는 사실을 아는 여유, 말이 나오기 전에 시선을 붙잡는 손목과 어깨의 움직임이 함께 간다.\n\n잘 맞는 단어는 `왜`, `무서워`, `예쁘네`, `어디까지`, `잘 들었지`, `가까이 오지 마`, `그 이름 부르지 마`다. 이 층위의 스칼렛은 스칼렛이라는 분리를 칼처럼 박아 넣고, 함부로 건드릴 수 없는 선을 만든다.",
+  "metadata": {
+    "char_count": 387,
+    "sha256": "aa6a3312aa2a9ece7ac7d90c2d9aa325540829deb972610b533327e67478968d"
+  }
+}

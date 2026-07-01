@@ -1,0 +1,24 @@
+{
+  "id": "doc_fe1eb6b47941b747:006",
+  "document_id": "doc_fe1eb6b47941b747",
+  "path": "wiki/characters/fellsions/역병의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/역병의_펠시온/support/appearance.md",
+  "title": "역병의 펠시온 외형",
+  "section": "관련 문서",
+  "summary": "역병의 펠시온의 검은 대주교 실루엣, 동충하초 백골 부리 가면, 포자향, 균사와 부패의 복음 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fe1eb6b47941b747_006.json",
+  "text": "## 관련 문서\n\n- [역병의 펠시온](../index.md) - 동충하초 백골 부리 가면, 포자향, 검은 대주교, 감염 통제가 외형의 질병 의식과 성직성을 이루는 펠시온.",
+  "metadata": {
+    "char_count": 96,
+    "sha256": "63658f185df240f5c7266963f7fdaff906646fb7c9313f8d94eb889e487b6779"
+  }
+}

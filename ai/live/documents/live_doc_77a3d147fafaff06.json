@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_77a3d147fafaff06",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC09_CASPAR.txt",
+  "title": "카스파르",
+  "summary": "카스파르",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "32736684f9f44dac0f81b7fa5580e2574dff7e10bbc8512654c1c32ee918daee",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_77a3d147fafaff06.json",
+  "chunks": [
+    {
+      "id": "live_doc_77a3d147fafaff06:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_77a3d147fafaff06_000.json",
+      "char_count": 699
+    }
+  ]
+}

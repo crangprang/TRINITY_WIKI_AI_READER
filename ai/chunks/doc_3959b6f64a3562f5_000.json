@@ -1,0 +1,23 @@
+{
+  "id": "doc_3959b6f64a3562f5:000",
+  "document_id": "doc_3959b6f64a3562f5",
+  "path": "wiki/characters/personas/에어리얼/index.md",
+  "wiki_path": "characters/personas/에어리얼/index.md",
+  "title": "에어리얼",
+  "section": "에어리얼",
+  "summary": "에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_000.json",
+  "text": "# 에어리얼\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 에어리얼 |\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 30대 초반 |\n| 소속/지역 | 탐험의 나라 [마사오트](../../../universe/realms/balance/nations/마사오트.md) |\n| 연결된 아포라투스 | 엑소도스 |\n| 제어기관 | 키베르노스 |\n| 표층 인터페이스 | 길드의 전설적인 탐험가 / 브리지의 조언자 / 폭풍 전야의 길 안내인 |\n| 심층 주도권 | 방주 잔재, 노틸러스와 카리브디스 |\n| 왜곡 목적 | 티폰 봉인을 끝없는 도피 항로와 선장의 편지 의무로 유지한다 |\n| 주요 관계 | [프로스페로](../../axions/프로스페로/index.md), [캘리번](../../savior_candidates/캘리번/index.md) |",
+  "metadata": {
+    "char_count": 430,
+    "sha256": "34ee91839da4a581570d35d26172a840ea7014c9d954824b7b7ecd997ee97afe"
+  }
+}

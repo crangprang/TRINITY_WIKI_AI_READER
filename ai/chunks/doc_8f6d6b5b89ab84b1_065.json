@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:065",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 하마르티아 계열 구분 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_065.json",
+  "text": "## [2026-06-28] ingest | 하마르티아 계열 구분 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md` §19 A의 하마르티아와 저주의 차이를 계열별로 정리했다. [하위신](universe/laws/하위신.md)에 트리네아드, 필로시온-페르소나, 엑시온, 펠시온의 권능·하마르티아·현현 차이를 표로 추가하고, 각 계열 문서에는 해당 계열에서 하마르티아가 붙는 위치를 보강했다.\n\n[트리네아드](characters/trineads/index.md)는 영웅의 이념과 오답이 보물과 오리진을 통과해 신격을 낳는 씨앗으로, [엑시온](characters/axions/index.md)은 국가 상처가 왕권에 집중된 꼬임으로, [페르소나](characters/personas/index.md)와 [필로시온](universe/laws/필로시온.md)은 직무가 장치의 오답으로 굳은 구조로, [펠시온](characters/fellsions/index.md)은 파괴계 이름 판결이 존재를 묶는 꼬임으로 정리했다. 인간·초인 문맥에서는 `하마르티아`를 개인 상처명으로 쓰지 않도록 [3부 줄거리](events/삼위의_군상/3부/초인의_시대/줄거리.md)의 표면도 `핵심 오답`으로 낮췄다.",
+  "metadata": {
+    "char_count": 622,
+    "sha256": "c0b44508b315747e23eaa5ad0f43dcb353bcd87adaa1b02e8d41e78191c81ccd"
+  }
+}

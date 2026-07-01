@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:203",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] visual update | 아인 여행자 코트와 프롬프트 변환 주의",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_203.json",
+  "text": "## [2026-06-23] visual update | 아인 여행자 코트와 프롬프트 변환 주의\n\n아인의 코트 방향을 정장형/전략가형 코트보다 여행자용 짧은-중간 길이 외투로 보정하고, 이미지 프롬프트 변환 시 추상어를 그대로 쓰지 않도록 운용 주의를 추가했다.\n\n- 반영: [아인](characters/main_party/아인/index.md)\n- 주요 판단: 프롬프트에는 `작은 리더`, `방어와 위장`, `자유의 나라` 같은 맥락어만 넣지 않고, 살짝 그을린 피부, 또렷한 검은 눈, 차콜/잿빛 남색 여행자 코트, 수평 벨트 여밈, 두꺼운 스카프, 손탄 무광 직물, 낮은 생활화처럼 보이는 요소로 번역한다.",
+  "metadata": {
+    "char_count": 342,
+    "sha256": "5c11c6d3cc02678b2b258ca30b3fcc9418a918538a61a407ccb59c86aa8fad11"
+  }
+}

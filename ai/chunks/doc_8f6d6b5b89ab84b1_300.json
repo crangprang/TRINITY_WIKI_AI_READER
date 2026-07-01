@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:300",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 우주 구조 alias 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_300.json",
+  "text": "## [2026-06-26] maintenance | 우주 구조 alias 보강\n\n`우주와 세계 구조`, `우주와 세계구조` 접근명을 [삼위일체 우주](universe/structure/삼위일체_우주.md)로 수렴시키는 alias를 추가했다. 복합 관리 제목은 독립 항목으로 되살리지 않고 실제 우주 항목으로 연결한다.",
+  "metadata": {
+    "char_count": 178,
+    "sha256": "8633233f99a742c032b9524042005725028d5f384e4e8b12d02e7c1fd77023f4"
+  }
+}

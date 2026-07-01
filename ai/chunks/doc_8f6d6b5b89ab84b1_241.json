@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:241",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 존재 영역 상위 항목 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_241.json",
+  "text": "## [2026-06-26] rebuild | 존재 영역 상위 항목 확장\n\n[존재](beings/index.md), [하급 생물과 생태](beings/creatures/index.md), [판타즈마](beings/phantasmas/index.md)를 단순 진입·색인 표면에서 존재군 항목으로 확장했다.\n\n- 정리: 존재 영역의 범위를 하급 생물, 지역 생태, 원생 생물, 판타즈마, 괴생태로 정의하고 세 에너지, 하위신, 아홉 나라와 연결했다.\n- 구조: 하급 생물과 생태에는 생활 생태, 원생 생물, 직접 위협, 장치 주변 생태의 층위를 추가했다.\n- 판타즈마: 발생 구조, 계열, 하위 항목을 보강하고 아홉 용 개별 문서의 관련 문서 설명에서 `문서 색인` 표현을 제거했다.",
+  "metadata": {
+    "char_count": 380,
+    "sha256": "9dd8950d05c5aa41a60ac3c419c7695a2f1b130dcc08d74190aa7bfd245f46df"
+  }
+}

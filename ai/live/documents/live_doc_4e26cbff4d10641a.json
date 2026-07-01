@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_4e26cbff4d10641a",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/04_CHARON/PER04_FACT_DETAIL.txt",
+  "title": "카론 / FACT_DETAIL",
+  "summary": "카론 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "5099d78c376d30d2a3032abcf54685228b2789a04fb979722a89c6c8bb9592c5",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_4e26cbff4d10641a.json",
+  "chunks": [
+    {
+      "id": "live_doc_4e26cbff4d10641a:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4e26cbff4d10641a_000.json",
+      "char_count": 265
+    }
+  ]
+}

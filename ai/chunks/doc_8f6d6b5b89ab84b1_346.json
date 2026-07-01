@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:346",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] worldlaw | 세계법칙 연결 순서 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_346.json",
+  "text": "## [2026-06-28] worldlaw | 세계법칙 연결 순서 정리\n\n[삼위일체 우주](universe/structure/삼위일체_우주.md), [세 에너지](universe/laws/세_에너지.md), [오리진](universe/structure/오리진.md), [하위신](universe/laws/하위신.md)의 중복 안내 문장을 정리해 `우주 구조 -> 에너지 문법 -> 오리진 매듭/위상 -> 하위신 분화` 흐름으로 맞췄다. 판타즈마는 하위신 분류 밖의 괴생태 축으로 유지했다.",
+  "metadata": {
+    "char_count": 274,
+    "sha256": "62860f5aae481dba6539e88adeac5e679a653381ec12c43c020f38117f7f839b"
+  }
+}

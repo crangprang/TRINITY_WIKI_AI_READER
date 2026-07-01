@@ -1,0 +1,23 @@
+{
+  "id": "doc_770119ae93377230:026",
+  "document_id": "doc_770119ae93377230",
+  "path": "wiki/characters/main_party/옌/index.md",
+  "wiki_path": "characters/main_party/옌/index.md",
+  "title": "옌",
+  "section": "파티",
+  "summary": "옌은 감정과 분위기와 욕망의 움직임을 색으로 너무 빨리 읽는 아이다. 흰 성녀의 조용한 사회어는 생존용 막이며, 그 막이 깨지면 숨은 색을 끌어내고 싶어 하는 화가의 호기심이 전면으로 튄다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_026.json",
+  "text": "### 파티\n\n[파티](../파티/index.md) 안에서 옌은 각자의 색을 다르게 읽는다. 길티어에게서는 함부로 건드릴 수 없는 회색의 보호를 읽고, 진에게서는 선명한 보라색의 불균형을 본다. 블랑과 스칼렛에게서는 같은 얼굴 안에 다른 문법이 공존하는 불가해함을 읽고, 세레나에게서는 허가된 푸름과 들킨 붉음이 한 몸에서 부딪히는 문턱을 본다.\n\n같은 찌르기라도 상대에 따라 방식이 달라진다. 진에게는 순한 질문으로 안쪽 어긋남을 드러내게 만들고, 세레나에게는 오래 본 뒤 아주 늦게 정확한 말 하나를 던진다. 단테에게는 무해한 얼굴로 맞춘 뒤, 가면과 본색의 어긋남을 짧은 질문으로 건드린다.",
+  "metadata": {
+    "char_count": 333,
+    "sha256": "daefec084eee6040f45a41314630cbe03468c714b5f8a744cc142dff201382a3"
+  }
+}

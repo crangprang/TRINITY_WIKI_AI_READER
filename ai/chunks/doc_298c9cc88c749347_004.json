@@ -1,0 +1,24 @@
+{
+  "id": "doc_298c9cc88c749347:004",
+  "document_id": "doc_298c9cc88c749347",
+  "path": "wiki/characters/personas/에어리얼/support/appearance.md",
+  "wiki_path": "characters/personas/에어리얼/support/appearance.md",
+  "title": "에어리얼 외형",
+  "section": "편지와 항로",
+  "summary": "에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_004.json",
+  "text": "## 편지와 항로\n\n편지는 에어리얼의 핵심 소품이다. 손에 든 편지, 바람에 뜬 봉투, 브리지 위 항로도, 나침반 바늘이 함께 놓이면 벤트리스의 편지 의무와 방주의 동력이 한 장면에 잡힌다.\n\n방주 항로도는 자유로운 여행 지도보다 도피와 봉인의 궤적을 보여 준다. 구름 항로, 붉은 경보등, 폭풍 전야의 돛, 브리지 유리창의 떨림이 에어리얼의 안내를 둘러싼다.",
+  "metadata": {
+    "char_count": 201,
+    "sha256": "24801b88c8036eac345734f0116283a01430515c7fb36ddc176638d5f78f5b3e"
+  }
+}

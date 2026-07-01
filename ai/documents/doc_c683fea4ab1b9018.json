@@ -1,0 +1,109 @@
+{
+  "id": "doc_c683fea4ab1b9018",
+  "path": "wiki/universe/realms/balance/organizations/크로니클.md",
+  "wiki_path": "universe/realms/balance/organizations/크로니클.md",
+  "title": "크로니클",
+  "summary": "크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "크로니클"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "기록과 공표"
+    },
+    {
+      "level": 2,
+      "title": "정교 질서와 비밀 명령"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    }
+  ],
+  "sha256": "c4b41e02307cd66753225700f2a80c58578227683da72626e368b5976b5623dd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c683fea4ab1b9018.json",
+  "chunks": [
+    {
+      "id": "doc_c683fea4ab1b9018:000",
+      "section": "크로니클",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_000.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_c683fea4ab1b9018:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_001.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_c683fea4ab1b9018:002",
+      "section": "기록과 공표",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_002.json",
+      "char_count": 396
+    },
+    {
+      "id": "doc_c683fea4ab1b9018:003",
+      "section": "정교 질서와 비밀 명령",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_003.json",
+      "char_count": 353
+    },
+    {
+      "id": "doc_c683fea4ab1b9018:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_004.json",
+      "char_count": 257
+    }
+  ]
+}

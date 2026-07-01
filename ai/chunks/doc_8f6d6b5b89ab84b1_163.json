@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:163",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] cleanup | repo-local schema residue 제거",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_163.json",
+  "text": "## [2026-06-26] cleanup | repo-local schema residue 제거\n\n참조되지 않는 repo-local `WIKI_SCHEMA.md`를 제거했다.\n\n- 기준: WIKI 구조, 문서 양식, 표면 규칙은 외부 `CONTRACTS/TRINITY_WIKI/` 계약이 소유한다.\n- 유지: repo 안에는 앱, 도구, 위키 본문, 의도적으로 보존하는 raw 안내만 남긴다.",
+  "metadata": {
+    "char_count": 220,
+    "sha256": "e1742d5c595cf85ca55fa95d5bab0962b8e91788fa8c297b24d56cef91afd3fb"
+  }
+}

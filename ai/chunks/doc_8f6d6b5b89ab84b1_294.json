@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:294",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 장면 표제 운영어 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_294.json",
+  "text": "## [2026-06-26] style | 장면 표제 운영어 정리\n\n인물, 존재, 외형 지원 항목의 `장면 운용`, `시각 운용`, `가면별 운용`, `말투와 장면 운용` 표제를 `장면 역할`, `시각 기준`, `가면별 얼굴`, `말투와 장면 역할`로 바꾸고 관련 참조 문장도 같은 용어로 맞췄다.",
+  "metadata": {
+    "char_count": 166,
+    "sha256": "78a1bf550c2f501b70b47df7ba07cdeb8265c6ad9e7ad27e34888c4ba21a0184"
+  }
+}

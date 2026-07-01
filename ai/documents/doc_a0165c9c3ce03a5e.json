@@ -1,0 +1,105 @@
+{
+  "id": "doc_a0165c9c3ce03a5e",
+  "path": "wiki/universe/realms/balance/organizations/필그림즈.md",
+  "wiki_path": "universe/realms/balance/organizations/필그림즈.md",
+  "title": "필그림즈",
+  "summary": "필그림즈는 파라디소 기반의 기능조직으로, 오멜라스의 구조를 아는 이들과 외부 봉사자가 나라 밖 재난 현장에 나서는 순례망이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "필그림즈"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "순례와 봉사"
+    },
+    {
+      "level": 2,
+      "title": "국가와 후보"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    }
+  ],
+  "sha256": "e7317a7a109184d737571dc34489f003ebcfac8c7d95d6405c781a89cd5748e0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a0165c9c3ce03a5e.json",
+  "chunks": [
+    {
+      "id": "doc_a0165c9c3ce03a5e:000",
+      "section": "필그림즈",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_000.json",
+      "char_count": 303
+    },
+    {
+      "id": "doc_a0165c9c3ce03a5e:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_001.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_a0165c9c3ce03a5e:002",
+      "section": "순례와 봉사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_002.json",
+      "char_count": 253
+    },
+    {
+      "id": "doc_a0165c9c3ce03a5e:003",
+      "section": "국가와 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_003.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_a0165c9c3ce03a5e:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_004.json",
+      "char_count": 245
+    }
+  ]
+}

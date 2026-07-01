@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce20d090386715c3:005",
+  "document_id": "doc_ce20d090386715c3",
+  "path": "wiki/characters/personas/탈레스/support/appearance.md",
+  "wiki_path": "characters/personas/탈레스/support/appearance.md",
+  "title": "탈레스 외형",
+  "section": "시각 경계",
+  "summary": "탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_005.json",
+  "text": "## 시각 경계\n\n- 인간형 윤곽은 유지하되, 인간 민낯 초상은 얼굴판 뒤로 잠긴다.\n- 현대 지식인, 교수, 마법사 로브, 대형 시계 얼굴, 로봇 얼굴은 탈레스의 질문 의지를 약하게 만든다.\n- 검은 석판과 촛불을 중심 소품으로 두고, 색인 고리는 보조 상징으로 사용한다.\n- 현대 화면 표기와 기계 장식보다 비인간적 연산 의지와 질문 기하를 앞세운다.",
+  "metadata": {
+    "char_count": 198,
+    "sha256": "436a907816ea7bef94b9753d53af60b5c84bda9fa18da81a7eb1661698673dc3"
+  }
+}

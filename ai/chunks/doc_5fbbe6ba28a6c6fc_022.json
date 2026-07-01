@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:022",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "관련 문서",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_022.json",
+  "text": "## 관련 문서\n\n- [스칼렛](../index.md) - 위협, 연출, 낮은 휴식 욕구가 말투의 날카로움과 보호 본능을 이루는 인물.\n- [스칼렛 외형](appearance.md) - 오드아이, 고정핀 슬릿, 혈조 도구가 발화의 위협성과 맞물리는 외형 항목.\n- [블랑](../../블랑/index.md) - 스칼렛이 지키려는 같은 몸의 다른 전면이자 죄책감의 중심.\n- [엘리자베스](../../엘리자베스/index.md) - 블랑과 스칼렛의 공용 몸과 이름 충돌을 묶는 이름.",
+  "metadata": {
+    "char_count": 269,
+    "sha256": "4b1ea14103a1bf7659fd9d1beaa006f0cab3515790c77ab18cf801a1ff5d363a"
+  }
+}

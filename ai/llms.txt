@@ -1,0 +1,16 @@
+# TRINITY_WIKI
+
+> Curated worldbuilding database, reader-facing wiki, and AI collaboration reader pack for TRINITY.
+
+## Start Here
+
+- [AI Boot Pack](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/bootpack.md): required first read for AI collaborators.
+- [Manifest](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/manifest.json): full generated catalog.
+- [Search Index](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/search-index.json): chunk ids, previews, and fetch URLs.
+- [Topic Index](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/index.md): optional navigation map only; not an automatic summary or evidence source.
+- [Combined Cache Manifest](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/cache_manifest.json): ZIP metadata for hydrating source Markdown plus AI Reader pack.
+- [Combined Cache ZIP](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/trinity_wiki_cache_full.zip): full local-cache bundle.
+
+## Deep Reading
+
+Use `search-index.json` to locate relevant chunks, then fetch the chunk URL. Topic indexes only help choose where to look. Review documents are action context and should not be treated as settled canon without user confirmation.

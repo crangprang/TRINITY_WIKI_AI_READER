@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:114",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 케르베로스 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_114.json",
+  "text": "## [2026-06-26] rebuild | 케르베로스 항목 정리\n\n[케르베로스](characters/savior_candidates/케르베로스/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [레이어드](universe/realms/balance/nations/레이어드.md)의 계약, 올림피아 2위, 마이더스 전속 용병, 카론의 헤라클레스 조건 구조에 맞췄다.\n\n- 정리: 계약의 프로, 올림피아 2위, 마이더스, 카론과 헤라클레스, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [케르베로스 외형](characters/savior_candidates/케르베로스/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 세 방향 감시, 세 무기, 느와르 도시 배경 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 케르베로스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 478,
+    "sha256": "8d01ed4c36ffbc1b302aaac0f433ef41ef33fd35add7d7bbe45d18f9d41cb35d"
+  }
+}

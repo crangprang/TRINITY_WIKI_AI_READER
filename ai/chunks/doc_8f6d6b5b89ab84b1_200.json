@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:200",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] canon update | 단테 동기와 물성 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_200.json",
+  "text": "## [2026-06-23] canon update | 단테 동기와 물성 보정\n\n단테의 1:1 시련 동기를 `누군가를 지키는 보호 본능`이 아니라 `별=루시아의 시선을 잃을 것 같은 공포`로 고정했다. 견습기사성, 등 뒤의 누군가, 끝까지 데려가고 싶은 마음은 전면 동기가 아니라 끝자락에서만 드러나는 천성의 잔광으로 정리했다.\n\n- 반영: [단테](characters/main_party/단테/index.md), [P07 단테 / 음악 키워드와 명사 물성](characters/main_party/단테/support/music.md)\n- LIVE CANON 반영: `P07_CORE`, `P07_FACT_DETAIL`, `P07_REFERENCE`, `P07_VOICE_SAMPLE`, `P07_BRANCH_IDEA`\n- 주요 판단: 단테의 물성 흐름은 `진흙 -> 얼음/결투재판 -> 불/광견 -> 형벌/순례`다. 진흙에서는 별이 보이지 않고, 검을 뽑는 순간 발밑은 얼어붙으며, 얼음이 깨질 때 분노와 광견성이 터지고, 끝에는 죄에 대한 형벌로 이어지는 지옥 순례가 남는다.",
+  "metadata": {
+    "char_count": 548,
+    "sha256": "5d163ba52e35573de8b7984077eed6302df438e8995569c0e67f91424c37a7b1"
+  }
+}

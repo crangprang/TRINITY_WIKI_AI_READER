@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_e749cf3895e3105d",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P03_GUILTIER/P03_FACT_DETAIL.txt",
+  "title": "P03_길티어 / FACT_DETAIL",
+  "summary": "P03_길티어 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "b21772f67f63fb7c8f425e5b7c7ea76d6b282ffa53938de8f7d3f988daed1cda",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_e749cf3895e3105d.json",
+  "chunks": [
+    {
+      "id": "live_doc_e749cf3895e3105d:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_e749cf3895e3105d_000.json",
+      "char_count": 4465
+    }
+  ]
+}

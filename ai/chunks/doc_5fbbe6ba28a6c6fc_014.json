@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:014",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "추적과 수습",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_014.json",
+  "text": "### 추적과 수습\n\n목격자 수, 문과 창, 피의 흐름, 손자국, 너무 깨끗한 현장은 모두 말의 재료가 된다. 스칼렛은 현장을 정리하면서도 의심을 계산하고, 블랑의 흔적을 가리는 말과 단서를 좇는 말을 동시에 쓴다.",
+  "metadata": {
+    "char_count": 120,
+    "sha256": "d99b4db31eaf5a42b569bfc6f31826420cb79df8a07cf951c561e48b462600d8"
+  }
+}

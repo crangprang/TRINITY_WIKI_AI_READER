@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_cac0a46f195b2b2b:002",
+  "document_id": "live_doc_cac0a46f195b2b2b",
+  "path": "01_CANON/README.md",
+  "title": "01_CANON",
+  "section": "Reading Order",
+  "summary": "`01_CANON` is the canon stabilizer for the repo.",
+  "root": "01_CANON",
+  "category": "01_CANON:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_002.json",
+  "text": "## Reading Order\n\n1. the numbered canon `.txt` files\n2. the relevant index file only as a map",
+  "metadata": {
+    "char_count": 93,
+    "sha256": "ee2a3e3db14517c70427d2bf20132d5f1d29e8eaea50cac3010c577ab5e6dca8"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "doc_ed45f7097518fa4c",
+  "path": "wiki/beings/creatures/마사오트_항해_생태.md",
+  "wiki_path": "beings/creatures/마사오트_항해_생태.md",
+  "title": "마사오트 항해 생태",
+  "summary": "구름쌀, 돛막균, 봉투돛새 등이 노틸러스호와 길드선 주변에서 이루는 마사오트 항해 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마사오트 항해 생태"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "생태 원리"
+    },
+    {
+      "level": 2,
+      "title": "생활과 생태 반응"
+    },
+    {
+      "level": 2,
+      "title": "계열 구분"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    }
+  ],
+  "sha256": "15ac01568c60277ee971496b71557d1478207d0f4fb08d38fd6fad14153535f8",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed45f7097518fa4c.json",
+  "chunks": [
+    {
+      "id": "doc_ed45f7097518fa4c:000",
+      "section": "마사오트 항해 생태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_000.json",
+      "char_count": 93
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_001.json",
+      "char_count": 125
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_002.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_003.json",
+      "char_count": 1546
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:004",
+      "section": "생태 원리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_004.json",
+      "char_count": 327
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:005",
+      "section": "생활과 생태 반응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_005.json",
+      "char_count": 287
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:006",
+      "section": "계열 구분",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_006.json",
+      "char_count": 51
+    },
+    {
+      "id": "doc_ed45f7097518fa4c:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_007.json",
+      "char_count": 111
+    }
+  ]
+}

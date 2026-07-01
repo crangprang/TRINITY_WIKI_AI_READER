@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_83531b28a359a9ca",
+  "path": "02_LORE/L04_TRADE/L04_FACT_DETAIL.txt",
+  "title": "L04_레이어드 / FACT_DETAIL",
+  "summary": "L04_레이어드 / FACT_DETAIL",
+  "root": "02_LORE",
+  "category": "02_LORE:L04_TRADE",
+  "suffix": ".txt",
+  "sha256": "dfd056a64a5317efa1ce6b043e9f3dffbe71a48e7d1e9db64c2b7cd6fe8c3ad2",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_83531b28a359a9ca.json",
+  "chunks": [
+    {
+      "id": "live_doc_83531b28a359a9ca:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83531b28a359a9ca_000.json",
+      "char_count": 6160
+    }
+  ]
+}

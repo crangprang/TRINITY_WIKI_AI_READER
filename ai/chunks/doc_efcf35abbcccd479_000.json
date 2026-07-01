@@ -1,0 +1,23 @@
+{
+  "id": "doc_efcf35abbcccd479:000",
+  "document_id": "doc_efcf35abbcccd479",
+  "path": "wiki/characters/axions/설리반/index.md",
+  "wiki_path": "characters/axions/설리반/index.md",
+  "title": "설리반",
+  "section": "설리반",
+  "summary": "설리반은 파라디소의 엑시온이자 대주교로, 검은 비와 오멜라스의 비용을 공개해 평화를 유지하면서도 생존을 위해 감정과 사람을 선별하는 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efcf35abbcccd479_000.json",
+  "text": "# 설리반\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 설리반 |\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 40대 중반 |\n| 눈색 | 푸른색 |\n| 소속/지역 | 9성좌 공의회, 평화의 나라 [파라디소](../../../universe/realms/balance/nations/파라디소.md) |\n| 직책/역할 | 대주교, 엑시온, 평화 성좌 |\n| 계승 상태 | 계승자 엑시온 |\n| 연결된 아포라투스 | 카타르시스 |\n| 연결된 장치 요소 | 에우카리스 |\n| 보물 | 순수의 보물, 세리엔의 우의 |\n| 권능 | 구름, 부유, 감정 선별, 추락 지연, 검은 비 배분 |\n| 보물 선택 조건 | 구원받기를 포기하고 적어도 인간다운 결말을 선택하며 비용을 공개된 봉직 절차로 배분하려는 공리주의 |\n| 왕권 상징 | 세리엔의 우의, 오멜라스 하강 명부, 검은 빗방울, 격납 돔 가면, 선량계형 계측 장치 |\n| 대응 페르소나 | [헬렌](../../personas/헬렌/index.md) |",
+  "metadata": {
+    "char_count": 520,
+    "sha256": "f50290a2f87b944c6889afbc60f6a3f047f21686ca8fdfc116a4ddd2569406ef"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_830bfdb501cc3309:008",
+  "document_id": "doc_830bfdb501cc3309",
+  "path": "wiki/characters/savior_candidates/index.md",
+  "wiki_path": "characters/savior_candidates/index.md",
+  "title": "구세주 후보",
+  "section": "관련 문서",
+  "summary": "아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "savior_candidates",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_008.json",
+  "text": "## 관련 문서\n\n- [올림피아](../../universe/realms/balance/nations/올림피아.md) - 구세주 후보가 공표되고 검증되는 중앙 무대.\n- [아홉 나라](../../universe/realms/balance/nations/index.md) - 각 후보가 대표하는 국가와 이념의 세계 항목.\n- [균형계 조직](../../universe/realms/balance/organizations/index.md) - 기능조직과 공인 조직, 이단 세력의 조직 색인.\n- [페르소나](../personas/index.md) - 신앙의 응답권을 점유하며 구세주 후보의 체제 질문과 맞물리는 표층 대변자.\n- [엑시온](../axions/index.md) - 후보가 국가 표면에서 드러내는 균열과 맞물리는 왕권과 통치 얼굴.",
+  "metadata": {
+    "char_count": 414,
+    "sha256": "079157059676d14a6078f8b3518da7e07c83bc2a175389121603a9486311b5d5"
+  }
+}

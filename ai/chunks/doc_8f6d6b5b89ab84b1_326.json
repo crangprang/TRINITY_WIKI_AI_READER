@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:326",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 아홉 나라 원샷 양식 슬롯화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_326.json",
+  "text": "## [2026-06-27] ingest | 아홉 나라 원샷 양식 슬롯화\n\n`아홉나라 원샷 정리 양식.txt`를 국가별 정본값 소스가 아니라 리뉴얼 슬롯 기준으로 분류했다. 1~8층은 [본문 보강 대상](review/template_gaps.md)에 국가 문서 리뉴얼 슬롯으로 정리하고, 나라별 형식 작업 상태는 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다.",
+  "metadata": {
+    "char_count": 236,
+    "sha256": "cc1dd8df008967717f44d6294517ea93baebccfa89d7ddaadfff2e39c0f81cd1"
+  }
+}

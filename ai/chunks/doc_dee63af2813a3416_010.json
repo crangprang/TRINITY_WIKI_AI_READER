@@ -1,0 +1,23 @@
+{
+  "id": "doc_dee63af2813a3416:010",
+  "document_id": "doc_dee63af2813a3416",
+  "path": "wiki/beings/dragonkin/용인.md",
+  "wiki_path": "beings/dragonkin/용인.md",
+  "title": "용인",
+  "section": "관련 문서",
+  "summary": "용인은 용과 인간의 시대에 형성된 용인 혈통이 삼계 환경에 적응하며 분화한 지성체 집단이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "dragonkin",
+    "sapient"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dee63af2813a3416_010.json",
+  "text": "## 관련 문서\n\n- [용 계열](index.md) - 용인과 아홉 용이 놓이는 상위 존재 항목.\n- [아홉 용](아홉_용.md) - 용인 문명이 그 아래에서 성장하고 지배를 수행한 원본 용들.\n- [드래그니즘](../../universe/realms/balance/organizations/드래그니즘.md) - 용인 공동체의 전통, 역사, 신앙, 생존 기술.\n- [에레모스](../../universe/realms/balance/nations/에레모스.md) - 드래그나 공동체와 드래그니즘 잔존 전통이 이어지는 외지 권역.\n- [염한](../../universe/realms/balance/nations/염한.md) - 인간과 용인의 형제상잔, 용인 박해, 아백과 세레나의 배경.\n- [세레나](../../characters/main_party/세레나/index.md) - 용인 박해와 푸른 달 부족의 생존 기억을 품은 주역.\n- [아백](../../characters/savior_candidates/아백/index.md) - 용인 병사의 명예와 염한의 강함을 함께 떠받치는 구세주 후보.",
+  "metadata": {
+    "char_count": 556,
+    "sha256": "2f043f4c0ac37d294d443e65b9f2f9dae0637b3e6a52e9abd7d75823e774caf2"
+  }
+}

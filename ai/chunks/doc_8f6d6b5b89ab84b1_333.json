@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:333",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 아홉 나라 명명 층위 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_333.json",
+  "text": "## [2026-06-27] ingest | 아홉 나라 명명 층위 정리\n\n`TRINITY_아홉나라_명명체계_HANDOFF.txt`를 대조해 비극층, 신화층, 문명층, 서사층의 명명 층위를 [균형계 언어](universe/realms/balance/language/index.md)에 반영했다. 교체 전 국가명과 아포라투스명은 채택하지 않고 현재 WIKI 정본명을 유지했으며, 후보명 설명으로 남아 있던 표면을 정본명 선언형 문장으로 줄였다.",
+  "metadata": {
+    "char_count": 246,
+    "sha256": "565fe1e488ab393789d1da61d9bc006260a7bdaf691d65fc7d4f830c1b3e3f94"
+  }
+}

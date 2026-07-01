@@ -1,0 +1,23 @@
+{
+  "id": "doc_bb715ad1ad9d7128:000",
+  "document_id": "doc_bb715ad1ad9d7128",
+  "path": "wiki/review/template_gaps.md",
+  "wiki_path": "review/template_gaps.md",
+  "title": "본문 보강 대상",
+  "section": "본문 보강 대상",
+  "summary": "독자용 WIKI 항목에서 빈 섹션을 만들지 않기 위해 남겨 둔 활성 보강 대상과 리뉴얼 슬롯.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "wiki",
+    "template-gaps"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_000.json",
+  "text": "# 본문 보강 대상\n\n독자용 WIKI 항목에는 빈 섹션을 만들지 않는다. 일반 양식 기준은 계약과 [사용자 잠금](user_locks.md)이 맡고, 이 항목은 실제 항목군별 공백만 다룬다.",
+  "metadata": {
+    "char_count": 106,
+    "sha256": "702e9f105897b0010ed9f5dfe73e568b151b51338961b0e67de593411a9e6eaa"
+  }
+}

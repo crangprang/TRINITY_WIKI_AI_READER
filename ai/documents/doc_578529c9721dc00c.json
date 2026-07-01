@@ -1,0 +1,100 @@
+{
+  "id": "doc_578529c9721dc00c",
+  "path": "wiki/beings/creatures/플라센티아_숲_생태.md",
+  "wiki_path": "beings/creatures/플라센티아_숲_생태.md",
+  "title": "플라센티아 숲 생태",
+  "summary": "갈비이끼, 거죽피막, 매듭덩굴 등이 인간 신호와 사냥 숲 주변에서 이루는 플라센티아 숲 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "플라센티아 숲 생태"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "생태 원리"
+    },
+    {
+      "level": 2,
+      "title": "생활과 생태 반응"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    }
+  ],
+  "sha256": "79cbeab9def17bdb0916a3c218f3fe5eecb66d055b664ffecb2c8d50888a0585",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_578529c9721dc00c.json",
+  "chunks": [
+    {
+      "id": "doc_578529c9721dc00c:000",
+      "section": "플라센티아 숲 생태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_000.json",
+      "char_count": 92
+    },
+    {
+      "id": "doc_578529c9721dc00c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_001.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_578529c9721dc00c:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_002.json",
+      "char_count": 171
+    },
+    {
+      "id": "doc_578529c9721dc00c:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_003.json",
+      "char_count": 1413
+    },
+    {
+      "id": "doc_578529c9721dc00c:004",
+      "section": "생태 원리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_004.json",
+      "char_count": 384
+    },
+    {
+      "id": "doc_578529c9721dc00c:005",
+      "section": "생활과 생태 반응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_005.json",
+      "char_count": 252
+    },
+    {
+      "id": "doc_578529c9721dc00c:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_578529c9721dc00c_006.json",
+      "char_count": 106
+    }
+  ]
+}

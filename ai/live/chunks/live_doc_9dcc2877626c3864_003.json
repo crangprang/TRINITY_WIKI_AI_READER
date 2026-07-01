@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_9dcc2877626c3864:003",
+  "document_id": "live_doc_9dcc2877626c3864",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/PART1_README.txt",
+  "title": "PART1_NINE_NATIONS_ERA",
+  "section": "Guide Compression",
+  "summary": "This part is the active plot scaffold for the Nine Nations era.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_003.json",
+  "text": "## Guide Compression\n\n- the root guide explains the global plot-and-scene role\n- this part guide explains the active era and the chapter/episode contract\n- chapter directories should stay focused on live chapter files, default files, and templates\n- the old `README_AI.md` guidance has been absorbed here:\n  - chapter files are the top-level narrative unit\n  - episode files hold the actual module and scene structure\n  - chapter-level indexes or status boards should only exist if they are truly needed for navigation",
+  "metadata": {
+    "char_count": 518,
+    "sha256": "3f3c3feb3ef56781d0b2c5f67d5a8ddf7990b7156c50609b2ddca53593f5a877"
+  }
+}

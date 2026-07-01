@@ -1,0 +1,100 @@
+{
+  "id": "doc_7614d08a87f94d90",
+  "path": "wiki/beings/phantasmas/마사오트_2등급_판타즈마.md",
+  "wiki_path": "beings/phantasmas/마사오트_2등급_판타즈마.md",
+  "title": "마사오트 2등급 판타즈마",
+  "summary": "미착, 접현, 추락을 중심으로 구성된 마사오트의 2등급 판타즈마군.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-27",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마사오트 2등급 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    }
+  ],
+  "sha256": "cb5c66f6a650faaceadac20f4c10474147591502081d9ba7d67c270f0aaa2545",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7614d08a87f94d90.json",
+  "chunks": [
+    {
+      "id": "doc_7614d08a87f94d90:000",
+      "section": "마사오트 2등급 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_000.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_7614d08a87f94d90:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_001.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_7614d08a87f94d90:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_002.json",
+      "char_count": 61
+    },
+    {
+      "id": "doc_7614d08a87f94d90:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_003.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_7614d08a87f94d90:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_004.json",
+      "char_count": 170
+    },
+    {
+      "id": "doc_7614d08a87f94d90:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_005.json",
+      "char_count": 59
+    },
+    {
+      "id": "doc_7614d08a87f94d90:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7614d08a87f94d90_006.json",
+      "char_count": 107
+    }
+  ]
+}

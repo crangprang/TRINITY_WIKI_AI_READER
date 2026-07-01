@@ -1,0 +1,137 @@
+{
+  "id": "doc_ce0d01fc2c7dd5a2",
+  "path": "wiki/universe/realms/balance/language/index.md",
+  "wiki_path": "universe/realms/balance/language/index.md",
+  "title": "균형계 언어",
+  "summary": "균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "language",
+    "naming"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "균형계 언어"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "공용어와 지역 언어"
+    },
+    {
+      "level": 2,
+      "title": "이름과 세계법칙"
+    },
+    {
+      "level": 2,
+      "title": "명명 층위"
+    },
+    {
+      "level": 2,
+      "title": "아포라투스와 기관명"
+    },
+    {
+      "level": 2,
+      "title": "언어권과 장르톤"
+    },
+    {
+      "level": 2,
+      "title": "명명 원칙"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    }
+  ],
+  "sha256": "44f03267fb65db1b0f52bfbee13014ead415f134ff08827aa9ff52515d3d13f6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce0d01fc2c7dd5a2.json",
+  "chunks": [
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:000",
+      "section": "균형계 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_000.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_001.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:002",
+      "section": "공용어와 지역 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_002.json",
+      "char_count": 523
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:003",
+      "section": "이름과 세계법칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_003.json",
+      "char_count": 454
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:004",
+      "section": "명명 층위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_004.json",
+      "char_count": 664
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:005",
+      "section": "아포라투스와 기관명",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_005.json",
+      "char_count": 685
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:006",
+      "section": "언어권과 장르톤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_006.json",
+      "char_count": 627
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:007",
+      "section": "명명 원칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_007.json",
+      "char_count": 376
+    },
+    {
+      "id": "doc_ce0d01fc2c7dd5a2:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_008.json",
+      "char_count": 185
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_2e542fd964d0a38a:006",
+  "document_id": "doc_2e542fd964d0a38a",
+  "path": "wiki/events/singularities/백해무익.md",
+  "wiki_path": "events/singularities/백해무익.md",
+  "title": "백해무익",
+  "section": "관련 인물 및 세력",
+  "summary": "인내가 무너질 때 백색 제어가 붕괴하고, 하늘과 지상이 함께 추락하는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_006.json",
+  "text": "## 관련 인물 및 세력\n\n- [옌](../../characters/main_party/옌/index.md)은 백색화와 지상/천상 재결합의 압력을 직접 떠안는 인물이다.\n- 파라디소 시민과 필그림즈는 인내의 한계와 봉직의 의미를 함께 드러낸다.\n- [파티](../../characters/main_party/파티/index.md)는 평화의 안정감이 추락으로 뒤집히는 사건을 통과한다.",
+  "metadata": {
+    "char_count": 214,
+    "sha256": "22219f7938a5964e2922c864de481f15ca2cd64779d243f379c9b0d7800432d1"
+  }
+}

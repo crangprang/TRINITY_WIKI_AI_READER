@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d89033aafd000041",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX08_SULLIVAN.txt",
+  "title": "설리반",
+  "summary": "설리반",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "b3c9b26792724ab7fb7a41216988da785db34634cd9acede6de61476c4a88ad0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d89033aafd000041.json",
+  "chunks": [
+    {
+      "id": "live_doc_d89033aafd000041:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d89033aafd000041_000.json",
+      "char_count": 1959
+    }
+  ]
+}

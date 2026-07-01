@@ -1,0 +1,115 @@
+{
+  "id": "doc_5d291f1a26b8e9fd",
+  "path": "wiki/characters/ensemble/배신의_펠시온/support/appearance.md",
+  "wiki_path": "characters/ensemble/배신의_펠시온/support/appearance.md",
+  "title": "배신의 펠시온 외형",
+  "summary": "배신의 펠시온의 후드 로브, 전갈 백골 가면, 은발과 보라 눈, 숨긴 가위 비수, 맨얼굴의 신뢰 유도 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:ensemble",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "배신의 펠시온 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "후드와 로브"
+    },
+    {
+      "level": 2,
+      "title": "전갈 백골 가면"
+    },
+    {
+      "level": 2,
+      "title": "맨얼굴"
+    },
+    {
+      "level": 2,
+      "title": "비수와 손"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    }
+  ],
+  "sha256": "2f68eb7372bdda50ec1559f2c2b9375aff2f6b79f7008e519ef16c061da0dddc",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5d291f1a26b8e9fd.json",
+  "chunks": [
+    {
+      "id": "doc_5d291f1a26b8e9fd:000",
+      "section": "배신의 펠시온 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_000.json",
+      "char_count": 119
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_001.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:002",
+      "section": "후드와 로브",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_002.json",
+      "char_count": 199
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:003",
+      "section": "전갈 백골 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_003.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:004",
+      "section": "맨얼굴",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_004.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:005",
+      "section": "비수와 손",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_005.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:006",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_006.json",
+      "char_count": 133
+    },
+    {
+      "id": "doc_5d291f1a26b8e9fd:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_007.json",
+      "char_count": 90
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:282",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 주인공 지원 항목 관계 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_282.json",
+  "text": "## [2026-06-26] style | 주인공 지원 항목 관계 설명 보강\n\n주인공 지원 항목의 관련 목록에서 부모 인물, 외형, 보이스, 관계 인물 링크가 관리 라벨로 보이지 않도록 발화·시각 운용·관계 기능 중심의 설명으로 보강했다.",
+  "metadata": {
+    "char_count": 133,
+    "sha256": "239fafe64fd3b650745598448512f37f296a010a9e039f2adbcbf416e3f684dc"
+  }
+}

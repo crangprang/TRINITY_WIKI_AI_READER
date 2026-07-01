@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:012",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-27 아홉 보물과 장치 체계",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_012.json",
+  "text": "## 2026-06-27 아홉 보물과 장치 체계\n\n- 아홉 보물은 [오리진](../universe/structure/오리진.md)의 하위 절에만 묶어 두지 않고, [아홉 보물](../universe/structure/아홉_보물.md) 공통 항목으로 분리한다.\n- 아홉 보물 공통 항목은 오리진 조각에서 분화한 제어장치 기원, 칼시네이션 뒤 트리네아드 분리, 빈 그릇의 위상, 엑시온 선택과 아포라투스 권능 매개를 소유한다.\n- 필로시온은 [필로시온](../universe/laws/필로시온.md) 항목으로 분리한다. 이 항목은 창조계 인공 신격체, 프로토타입과 양산형 구분, 국가별 프로토타입 직무 흔적을 소유한다.\n- 아포라투스는 [아포라투스](../universe/realms/balance/apparatus/index.md) 항목으로 분리한다. 이 항목은 아타노르 잔재, 빈 보물, 프로토타입 필로시온, 대공명, 국가별 매질과 제어기관의 공통 작동을 소유한다.\n- 엑시온과 페르소나는 각각 인물군 항목을 유지하되, 보물 선택과 장치 심층의 공통 법칙은 아홉 보물, 필로시온, 아포라투스 항목으로 링크한다.",
+  "metadata": {
+    "char_count": 565,
+    "sha256": "d09ade34ddc76a121566b5c5a17fe631e5513e84721e555521c9277b0e0ce373"
+  }
+}

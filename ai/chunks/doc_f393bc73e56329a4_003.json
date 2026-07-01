@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:003",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "활성 TODO",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_003.json",
+  "text": "## 활성 TODO",
+  "metadata": {
+    "char_count": 10,
+    "sha256": "cec3ee8ffcbda6a74b8cef36a67a24ab984074932d3fb4d51cdf3ab226a9c01d"
+  }
+}

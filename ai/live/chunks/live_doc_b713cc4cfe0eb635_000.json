@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_b713cc4cfe0eb635:000",
+  "document_id": "live_doc_b713cc4cfe0eb635",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_CORE.txt",
+  "title": "에어리얼 / CORE",
+  "section": "body",
+  "summary": "에어리얼 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b713cc4cfe0eb635_000.json",
+  "text": "에어리얼 / CORE\n\n1. 식별\n에어리얼은 아르카르타의 아포라투스 `키베르노스`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 아르카르타 / 키베르노스\n- 전면: 길드의 전설적인 탐험가, 브리지의 조언자, 폭풍 전야의 길 안내인\n- 압력: 끝없는 도피와 봉인의 루프를 끊고 진짜 종착점을 얻으려는 안내자\n- 관계: 프로스페로의 복수, 다음 세대의 소망, 미전달 편지와 연결\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 387,
+    "sha256": "b65ab1dc65812c25ad5a9481e4e17921be3222a427596beb560258f2e4982d30"
+  }
+}

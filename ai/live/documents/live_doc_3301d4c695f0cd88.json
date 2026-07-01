@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_3301d4c695f0cd88",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_BRANCH_IDEA.txt",
+  "title": "빈센트 / BRANCH_IDEA",
+  "summary": "빈센트 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "98f8f3d941610a987977b6f859e2c3b273e1887d69dca4bac15ef797687663b0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_3301d4c695f0cd88.json",
+  "chunks": [
+    {
+      "id": "live_doc_3301d4c695f0cd88:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_3301d4c695f0cd88_000.json",
+      "char_count": 93
+    }
+  ]
+}

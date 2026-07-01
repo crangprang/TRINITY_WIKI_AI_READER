@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:111",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 발데마르 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_111.json",
+  "text": "## [2026-06-26] rebuild | 발데마르 항목 정리\n\n[발데마르](characters/savior_candidates/발데마르/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [오르딜리아](universe/realms/balance/nations/오르딜리아.md)의 중앙기사, 결투 재판, 추방, 아웃로 구조에 맞췄다.\n\n- 정리: 추방된 중앙기사, 후보가 된 이유, 지하와 아웃로, 단테와 루시아, 오르딜리아의 낡은 명예, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [발데마르 외형](characters/savior_candidates/발데마르/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 60~70대 추방 중앙기사, 낡은 중앙기사 코트, 오래 관리한 검, 낮은 사과 자세 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 발데마르 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 508,
+    "sha256": "8c319857d661570b1eede8d7fb0b96a01ea21b1abb37c130e9f34281ba9ad3eb"
+  }
+}

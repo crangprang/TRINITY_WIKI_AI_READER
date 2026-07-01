@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_c6fecbd267c6cc27:002",
+  "document_id": "live_doc_c6fecbd267c6cc27",
+  "path": "02_LORE/README.md",
+  "title": "02_LORE",
+  "section": "Read Order",
+  "summary": "`02_LORE` is the live lore surface.",
+  "root": "02_LORE",
+  "category": "02_LORE:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_002.json",
+  "text": "## Read Order\n\n1. `GOAL.txt`\n2. matching `01_CANON`\n3. target `CORE` and `FACT_DETAIL`, or current single live `.txt`\n4. `BRANCH_IDEA`\n5. `REFERENCE`\n6. approved handoff or external archive input only when an actual path exists in the current environment\n7. archive material only as candidate support after handoff review",
+  "metadata": {
+    "char_count": 321,
+    "sha256": "c0baf158c14e7c63e965154ca758438172d95ba5c68313aeb926a82fa68db96d"
+  }
+}

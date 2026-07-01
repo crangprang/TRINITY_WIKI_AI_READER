@@ -1,0 +1,24 @@
+{
+  "id": "doc_d805b70e5ac4d39b:002",
+  "document_id": "doc_d805b70e5ac4d39b",
+  "path": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md",
+  "wiki_path": "universe/realms/balance/organizations/글로벌_코텍스.md",
+  "title": "글로벌 코텍스",
+  "section": "업무와 권한",
+  "summary": "글로벌 코텍스는 레이어드 기반의 기능조직으로, 크레딧 유통과 청산, 계열 사업, 전속 용병 운용을 통해 거래의 나라 기능을 대륙 실무로 공급한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d805b70e5ac4d39b_002.json",
+  "text": "## 업무와 권한\n\n글로벌 코텍스의 핵심 권한은 결제와 보증이다. 크레딧이 통하는 곳에서는 거래 기록, 연체, 담보, 청산 절차가 뒤따르고, 이 기록은 곧 한 사람이나 조직이 다음 계약에 들어갈 수 있는지 판정하는 사회적 신분이 된다.\n\n계열 사업은 엔터테인먼트, 언론, 용병, 물류, 자원 개발, 도소매까지 넓게 퍼진다. 이 폭은 레이어드가 단순한 금융국가가 아니라, 다른 나라의 생활 기능 일부까지 계약망으로 묶을 수 있는 거래 국가임을 보여 준다.",
+  "metadata": {
+    "char_count": 253,
+    "sha256": "3bf55223f42e06f6f97fbb3ef7532e66ba8fe876a63c7263b17e5ecd71afc9cb"
+  }
+}

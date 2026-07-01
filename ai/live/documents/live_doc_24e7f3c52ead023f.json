@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_24e7f3c52ead023f",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TR01_LIFE.txt",
+  "title": "생명의 트리네아드",
+  "summary": "생명의 트리네아드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "7c8fe66a354ab3f3bca4105cd474caec736de0587fed0f74712084e9de910d80",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_24e7f3c52ead023f.json",
+  "chunks": [
+    {
+      "id": "live_doc_24e7f3c52ead023f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_24e7f3c52ead023f_000.json",
+      "char_count": 813
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_410e26f3bf8b6c94:000",
+  "document_id": "live_doc_410e26f3bf8b6c94",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_FACT_DETAIL.txt",
+  "title": "메피스토 / FACT_DETAIL",
+  "section": "body",
+  "summary": "메피스토 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_410e26f3bf8b6c94_000.json",
+  "text": "메피스토 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER05_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 세 번째 길, 반복되는 현재, 설계도, 램프, 퀘스트.\n- 철학처럼 들리는 자기기만이 계약으로 굳어지는 얼굴.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 277,
+    "sha256": "85a371ef3b189089ce58f81fb7a04866bb375c905205b008e7811852477c9ce1"
+  }
+}

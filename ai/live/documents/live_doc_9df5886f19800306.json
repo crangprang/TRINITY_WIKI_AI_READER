@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_9df5886f19800306",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX01_GAIN.txt",
+  "title": "가인",
+  "summary": "가인",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "c9bce5596d189cc470bc8c955155c3be0be34f0e1a230f504e596abb350ff361",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_9df5886f19800306.json",
+  "chunks": [
+    {
+      "id": "live_doc_9df5886f19800306:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9df5886f19800306_000.json",
+      "char_count": 1862
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:017",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "결투 구도",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_017.json",
+  "text": "### 결투 구도\n\n구도가 한 사람으로 좁혀지면 단테의 말은 줄어든다. 상대를 비꼬는 장식이 사라지고, 발과 손과 시선이 먼저 정렬된다. 말은 상대 설득을 뒤로 두고 자기 시련을 받아들이는 방식으로 나온다.",
+  "metadata": {
+    "char_count": 115,
+    "sha256": "4bebeeb366dc7abd269839b45c129364e498eda2c1ba51da3ce5fe44c8f32bea"
+  }
+}

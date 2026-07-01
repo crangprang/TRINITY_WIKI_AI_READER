@@ -1,0 +1,110 @@
+{
+  "id": "doc_ac7a1dc793b8b1d4",
+  "path": "wiki/beings/creatures/알렉시아_원생_생물.md",
+  "wiki_path": "beings/creatures/알렉시아_원생_생물.md",
+  "title": "알렉시아 원생 생물",
+  "summary": "척삭군, 유리근막, 흑수해면이 지하 수분과 수정벽과 잉크 배수로 주변에서 이루는 알렉시아 미시 군체.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "알렉시아 원생 생물"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "생활 기능"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    }
+  ],
+  "sha256": "273b38cad0b89dab577e851881f6c7da4395dfe1e0891d26f0dfae56ac13919f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ac7a1dc793b8b1d4.json",
+  "chunks": [
+    {
+      "id": "doc_ac7a1dc793b8b1d4:000",
+      "section": "알렉시아 원생 생물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_000.json",
+      "char_count": 85
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_001.json",
+      "char_count": 103
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_002.json",
+      "char_count": 42
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_003.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:004",
+      "section": "생활 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_004.json",
+      "char_count": 153
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_005.json",
+      "char_count": 65
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:006",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_006.json",
+      "char_count": 54
+    },
+    {
+      "id": "doc_ac7a1dc793b8b1d4:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ac7a1dc793b8b1d4_007.json",
+      "char_count": 107
+    }
+  ]
+}

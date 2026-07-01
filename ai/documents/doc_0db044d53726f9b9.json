@@ -1,0 +1,293 @@
+{
+  "id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "길티어 보이스"
+    },
+    {
+      "level": 2,
+      "title": "기본 톤"
+    },
+    {
+      "level": 2,
+      "title": "층위별 발화"
+    },
+    {
+      "level": 3,
+      "title": "가시 망루"
+    },
+    {
+      "level": 3,
+      "title": "그림자를 보는 자"
+    },
+    {
+      "level": 3,
+      "title": "고장난 나침반"
+    },
+    {
+      "level": 3,
+      "title": "한 모닥불 아래"
+    },
+    {
+      "level": 3,
+      "title": "여섯의 밤"
+    },
+    {
+      "level": 2,
+      "title": "관계별 호칭"
+    },
+    {
+      "level": 2,
+      "title": "관계별 어조"
+    },
+    {
+      "level": 3,
+      "title": "아인 앞"
+    },
+    {
+      "level": 3,
+      "title": "옌 앞"
+    },
+    {
+      "level": 3,
+      "title": "진 앞"
+    },
+    {
+      "level": 3,
+      "title": "블랑 앞"
+    },
+    {
+      "level": 3,
+      "title": "세레나 앞"
+    },
+    {
+      "level": 3,
+      "title": "단테 앞"
+    },
+    {
+      "level": 3,
+      "title": "스칼렛 앞"
+    },
+    {
+      "level": 2,
+      "title": "상황별 발화"
+    },
+    {
+      "level": 3,
+      "title": "생존 점검"
+    },
+    {
+      "level": 3,
+      "title": "경계와 이동"
+    },
+    {
+      "level": 3,
+      "title": "관계 충돌"
+    },
+    {
+      "level": 3,
+      "title": "그림자와 이름"
+    },
+    {
+      "level": 3,
+      "title": "최종 판단"
+    },
+    {
+      "level": 2,
+      "title": "위기 발화"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "길티어 외형",
+      "target": "wiki/characters/main_party/길티어/support/appearance.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "4818e9aa019f09e5eb6e5de59d1317461120d815164ce2075fb590738e35c076",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0db044d53726f9b9.json",
+  "chunks": [
+    {
+      "id": "doc_0db044d53726f9b9:000",
+      "section": "길티어 보이스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_000.json",
+      "char_count": 117
+    },
+    {
+      "id": "doc_0db044d53726f9b9:001",
+      "section": "기본 톤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_001.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_0db044d53726f9b9:002",
+      "section": "층위별 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0db044d53726f9b9:003",
+      "section": "가시 망루",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_003.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_0db044d53726f9b9:004",
+      "section": "그림자를 보는 자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_004.json",
+      "char_count": 262
+    },
+    {
+      "id": "doc_0db044d53726f9b9:005",
+      "section": "고장난 나침반",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_005.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_0db044d53726f9b9:006",
+      "section": "한 모닥불 아래",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_006.json",
+      "char_count": 97
+    },
+    {
+      "id": "doc_0db044d53726f9b9:007",
+      "section": "여섯의 밤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_007.json",
+      "char_count": 98
+    },
+    {
+      "id": "doc_0db044d53726f9b9:008",
+      "section": "관계별 호칭",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_008.json",
+      "char_count": 199
+    },
+    {
+      "id": "doc_0db044d53726f9b9:009",
+      "section": "관계별 어조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_009.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0db044d53726f9b9:010",
+      "section": "아인 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_010.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_0db044d53726f9b9:011",
+      "section": "옌 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_011.json",
+      "char_count": 113
+    },
+    {
+      "id": "doc_0db044d53726f9b9:012",
+      "section": "진 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_012.json",
+      "char_count": 98
+    },
+    {
+      "id": "doc_0db044d53726f9b9:013",
+      "section": "블랑 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_013.json",
+      "char_count": 93
+    },
+    {
+      "id": "doc_0db044d53726f9b9:014",
+      "section": "세레나 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_014.json",
+      "char_count": 102
+    },
+    {
+      "id": "doc_0db044d53726f9b9:015",
+      "section": "단테 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_015.json",
+      "char_count": 105
+    },
+    {
+      "id": "doc_0db044d53726f9b9:016",
+      "section": "스칼렛 앞",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_016.json",
+      "char_count": 105
+    },
+    {
+      "id": "doc_0db044d53726f9b9:017",
+      "section": "상황별 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0db044d53726f9b9:018",
+      "section": "생존 점검",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_018.json",
+      "char_count": 88
+    },
+    {
+      "id": "doc_0db044d53726f9b9:019",
+      "section": "경계와 이동",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_019.json",
+      "char_count": 89
+    },
+    {
+      "id": "doc_0db044d53726f9b9:020",
+      "section": "관계 충돌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_020.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_0db044d53726f9b9:021",
+      "section": "그림자와 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_021.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_0db044d53726f9b9:022",
+      "section": "최종 판단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_022.json",
+      "char_count": 102
+    },
+    {
+      "id": "doc_0db044d53726f9b9:023",
+      "section": "위기 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_023.json",
+      "char_count": 124
+    },
+    {
+      "id": "doc_0db044d53726f9b9:024",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_024.json",
+      "char_count": 211
+    }
+  ]
+}

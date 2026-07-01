@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:071",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 주인공 파티 출력 표본 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_071.json",
+  "text": "## [2026-06-28] ingest | 주인공 파티 출력 표본 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md`의 주인공 파티 축복·저주·비술 표본을 개별 인물 본문에 반영했다. [아인](characters/main_party/아인/index.md)은 네트워크의 동의 회로와 강한 저주 인식을, [옌](characters/main_party/옌/index.md)은 비술 `조색` 정본명을, [길티어](characters/main_party/길티어/index.md)는 비술 `마스크맨`의 퇴행 구조를, [진](characters/main_party/진/index.md)은 비술 `헌티드`의 박자 동기화 구조를 보강했다.\n\n[엘리자베스](characters/main_party/엘리자베스/index.md)는 공용 축복 `섬세`와 공용 비술 `혈조`를 공용 몸의 능력으로 올렸고, [블랑](characters/main_party/블랑/index.md)과 [스칼렛](characters/main_party/스칼렛/index.md)은 섬세와 혈조가 처치·제지, 연기·해부로 갈라지는 방향을 각각 보강했다. [세레나](characters/main_party/세레나/index.md)는 용투와 월광의 우선권을, [단테](characters/main_party/단테/index.md)는 결투와 주목의 조건표와 비술 `하이드`를 정리했다.\n\n[세계관 개발 TODO](review/worldbuilding_development_todo.md)는 A-F 처리 분류를 반영해 본문 승격, 분리 검토, 캐릭터 support, 플롯 보류, 운영 정책, 완료 정리를 구분했다. 플롯, 동명 판타즈마, 파라디소·플라센티아 추가 리뉴얼, 메인 캐릭터 외형·음악 support 확장은 사용자 지시 전까지 보류 범위로 낮췄다.",
+  "metadata": {
+    "char_count": 910,
+    "sha256": "1b010f8703fa519d04e541cedb717b0a4aa08f651f960e69d6f8fd38d49bd8da"
+  }
+}

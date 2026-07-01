@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:010",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "세레나",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_010.json",
+  "text": "### 세레나\n\n[세레나](../../세레나/index.md) 앞에서는 놀리고 비꼬는 말이 먼저 나간다. 진짜 축은 `혼자 다 내지 마라`다. 세레나가 자기 몫 이상의 죄까지 떠안으려 들수록 진이 더 시끄럽게 끼어든다.",
+  "metadata": {
+    "char_count": 122,
+    "sha256": "035081332f543dccfb4e5fa61bc3ef71e6a9e83eb3eb03ebf3708943b704a9cb"
+  }
+}

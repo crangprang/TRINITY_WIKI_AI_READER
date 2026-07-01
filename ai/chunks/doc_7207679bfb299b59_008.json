@@ -1,0 +1,24 @@
+{
+  "id": "doc_7207679bfb299b59:008",
+  "document_id": "doc_7207679bfb299b59",
+  "path": "wiki/characters/main_party/블랑/support/appearance.md",
+  "wiki_path": "characters/main_party/블랑/support/appearance.md",
+  "title": "블랑 외형",
+  "section": "배제 프롬프트",
+  "summary": "블랑의 공용 몸, 녹안, 검은 조끼, 닫힌 레이어드 스커트, 의료가방, 리볼버, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7207679bfb299b59_008.json",
+  "text": "### 배제 프롬프트\n\n```text\nchild, teenager, middle aged face, different body, different face, short hair, bob cut, pixie cut, tiny flat ponytail, high ponytail, heavy helmet bangs, blunt straight bangs, fully exposed forehead, both ears exposed, large forehead gap, huge round moe eyes, drooping puppy eyes, catlike heavy eyeliner, fake eyelashes, thick mascara, gray dead skin, corpse pale skin, glossy lipstick, seductive lips, office lady outfit, modern hospital costume, lab coat, stethoscope, clipboard, medical logo, cross symbol, saint healer costume, corset, harness, high heels, floor length train, bodycon skirt, pencil skirt, tight high waist skirt, red overskirt dominating the design, gold glitter on skirt, gold speckles, metallic floral pattern, shiny synthetic fabric, gun displayed as main prop, oversized medical bag covering the body, gothic widow styling, romance cover pose\n```",
+  "metadata": {
+    "char_count": 892,
+    "sha256": "72c7a97f42b4152967f343e14aba6d8c98cc411dcb4c6cd811f55116ae6264a6"
+  }
+}

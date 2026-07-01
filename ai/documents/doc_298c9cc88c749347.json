@@ -1,0 +1,121 @@
+{
+  "id": "doc_298c9cc88c749347",
+  "path": "wiki/characters/personas/에어리얼/support/appearance.md",
+  "wiki_path": "characters/personas/에어리얼/support/appearance.md",
+  "title": "에어리얼 외형",
+  "summary": "에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "에어리얼 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "바람 안내자"
+    },
+    {
+      "level": 2,
+      "title": "소용돌이 가면"
+    },
+    {
+      "level": 2,
+      "title": "편지와 항로"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    }
+  ],
+  "sha256": "155706868885a882dc78f778ef368a4da49170476fd7e9f6ef65b9226ffd5886",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_298c9cc88c749347.json",
+  "chunks": [
+    {
+      "id": "doc_298c9cc88c749347:000",
+      "section": "에어리얼 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_000.json",
+      "char_count": 100
+    },
+    {
+      "id": "doc_298c9cc88c749347:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_001.json",
+      "char_count": 400
+    },
+    {
+      "id": "doc_298c9cc88c749347:002",
+      "section": "바람 안내자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_002.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_298c9cc88c749347:003",
+      "section": "소용돌이 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_003.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_298c9cc88c749347:004",
+      "section": "편지와 항로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_004.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_298c9cc88c749347:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_005.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_298c9cc88c749347:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_006.json",
+      "char_count": 401
+    }
+  ]
+}

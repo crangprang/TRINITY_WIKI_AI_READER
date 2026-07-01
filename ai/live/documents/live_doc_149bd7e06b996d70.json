@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_149bd7e06b996d70",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS07_DECEIT.txt",
+  "title": "기만의 펠시온",
+  "summary": "기만의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "18027dfc27fa46990ba360662d7ef57fc859c22327b9838ea1bf5310d955a8a3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_149bd7e06b996d70.json",
+  "chunks": [
+    {
+      "id": "live_doc_149bd7e06b996d70:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_149bd7e06b996d70_000.json",
+      "char_count": 3662
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_5078ebf75c346448:006",
+  "document_id": "doc_5078ebf75c346448",
+  "path": "wiki/characters/savior_candidates/랄/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/랄/support/appearance.md",
+  "title": "랄 외형",
+  "section": "관련 문서",
+  "summary": "랄의 20대 초반 슬림 실루엣, 코랄 머리와 흰 눈, 기록 태그, `1위를 유지하라` 메모, 체스 습관을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_006.json",
+  "text": "## 관련 문서\n\n- [랄](../index.md) - 오아시스의 구세주 후보이자 그레트헨 연구소장.\n- [오아시스](../../../../universe/realms/balance/nations/오아시스.md) - 랄의 스코어링과 연구소가 속한 자유의 나라.\n- [아인](../../../main_party/아인/index.md) - 랄의 기억과 체스 습관을 건드리는 실험소 동료.\n- [파우스트](../../../axions/파우스트/index.md) - 그레트헨 실험소와 랄의 생존 조건을 만든 엑시온.",
+  "metadata": {
+    "char_count": 284,
+    "sha256": "ba50e62a7d965a4872a6da048c28ced10fbefb766a91b721228f7adb747a3965"
+  }
+}

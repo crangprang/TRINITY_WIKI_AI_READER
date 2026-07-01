@@ -1,0 +1,23 @@
+{
+  "id": "doc_f08c033bd0d7327c:010",
+  "document_id": "doc_f08c033bd0d7327c",
+  "path": "wiki/characters/fellsions/속박의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/속박의_펠시온/index.md",
+  "title": "속박의 펠시온",
+  "section": "관련 문서",
+  "summary": "속박의 펠시온은 사령공예로 업연을 만든 장인이며, 자기 피로 벼린 사슬을 통해 걸작에게 역으로 조종당하는 인형사다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_010.json",
+  "text": "## 관련 문서\n\n- [속박의 펠시온 외형](support/appearance.md) - 피 사슬, 업연, 장인과 인형사의 상호 감옥을 시각화하는 외형 항목.\n- [펠시온](../index.md) - 속박이 속한 파괴계 이름 판결과 군단 구조를 묶는 펠시온 계열.\n- [역병의 펠시온](../역병의_펠시온/index.md) - 속박의 작품을 부패시킨 죽음 군단의 대주교.\n- [에르고](../../trineads/에르고/index.md) - 속박에게 이름을 주었으나 이후 재회와 배신의 기준이 되는 왕.\n- [죽음의 트리네아드](../../trineads/죽음의_트리네아드/index.md) - 속박을 죽음 군단 복속과 균형계 침략 계획으로 묶은 파괴계 절대 왕.",
+  "metadata": {
+    "char_count": 371,
+    "sha256": "2c37be754057b15cc26b3a1fef1c2dc0d0f42b74a67f16860e18d69e4138cabd"
+  }
+}

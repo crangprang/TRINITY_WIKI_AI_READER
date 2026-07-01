@@ -1,0 +1,23 @@
+{
+  "id": "doc_2060ee2608647347:006",
+  "document_id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "section": "마고리아의 재구성",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_006.json",
+  "text": "### 마고리아의 재구성\n\n하나의 꿈, 세 명의 시신을 재료로 마고리아는 지금의 [엘리자베스](../엘리자베스/index.md)를 만들었다. 재료는 블랑의 살고 싶은 마음, 스칼렛의 실패한 보호, 빈센트의 순수한 악의다. 이 셋이 뒤섞여 같은 몸을 공유하는 두 사람이 생겼다.\n\n재구성 이후의 몸은 스칼렛 쪽 결을 강하게 품는다. 블랑은 그 몸 안에 얹혀 들어와 살아가는 흔적을 남긴다. 그래서 블랑은 자신이 누구인지, 무엇이 자기 몸인지, 스칼렛을 어떻게 불러야 하는지 앞에서 자주 빈칸을 만난다.",
+  "metadata": {
+    "char_count": 279,
+    "sha256": "28658c3eb6d6a10890d566cedd9b58f64b0acc26f2d89fb44f80263873af381e"
+  }
+}

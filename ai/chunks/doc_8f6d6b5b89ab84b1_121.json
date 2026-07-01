@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:121",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 유리디스 도리안 드 발루아 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_121.json",
+  "text": "## [2026-06-26] rebuild | 유리디스 도리안 드 발루아 항목 정리\n\n[유리디스 도리안 드 발루아](characters/axions/유리디스_도리안_드_발루아/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리하고 소속을 [우니오네](universe/realms/balance/nations/우니오네.md) 기준으로 맞췄다.\n\n- 정리: 꿈의 독을 아는 여왕, 우니오네의 통치, 미메시스와 마고리아, 빈센트, 엘리자베스, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [유리디스 도리안 드 발루아 외형](characters/axions/유리디스_도리안_드_발루아/support/appearance.md)의 관리 문구와 미완성 support 표면을 제거하고 여왕 실루엣, 데칼코마니 무도회 가면, 붉은 수면과 젖은 소품 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 유리디스 도리안 드 발루아 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 494,
+    "sha256": "a676002e66008782b5703abbb00ebb7bbe3fe923d27c88ed46930f2f374f7c95"
+  }
+}

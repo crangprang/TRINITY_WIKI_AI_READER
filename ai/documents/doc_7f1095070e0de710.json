@@ -1,0 +1,93 @@
+{
+  "id": "doc_7f1095070e0de710",
+  "path": "wiki/beings/dragonkin/index.md",
+  "wiki_path": "beings/dragonkin/index.md",
+  "title": "용 계열",
+  "summary": "용 계열은 용왕과 아홉 용, 용인처럼 환상과 마니아, 용의 질서에 닿은 존재들을 묶는 존재 축이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "dragonkin"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:dragonkin",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "용 계열"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "4등급 판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "용인",
+      "target": "wiki/beings/dragonkin/용인.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    }
+  ],
+  "sha256": "10a02f23a782c739132ff7196f13b1e80a801b7c9aa66a73b1d7a30830231250",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7f1095070e0de710.json",
+  "chunks": [
+    {
+      "id": "doc_7f1095070e0de710:000",
+      "section": "용 계열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7f1095070e0de710_000.json",
+      "char_count": 141
+    },
+    {
+      "id": "doc_7f1095070e0de710:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7f1095070e0de710_001.json",
+      "char_count": 316
+    },
+    {
+      "id": "doc_7f1095070e0de710:002",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7f1095070e0de710_002.json",
+      "char_count": 155
+    },
+    {
+      "id": "doc_7f1095070e0de710:003",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7f1095070e0de710_003.json",
+      "char_count": 297
+    }
+  ]
+}

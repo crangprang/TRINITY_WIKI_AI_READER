@@ -1,0 +1,105 @@
+{
+  "id": "doc_373052d4497a7e94",
+  "path": "wiki/characters/axions/설리반/support/appearance.md",
+  "wiki_path": "characters/axions/설리반/support/appearance.md",
+  "title": "설리반 외형",
+  "summary": "설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "설리반 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "통제자 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "격납 돔 가면"
+    },
+    {
+      "level": 2,
+      "title": "소품과 배경"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    }
+  ],
+  "sha256": "76929baad3d90e10c4e5e78698f8d9fe7147916f5275b89d8909d7a836283f0f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_373052d4497a7e94.json",
+  "chunks": [
+    {
+      "id": "doc_373052d4497a7e94:000",
+      "section": "설리반 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_000.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_373052d4497a7e94:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_001.json",
+      "char_count": 357
+    },
+    {
+      "id": "doc_373052d4497a7e94:002",
+      "section": "통제자 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_002.json",
+      "char_count": 197
+    },
+    {
+      "id": "doc_373052d4497a7e94:003",
+      "section": "격납 돔 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_003.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_373052d4497a7e94:004",
+      "section": "소품과 배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_004.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_373052d4497a7e94:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_005.json",
+      "char_count": 108
+    },
+    {
+      "id": "doc_373052d4497a7e94:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_006.json",
+      "char_count": 89
+    }
+  ]
+}

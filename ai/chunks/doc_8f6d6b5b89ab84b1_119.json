@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:119",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 파우스트 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_119.json",
+  "text": "## [2026-06-26] rebuild | 파우스트 항목 정리\n\n[파우스트](characters/axions/파우스트/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리하고 [오아시스](universe/realms/balance/nations/오아시스.md)의 물 배급, 출력 문명, 현재 고정 구조에 맞췄다.\n\n- 정리: 사막의 왕, 현재를 출력하는 통치, 권능과 장치, 메피스토, 그레트헨과 마더 그레트헨, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [파우스트 외형](characters/axions/파우스트/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 50대 왕 실루엣, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 파우스트 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 458,
+    "sha256": "8f51092bcba7780966f2475e4499417c61cf08bca97a927d5465392932a88f3a"
+  }
+}

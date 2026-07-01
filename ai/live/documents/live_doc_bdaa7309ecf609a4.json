@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_bdaa7309ecf609a4",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC05_RAL.txt",
+  "title": "랄",
+  "summary": "랄",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "299b1ddd0f77fa6bb310f4da685eb7ff247535789d97b382028befc049f53837",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_bdaa7309ecf609a4.json",
+  "chunks": [
+    {
+      "id": "live_doc_bdaa7309ecf609a4:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_bdaa7309ecf609a4_000.json",
+      "char_count": 1123
+    }
+  ]
+}

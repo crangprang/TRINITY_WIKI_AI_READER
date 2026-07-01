@@ -1,0 +1,24 @@
+{
+  "id": "doc_fb228cc2fc5c46cb:005",
+  "document_id": "doc_fb228cc2fc5c46cb",
+  "path": "wiki/characters/main_party/파티/support/visual_grammar.md",
+  "wiki_path": "characters/main_party/파티/support/visual_grammar.md",
+  "title": "파티 시각 문법",
+  "section": "경계",
+  "summary": "파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "visual_grammar"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_005.json",
+  "text": "## 경계\n\n이 문서는 파티의 시각 문법만 소유한다. 균형계 전체에서 가면이 통행권, 낙인, 후보 자격, 정교 재판의 신분증으로 작동하는 구조는 [균형계 문화](../../../../universe/realms/balance/culture/index.md)가 소유한다. 올림피아의 공식 의례와 공적 가면의 법적·종교적 기능은 [올림피아](../../../../universe/realms/balance/nations/올림피아.md)가 소유한다.\n\n파티 가면은 공적 가면의 제도적 규칙을 따르면서도, 그 규칙을 우회하고 위조하고 개인 표지로 비틀어 쓰는 방식이다. 따라서 파티 가면을 문화 문서에 일반 규범처럼 넣지 않고, 이 문서와 각 인물 support 문서에서 구체화한다.",
+  "metadata": {
+    "char_count": 378,
+    "sha256": "e5e0c7e2a3450acc0d560f1453a749304ece507193821e7c01ecf37041956afe"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_e4d6c40bf3d0405d:000",
+  "document_id": "doc_e4d6c40bf3d0405d",
+  "path": "wiki/characters/personas/빈센트/index.md",
+  "wiki_path": "characters/personas/빈센트/index.md",
+  "title": "빈센트",
+  "section": "빈센트",
+  "summary": "빈센트는 우니오네의 페르소나로, 미메시스와 마고리아를 통해 가장 아름다운 출구를 열고 현실을 꿈 쪽으로 기울이는 꿈의 큐레이터다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e4d6c40bf3d0405d_000.json",
+  "text": "# 빈센트\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 빈센트 |\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 30대 후반 |\n| 소속/지역 | 예술의 나라 [우니오네](../../../universe/realms/balance/nations/우니오네.md) |\n| 연결된 아포라투스 | 미메시스 |\n| 제어기관 | 마고리아 |\n| 표층 인터페이스 | 방랑 예술가 / 꿈의 큐레이터 / 수면 위에 비친 친절한 상담자 |\n| 심층 주도권 | 정신의 필로시온, 멜포메네 |\n| 왜곡 목적 | 고통받는 유리디스를 현실에서 꿈으로 데려오는 아름다운 출구를 연다 |\n| 주요 관계 | [유리디스 도리안 드 발루아](../../axions/유리디스_도리안_드_발루아/index.md), [엘리자베스](../../main_party/엘리자베스/index.md), [로렌초 카발리에리](../../savior_candidates/로렌초_카발리에리/index.md) |",
+  "metadata": {
+    "char_count": 495,
+    "sha256": "f93361ad6410e187d4e436441a030d96e287667f7ba491b292dc0c66f8b6fc18"
+  }
+}

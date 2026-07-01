@@ -1,0 +1,117 @@
+{
+  "id": "doc_4a1743b219395638",
+  "path": "wiki/characters/savior_candidates/발데마르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/발데마르/support/appearance.md",
+  "title": "발데마르 외형",
+  "summary": "발데마르의 60~70대 추방 중앙기사 실루엣, 낡은 중앙기사 코트, 오래 관리한 검, 낮은 사과 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "발데마르 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "추방된 중앙기사"
+    },
+    {
+      "level": 2,
+      "title": "오래 관리한 검"
+    },
+    {
+      "level": 2,
+      "title": "사과하는 자세"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "발데마르",
+      "target": "wiki/characters/savior_candidates/발데마르/index.md"
+    },
+    {
+      "label": "발데마르",
+      "target": "wiki/characters/savior_candidates/발데마르/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    }
+  ],
+  "sha256": "73ad8529e4c804ccf6611e65a0b132ec5ae226dc8bb3035853d371037e2a828f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4a1743b219395638.json",
+  "chunks": [
+    {
+      "id": "doc_4a1743b219395638:000",
+      "section": "발데마르 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_000.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_4a1743b219395638:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_001.json",
+      "char_count": 353
+    },
+    {
+      "id": "doc_4a1743b219395638:002",
+      "section": "추방된 중앙기사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_002.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_4a1743b219395638:003",
+      "section": "오래 관리한 검",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_003.json",
+      "char_count": 239
+    },
+    {
+      "id": "doc_4a1743b219395638:004",
+      "section": "사과하는 자세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_004.json",
+      "char_count": 215
+    },
+    {
+      "id": "doc_4a1743b219395638:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_005.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_4a1743b219395638:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_006.json",
+      "char_count": 274
+    }
+  ]
+}

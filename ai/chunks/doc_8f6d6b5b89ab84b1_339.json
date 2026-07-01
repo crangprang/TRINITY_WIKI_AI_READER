@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:339",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 디아도코이와 알레인의 동화책 신설",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_339.json",
+  "text": "## [2026-06-27] ingest | 디아도코이와 알레인의 동화책 신설\n\n사용자 판단에 따라 디아도코이를 균형계 조직 하위의 독립 전승선 항목으로 신설하고, 정교가 신성모독자로 부르는 비술 보존 계보로 정리했다. 페르소나 참칭명은 현 페르소나명과 구분하지 않는 것으로 잠그고, 필로시온 프로토타입의 과거 회상용 일회성 스펙은 선행 설정하지 않는 기준을 review에 반영했다.\n\n알레인의 동화책은 세계사 하위의 독립 서사 물건 항목으로 신설했다. 세계사 본문은 요약과 연결을 소유하도록 줄이고, 사건 대문과 WIKI 대문에 새 항목 링크를 추가했다.",
+  "metadata": {
+    "char_count": 311,
+    "sha256": "cbdfec703542a032039d85e492e73c423f11602122c015e88b505b5c3efcf630"
+  }
+}

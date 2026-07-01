@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:010",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "잔여 핸드오프 ingest: 염한 추가",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_010.json",
+  "text": "### 잔여 핸드오프 ingest: 염한 추가\n\n- [x] `염한 추가.txt`의 용기, 유대, 이상 삼각은 [염한](../universe/realms/balance/nations/염한.md), [아백](../characters/savior_candidates/아백/index.md), [황 노인](../characters/personas/황_노인/index.md)에 이미 반영되어 있음을 대조했다.\n- [x] 형제의 잔 현재 상태를 염한 본문에 추가하고, 가인·아백·세레나의 관계 물증으로 정리한다.\n- [x] 가인 본문에 유대를 원하지 않은 것이 아니라 믿지 못해 이름 맹세, 확인, 굴복, 소유로 바꾼 인과를 보강한다.\n- [x] 세레나 본문에 자기 잔과 가인의 잔을 함께 보관하는 사실을 관계 해석으로 연결한다.\n- [x] 가인의 현재 여제, 황녀, 어린 시절, 즉위 순간, 특이점 외형은 `염한_가인_외형_가면_시기별_핸드오프.md`에서 [가인 외형](../characters/axions/가인/support/appearance.md) 기준으로 따로 대조했다.",
+  "metadata": {
+    "char_count": 542,
+    "sha256": "57d94546cc42b0953e82451de37a56c78bdea634c2f8cabd1d328828c366528a"
+  }
+}

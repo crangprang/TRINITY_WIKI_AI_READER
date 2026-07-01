@@ -1,0 +1,23 @@
+{
+  "id": "doc_354313d4f2acf424:000",
+  "document_id": "doc_354313d4f2acf424",
+  "path": "wiki/characters/axions/마텔다/index.md",
+  "wiki_path": "characters/axions/마텔다/index.md",
+  "title": "마텔다",
+  "section": "마텔다",
+  "summary": "마텔다는 오르딜리아의 엑시온이자 심판관으로, 무법의 공포를 막기 위해 반지와 결투 재판과 감시를 법으로 세우고 자기 자신까지 얼린 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_000.json",
+  "text": "# 마텔다\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 마텔다 |\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 20대 중반 |\n| 머리색 | 금발 |\n| 눈색 | 푸른색 |\n| 소속/지역 | 9성좌 공의회, 정의의 나라 [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) |\n| 직책/역할 | 심판관, 엑시온, 정의 성좌 |\n| 계승 상태 | 초대 엑시온 |\n| 연결된 아포라투스 | 페리페테이아 |\n| 제어기관 | 파놉티콘 |\n| 보물 | 완벽의 보물, 마스터 링 위의 스노우볼 보석 |\n| 권능 | 얼음, 공간 봉쇄, 경로 왜곡, 가짜 하늘, 규율의 물리화 |\n| 보물 선택 조건 | 무법의 공포를 막기 위해 성문을 걸어 잠그고 감시와 율법으로 모든 불완전함을 얼리려는 심판관의 공포 |\n| 왕권 상징 | 마스터 링, 시민 반지, 칼집 안의 검, 서리 기사 바이저, 판결 기록 |\n| 대응 페르소나 | [미노스](../../personas/미노스/index.md) |",
+  "metadata": {
+    "char_count": 535,
+    "sha256": "01447eea644c4926226fdc8ef5b4610977dbdcabe28a6e7cf85bee2929e148f3"
+  }
+}

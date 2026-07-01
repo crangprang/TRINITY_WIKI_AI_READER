@@ -1,0 +1,23 @@
+{
+  "id": "doc_fb5f27504f302c2e:008",
+  "document_id": "doc_fb5f27504f302c2e",
+  "path": "wiki/characters/savior_candidates/발데마르/index.md",
+  "wiki_path": "characters/savior_candidates/발데마르/index.md",
+  "title": "발데마르",
+  "section": "관련 문서",
+  "summary": "발데마르는 오르딜리아의 구세주 후보이자 추방된 중앙기사로, 루시아 사건과 단테에게 남긴 저주를 사과로 짊어지는 낡은 기사다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_008.json",
+  "text": "## 관련 문서\n\n- [구세주 후보](../index.md) - 올림피아에 공표되는 후보명, 가면, 국가 시험의 공통 구조.\n- [발데마르 외형](support/appearance.md) - 추방된 중앙기사 실루엣과 사과하는 자세가 루시아 사건의 저주를 고정하는 외형 항목.\n- [단테](../../main_party/단테/index.md) - 루시아 사건과 저주가 맞물리는 순례자.\n- [마텔다](../../axions/마텔다/index.md) - 발데마르를 질서 바깥으로 밀어낸 오르딜리아의 엑시온.\n- [미노스](../../personas/미노스/index.md) - 단테가 루시아 사건을 다른 언어로 다시 보게 만드는 페르소나.\n- [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) - 발데마르의 법, 추방, 결투 재판이 놓이는 정의의 나라.",
+  "metadata": {
+    "char_count": 450,
+    "sha256": "ef80cb71e9bc7b2d26cf514a06c24b96259687f26c46ba6c52c3b0de02f80eb1"
+  }
+}

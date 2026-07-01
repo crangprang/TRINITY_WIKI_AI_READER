@@ -1,0 +1,121 @@
+{
+  "id": "doc_8672d068085e9c91",
+  "path": "wiki/characters/personas/헬렌/support/appearance.md",
+  "wiki_path": "characters/personas/헬렌/support/appearance.md",
+  "title": "헬렌 외형",
+  "summary": "헬렌의 10대 중반 하얀 상담자 실루엣, 눈가 천, 지팡이, 손 접촉, 물결 반응, 흰 낙원과 검은 비를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "헬렌 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "하얀 상담자"
+    },
+    {
+      "level": 2,
+      "title": "촉각과 물결"
+    },
+    {
+      "level": 2,
+      "title": "흰 낙원과 검은 비"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    }
+  ],
+  "sha256": "9bedb1865b26a48936bc833bd927dd8079518f5de5e67d51dd2f48c8f3b1c6c1",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8672d068085e9c91.json",
+  "chunks": [
+    {
+      "id": "doc_8672d068085e9c91:000",
+      "section": "헬렌 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_000.json",
+      "char_count": 107
+    },
+    {
+      "id": "doc_8672d068085e9c91:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_001.json",
+      "char_count": 323
+    },
+    {
+      "id": "doc_8672d068085e9c91:002",
+      "section": "하얀 상담자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_002.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_8672d068085e9c91:003",
+      "section": "촉각과 물결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_003.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_8672d068085e9c91:004",
+      "section": "흰 낙원과 검은 비",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_004.json",
+      "char_count": 215
+    },
+    {
+      "id": "doc_8672d068085e9c91:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_005.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_8672d068085e9c91:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8672d068085e9c91_006.json",
+      "char_count": 374
+    }
+  ]
+}

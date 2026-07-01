@@ -1,0 +1,170 @@
+{
+  "id": "doc_3959b6f64a3562f5",
+  "path": "wiki/characters/personas/에어리얼/index.md",
+  "wiki_path": "characters/personas/에어리얼/index.md",
+  "title": "에어리얼",
+  "summary": "에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:personas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "에어리얼"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "방주 항로의 안내자"
+    },
+    {
+      "level": 2,
+      "title": "심층 주도권과 도피의 보존"
+    },
+    {
+      "level": 2,
+      "title": "벤트리스와 편지 의무"
+    },
+    {
+      "level": 2,
+      "title": "프로스페로의 복수"
+    },
+    {
+      "level": 2,
+      "title": "캘리번과 금지 심층"
+    },
+    {
+      "level": 2,
+      "title": "폭풍과 종착점"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "에어리얼 외형",
+      "target": "wiki/characters/personas/에어리얼/support/appearance.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    }
+  ],
+  "sha256": "5fbbebbbc1e460adcd4359c92b99b205030c7858bed3caac178b35a5a8d272c7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3959b6f64a3562f5.json",
+  "chunks": [
+    {
+      "id": "doc_3959b6f64a3562f5:000",
+      "section": "에어리얼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_000.json",
+      "char_count": 430
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_001.json",
+      "char_count": 281
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:002",
+      "section": "방주 항로의 안내자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_002.json",
+      "char_count": 304
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:003",
+      "section": "심층 주도권과 도피의 보존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_003.json",
+      "char_count": 502
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:004",
+      "section": "벤트리스와 편지 의무",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_004.json",
+      "char_count": 304
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:005",
+      "section": "프로스페로의 복수",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_005.json",
+      "char_count": 316
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:006",
+      "section": "캘리번과 금지 심층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_006.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:007",
+      "section": "폭풍과 종착점",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_007.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:008",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_008.json",
+      "char_count": 234
+    },
+    {
+      "id": "doc_3959b6f64a3562f5:009",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_009.json",
+      "char_count": 469
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_82b0b854895c09aa:006",
+  "document_id": "doc_82b0b854895c09aa",
+  "path": "wiki/characters/personas/황_노인/support/appearance.md",
+  "wiki_path": "characters/personas/황_노인/support/appearance.md",
+  "title": "황 노인 외형",
+  "section": "관련 문서",
+  "summary": "황 노인의 시니컬한 70대 동양 복식 실루엣, 바둑판 프레임과 칼 균열 얼굴, 원한검과 붉은 달을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_006.json",
+  "text": "## 관련 문서\n\n- [황 노인](../index.md) - 염한의 천명 심문과 원한검 논리를 사람의 얼굴로 만드는 페르소나.\n- [염한](../../../../universe/realms/balance/nations/염한.md) - 황 노인의 시지기와 원한검이 놓이는 투쟁의 나라.\n- [가인](../../../axions/가인/index.md) - 황 노인의 바둑판 앞에서 천명 심문을 받는 엑시온.\n- [아백](../../../savior_candidates/아백/index.md) - 가인의 옥좌와 마지막 비무의 정당성을 비추는 용인 영웅.\n- [세레나](../../../main_party/세레나/index.md) - 서린이라는 이름으로 가인과 아백의 과거에 연결된 주역.",
+  "metadata": {
+    "char_count": 381,
+    "sha256": "1e1146f7de8c3630a21e09892dac2d91d4a13c2d97a9043c45bac8b7dfe70178"
+  }
+}

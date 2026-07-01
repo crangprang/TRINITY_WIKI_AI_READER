@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:010",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "주목과 결투",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_010.json",
+  "text": "### 주목과 결투\n\n단테의 핵심 오답은 `누군가 항상 나를 지켜보고 있다`는 감각이다. 별의 시선은 그가 붙드는 방향이지만, 여러 시선은 결투재판의 재단으로 변한다. 공개 호명, 칭찬, 조롱, 다수의 눈은 단테의 숨을 얕게 만들고 어깨를 굳힌다.\n\n시선이 하나로 줄어들면 조건이 뒤집힌다. 한 사람만 자신을 바라보는 구도에서 단테는 그 자리를 시련으로 받아들이고, 몸과 정신이 차가운 칼날처럼 정렬된다. 다수 앞에서 작아지는 사람과 한 사람 앞에서 검을 뽑는 사람이 같은 몸 안에 있다.",
+  "metadata": {
+    "char_count": 273,
+    "sha256": "6db31aeaff6d004b86d6081ce761b5699e2502f350540a68b12814eb52fb1809"
+  }
+}

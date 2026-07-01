@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f9b2023a472a2ce9",
+  "path": "02_LORE/L00_OLYMPIA/L00_CORE.txt",
+  "title": "L00_올림피아 / CORE",
+  "summary": "L00_올림피아 / CORE",
+  "root": "02_LORE",
+  "category": "02_LORE:L00_OLYMPIA",
+  "suffix": ".txt",
+  "sha256": "28e4904c09d3649de3323e331cb761856022618975c05ebaeb204ece8ae9f425",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f9b2023a472a2ce9.json",
+  "chunks": [
+    {
+      "id": "live_doc_f9b2023a472a2ce9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f9b2023a472a2ce9_000.json",
+      "char_count": 1768
+    }
+  ]
+}

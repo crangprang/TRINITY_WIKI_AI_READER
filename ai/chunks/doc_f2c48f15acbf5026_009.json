@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:009",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "약속은 지켜야 한다",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_009.json",
+  "text": "### 약속은 지켜야 한다\n\n진의 핵심 오답은 `약속은 지켜야 한다`는 몸의 반사다. 한쪽만 계속 내고 한쪽만 계속 가져가는 자리를 그는 거래로도 의리로도 인정하지 못한다.\n\n이 오답은 추상적 정의감으로 닫히지 않고 못 끝낸 정산을 다시 반복하고 싶지 않다는 몸의 윤리에 붙는다. 그래서 진은 부당한 자리에서 말에 앞서 몸이 움직인다.",
+  "metadata": {
+    "char_count": 187,
+    "sha256": "673b3fd38182ed22da9d56a29a2c4fd09842f2933550f6ed66df2116615c21a2"
+  }
+}

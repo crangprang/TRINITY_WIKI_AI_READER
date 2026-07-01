@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:120",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 엘피스 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_120.json",
+  "text": "## [2026-06-26] rebuild | 엘피스 항목 정리\n\n[엘피스](characters/axions/엘피스/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리하고 [알렉시아](universe/realms/balance/nations/알렉시아.md)의 질문 허가와 빛 배급 구조에 맞췄다.\n\n- 정리: 유예의 계승자, 알렉시아의 하루, 권능과 장치, 탈레스, 판도라와 메테우스, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [엘피스 외형](characters/axions/엘피스/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 피로한 관리자, 작은 촛불, 질문 기록, 푸른 제어광 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 엘피스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 430,
+    "sha256": "32da3c1098c5acd6c1530ff67562b76c136734178ed6a9aa4a4cfcbda75ed7c3"
+  }
+}

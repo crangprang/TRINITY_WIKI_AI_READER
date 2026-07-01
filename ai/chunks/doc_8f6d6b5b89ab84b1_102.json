@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:102",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 투르키나 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_102.json",
+  "text": "## [2026-06-26] rebuild | 투르키나 항목 정리\n\n[투르키나](characters/personas/투르키나/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [플라센티아](universe/realms/balance/nations/플라센티아.md)의 코레이아, 크리살리스, 제페토의 피노키오 계획, 피톤 면역 반응 구조에 맞췄다.\n\n- 정리: 숲의 징조를 읽는 조언자, 제페토와 피노키오 계획, 크리살리스와 메시아 씨앗, 피톤의 면역 반응, 마스크맨과 사냥 명령, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [투르키나 외형](characters/personas/투르키나/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 엄격한 푸른 요정, 사냥꾼과 숲 매듭, 메시아 씨앗과 고치 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 투르키나 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 503,
+    "sha256": "2412228ea6047f0015d3bab26908c8ff954196adbbfb024e56d6cfa8dd4959bb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_2060ee2608647347:021",
+  "document_id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "section": "리볼버와 혈조탄",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_021.json",
+  "text": "### 리볼버와 혈조탄\n\n블랑의 리볼버는 꿈속 아틀리에에서 셋을 끝낸 물건이다. 블랑의 고통을 끝내고, 빈센트를 끝내고, 스칼렛 자신을 향했던 리볼버가 지금 블랑의 손에 남아 있다.\n\n리볼버는 낮은 경계와 결심의 도구다. 블랑은 붉은 유리구슬처럼 굳은 혈조 비살상탄, 내부명 `혈조탄`을 쏜다. 블랑의 혈조는 지혈, 봉합, 마비, 비살상 제압에 맞춰진다. 혈조탄은 정지, 마비, 제압에 맞춘 탄이며, 블랑의 `해야 하는 일`을 곧장 살해로 닫지 않게 한다.",
+  "metadata": {
+    "char_count": 255,
+    "sha256": "6f07202427bfa4508ce9d68c7a2ff6a296425562c097902cf7794195e1447b0a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_a07b6c7f699e9532:003",
+  "document_id": "doc_a07b6c7f699e9532",
+  "path": "wiki/beings/creatures/마사오트_원생_생물.md",
+  "wiki_path": "beings/creatures/마사오트_원생_생물.md",
+  "title": "마사오트 원생 생물",
+  "section": "구조와 현현",
+  "summary": "난류젤리, 증기근, 무게포가 선체와 하늘 항로의 열·기류·무게 조건에서 이루는 마사오트 미시 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_003.json",
+  "text": "## 구조와 현현\n\n난류젤리는 시야와 기류를 교란하는 부유 원생물이다. 돛과 풍차에 들러붙는 투명 장막 위협이며, 불보다 건조 분말 대응이 더 좋다.\n\n증기근은 기관열, 배관, 누수에 반응해 자라는 뿌리형 원생물이다. 노틸러스 내부는 이 생물 때문에 열 누출과 환기를 계속 관리해야 하는 배로 보인다.\n\n무게포는 화물 균형과 밸러스트 이상을 장면화하는 원생물이다. 한쪽으로 번지면 선체의 무게 판단이 어긋나고, 접현과 비행 안정성이 흔들린다.",
+  "metadata": {
+    "char_count": 247,
+    "sha256": "e347f25461de650c66335b24d031592d1b7587f91286c134a8699d9cf1c4ee28"
+  }
+}

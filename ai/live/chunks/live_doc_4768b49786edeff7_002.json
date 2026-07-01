@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_4768b49786edeff7:002",
+  "document_id": "live_doc_4768b49786edeff7",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/README.md",
+  "title": "04_FELLSION",
+  "section": "Use Rule",
+  "summary": "이 폴더의 `FS##_*.txt` 파일은 현재 live single-file surface다.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4768b49786edeff7_002.json",
+  "text": "## Use Rule\n\n- `04_MAIN_CHARACTER/01_ENSEMBLE/E04_COLLAPSE_ERGO.txt`, `E05_BETRAYAL.txt`, `02_TRINEAD/TR04_DEATH.txt`, `TR05_VOID.txt`와 충돌하면 상위 live 파일을 우선한다.\n- `붕괴`는 현재 canonical name route이며, 구버전 `소멸` 표기는 새 작업에 쓰지 않는다.\n- package-level 재개발 전까지 이 파일들의 scene detail은 후보로 읽고, 새 mechanics나 chronology를 자동 확정하지 않는다.",
+  "metadata": {
+    "char_count": 311,
+    "sha256": "cbd4126cc488d726984b0518efe3199d8a3580681600e7f0e109a09602503a98"
+  }
+}

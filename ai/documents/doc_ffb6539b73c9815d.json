@@ -1,0 +1,302 @@
+{
+  "id": "doc_ffb6539b73c9815d",
+  "path": "wiki/universe/realms/balance/nations/올림피아.md",
+  "wiki_path": "universe/realms/balance/nations/올림피아.md",
+  "title": "올림피아",
+  "summary": "올림피아는 빈 옥좌와 제전이 대륙의 시선을 끌어당기는 중앙 성도다. 이곳의 첫 얼굴은 흰 기둥, 긴 계단, 성가와 환호, 승화회랑과 성화단의 광휘가 한 장면으로 겹치는 눈부신 성역이며, 각국은 결국 자기 이름과 신앙과 패배와 희망을 이 무대 앞으로 들고 올라온다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "올림피아"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "형성사"
+    },
+    {
+      "level": 4,
+      "title": "초기 성역"
+    },
+    {
+      "level": 4,
+      "title": "빈 옥좌의 탄생"
+    },
+    {
+      "level": 4,
+      "title": "제전 체제의 고착"
+    },
+    {
+      "level": 3,
+      "title": "성지의 표면"
+    },
+    {
+      "level": 3,
+      "title": "핵심 구조"
+    },
+    {
+      "level": 4,
+      "title": "승화회랑"
+    },
+    {
+      "level": 4,
+      "title": "빈 옥좌"
+    },
+    {
+      "level": 4,
+      "title": "성화단"
+    },
+    {
+      "level": 4,
+      "title": "제전 경기장"
+    },
+    {
+      "level": 4,
+      "title": "공좌구"
+    },
+    {
+      "level": 3,
+      "title": "권력과 생활 층"
+    },
+    {
+      "level": 3,
+      "title": "대륙의 시선"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 가면과 이름 맹세의 경계"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 2,
+      "title": "경계와 오독"
+    },
+    {
+      "level": 2,
+      "title": "장면 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    }
+  ],
+  "sha256": "a33b67636761b5df108e07f248d8fd878ee3b955458d55fea43b08dd3a92ba11",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ffb6539b73c9815d.json",
+  "chunks": [
+    {
+      "id": "doc_ffb6539b73c9815d:000",
+      "section": "올림피아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_000.json",
+      "char_count": 92
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_001.json",
+      "char_count": 154
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:002",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:003",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_003.json",
+      "char_count": 347
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:004",
+      "section": "형성사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_004.json",
+      "char_count": 7
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:005",
+      "section": "초기 성역",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_005.json",
+      "char_count": 369
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:006",
+      "section": "빈 옥좌의 탄생",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_006.json",
+      "char_count": 270
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:007",
+      "section": "제전 체제의 고착",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_007.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:008",
+      "section": "성지의 표면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_008.json",
+      "char_count": 740
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:009",
+      "section": "핵심 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_009.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:010",
+      "section": "승화회랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_010.json",
+      "char_count": 115
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:011",
+      "section": "빈 옥좌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_011.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:012",
+      "section": "성화단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_012.json",
+      "char_count": 101
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:013",
+      "section": "제전 경기장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_013.json",
+      "char_count": 88
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:014",
+      "section": "공좌구",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_014.json",
+      "char_count": 117
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:015",
+      "section": "권력과 생활 층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_015.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:016",
+      "section": "대륙의 시선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_016.json",
+      "char_count": 316
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:017",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:018",
+      "section": "공적 가면과 이름 맹세의 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_018.json",
+      "char_count": 655
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:019",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_019.json",
+      "char_count": 120
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:020",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_020.json",
+      "char_count": 148
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:021",
+      "section": "경계와 오독",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_021.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:022",
+      "section": "장면 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_022.json",
+      "char_count": 55
+    },
+    {
+      "id": "doc_ffb6539b73c9815d:023",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffb6539b73c9815d_023.json",
+      "char_count": 532
+    }
+  ]
+}

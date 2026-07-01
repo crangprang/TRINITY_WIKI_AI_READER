@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:009",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "외부인",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_009.json",
+  "text": "### 외부인\n\n외부인 앞에서는 존댓말과 존칭을 자연스럽게 쓴다. 이 존댓말은 사람 좋은 공손함으로 머물지 않고 협상과 거리 조절로 작동한다. 상대를 설득하는 친절 대신 그 선택이 상식처럼 들리게 말한다.",
+  "metadata": {
+    "char_count": 114,
+    "sha256": "884d190929d6b854f072c9e6b32a6280fcf353909778f917a0a2cea697939ff1"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "doc_56f327bda210f45a",
+  "path": "wiki/beings/phantasmas/위선의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/위선의_판타즈마.md",
+  "title": "위선의 판타즈마",
+  "summary": "위선이 빛나는 상체와 검은 그림자 하체로 찢어진 채 서로를 검은 비로만 이어 붙인 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "위선의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    }
+  ],
+  "sha256": "69b3138bc77425f3b723ce18fa899784cf63c5af7753091341fdb13e604bdb80",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56f327bda210f45a.json",
+  "chunks": [
+    {
+      "id": "doc_56f327bda210f45a:000",
+      "section": "위선의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_000.json",
+      "char_count": 202
+    },
+    {
+      "id": "doc_56f327bda210f45a:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_001.json",
+      "char_count": 58
+    },
+    {
+      "id": "doc_56f327bda210f45a:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_002.json",
+      "char_count": 381
+    },
+    {
+      "id": "doc_56f327bda210f45a:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_003.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_56f327bda210f45a:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_004.json",
+      "char_count": 197
+    },
+    {
+      "id": "doc_56f327bda210f45a:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_005.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_56f327bda210f45a:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_006.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_56f327bda210f45a:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f327bda210f45a_007.json",
+      "char_count": 149
+    }
+  ]
+}

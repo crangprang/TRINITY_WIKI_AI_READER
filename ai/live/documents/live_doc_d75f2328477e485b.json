@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d75f2328477e485b",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_02C_APPARATUS_SYSTEM.txt",
+  "title": "WC01_DETAILS_02C_APPARATUS_SYSTEM",
+  "summary": "WC01_DETAILS_02C_APPARATUS_SYSTEM",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "4d8eec29697c682fc49d2374119cd585e4e8c3585cf01dd5c47289f77534b171",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d75f2328477e485b.json",
+  "chunks": [
+    {
+      "id": "live_doc_d75f2328477e485b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d75f2328477e485b_000.json",
+      "char_count": 2625
+    }
+  ]
+}

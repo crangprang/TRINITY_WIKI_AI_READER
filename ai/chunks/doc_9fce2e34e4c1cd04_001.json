@@ -1,0 +1,24 @@
+{
+  "id": "doc_9fce2e34e4c1cd04:001",
+  "document_id": "doc_9fce2e34e4c1cd04",
+  "path": "wiki/characters/savior_candidates/메테우스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/메테우스/support/appearance.md",
+  "title": "메테우스 외형",
+  "section": "외형 기준",
+  "summary": "메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 실루엣 | 중후함 |\n| 의상 | 인퀴지터 집행자 장비와 봉쇄 현장 보호복 |\n| 소품 | 재난 봉인 버너, 봉쇄 표식, 소각 명령서, 오염 기록 상자 |\n| 배경 | 알렉시아 봉쇄 현장, 감염 서가, 광산 승강기, 보라 조명 |\n| 표정/자세 | 사람을 먼저 내보낸 뒤 기록을 태우는 무거운 집행 자세 |",
+  "metadata": {
+    "char_count": 224,
+    "sha256": "ca70affa524e791af92e533791e53740a47cd50e62a617a15ecfa8220f73b2e7"
+  }
+}

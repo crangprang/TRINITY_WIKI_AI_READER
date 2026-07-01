@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:009",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "맹세를 건 이름",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_009.json",
+  "text": "### 맹세를 건 이름\n\n단테의 이름은 루시아, 별, 기사검, 마지막 질문을 부른다. 이름은 단순한 호칭을 넘어 자신을 바라보는 시선과 그 시선에 닿기 위해 계속 이겨야 한다는 맹세를 깨우는 줄이다.\n\n루시아의 이름이 가까워질수록 단테의 농담은 힘을 잃는다. 말끝은 늦게 닫히고, 평소의 가벼운 표정 아래 숨은 견습기사의 흔적이 드러난다.",
+  "metadata": {
+    "char_count": 189,
+    "sha256": "e124980994bc92c46615fb83296b39ae07c5e6c65d85832d6804ae95aff1ef61"
+  }
+}

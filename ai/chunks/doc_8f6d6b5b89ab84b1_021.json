@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:021",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 염한 핵심 군상 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_021.json",
+  "text": "## [2026-06-28] nation | 염한 핵심 군상 보강\n\n[염한](universe/realms/balance/nations/염한.md)을 LIVE `L01_STRUGGLE`의 핵심 군상 claim과 대조했다. LIVE의 후보명 표기는 WIKI 정본명 [아백](characters/savior_candidates/아백/index.md)으로 정규화하고, `서린`은 [세레나](characters/main_party/세레나/index.md)의 염한식 전통명으로만 처리했다.\n\n가인의 조정·구정·정교가 돌리는 통치 체제와 아백이 전면에 서는 무인 신앙이 함께 염한의 두 얼굴을 이룬다는 구조를 보강했다. 세레나/서린은 전 황제의 용인 말살 정책과 셀레네의 광기가 끝나지 않았음을 보여 주는 생존 증거로 분리하고, 그녀가 돌아올 때 가인의 자격, 아백의 항복, 인간과 용인의 형제 관계가 다시 질문으로 열린다는 국가 단락을 추가했다.",
+  "metadata": {
+    "char_count": 467,
+    "sha256": "9988bc7fcef401fa94c6ddf3e3b068fc20717362a6d0d04b9e92e673e57a7c0f"
+  }
+}

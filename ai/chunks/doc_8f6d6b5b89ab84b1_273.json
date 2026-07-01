@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:273",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 세계법칙과 국가 정보상자 라벨 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_273.json",
+  "text": "## [2026-06-26] style | 세계법칙과 국가 정보상자 라벨 정리\n\n세계법칙, 우주 구조, 국가 항목 상단 표의 `문서 유형` 라벨을 `분류`로 바꿨다.\n\n- 범위: 삼위일체 우주, 오리진, 세 에너지, 하위신, 아홉 나라와 에레모스.\n- 유지: 항목명, 국가별 본문 구조, 관련 문서 연결은 그대로 둔다.",
+  "metadata": {
+    "char_count": 178,
+    "sha256": "21ed494eaefbd03fc2a57144bee2df04824c8bb500392a4b905f9145e804b57e"
+  }
+}

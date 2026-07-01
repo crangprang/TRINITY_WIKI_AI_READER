@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:050",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] persona | 에어리얼 심층 주도권 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_050.json",
+  "text": "## [2026-06-28] persona | 에어리얼 심층 주도권 보강\n\n[에어리얼](characters/personas/에어리얼/index.md)을 마사오트, 프로스페로, 아포라투스 LIVE WC claim과 대조했다. 표층 인터페이스는 길드의 전설적인 탐험가와 브리지 조언자로 두고, 심층 주도권은 방주 잔재인 노틸러스와 카리브디스에 놓았다.\n\n티폰을 영원히 봉인한다는 목적은 마사오트 안에서 끝없는 도피 항로와 선장의 편지 의무로 비틀린다. 프로스페로의 종결 의지와 에어리얼의 도피 보존이 같은 브리지 위에서 충돌하는 관계로 정리했다.",
+  "metadata": {
+    "char_count": 303,
+    "sha256": "ee06a47a3c915d253e2e2a00f8b29b99b83b94d7b6051ea58267fc56476ad429"
+  }
+}

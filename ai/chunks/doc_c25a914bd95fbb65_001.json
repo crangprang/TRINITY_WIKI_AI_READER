@@ -1,0 +1,24 @@
+{
+  "id": "doc_c25a914bd95fbb65:001",
+  "document_id": "doc_c25a914bd95fbb65",
+  "path": "wiki/characters/axions/파우스트/support/appearance.md",
+  "wiki_path": "characters/axions/파우스트/support/appearance.md",
+  "title": "파우스트 외형",
+  "section": "외형 기준",
+  "summary": "파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 50대 |\n| 실루엣 | 50대 왕의 자신감과 멈춘 애도가 함께 보이는 장신의 통치자 |\n| 머리색 | 검은색 |\n| 눈색 | 검은색 |\n| 의상 | 스팀펑크 귀족복과 사막 왕의 장식을 결합한 공학적 왕복 |\n| 가면 | 모래 출력 데스마스크와 열린 왕관 |\n| 소품 | 모래 출력물, 물 배급 장치, 반복 건축 모형, 열린 왕관의 틈, 정지된 설계도, 세 가지 소원의 흔적 |\n| 배경 | 오아시스, 모래 출력물, 공학적 사막 장치, 반복 건축 |\n| 표정/자세 | 자신감 있는 통치 자세 아래 애도가 반복 출력처럼 굳은 모습 |",
+  "metadata": {
+    "char_count": 355,
+    "sha256": "d21a08c3ba0df1f9e9388706ba904e986d28812499cda70678080da408ba742f"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:018",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "몸이 흔들릴 때",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_018.json",
+  "text": "### 몸이 흔들릴 때\n\n아인은 괜찮다는 말을 먼저 꺼낸다. 다리, 숨, 다음 한 발을 근거로 삼아 아직 갈 수 있다고 밀어붙인다. 블랑이나 길티어가 멈춰 세우면 3층위의 반발이 빠르게 튄다.",
+  "metadata": {
+    "char_count": 107,
+    "sha256": "a6691e0ad6a52b889924c508d27b54fdc71de53bd9a96e06650fa4a1a82c4350"
+  }
+}

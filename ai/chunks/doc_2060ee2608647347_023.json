@@ -1,0 +1,23 @@
+{
+  "id": "doc_2060ee2608647347:023",
+  "document_id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "section": "장면 역할",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_023.json",
+  "text": "## 장면 역할\n\n블랑은 누군가를 살리는 선택 앞에서 자세를 가장 빨리 바로 세운다. 피 묻은 손, 반사면, 설명되지 않는 빈칸, 이상하게 말끔한 결과는 내면의 균열을 건드린다. 선을 넘겨야 하는 순간에는 더 공손하고 더 정확한 목소리로 밀고 들어간다.\n\n평상시에는 곁에 섞여 낯선 것을 궁금해한다. 의사 모드가 켜지는 순간과 스칼렛의 이름이 닿는 순간에는 온도가 급격히 내려간다. 이 낙차가 블랑의 생기와 위험성을 함께 만든다.\n\n말투의 세부 기준과 발화 샘플은 [블랑 보이스](support/voice.md)에서 다룬다. 외형과 이미지 생성 기준은 [블랑 외형](support/appearance.md)에서 다룬다.",
+  "metadata": {
+    "char_count": 346,
+    "sha256": "f090d687543b58da20d0a5c12bd77a29f2376a321ec64eeb7f91c67c05178a78"
+  }
+}

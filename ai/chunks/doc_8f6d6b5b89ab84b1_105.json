@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:105",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 빈센트 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_105.json",
+  "text": "## [2026-06-26] rebuild | 빈센트 항목 정리\n\n[빈센트](characters/personas/빈센트/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [우니오네](universe/realms/balance/nations/우니오네.md)의 미메시스, 마고리아, 사이프러스 단검, 엘리자베스의 재연 구조에 맞췄다.\n\n- 정리: 아름다운 출구, 유리디스와 우니오네, 사이프러스 단검과 아틀리에, 엘리자베스와 재연, 로렌초와 귀환의 선, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [빈센트 외형](characters/personas/빈센트/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 수면 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 빈센트 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 486,
+    "sha256": "c759474fabb4d5ff440eec9fa84323022fe3019d1cf056de4212bea1b43c016f"
+  }
+}

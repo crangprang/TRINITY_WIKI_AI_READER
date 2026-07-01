@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:089",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] rename | 항목 소유권 잠금 파일명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_089.json",
+  "text": "## [2026-06-27] rename | 항목 소유권 잠금 파일명 정리\n\n`review/page_creation_proposals.md`를 [항목 소유권 잠금](review/ownership_locks.md)으로 옮기고, review 진입 링크와 alias를 실제 역할명에 맞췄다.",
+  "metadata": {
+    "char_count": 159,
+    "sha256": "56166cdbc2de39259a51ad3aa9b7587adc7c82b59bb1161fd4cbec606188e866"
+  }
+}

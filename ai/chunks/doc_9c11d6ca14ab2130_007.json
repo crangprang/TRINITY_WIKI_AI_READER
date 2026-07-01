@@ -1,0 +1,24 @@
+{
+  "id": "doc_9c11d6ca14ab2130:007",
+  "document_id": "doc_9c11d6ca14ab2130",
+  "path": "wiki/characters/axions/가인/support/appearance.md",
+  "wiki_path": "characters/axions/가인/support/appearance.md",
+  "title": "가인 외형",
+  "section": "즉위 순간",
+  "summary": "가인의 검은 머리와 붉은 눈, 몸보다 큰 여제 예복, 굴레의 가면, 원한검, 시기별 외형 변화를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_007.json",
+  "text": "### 즉위 순간\n\n즉위 순간의 가인은 별도 왕관이나 굴레 가면을 쓰지 않는다. 황녀 복식은 전투와 비무를 거치며 흐트러지고, 머리는 풀리거나 엉키며, 얼굴은 상처와 먼지 속에 드러난다. 원한검은 선택 직전 또는 직후의 과도기 물건으로 놓인다.\n\n이 순간은 승리보다 절망과 모멸의 장면이다. 가인은 아백에게 패배해 죽고 그에게 정당성을 넘기려던 판이 무너진 자리에서 황제가 된다. 그래서 즉위 순간의 외형은 `권좌를 얻은 얼굴`이 아니라 `죽음으로 끝내지 못한 사람`의 얼굴이어야 한다.",
+  "metadata": {
+    "char_count": 272,
+    "sha256": "60b710b07cf5bc08c69439c44525404fad06a7feddbd7ba5bb2a4e9893e3e9f6"
+  }
+}

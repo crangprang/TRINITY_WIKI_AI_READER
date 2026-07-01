@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_5234509ad758f549",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P04_JIN/P04_VOICE_SAMPLE.txt",
+  "title": "P04_진 / VOICE_SAMPLE",
+  "summary": "P04_진 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "0c59a85ed30208eb2df2f02438d0f8812e08d4343724868c47d615a26662e046",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_5234509ad758f549.json",
+  "chunks": [
+    {
+      "id": "live_doc_5234509ad758f549:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_5234509ad758f549_000.json",
+      "char_count": 4302
+    }
+  ]
+}

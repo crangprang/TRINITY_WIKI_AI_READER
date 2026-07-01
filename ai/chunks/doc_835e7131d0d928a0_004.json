@@ -1,0 +1,22 @@
+{
+  "id": "doc_835e7131d0d928a0:004",
+  "document_id": "doc_835e7131d0d928a0",
+  "path": "wiki/review/contradictions.md",
+  "wiki_path": "review/contradictions.md",
+  "title": "충돌 기록",
+  "section": "FEL-001: 침식의 펠시온 정체 표현",
+  "summary": "알려진 모순, 긴장, 양립하기 어려운 해석을 기록하는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "contradictions"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_004.json",
+  "text": "### FEL-001: 침식의 펠시온 정체 표현\n\n상태: 2026-06-28 사용자 결정으로 해결.\n\n결정:\n\n- 현재 WIKI의 죄수 축을 유지한다.\n- 송장벌레 백골 가면, 붉은 봉인 문신, 검은 침식 문신을 침식의 외형 기준으로 반영한다.\n- 채택하지 않은 표현은 독자용 본문에 올리지 않는다.\n\n반영:\n\n- [침식의 펠시온](../characters/fellsions/침식의_펠시온/index.md)과 [침식의 펠시온 외형](../characters/fellsions/침식의_펠시온/support/appearance.md)에 죄수 축, 송장벌레 백골 가면, 봉인문신, 검은 침식 기준을 반영했다.",
+  "metadata": {
+    "char_count": 337,
+    "sha256": "3d8cfcc241849e08a35f11a57c26e686ab69dd7f2aa0a9d0d03740db4d359f85"
+  }
+}

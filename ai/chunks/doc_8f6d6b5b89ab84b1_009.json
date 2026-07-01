@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:009",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] review | 완료 핸드오프 원문 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_009.json",
+  "text": "## [2026-06-29] review | 완료 핸드오프 원문 표면 정리\n\n완료된 `wiki/review/remain_handoff/` 원문 파일을 `RUN/TRINITY_WIKI/20260629/review_archive/remain_handoff_completed/`로 옮기고, review 인덱스의 원문 보관 목록을 닫았다.",
+  "metadata": {
+    "char_count": 185,
+    "sha256": "e60cadf12d871e691fb69dd92b80f0c6e2f6f68809bffc78fa171f629a3bed42"
+  }
+}

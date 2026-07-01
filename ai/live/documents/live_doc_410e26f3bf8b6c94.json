@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_410e26f3bf8b6c94",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_FACT_DETAIL.txt",
+  "title": "메피스토 / FACT_DETAIL",
+  "summary": "메피스토 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "40fbafdc57232e5b3e4d8e2305851cdea69aa7b555367930b4b94da2c6e47e29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_410e26f3bf8b6c94.json",
+  "chunks": [
+    {
+      "id": "live_doc_410e26f3bf8b6c94:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_410e26f3bf8b6c94_000.json",
+      "char_count": 277
+    }
+  ]
+}

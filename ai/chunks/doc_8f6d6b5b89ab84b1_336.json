@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:336",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 주인공 파티 키워드 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_336.json",
+  "text": "## [2026-06-27] ingest | 주인공 파티 키워드 반영\n\n`키워드.txt`를 대조해 아인과 단테의 음악 키워드는 기존 support에 반영된 것으로 확인했다. [길티어](characters/main_party/길티어/index.md)에는 살아 있는 사람 수를 세는 강박과 마지막 묘비 감각을, [세레나](characters/main_party/세레나/index.md)에는 미각 중심 심상을 보강했다. [진 음악](characters/main_party/진/support/music.md)을 신설해 워크맨, 장르 변주, 빌려 피운 번갯불, 오늘과 내일의 약속을 음악 항목으로 분리했다.",
+  "metadata": {
+    "char_count": 334,
+    "sha256": "943179d62cb7f9e048f0517bd6788a6849784e75bad145d8a3168084dde038c3"
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "id": "doc_1a14934f9eecd2ec",
+  "path": "wiki/universe/realms/balance/culture/index.md",
+  "wiki_path": "universe/realms/balance/culture/index.md",
+  "title": "균형계 문화",
+  "summary": "균형계에서 이름, 공적 가면, 이름 맹세, 모닥불 유예, 죽은 자의 잔불, 금기와 통행이 사회적 역할과 의례로 작동하는 방식.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "culture"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "균형계 문화"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "이름과 사회적 역할"
+    },
+    {
+      "level": 2,
+      "title": "이름을 건 맹세"
+    },
+    {
+      "level": 2,
+      "title": "올림피아 중심 규범"
+    },
+    {
+      "level": 2,
+      "title": "삼위정교와 인간의 경계"
+    },
+    {
+      "level": 2,
+      "title": "공인조직과 공적 선의"
+    },
+    {
+      "level": 2,
+      "title": "공용 역법과 연호"
+    },
+    {
+      "level": 2,
+      "title": "공적 가면"
+    },
+    {
+      "level": 2,
+      "title": "모닥불 유예"
+    },
+    {
+      "level": 2,
+      "title": "죽은 자의 잔불"
+    },
+    {
+      "level": 2,
+      "title": "금기와 통행"
+    },
+    {
+      "level": 2,
+      "title": "나라별 변형"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    }
+  ],
+  "sha256": "0e797d46a8060af192bc449a088235f04f61bd74f1cca162b0113d945ff1228b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1a14934f9eecd2ec.json",
+  "chunks": [
+    {
+      "id": "doc_1a14934f9eecd2ec:000",
+      "section": "균형계 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_000.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_001.json",
+      "char_count": 502
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:002",
+      "section": "이름과 사회적 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_002.json",
+      "char_count": 741
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:003",
+      "section": "이름을 건 맹세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_003.json",
+      "char_count": 817
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:004",
+      "section": "올림피아 중심 규범",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_004.json",
+      "char_count": 362
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:005",
+      "section": "삼위정교와 인간의 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_005.json",
+      "char_count": 370
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:006",
+      "section": "공인조직과 공적 선의",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_006.json",
+      "char_count": 567
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:007",
+      "section": "공용 역법과 연호",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_007.json",
+      "char_count": 422
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:008",
+      "section": "공적 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_008.json",
+      "char_count": 699
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:009",
+      "section": "모닥불 유예",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_009.json",
+      "char_count": 827
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:010",
+      "section": "죽은 자의 잔불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_010.json",
+      "char_count": 1112
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:011",
+      "section": "금기와 통행",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_011.json",
+      "char_count": 412
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:012",
+      "section": "나라별 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_012.json",
+      "char_count": 438
+    },
+    {
+      "id": "doc_1a14934f9eecd2ec:013",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_013.json",
+      "char_count": 437
+    }
+  ]
+}

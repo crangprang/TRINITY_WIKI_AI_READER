@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:068",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 프로토타입 필로시온과 페르소나 재조립 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_068.json",
+  "text": "## [2026-06-28] ingest | 프로토타입 필로시온과 페르소나 재조립 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md`의 프로토타입 필로시온과 페르소나 claim을 [필로시온](universe/laws/필로시온.md)과 [페르소나](characters/personas/index.md)에 반영했다. 필로시온은 기능이 먼저 있고 인격은 그 기능을 수행하기 위한 인터페이스에 가까운 에테르 인격으로 정리했다.\n\n페르소나는 단순히 타락한 필로시온이 아니라, 프로토타입 필로시온 인격, 아타노르 잔재의 설계목적, 아홉 보물의 이상과 하마르티아, 부정 이데아, 시트리노가 남긴 인도자 이름의 신뢰, 감독의 그랜드 디자인이 아포라투스 안에서 재조립된 관리자 의식으로 보강했다. 페르소나의 응답은 감정을 부정하지 않고 인정한 뒤 출구를 장치 쪽으로 연결하는 가짜 안내 구조로 정리했다.",
+  "metadata": {
+    "char_count": 455,
+    "sha256": "8ebda85f8a82f956ee28f4c56f537f9d2734b60dfc3ac1c649a298b2de68261f"
+  }
+}

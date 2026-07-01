@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:006",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "내일 만나자는 약속",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_006.json",
+  "text": "### 내일 만나자는 약속\n\n천성이 새는 순간 진의 말은 생활형 낭만으로 돌아온다. 거창한 고백을 줄이고 `내일 보자`, `끝나고 밥이나 먹자`, `그건 내가 낼게` 같은 말이 더 잘 붙는다.",
+  "metadata": {
+    "char_count": 107,
+    "sha256": "81a78f9cbf0a5c2e83187ceed6f3abab9d5ca5c6701ed7c35b151bbadde20e97"
+  }
+}

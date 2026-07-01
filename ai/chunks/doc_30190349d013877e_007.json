@@ -1,0 +1,23 @@
+{
+  "id": "doc_30190349d013877e:007",
+  "document_id": "doc_30190349d013877e",
+  "path": "wiki/characters/fellsions/정복의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/정복의_펠시온/index.md",
+  "title": "정복의 펠시온",
+  "section": "관련 문서",
+  "summary": "정복의 펠시온은 죽음 군단의 첫 번째 검이자 방패로, 골화 갑주와 정면 돌파를 통해 죽음의 질서를 수행하는 대장군이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_30190349d013877e_007.json",
+  "text": "## 관련 문서\n\n- [정복의 펠시온 외형](support/appearance.md) - 골화 갑주, 백골 요새, 죽음 군단 대장군의 정면 돌파를 시각화하는 외형 항목.\n- [펠시온](../index.md) - 정복이 속한 파괴계 이름 판결과 군단 구조를 묶는 펠시온 계열.\n- [트리네아드](../../trineads/index.md) - 죽음 군단과 펠시온 이름 판결을 낳는 상위 신격 계열.",
+  "metadata": {
+    "char_count": 221,
+    "sha256": "44509e13e5722a35b8f54ddbce5815af03f546b8b2c1f658f4a3fe33e7381697"
+  }
+}

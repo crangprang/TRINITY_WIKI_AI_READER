@@ -1,0 +1,23 @@
+{
+  "id": "doc_5a90950680f4798e:007",
+  "document_id": "doc_5a90950680f4798e",
+  "path": "wiki/characters/axions/파우스트/index.md",
+  "wiki_path": "characters/axions/파우스트/index.md",
+  "title": "파우스트",
+  "section": "그레트헨과 마더 그레트헨",
+  "summary": "파우스트는 오아시스의 왕이자 자유 성좌의 엑시온으로, 그레트헨의 상실 때문에 나라 전체를 반복되는 현재에 묶은 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5a90950680f4798e_007.json",
+  "text": "## 그레트헨과 마더 그레트헨\n\n그레트헨은 파우스트의 상실이자 오아시스의 현재 고정이 시작된 이름이다. 그녀의 죽음은 파우스트에게 세 번째 소원을 열게 만들었고, 피라미디온은 기억과 감정, 말투를 복제한 마더 그레트헨을 생성했다.\n\n마더 그레트헨은 왕비의 귀환이라는 얼굴과 행정 시스템의 기능을 함께 가진다. 그녀는 의뢰, 점수, 배급, 권리, 일상의 위로를 관리하며 현재가 정상이라고 말한다. 파우스트는 그 목소리에서 상실의 종결 대신 끝없는 유예를 듣는다.",
+  "metadata": {
+    "char_count": 257,
+    "sha256": "247c1f9d8aa77358438c87f6291904c8b1221aa881d014d79ef71146179b523a"
+  }
+}

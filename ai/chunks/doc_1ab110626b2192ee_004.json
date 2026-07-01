@@ -1,0 +1,24 @@
+{
+  "id": "doc_1ab110626b2192ee:004",
+  "document_id": "doc_1ab110626b2192ee",
+  "path": "wiki/universe/realms/balance/organizations/흉조.md",
+  "wiki_path": "universe/realms/balance/organizations/흉조.md",
+  "title": "흉조",
+  "section": "관련 문서",
+  "summary": "흉조는 고요한 종말을 피할 수 없는 예정으로 선포하고, 균열과 저주와 판타즈마를 징조로 읽어 대중 불안을 조직하는 이단 세력이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1ab110626b2192ee_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 흉조가 놓이는 조직 색인.\n- [크로니클](크로니클.md) - 흉조의 공포 이미지를 표준화하는 공인 조직.\n- [구세군](구세군.md) - 흉조 단속과 숙청의 현장 조직.\n- [예언](../../../laws/예언.md) - 비극예언과 공포 유통의 상위 법칙.",
+  "metadata": {
+    "char_count": 178,
+    "sha256": "bc358e941bbcab91a8a4a48d40b21cf1e680167c14919f576bc438327e790db0"
+  }
+}

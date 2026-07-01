@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:257",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 엑시온 외형 support 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_257.json",
+  "text": "## [2026-06-26] style | 엑시온 외형 support 표면 정리\n\n엑시온 개별 항목과 appearance support의 관련 문서 설명에서 `시각 기준` 표현을 제거하고 외형 항목이 실제로 고정하는 인상과 소품을 적었다.\n\n- 가인, 마텔다, 마이더스, 제페토, 파우스트, 엘피스, 판도라, 설리반, 유리디스, 프로스페로의 appearance support 도입부를 외형 하위 항목 서술로 바꿨다.\n- 엑시온 본문 관련 문서 설명을 굴레의 가면, 황금 의수, 모래 출력 데스마스크, 검은 석판, 데칼코마니 무도회 가면 등 각 인물의 통치 표지와 연결했다.",
+  "metadata": {
+    "char_count": 320,
+    "sha256": "ac3a8b596c5d4e242391c0d1e886761563055cb1cf679fd4a7a0c3f2c9fa0d17"
+  }
+}

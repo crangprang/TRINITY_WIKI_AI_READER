@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:024",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "관련 문서",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_024.json",
+  "text": "## 관련 문서\n\n- [세레나](../index.md) - 순례자 윤리, 오니유혈, 푸른 달 기억이 말투의 절제와 증언성을 이루는 인물.\n- [세레나 외형](appearance.md) - 검은 외피, 뿔과 적안, 이동·휴식·전투 상태가 발화 압력과 맞물리는 외형 항목.\n- [블랑](../../블랑/index.md) - 세레나의 고결함 뒤 자멸 논리를 낮은 진단으로 멈춰 세우는 동료.\n- [단테](../../단테/index.md) - 세레나의 긍지와 자멸성을 농담과 더러운 선택으로 비켜 세우는 악우.\n- [아인](../../아인/index.md) - 파티의 방향과 자기희생 계산으로 세레나의 날을 세우는 리더.\n- [가인](../../../axions/가인/index.md) - 푸른 달 참극과 염한 통치의 이름으로 세레나의 분노를 깨우는 엑시온.\n- [아백](../../../savior_candidates/아백/index.md) - 서린이라는 이름, 그리움, 수치가 세레나의 발화 밑에서 열리는 후보.",
+  "metadata": {
+    "char_count": 508,
+    "sha256": "01473f7b268b4d957ba20737f09612ec2bf39f8733c25fbcf5d9cab7d80d822c"
+  }
+}

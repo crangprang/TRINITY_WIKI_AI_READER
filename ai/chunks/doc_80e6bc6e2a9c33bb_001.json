@@ -1,0 +1,24 @@
+{
+  "id": "doc_80e6bc6e2a9c33bb:001",
+  "document_id": "doc_80e6bc6e2a9c33bb",
+  "path": "wiki/characters/main_party/엘리자베스/support/appearance.md",
+  "wiki_path": "characters/main_party/엘리자베스/support/appearance.md",
+  "title": "엘리자베스 외형",
+  "section": "외형 기준",
+  "summary": "엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 신체 | 22~23세 젊은 여성, 169cm 전후, 7.6~7.7등신의 얇고 긴 실루엣 |\n| 얼굴 | 작고 부드러운 타원형 얼굴, 낮은 혈색, 작은 입, 가늘고 조용한 콧대, 부드러운 아몬드형 눈 |\n| 머리 | 차분한 크림슨 적발, 목덜미에서 묶이는 느슨한 로우 포니테일, 오프센터 커튼형 앞머리 |\n| 의상 | 흰 카라 블라우스, 중세 판타지풍 레이어드 스커트, 반투명 블랙 시어 겉치마, 크림슨 언더스커트, 낮은 검은 메리제인 |\n| 이어지는 것 | 상처, 피로, 피, 체온, 옷, 동선, 소지품 위치 |\n| 교체되는 것 | 시선, 입매, 호흡, 말투, 움직임, 자세의 압력 |\n\n엘리자베스의 몸은 [블랑](../../블랑/index.md)과 [스칼렛](../../스칼렛/index.md)이 공유하는 한 몸이다. 한 사람이 남긴 상처와 피로는 다음 전면이 그대로 짊어진다. 전환은 새 몸의 등장으로 보이지 않고, 같은 몸의 초점과 의지와 자세가 바뀌는 사건으로 드러난다.",
+  "metadata": {
+    "char_count": 525,
+    "sha256": "2c75983c7b39f6e2f59ce1fc0cf023ba117fadc2b53a89be84f221f6f814ca5a"
+  }
+}

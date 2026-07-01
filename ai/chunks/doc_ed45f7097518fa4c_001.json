@@ -1,0 +1,23 @@
+{
+  "id": "doc_ed45f7097518fa4c:001",
+  "document_id": "doc_ed45f7097518fa4c",
+  "path": "wiki/beings/creatures/마사오트_항해_생태.md",
+  "wiki_path": "beings/creatures/마사오트_항해_생태.md",
+  "title": "마사오트 항해 생태",
+  "section": "개요",
+  "summary": "구름쌀, 돛막균, 봉투돛새 등이 노틸러스호와 길드선 주변에서 이루는 마사오트 항해 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_001.json",
+  "text": "## 개요\n\n마사오트 항해 생태는 구름쌀, 돛막균, 봉투돛새 등을 중심으로 형성되는 하늘 항로와 선체 생활권의 생태다. 노틸러스호와 길드선이 끌고 다니는 바람, 습기, 먹이, 우편, 열, 밸러스트 수조가 서식 조건을 만든다.",
+  "metadata": {
+    "char_count": 125,
+    "sha256": "f97633e6cf8db6b5bd5864cfaac84a8dc2e14694663a4bfddd626ec0aef12844"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "doc_689e101dac69a5f8",
+  "path": "wiki/universe/laws/비술.md",
+  "wiki_path": "universe/laws/비술.md",
+  "title": "비술",
+  "summary": "비술은 개인의 Own 에너지를 의식적으로 운용해 Other 에너지에 연결하고, 물들이고, 꼬아 넣는 후천 기술이다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "energy",
+    "technique"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "비술"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "세 공정"
+    },
+    {
+      "level": 2,
+      "title": "개발 방향"
+    },
+    {
+      "level": 2,
+      "title": "과용과 반동"
+    },
+    {
+      "level": 2,
+      "title": "저주와의 관계"
+    },
+    {
+      "level": 2,
+      "title": "기적과의 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    }
+  ],
+  "sha256": "dd04479c9ff344f75a7bb719b54dc9c7244710d0359a5f681059761784049020",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_689e101dac69a5f8.json",
+  "chunks": [
+    {
+      "id": "doc_689e101dac69a5f8:000",
+      "section": "비술",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_000.json",
+      "char_count": 173
+    },
+    {
+      "id": "doc_689e101dac69a5f8:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_001.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_689e101dac69a5f8:002",
+      "section": "세 공정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_002.json",
+      "char_count": 453
+    },
+    {
+      "id": "doc_689e101dac69a5f8:003",
+      "section": "개발 방향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_003.json",
+      "char_count": 317
+    },
+    {
+      "id": "doc_689e101dac69a5f8:004",
+      "section": "과용과 반동",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_004.json",
+      "char_count": 442
+    },
+    {
+      "id": "doc_689e101dac69a5f8:005",
+      "section": "저주와의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_005.json",
+      "char_count": 304
+    },
+    {
+      "id": "doc_689e101dac69a5f8:006",
+      "section": "기적과의 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_006.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_689e101dac69a5f8:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_689e101dac69a5f8_007.json",
+      "char_count": 272
+    }
+  ]
+}

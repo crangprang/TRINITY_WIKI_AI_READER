@@ -1,0 +1,23 @@
+{
+  "id": "doc_2060ee2608647347:031",
+  "document_id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "section": "관련 문서",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_031.json",
+  "text": "## 관련 문서\n\n- [엘리자베스](../엘리자베스/index.md) - 블랑과 스칼렛이 한 몸 안에서 전면을 바꾸는 공용 이름.\n- [스칼렛](../스칼렛/index.md) - 블랑을 보호하고 대신 공포를 끌어오는 같은 몸의 다른 전면.\n- [빈센트](../../personas/빈센트/index.md) - 아틀리에와 재연 구조를 통해 블랑의 기억과 공포를 붙드는 페르소나.\n- [유리디스 도리안 드 발루아](../../axions/유리디스_도리안_드_발루아/index.md) - 블랑의 출생과 우니오네 왕실 비극을 잇는 어머니이자 예술 성좌.\n- [우니오네](../../../universe/realms/balance/nations/우니오네.md) - 블랑의 병동, 왕실, 아틀리에 기억이 접힌 예술의 나라.\n- [파티](../파티/index.md) - 블랑의 진단과 제지가 동료들의 희생 논리와 폭주를 멈춰 세우는 이동 집단.\n- [아인](../아인/index.md) - 자기 몸을 계산에 넣는 희생 논리를 블랑의 진단과 제지가 멈춰 세우는 리더.\n- [진](../진/index.md) - 생활적인 농담과 과장된 태도로 블랑이 숨을 놓게 만드는 동료.\n- [옌](../옌/index.md) - 예의 바른 거리감과 좁은 친밀감이 안도와 불편함을 함께 여는 동료.\n- [길티어](../길티어/index.md) - 판단하는 손과 집행하는 손이 체온과 한계선을 사이에 두고 맞물리는 동료.",
+  "metadata": {
+    "char_count": 720,
+    "sha256": "fcd9971baf1d4ebef2edcf3a4afb6499cb807b5ae6cf1d20210e155457c7eeba"
+  }
+}

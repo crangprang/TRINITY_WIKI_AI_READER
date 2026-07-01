@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:350",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] worldlaw | 하위신 승격체 경계 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_350.json",
+  "text": "## [2026-06-28] worldlaw | 하위신 승격체 경계 보강\n\nLIVE WC 승격체 계열을 [하위신](universe/laws/하위신.md)과 [펠시온](characters/fellsions/index.md)에 대조했다. 하위신을 생물학적 종족명 위의 상위 상태로 정리하고, 판타즈마 기반 승격과 판타즈마 계열 자체의 경계, 엑시온의 사회학적 재정의, 펠시온 이름 낙인의 재구성 효과를 독자용 본문에 보강했다.",
+  "metadata": {
+    "char_count": 236,
+    "sha256": "769327788155331f8062dee2820eec71d9f263d5d70acec1d4352c771a91b077"
+  }
+}

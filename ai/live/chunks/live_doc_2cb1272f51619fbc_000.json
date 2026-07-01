@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_2cb1272f51619fbc:000",
+  "document_id": "live_doc_2cb1272f51619fbc",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/07_MINOS/PER07_VOICE_SAMPLE.txt",
+  "title": "미노스 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "미노스 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2cb1272f51619fbc_000.json",
+  "text": "미노스 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER07_CORE.txt`와 `PER07_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 174,
+    "sha256": "ddedd9d88ca3fccfa31c48c227a7320e644974b8ca3930587abe44e36c0aa612"
+  }
+}

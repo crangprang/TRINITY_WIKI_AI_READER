@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f:004",
+  "document_id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "section": "국가와 도시 QA",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_004.json",
+  "text": "## 국가와 도시 QA\n\n- 국가는 이념 요약이 아니라 생활 리듬, 제도, 노동, 금기, 건축, 음식, 장례, 축제, 언어 압력으로 읽히게 한다.\n- 도시 소개는 지명 나열보다 이동 경로, 위험, 시선, 소리, 냄새, 계층의 접촉면을 우선한다.\n- 국가별 확정값이 없으면 평균값을 만들지 않는다. 보류값은 독자용 본문에 임시 정본처럼 올리지 않는다.",
+  "metadata": {
+    "char_count": 195,
+    "sha256": "a327e645e956094e17a97abeb460edd5560315ccf8097363f183831b9254c47c"
+  }
+}

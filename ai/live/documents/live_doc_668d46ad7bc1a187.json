@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_668d46ad7bc1a187",
+  "path": "02_LORE/L07_JUSTICE/L07_BRANCH_IDEA.txt",
+  "title": "L07_오르딜리아 / BRANCH_IDEA",
+  "summary": "L07_오르딜리아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L07_JUSTICE",
+  "suffix": ".txt",
+  "sha256": "7c6ca626e0813aa43fc4ab81009be79a70e46e3d5b2d1d8476a9f3636d3c49ee",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_668d46ad7bc1a187.json",
+  "chunks": [
+    {
+      "id": "live_doc_668d46ad7bc1a187:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_668d46ad7bc1a187_000.json",
+      "char_count": 857
+    }
+  ]
+}

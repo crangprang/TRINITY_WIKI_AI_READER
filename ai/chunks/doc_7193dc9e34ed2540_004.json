@@ -1,0 +1,23 @@
+{
+  "id": "doc_7193dc9e34ed2540:004",
+  "document_id": "doc_7193dc9e34ed2540",
+  "path": "wiki/review/ownership_locks.md",
+  "wiki_path": "review/ownership_locks.md",
+  "title": "항목 소유권 잠금",
+  "section": "운영",
+  "summary": "비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "decomposition",
+    "locks"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_004.json",
+  "text": "## 운영\n\n새 독립 항목 제안은 여기에 누적하지 않는다. 실제 사용자 판단이 필요한 동안에는 [판단 요청](decision_requests/index.md)에 별도 항목으로 두고, 승인 뒤 최종 소유자만 이 잠금 목록에 반영한다.",
+  "metadata": {
+    "char_count": 129,
+    "sha256": "cb6c7793f006006ad84de1a9f0883798f508dca6362d748151d4874b095b8113"
+  }
+}

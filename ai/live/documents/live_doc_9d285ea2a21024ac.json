@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_9d285ea2a21024ac",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P01_EIN/P01_VOICE_SAMPLE.txt",
+  "title": "P01_아인 / VOICE_SAMPLE",
+  "summary": "P01_아인 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "a7fbd180f4c7c4eb0a03bd7cc5ae5658226ac2319a65a37bb5c09f329a15fd5b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_9d285ea2a21024ac.json",
+  "chunks": [
+    {
+      "id": "live_doc_9d285ea2a21024ac:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9d285ea2a21024ac_000.json",
+      "char_count": 9750
+    }
+  ]
+}

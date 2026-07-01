@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:020",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "관계 충돌",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_020.json",
+  "text": "### 관계 충돌\n\n아인이 또 버틸 때, 옌이 조용히 빠질 때, 진이 먼저 뛰어들 때, 블랑이 선택의 뒤를 보자고 할 때, 세레나가 앞으로 설 때, 단테가 슬쩍 빠질 때, 스칼렛이 웃으며 선을 넘을 때 관계별 어조가 바로 올라온다.",
+  "metadata": {
+    "char_count": 129,
+    "sha256": "e31265975dcb98cfb2ebb898a9d2c738ecc6facf7522c19edd9aaf1575ed0fc0"
+  }
+}

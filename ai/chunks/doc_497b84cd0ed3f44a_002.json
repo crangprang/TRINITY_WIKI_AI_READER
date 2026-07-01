@@ -1,0 +1,24 @@
+{
+  "id": "doc_497b84cd0ed3f44a:002",
+  "document_id": "doc_497b84cd0ed3f44a",
+  "path": "wiki/universe/realms/balance/organizations/탐험가_길드.md",
+  "wiki_path": "universe/realms/balance/organizations/탐험가_길드.md",
+  "title": "탐험가 길드",
+  "section": "지부와 업무",
+  "summary": "탐험가 길드는 마사오트 기반의 기능조직으로, 의뢰와 보수를 중심으로 탐사, 운반, 구조, 지부 파견을 중개한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_497b84cd0ed3f44a_002.json",
+  "text": "## 지부와 업무\n\n탐험가 길드는 마사오트의 3강 길드 중 하나로, 새 길과 폐허를 열고, 통과 가능한 항로와 통과하면 안 되는 심층을 구분한다. 길드는 단순한 모험가 모임보다 현장 중개소에 가깝다. 누가 어떤 위험을 감당할 수 있는지, 어느 의뢰가 구조인지 함정인지, 어떤 보수가 돌아올 수 있는지를 판단한다.\n\n캘리번이 우니오네 지부장으로 활동하는 배치는 이 구조와 충돌하지 않는다. 탐험가 길드는 마사오트 기반 조직이지만, 지부장은 외국 현장에 놓여 그 나라의 의뢰와 길드 규율을 연결한다.",
+  "metadata": {
+    "char_count": 277,
+    "sha256": "a60ed77909cfe9b47f10f3f37f51b9dd9f8bafb4d169623c755f1c9bddc2eb62"
+  }
+}

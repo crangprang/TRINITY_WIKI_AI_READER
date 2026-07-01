@@ -1,0 +1,24 @@
+{
+  "id": "doc_7207679bfb299b59:007",
+  "document_id": "doc_7207679bfb299b59",
+  "path": "wiki/characters/main_party/블랑/support/appearance.md",
+  "wiki_path": "characters/main_party/블랑/support/appearance.md",
+  "title": "블랑 외형",
+  "section": "핵심 프롬프트",
+  "summary": "블랑의 공용 몸, 녹안, 검은 조끼, 닫힌 레이어드 스커트, 의료가방, 리볼버, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7207679bfb299b59_007.json",
+  "text": "### 핵심 프롬프트\n\n```text\nElizabeth Blanc, 22-23 year old young woman, slender long silhouette, crimson red hair, loose low ponytail at the nape, asymmetric curtain bangs, most of the hairline hidden by soft strands, one ear and one side of the neck visible, emerald green eyes, refined almond eyes, calm upper eyelid pressure, small warm smile, clear bright skin with soft peach blush on cheeks nose bridge and nose tip, small oval face, delicate nose, small natural mouth, green gemstone drop earring, white collared blouse, top two buttons open, neatly fastened black waistcoat with aged brass hooks, soft long white sleeves, medieval renaissance inspired layered skirt, closed black sheer overskirt, subtle vertical folds, delicate black floral lace only on the hem, low black Mary Jane shoes, folded bandage cloth in hand, optional worn leather medical bag with straps bottles folded fabric and small brass fittings, quiet noble poise, young doctor's practical presence, still-living curiosity\n```",
+  "metadata": {
+    "char_count": 997,
+    "sha256": "055c23b358266df3aedbc14df950fb70083dc39a8f50c8753cdd628ff4dc9e6a"
+  }
+}

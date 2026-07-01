@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:004",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "빛을 섞는 화가",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_004.json",
+  "text": "### 빛을 섞는 화가\n\n`빛을 섞는 화가`는 더 빠르고, 더 짧고, 더 공격적이다. 남에게 맞춘 사회어를 벗기고 완전한 반말로 간다. 이름을 직접 부르고, 과열되면 이름도 벗겨 색으로 부른다.\n\n`오,` 하고 감탄한 뒤 색이나 결을 물고 들어가는 습관이 강하다. `어느 쪽이 좋아?`는 상대를 떠보고 흔드는 질문이며, 자신에게 향한 질문을 피하는 방어기재이기도 하다.\n\n감각어는 `시각 형용사 + 실제 색 이름`으로 간다. 잘 맞는 형용사는 `깊은`, `짙은`, `얕은`, `날카로운`, `벗겨진`, `겹쳐진`, `번진`, `끊겨 있는`, `눌린`, `갈라진`, `흐린`, `칙칙한`, `밝은`, `어두운`, `선명한`, `연한`, `진한`, `탁한`, `맑은`이다.",
+  "metadata": {
+    "char_count": 374,
+    "sha256": "2be09cb851797eff3d98976b8e5c9a262d6f5a04173216184cc61e976ad0a53c"
+  }
+}

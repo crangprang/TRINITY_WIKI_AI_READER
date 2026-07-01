@@ -1,0 +1,257 @@
+{
+  "id": "doc_8eab91959751ac58",
+  "path": "wiki/beings/phantasmas/index.md",
+  "wiki_path": "beings/phantasmas/index.md",
+  "title": "판타즈마",
+  "summary": "판타즈마는 부정 이데아, 이름, 국가 환경, 용의 잔해가 몸과 재생 조건을 얻은 괴생태 존재다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "phantasmas"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "4등급 판타즈마와 수수께끼"
+    },
+    {
+      "level": 2,
+      "title": "국가 공포와 생태"
+    },
+    {
+      "level": 2,
+      "title": "발생 구조"
+    },
+    {
+      "level": 2,
+      "title": "이름과 몸"
+    },
+    {
+      "level": 2,
+      "title": "핵과 파훼"
+    },
+    {
+      "level": 2,
+      "title": "계열"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "레이어드 2등급 판타즈마",
+      "target": "wiki/beings/phantasmas/레이어드_2등급_판타즈마.md"
+    },
+    {
+      "label": "레이어드 3등급 판타즈마",
+      "target": "wiki/beings/phantasmas/레이어드_3등급_판타즈마.md"
+    },
+    {
+      "label": "마사오트 2등급 판타즈마",
+      "target": "wiki/beings/phantasmas/마사오트_2등급_판타즈마.md"
+    },
+    {
+      "label": "마사오트 3등급 판타즈마",
+      "target": "wiki/beings/phantasmas/마사오트_3등급_판타즈마.md"
+    },
+    {
+      "label": "알렉시아 2등급 판타즈마",
+      "target": "wiki/beings/phantasmas/알렉시아_2등급_판타즈마.md"
+    },
+    {
+      "label": "알렉시아 3등급 판타즈마",
+      "target": "wiki/beings/phantasmas/알렉시아_3등급_판타즈마.md"
+    },
+    {
+      "label": "플라센티아 2등급 판타즈마",
+      "target": "wiki/beings/phantasmas/플라센티아_2등급_판타즈마.md"
+    },
+    {
+      "label": "플라센티아 3등급 판타즈마",
+      "target": "wiki/beings/phantasmas/플라센티아_3등급_판타즈마.md"
+    },
+    {
+      "label": "증오의 판타즈마",
+      "target": "wiki/beings/phantasmas/증오의_판타즈마.md"
+    },
+    {
+      "label": "탐욕의 판타즈마",
+      "target": "wiki/beings/phantasmas/탐욕의_판타즈마.md"
+    },
+    {
+      "label": "오만의 판타즈마",
+      "target": "wiki/beings/phantasmas/오만의_판타즈마.md"
+    },
+    {
+      "label": "망상의 판타즈마",
+      "target": "wiki/beings/phantasmas/망상의_판타즈마.md"
+    },
+    {
+      "label": "분노의 판타즈마",
+      "target": "wiki/beings/phantasmas/분노의_판타즈마.md"
+    },
+    {
+      "label": "위선의 판타즈마",
+      "target": "wiki/beings/phantasmas/위선의_판타즈마.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "외면의 판타즈마",
+      "target": "wiki/beings/phantasmas/외면의_판타즈마.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "하급 생물",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    }
+  ],
+  "sha256": "f6c30f6cb6d7cdb4fa90a43b555098a31fb02a52d23be0b75a742d8dcd6a14f5",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8eab91959751ac58.json",
+  "chunks": [
+    {
+      "id": "doc_8eab91959751ac58:000",
+      "section": "판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_000.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_8eab91959751ac58:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_001.json",
+      "char_count": 989
+    },
+    {
+      "id": "doc_8eab91959751ac58:002",
+      "section": "4등급 판타즈마와 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_002.json",
+      "char_count": 666
+    },
+    {
+      "id": "doc_8eab91959751ac58:003",
+      "section": "국가 공포와 생태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_003.json",
+      "char_count": 331
+    },
+    {
+      "id": "doc_8eab91959751ac58:004",
+      "section": "발생 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_004.json",
+      "char_count": 422
+    },
+    {
+      "id": "doc_8eab91959751ac58:005",
+      "section": "이름과 몸",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_005.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_8eab91959751ac58:006",
+      "section": "핵과 파훼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_006.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_8eab91959751ac58:007",
+      "section": "계열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_007.json",
+      "char_count": 469
+    },
+    {
+      "id": "doc_8eab91959751ac58:008",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_008.json",
+      "char_count": 1556
+    },
+    {
+      "id": "doc_8eab91959751ac58:009",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8eab91959751ac58_009.json",
+      "char_count": 517
+    }
+  ]
+}

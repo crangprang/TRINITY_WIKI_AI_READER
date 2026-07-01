@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:008",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "블랑",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_008.json",
+  "text": "### 블랑\n\n[블랑](../../블랑/index.md) 앞에서는 장난이 많고 더 크게 군다. 그 장난 아래에는 블랑 손이 더러워지기 전에 먼저 앞을 막으려는 습관이 있다. 블랑이 `멈춰`라고 하면 투덜대면서도 결국 멈춘다.",
+  "metadata": {
+    "char_count": 125,
+    "sha256": "75230002d96551603189a6800e854947eb042e2d5b7cc410444e76d4f95e99e0"
+  }
+}

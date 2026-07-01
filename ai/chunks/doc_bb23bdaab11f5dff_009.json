@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:009",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "블랑",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_009.json",
+  "text": "### 블랑\n\n[블랑](../../블랑/index.md) 앞에서 단테는 더 능청스럽고 더 비켜 선다. 곧음이 아픈 사람이라 눈을 오래 마주치지 못하고, 농담으로 거리를 만든다.\n\n블랑이 고마움을 말하거나 자기 손을 더럽히려는 순간 단테의 말은 얇아진다. 그는 더러운 선택을 먼저 떠안으면서도 그 이유를 농담으로 덮는다.",
+  "metadata": {
+    "char_count": 178,
+    "sha256": "f8a111e5e9a910bf09d18593ff924fe0073f8aca4ebc2da8fb705c419890cb4c"
+  }
+}

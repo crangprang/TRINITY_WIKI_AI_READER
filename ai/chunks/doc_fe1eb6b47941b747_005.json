@@ -1,0 +1,24 @@
+{
+  "id": "doc_fe1eb6b47941b747:005",
+  "document_id": "doc_fe1eb6b47941b747",
+  "path": "wiki/characters/fellsions/역병의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/역병의_펠시온/support/appearance.md",
+  "title": "역병의 펠시온 외형",
+  "section": "시각 경계",
+  "summary": "역병의 펠시온의 검은 대주교 실루엣, 동충하초 백골 부리 가면, 포자향, 균사와 부패의 복음 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fe1eb6b47941b747_005.json",
+  "text": "## 시각 경계\n\n- 역병 의사 실루엣은 긴 부리 가면과 지팡이에 압축하고, 의료인 코스튬은 중심에서 물러난다.\n- 동충하초와 균사 질감은 부리 가면 표면과 포자향에 붙는다.\n- 단순 의사 코트나 방호복은 검은 대주교 인상을 흐린다.\n- 의료 도구, 주사기, 과학 장비는 역병의 중심 소품에서 떨어진다.",
+  "metadata": {
+    "char_count": 169,
+    "sha256": "036b00993a8e5e2266646445cd03e486647c731c21faefc687ef6434a5259a45"
+  }
+}

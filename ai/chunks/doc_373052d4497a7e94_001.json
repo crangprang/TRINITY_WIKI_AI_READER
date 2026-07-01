@@ -1,0 +1,24 @@
+{
+  "id": "doc_373052d4497a7e94:001",
+  "document_id": "doc_373052d4497a7e94",
+  "path": "wiki/characters/axions/설리반/support/appearance.md",
+  "wiki_path": "characters/axions/설리반/support/appearance.md",
+  "title": "설리반 외형",
+  "section": "외형 기준",
+  "summary": "설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 40대 중반 |\n| 실루엣 | 통제하는 사람, 방호복을 입은 현장 감독관 |\n| 머리색 | 명도와 채도가 낮은 흰색 |\n| 눈색 | 푸른색 |\n| 의상 | 긴 흰 코트 또는 원전 방호복을 상징화한 흰 보호복 |\n| 가면 | 원자력 발전소 방호복 헬멧을 상징화한 전면 helmet-mask |\n| 소품 | 선량계형 계측 장치, 격리 밸브, 배수 홈, 제어 패널, 검은 비 통제 장면 |\n| 배경 | 구름, 제어 스테이션, 격납 시설 같은 흰 도시 구조, 검은 비의 대가 |\n| 표정/자세 | 피곤하고 시니컬하지만 현장을 관리하는 자세 |",
+  "metadata": {
+    "char_count": 357,
+    "sha256": "c5d70aabdab59347accd027520ad5139149c658c8df1f1697f684bcf6ef3d8e0"
+  }
+}

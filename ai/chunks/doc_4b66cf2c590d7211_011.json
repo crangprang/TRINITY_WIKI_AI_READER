@@ -1,0 +1,23 @@
+{
+  "id": "doc_4b66cf2c590d7211:011",
+  "document_id": "doc_4b66cf2c590d7211",
+  "path": "wiki/characters/axions/판도라/index.md",
+  "wiki_path": "characters/axions/판도라/index.md",
+  "title": "판도라",
+  "section": "관련 문서",
+  "summary": "판도라는 알렉시아 건국기의 최초 질문을 오르가논에 입력한 맹인 학장이며, 나라를 살린 빛과 벌레의 재앙을 함께 연 건국기 엑시온이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4b66cf2c590d7211_011.json",
+  "text": "## 관련 문서\n\n- [엑시온](../index.md) - 보물이 선택한 인간 숙주와 통치 얼굴.\n- [판도라 외형](support/appearance.md) - 맹인 학장과 검은 석판이 질문 통치의 몸을 고정하는 외형 항목.\n- [알렉시아](../../../universe/realms/balance/nations/알렉시아.md) - 판도라의 최초 질문으로 빛과 재앙을 함께 얻은 진리의 나라.\n- [탈레스](../../personas/탈레스/index.md) - 판도라의 죄책감과 다음 질문을 자극하는 페르소나.\n- [메테우스](../../savior_candidates/메테우스/index.md) - 판도라가 남긴 질문을 태우려는 인퀴지터 집행자.\n- [엘피스](../엘피스/index.md) - 판도라 뒤를 잇는 알렉시아의 계승자.",
+  "metadata": {
+    "char_count": 413,
+    "sha256": "84a5fa9a689005eb4955a86848e0730d3b98482b4f49e10615cf3c549d81ab33"
+  }
+}

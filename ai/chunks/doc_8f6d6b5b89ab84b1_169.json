@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:169",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 세 에너지 정본형 리빌드",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_169.json",
+  "text": "## [2026-06-26] rebuild | 세 에너지 정본형 리빌드\n\n새 SOT DB 계약 기준에 맞춰 [세 에너지](universe/laws/세_에너지.md)를 우주 법칙 항목으로 다시 정리했다.\n\n- 정리: 에테르, 이데아, 마니아를 각각 인식, 의미, 형상 축으로 분리해 조회 가능한 하위 설명을 세웠다.\n- 보강: 섭리, 이름과 현실 압력, 축복, 저주, 비술, 기적, 작중 적용을 세 에너지의 공통 문법으로 연결했다.\n- 연결: 삼위일체 우주, 오리진, 하위신, 판타즈마 링크를 독자용 조회 흐름에 맞게 보강했다.",
+  "metadata": {
+    "char_count": 294,
+    "sha256": "f1846b649b13f883790b80ada59e8f9ee8e0749c2189567a41a6e7d20eb869a4"
+  }
+}

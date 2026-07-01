@@ -1,0 +1,22 @@
+{
+  "id": "doc_835e7131d0d928a0:003",
+  "document_id": "doc_835e7131d0d928a0",
+  "path": "wiki/review/contradictions.md",
+  "wiki_path": "review/contradictions.md",
+  "title": "충돌 기록",
+  "section": "FEL-002: 정복의 펠시온 가면 모티프",
+  "summary": "알려진 모순, 긴장, 양립하기 어려운 해석을 기록하는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "contradictions"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_003.json",
+  "text": "### FEL-002: 정복의 펠시온 가면 모티프\n\n상태: 2026-06-28 사용자 결정으로 해결.\n\n결정:\n\n- 하위신 개발 핸드오프의 장수풍뎅이 모티프를 정본으로 둔다.\n- 정복의 가면은 장수풍뎅이형 백골 투구와 공성추형 뿔로 정리한다.\n- 군마성은 자세, 행군, 돌격 리듬의 보조 언어로만 사용한다.\n\n반영:\n\n- [정복의 펠시온](../characters/fellsions/정복의_펠시온/index.md)과 [정복의 펠시온 외형](../characters/fellsions/정복의_펠시온/support/appearance.md)에 장수풍뎅이형 백골 투구와 공성추형 뿔을 반영했다.",
+  "metadata": {
+    "char_count": 329,
+    "sha256": "c21b65856127d68cab78157a85f167cc71bce74efff5b522454265d494409adf"
+  }
+}

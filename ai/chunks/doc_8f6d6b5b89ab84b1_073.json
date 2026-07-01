@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:073",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] update | 핸드오프 설정 반영과 예언 항목 신설",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_073.json",
+  "text": "## [2026-06-27] update | 핸드오프 설정 반영과 예언 항목 신설\n\n퍼시스 사건 충돌을 사용자 결정에 따라 해결했다. 라케시스의 아조트 직접 살해와 기억 편집을 정본으로 두고, 염한의 초대 투쟁 엑시온 동귀어진 서사는 공적 기억과 선전으로 재맥락화했다.\n\n`events/삼위의_군상/2부/신들의_시대/줄거리.md`와 `events/삼위의_군상/3부/초인의_시대/줄거리.md`를 신설해 2부와 3부의 거대 줄거리를 기록했다. `universe/laws/예언.md`를 신설해 비극예언, 구세주예언, 배신자예언을 독립 법칙 항목으로 분리했다.\n\n회수 핸드오프의 거시설정 claim을 기존 소유 문서에 흡수했다. [삼위일체 우주](universe/structure/삼위일체_우주.md)에 삼계의 상처와 꼬임을 보강하고, [오리진](universe/structure/오리진.md)에 사후 존재론을 추가했다. [아홉 보물](universe/structure/아홉_보물.md), [엑시온](characters/axions/index.md), [페르소나](characters/personas/index.md), [아포라투스](universe/realms/balance/apparatus/index.md)는 보물 선택, 계승 검증, 표층 인지, 장치 권역 설명을 보강했다. [균형계 언어](universe/realms/balance/language/index.md), [균형계 문화](universe/realms/balance/culture/index.md), [아홉 나라](universe/realms/balance/nations/index.md), [구세주 후보](characters/savior_candidates/index.md)에는 표준 알렉시아어, 정교력, 삼위정교 인간관, 부정 이데아, 문명 상호의존, 기능조직 운용을 추가했다.\n\n니그리스·라케시스·감독·에르고 축 핸드오프의 비플롯 인물 해석을 정본 인물 문서에 반영했다. [니그리스 알비우스 시트리노](characters/ensemble/니그리스_알비우스_시트리노/index.md)는 기억이 권위가 아니라는 과제를, [라케시스](characters/trineads/라케시스/index.md)는 이해를 권위로 오해한 선택 독점과 퍼시스 직접 살해를, [감독](characters/trineads/감독/index.md)은 구원 불가능을 증명하려는 무대 인식과 코레고스 계통을, [에르고](characters/trineads/에르고/index.md)와 [배신의 펠시온](characters/ensemble/배신의_펠시온/index.md)은 부술 수 있는 힘으로 세계를 소유하지 않는 선택과 이름의 소유권 문제를 보강했다.",
+  "metadata": {
+    "char_count": 1333,
+    "sha256": "e3e911d6ff524b804706be90341b2b0420bf9e7a0c645ba4d8e7dd60310e65b4"
+  }
+}

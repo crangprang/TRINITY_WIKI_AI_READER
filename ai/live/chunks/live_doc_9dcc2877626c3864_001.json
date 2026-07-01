@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_9dcc2877626c3864:001",
+  "document_id": "live_doc_9dcc2877626c3864",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/PART1_README.txt",
+  "title": "PART1_NINE_NATIONS_ERA",
+  "section": "Part Contract",
+  "summary": "This part is the active plot scaffold for the Nine Nations era.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_001.json",
+  "text": "## Part Contract\n\n- `CH` is the chapter layer.\n- `EP` is the episode layer.\n- `M` is the module layer.\n- `S` is the scene layer.\n- chapter files keep long-form movement readable\n- episode files carry the concrete beats\n- default and template files support episode writing, not replace it",
+  "metadata": {
+    "char_count": 287,
+    "sha256": "f704866e4280915f56cd775baf70071d84933057865975fc8e7607732c35d405"
+  }
+}

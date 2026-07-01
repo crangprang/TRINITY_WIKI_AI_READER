@@ -1,0 +1,24 @@
+{
+  "id": "doc_682ebab80cc6f6e1:001",
+  "document_id": "doc_682ebab80cc6f6e1",
+  "path": "wiki/characters/main_party/아인/support/music.md",
+  "wiki_path": "characters/main_party/아인/support/music.md",
+  "title": "아인 음악",
+  "section": "음악 콘셉트",
+  "summary": "아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_001.json",
+  "text": "## 음악 콘셉트\n\n아인의 테마곡은 멈추지 않는 시계와 복수의 최단 경로 사이에서 움직인다. 그는 생각, 기억, 거짓말을 계속 돌리고, 손목의 시간과 받은 목숨을 복수의 끝칸까지 밀어 넣는다.\n\n표면은 빠르고 차갑게 정리된 판단이다. 안쪽에는 실험소, 폐기장, 랄이 양보한 시간, 인간처럼 살고 싶은 마음이 남아 있다. 인간적인 선택이 커질수록 저주는 몸을 조이고, 그 통증은 복수의 속도를 다시 재촉한다.\n\n음악은 빠른 진행을 가져도 몸의 약함을 같이 들려야 한다. 드럼과 시퀀스는 시계의 압박을 만들고, 보컬은 결론을 먼저 놓는 리더의 목소리와 통증을 숨기는 얇은 떨림을 함께 가진다.",
+  "metadata": {
+    "char_count": 329,
+    "sha256": "d7c1e23ffc983bc5d6207d566d3eb7f70aea6b5a38eece0bd558bc1161e88643"
+  }
+}

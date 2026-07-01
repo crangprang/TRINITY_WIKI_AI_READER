@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:212",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-24] visual lock | 옌 3층위 덧칠된 무지개 선택본 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_212.json",
+  "text": "## [2026-06-24] visual lock | 옌 3층위 덧칠된 무지개 선택본 반영\n\n옌의 3층위 외형을 `덧칠된 무지개`로 잠그고, 1·2층위 선택본과 이어지는 세 층위 기준을 독자용 기사 안에 통합했다.\n\n- 반영: [옌](characters/main_party/옌/index.md)\n- 주요 판단: 3층위는 2층위의 검은 화가가 아니라 1층위 흰 여행 스목이 다시 전면에 오는 상태다. 가방, 스케치북, 신발은 사라지고, 맨발, 마른 안료 자국, 흰 머리 안쪽의 무지개색, 한쪽 눈을 담는 손가락 프레임, 오팔빛 컬러휠 홍채가 핵심이다. 컬러휠 눈은 선명하되 공포나 최면으로 읽히지 않아야 한다.",
+  "metadata": {
+    "char_count": 340,
+    "sha256": "e03a742cb6d7f9bbe691102317b5d37469be113426da8dfa50ac49ae8b6855cd"
+  }
+}

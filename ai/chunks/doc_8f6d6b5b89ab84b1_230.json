@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:230",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 라돈 판타즈마 주제 섹션 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_230.json",
+  "text": "## [2026-06-26] rebuild | 라돈 판타즈마 주제 섹션 정리\n\n[위선의 판타즈마](beings/phantasmas/위선의_판타즈마.md)의 `해석 및 비고` 표면을 독자용 `주제` 항목으로 바꿨다.\n\n- 정리: 위선, 검은 비, 상하 분리, 숨겨진 평화의 대가를 라돈의 본문 주제 항목으로 유지했다.",
+  "metadata": {
+    "char_count": 176,
+    "sha256": "ccb11bdea2548430b82864325305656f8edff813132e09fd52ff6ec122a132ad"
+  }
+}

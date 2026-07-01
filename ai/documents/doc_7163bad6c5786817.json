@@ -1,0 +1,215 @@
+{
+  "id": "doc_7163bad6c5786817",
+  "path": "wiki/characters/trineads/생명의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/생명의_트리네아드/index.md",
+  "title": "생명의 트리네아드",
+  "summary": "생명의 트리네아드는 창조계에서 생체, 식생, 키메라, 4등급 판타즈마의 생명 계통을 붙드는 크리에이터다. 그녀의 판단 중심은 치유보다 창조에 있으며, 책임과 윤리보다 죽음을 넘어 살아 움직이는 성취에 먼저 반응한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "생명의 트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 3,
+      "title": "창조계 크리에이터"
+    },
+    {
+      "level": 3,
+      "title": "궁극 생명체의 집착"
+    },
+    {
+      "level": 3,
+      "title": "아포라투스의 생체층"
+    },
+    {
+      "level": 2,
+      "title": "외형과 표지"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "생체 조립"
+    },
+    {
+      "level": 3,
+      "title": "재생과 적응"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "감독"
+    },
+    {
+      "level": 3,
+      "title": "자연의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    }
+  ],
+  "sha256": "ae17329c98ac6693b7133c0b4f59dadbb645327d074431d1ceca27b80276a81e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7163bad6c5786817.json",
+  "chunks": [
+    {
+      "id": "doc_7163bad6c5786817:000",
+      "section": "생명의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_000.json",
+      "char_count": 177
+    },
+    {
+      "id": "doc_7163bad6c5786817:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_001.json",
+      "char_count": 485
+    },
+    {
+      "id": "doc_7163bad6c5786817:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_7163bad6c5786817:003",
+      "section": "창조계 크리에이터",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_003.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_7163bad6c5786817:004",
+      "section": "궁극 생명체의 집착",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_004.json",
+      "char_count": 300
+    },
+    {
+      "id": "doc_7163bad6c5786817:005",
+      "section": "아포라투스의 생체층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_005.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_7163bad6c5786817:006",
+      "section": "외형과 표지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_006.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_7163bad6c5786817:007",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_007.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_7163bad6c5786817:008",
+      "section": "생체 조립",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_008.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_7163bad6c5786817:009",
+      "section": "재생과 적응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_009.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_7163bad6c5786817:010",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_010.json",
+      "char_count": 247
+    },
+    {
+      "id": "doc_7163bad6c5786817:011",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_011.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_7163bad6c5786817:012",
+      "section": "감독",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_012.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_7163bad6c5786817:013",
+      "section": "자연의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_013.json",
+      "char_count": 125
+    },
+    {
+      "id": "doc_7163bad6c5786817:014",
+      "section": "판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_014.json",
+      "char_count": 123
+    },
+    {
+      "id": "doc_7163bad6c5786817:015",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_015.json",
+      "char_count": 352
+    }
+  ]
+}

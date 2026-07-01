@@ -1,0 +1,105 @@
+{
+  "id": "doc_dc263951b5df53e4",
+  "path": "wiki/universe/realms/balance/organizations/파르마콘.md",
+  "wiki_path": "universe/realms/balance/organizations/파르마콘.md",
+  "title": "파르마콘",
+  "summary": "파르마콘은 삼위정교 공인 조직으로, 절제의 이름 아래 연구, 의료, 검역, 보건, 저주와 감염과 이레귤러 상태 판정을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "파르마콘"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "판정과 관리"
+    },
+    {
+      "level": 2,
+      "title": "정교 질서와 비밀 명령"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    }
+  ],
+  "sha256": "f242dd3992c0923c58745b0d3cf9b1b3cf96fc3db2339a7bafba0ae55cd08600",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dc263951b5df53e4.json",
+  "chunks": [
+    {
+      "id": "doc_dc263951b5df53e4:000",
+      "section": "파르마콘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_000.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_dc263951b5df53e4:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_001.json",
+      "char_count": 405
+    },
+    {
+      "id": "doc_dc263951b5df53e4:002",
+      "section": "판정과 관리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_002.json",
+      "char_count": 344
+    },
+    {
+      "id": "doc_dc263951b5df53e4:003",
+      "section": "정교 질서와 비밀 명령",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_003.json",
+      "char_count": 366
+    },
+    {
+      "id": "doc_dc263951b5df53e4:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_004.json",
+      "char_count": 208
+    }
+  ]
+}

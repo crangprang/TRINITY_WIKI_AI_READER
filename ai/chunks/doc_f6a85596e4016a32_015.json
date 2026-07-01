@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:015",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "복수의 포커페이스",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_015.json",
+  "text": "### 복수의 포커페이스\n\n`복수의 포커페이스`는 별도 인격으로 분리되지 않고 여러 얼굴을 한 번에 다루는 손이다. 혼자 있을 때나 옌처럼 꾸민 얼굴이 잘 먹히지 않는 상대 앞에서 또렷해진다.\n\n장기전으로 넘어가면 아인은 사람의 목표와 약점을 흘려듣지 않는다. 무엇을 얻고 싶은지, 무엇을 잃기 싫은지 먼저 읽고, 그것을 자기 복수 쪽으로 끌어들이려 든다. 깊은 층으로 내려가면 남의 이름과 미래까지 자기 판에 걸고 싶어 하는 유혹이 고개를 든다.",
+  "metadata": {
+    "char_count": 250,
+    "sha256": "94051da3cb35938b6eada009dcd762d7c746332afa40b1e70681bf7cb2a8e1f0"
+  }
+}

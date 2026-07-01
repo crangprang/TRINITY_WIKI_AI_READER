@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b2d8e046d26e78e8",
+  "path": "03_WORLD/04_CREATURE/00_WC_LIFE_CLASSIFICATION.txt",
+  "title": "WC_LIFE_CLASSIFICATION",
+  "summary": "WC_LIFE_CLASSIFICATION",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "840bd62e316cc5a13246bd419764a2f261442e469a60a72ae9bd50486c6c074d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b2d8e046d26e78e8.json",
+  "chunks": [
+    {
+      "id": "live_doc_b2d8e046d26e78e8:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b2d8e046d26e78e8_000.json",
+      "char_count": 2341
+    }
+  ]
+}

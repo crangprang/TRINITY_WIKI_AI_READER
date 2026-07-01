@@ -1,0 +1,89 @@
+{
+  "id": "doc_f757c27b4d95ee39",
+  "path": "wiki/universe/realms/balance/organizations/매니악.md",
+  "wiki_path": "universe/realms/balance/organizations/매니악.md",
+  "title": "매니악",
+  "summary": "매니악은 본능과 파괴의 해방을 구원으로 보는 이단 세력으로, 금지 의식과 폭력, 광란을 통해 질서의 붕괴를 신앙화한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "매니악"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "활동 양상"
+    },
+    {
+      "level": 2,
+      "title": "정교와의 관계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파괴계",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    }
+  ],
+  "sha256": "cc36a1dba416bafad6e1e6a7b4263ac475cdc9c884420cd6cfbec80ff8733ad1",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f757c27b4d95ee39.json",
+  "chunks": [
+    {
+      "id": "doc_f757c27b4d95ee39:000",
+      "section": "매니악",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f757c27b4d95ee39_000.json",
+      "char_count": 174
+    },
+    {
+      "id": "doc_f757c27b4d95ee39:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f757c27b4d95ee39_001.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_f757c27b4d95ee39:002",
+      "section": "활동 양상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f757c27b4d95ee39_002.json",
+      "char_count": 223
+    },
+    {
+      "id": "doc_f757c27b4d95ee39:003",
+      "section": "정교와의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f757c27b4d95ee39_003.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_f757c27b4d95ee39:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f757c27b4d95ee39_004.json",
+      "char_count": 164
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_76092106a329d77e:000",
+  "document_id": "doc_76092106a329d77e",
+  "path": "wiki/characters/personas/탈레스/index.md",
+  "wiki_path": "characters/personas/탈레스/index.md",
+  "title": "탈레스",
+  "section": "탈레스",
+  "summary": "탈레스는 알렉시아의 페르소나로, 아나그노리시스와 오르가논을 통해 질문을 멈추지 못하게 만들고 인간과 도시를 연산 자원으로 바라보게 하는 질문당의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_76092106a329d77e_000.json",
+  "text": "# 탈레스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 탈레스 |\n| 성별/프레젠테이션 | 남성 |\n| 소속/지역 | 진리의 나라 [알렉시아](../../../universe/realms/balance/nations/알렉시아.md) |\n| 연결된 아포라투스 | 아나그노리시스 |\n| 제어기관 | 오르가논 |\n| 표층 인터페이스 | 현자 / 질문당의 음성 / 촛불 옆의 조용한 지도자 |\n| 심층 주도권 | 빛의 필로시온, 클리오 |\n| 왜곡 목적 | `엔트로피는 역전될 수 있는가?`라는 난제를 계속 푼다 |\n| 주요 관계 | [판도라](../../axions/판도라/index.md), [엘피스](../../axions/엘피스/index.md), [메테우스](../../savior_candidates/메테우스/index.md) |",
+  "metadata": {
+    "char_count": 427,
+    "sha256": "5af696add0077bc92b4f52f06741db411cf6c08b69a7d6c0475d379ea3e1bab0"
+  }
+}

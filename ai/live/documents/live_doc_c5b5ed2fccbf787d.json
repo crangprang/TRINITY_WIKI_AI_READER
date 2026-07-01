@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_c5b5ed2fccbf787d",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS01_CONQUEST.txt",
+  "title": "정복의 펠시온",
+  "summary": "정복의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "c969ba38b918549b7714ae27df5cd53c39ed22c593182d35d22c41bbee6259f8",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c5b5ed2fccbf787d.json",
+  "chunks": [
+    {
+      "id": "live_doc_c5b5ed2fccbf787d:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c5b5ed2fccbf787d_000.json",
+      "char_count": 1580
+    }
+  ]
+}

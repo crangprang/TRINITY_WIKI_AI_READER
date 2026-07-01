@@ -1,0 +1,24 @@
+{
+  "id": "doc_9fce2e34e4c1cd04:003",
+  "document_id": "doc_9fce2e34e4c1cd04",
+  "path": "wiki/characters/savior_candidates/메테우스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/메테우스/support/appearance.md",
+  "title": "메테우스 외형",
+  "section": "재난 봉인 버너",
+  "summary": "메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_003.json",
+  "text": "## 재난 봉인 버너\n\n재난 봉인 버너는 메테우스의 핵심 소품이다. 버너는 감염된 서가와 벌레, 오염된 기록을 봉쇄하고 끊는 장치로 보인다. 불꽃은 연결 절단의 표식이다.\n\n소각 명령서와 오염 기록 상자는 메테우스의 판단을 보여 준다. 기록은 사람을 남기지 않는 답이 되었을 때 태워지는 대상이다.",
+  "metadata": {
+    "char_count": 166,
+    "sha256": "cf0d69bd35d0b2a9f48cc3e8e122e7103e4f378363fa3779c33ce7ac0e18a0ae"
+  }
+}

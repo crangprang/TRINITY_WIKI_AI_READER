@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:017",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "선을 세울 때",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_017.json",
+  "text": "### 선을 세울 때\n\n선이 필요한 순간 블랑은 목소리를 높이지 않는다. `그만`, `여기까지`, `지금은 안 돼`, `물러나`처럼 짧게 자른다. 외부인 앞에서는 `그만두세요`, `여기서부터는 제가 보겠습니다`처럼 공손한 제지가 된다.",
+  "metadata": {
+    "char_count": 131,
+    "sha256": "929b54b2f3e012b2f18a4f2920b35a87778cc803eaafdb79436b31c8c4f6ab4d"
+  }
+}

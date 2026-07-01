@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:007",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "저마다의 행마",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_007.json",
+  "text": "### 저마다의 행마\n\n아인이 보는 세상에는 각자에게 남은 행마가 있다. 그는 사람을 만날 때 호감과 불신을 먼저 묻지 않고, 그 사람이 지금 어느 칸에 서 있으며 무엇을 포기하면 다음 칸이 열리는지 본다.\n\n이 세계 인식은 차가운 전략론으로 닫히지 않는다. 실험소에서 사람은 기능과 순위로 남거나 버려졌고, 공동체에서는 누가 먼저 다칠지 읽어야 했다. 아인은 사람이 한 번 버려지는 순간 아무 수 없는 말처럼 처리된다는 것을 몸으로 배웠다. 그래서 남은 행마를 찾는 일은 계산이면서 동시에 폐기된 자기에게도 아직 둘 수 있는 수가 있어야 한다는 항의다.",
+  "metadata": {
+    "char_count": 310,
+    "sha256": "e70a7e8740a3ce373a8a5695daf7985b74f035356dbd70490d01ee173ac33a69"
+  }
+}

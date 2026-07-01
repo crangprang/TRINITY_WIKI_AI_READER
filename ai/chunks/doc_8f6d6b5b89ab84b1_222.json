@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:222",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 아인 캐릭터 패키지 분기",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_222.json",
+  "text": "## [2026-06-26] rebuild | 아인 캐릭터 패키지 분기\n\n[아인](characters/main_party/아인/index.md)의 본문, 외형, 말투, 음악 지원 문서를 캐릭터 패키지 구조로 정리했다.\n\n- 정리: 본문은 그레트헨 실험소, 랄의 선택, 양보받은 시간, 복수 저주, 내면 구조, 능력과 관계를 담당하게 하고 말투와 지원 운용은 [아인 / 말투](characters/main_party/아인/support/voice.md), [아인 / 외형](characters/main_party/아인/support/appearance.md), [아인 / 음악](characters/main_party/아인/support/music.md)으로 분기했다.\n- 문체: 번호형 하위 제목, 운영 메모, 출처형 경로, 금지형 목록을 제거하고 선언형 위키 항목으로 바꿨다.\n- 관계: 옌, 블랑, 길티어, 파우스트, 랄, 오아시스를 아인의 행마, 시간, 이름, 복수 저주와 연결했다.",
+  "metadata": {
+    "char_count": 497,
+    "sha256": "dafe61826c096ca720754945855f0575fdab80f87d542489a80a414c0f904354"
+  }
+}

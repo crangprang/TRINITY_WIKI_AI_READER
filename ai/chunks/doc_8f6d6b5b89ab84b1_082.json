@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:082",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] update | 보물 물성 및 아포라투스 상세 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_082.json",
+  "text": "## [2026-06-27] update | 보물 물성 및 아포라투스 상세 반영\n\n[아홉 보물](universe/structure/아홉_보물.md)과 [오아시스](universe/realms/balance/nations/오아시스.md)에 영원의 보물 물체 형태를 `요술램프`로 고정했다. [필로시온](universe/laws/필로시온.md)은 프로토타입과 양산형의 계급, 의지, 권한 차이를 표로 보강하고, 개별 원형 실루엣과 전투능력은 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다. [아포라투스](universe/realms/balance/apparatus/index.md)는 WIKI 잠금명 기준으로 아홉 나라 핵심기관의 작동 방식을 확장했다.",
+  "metadata": {
+    "char_count": 398,
+    "sha256": "c46ee5fb12a7927ae2263451585383c2ef90d8faf478a12849aa27e4be5230fb"
+  }
+}

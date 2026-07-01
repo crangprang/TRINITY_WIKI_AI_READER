@@ -1,0 +1,168 @@
+{
+  "id": "doc_9eb2054c223ee828",
+  "path": "wiki/characters/savior_candidates/아백/index.md",
+  "wiki_path": "characters/savior_candidates/아백/index.md",
+  "title": "아백",
+  "summary": "아백은 염한의 대장군이자 구세주 후보로, 올림피아 순수 무력 1위이며 가인의 옥좌와 용인 병사의 명예를 함께 떠받치는 강함의 기준이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:savior_candidates",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아백"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "올림피아 순수 무력 1위"
+    },
+    {
+      "level": 2,
+      "title": "용기의 귀환"
+    },
+    {
+      "level": 2,
+      "title": "가인"
+    },
+    {
+      "level": 2,
+      "title": "염한과 용인 병사"
+    },
+    {
+      "level": 2,
+      "title": "염객방"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염객방",
+      "target": "wiki/universe/realms/balance/organizations/염객방.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "아백 외형",
+      "target": "wiki/characters/savior_candidates/아백/support/appearance.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    }
+  ],
+  "sha256": "7cc3d07d2fe4ce394712c1c008e2a0b59aa3b811d551b919b80d01ea5cf5d990",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9eb2054c223ee828.json",
+  "chunks": [
+    {
+      "id": "doc_9eb2054c223ee828:000",
+      "section": "아백",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_000.json",
+      "char_count": 353
+    },
+    {
+      "id": "doc_9eb2054c223ee828:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_001.json",
+      "char_count": 318
+    },
+    {
+      "id": "doc_9eb2054c223ee828:002",
+      "section": "올림피아 순수 무력 1위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_002.json",
+      "char_count": 260
+    },
+    {
+      "id": "doc_9eb2054c223ee828:003",
+      "section": "용기의 귀환",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_003.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_9eb2054c223ee828:004",
+      "section": "가인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_004.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_9eb2054c223ee828:005",
+      "section": "염한과 용인 병사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_005.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_9eb2054c223ee828:006",
+      "section": "염객방",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_006.json",
+      "char_count": 234
+    },
+    {
+      "id": "doc_9eb2054c223ee828:007",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_007.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_9eb2054c223ee828:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_008.json",
+      "char_count": 441
+    }
+  ]
+}

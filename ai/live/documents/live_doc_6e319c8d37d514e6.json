@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6e319c8d37d514e6",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/08_HELEN/PER08_CORE.txt",
+  "title": "헬렌 / CORE",
+  "summary": "헬렌 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "b68f3b4ef9bef844d76430b6cd21d6650843013343f89627dd6b7fbfafddb9d0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6e319c8d37d514e6.json",
+  "chunks": [
+    {
+      "id": "live_doc_6e319c8d37d514e6:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6e319c8d37d514e6_000.json",
+      "char_count": 386
+    }
+  ]
+}

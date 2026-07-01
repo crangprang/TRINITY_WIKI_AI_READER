@@ -1,0 +1,24 @@
+{
+  "id": "doc_7c9dbdc64244bda7:001",
+  "document_id": "doc_7c9dbdc64244bda7",
+  "path": "wiki/universe/structure/아홉_보물.md",
+  "wiki_path": "universe/structure/아홉_보물.md",
+  "title": "아홉 보물",
+  "section": "개요",
+  "summary": "아홉 보물은 세 오리진 조각의 공명을 붙잡던 제어장치였고, 칼시네이션 뒤에는 트리네아드, 엑시온, 아포라투스, 아홉 나라의 비극 구조를 잇는 빈 그릇으로 남았다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "structure",
+    "origin",
+    "treasures"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c9dbdc64244bda7_001.json",
+  "text": "## 개요\n\n아홉 보물은 [오리진](오리진.md) 조각 자체를 담은 그릇이 아니라, 세 오리진 조각의 공명을 붙잡도록 만든 아홉 개의 제어장치다. 보물은 처음부터 오리진을 소유하기 위한 성물로 만들어지지 않았다. 불지피기 의식에서 보물은 통제 불능에 빠질 수 있는 오리진 힘을 인간의 이념, 미덕, 결핍, 약속으로 붙잡는 손잡이였고, 아홉 용이 상징하는 거대한 본능적 힘을 의식 안에 묶는 역할을 맡았다.\n\n칼시네이션 이후 보물의 성격은 바뀐다. 보물 안에 남아 있던 고결한 의지와 긍정 이데아, 그리고 가장 강렬하고 소중한 기억은 [트리네아드](../../characters/trineads/index.md)로 분리되어 신격화된다. 보물은 핵심 영혼을 잃은 빈 그릇으로 남지만, 한때 오리진을 통과시킨 매개였기 때문에 강한 위상은 유지한다.\n\n아홉 나라 시대의 보물은 권능을 주는 성물인 동시에 국가의 상처를 반복시키는 장치다. 보물은 [엑시온](../../characters/axions/index.md)을 선택하고, 엑시온은 보물을 통해 [아포라투스](../realms/balance/apparatus/index.md)의 권능을 호출한다. 이 호출은 나라를 유지하지만, 보물에 남은 하마르티아와 부정 이데아를 통치 구조 안으로 함께 끌어들인다.",
+  "metadata": {
+    "char_count": 643,
+    "sha256": "2d91974bfcbd329f8c7f36f21880c23d970f5aa4d0df6ea0a9eb1a94c5788ffc"
+  }
+}

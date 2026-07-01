@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:234",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 페르소나 색인 항목 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_234.json",
+  "text": "## [2026-06-26] rebuild | 페르소나 색인 항목 확장\n\n[페르소나](characters/personas/index.md)를 단순 문서 목록에서 장치 심층 관리자 의식, 표층 대변자, 엑시온과 신앙의 긴장을 설명하는 인물군 항목으로 확장했다.\n\n- 정리: 페르소나의 아타노르 잔재, 보물, 프로토타입 필로시온 합성 기원과 심층/표층 구조를 색인 본문에 추가했다.\n- 하위 항목: 황 노인, 빈센트, 에어리얼, 카론, 메피스토, 탈레스, 미노스, 헬렌, 투르키나를 `## 하위 항목` 표로 정리했다.\n- 지원: 페르소나 appearance support 도입부의 `보조 기준` 문구를 시각 기준 설명으로 바꿨다.\n- 관계: 각 페르소나 본문과 [하위신](universe/laws/하위신.md)의 관련 문서 설명을 새 인물군 항목 성격에 맞췄다.",
+  "metadata": {
+    "char_count": 424,
+    "sha256": "b51892fa2827f034ac73c2918e0cac0e0ca7f916865314c138881362cd288010"
+  }
+}

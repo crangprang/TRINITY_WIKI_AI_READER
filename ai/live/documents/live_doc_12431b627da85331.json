@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_12431b627da85331",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_02_SCARLETT/P05_02_SCARLETT_BRANCH_IDEA.txt",
+  "title": "P05_02_SCARLETT / BRANCH_IDEA",
+  "summary": "P05_02_SCARLETT / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "6ef6b9267cd67fac12fc39a1aa0b6e02e03357b5e264892962fdf8331c960a34",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_12431b627da85331.json",
+  "chunks": [
+    {
+      "id": "live_doc_12431b627da85331:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_12431b627da85331_000.json",
+      "char_count": 1214
+    }
+  ]
+}

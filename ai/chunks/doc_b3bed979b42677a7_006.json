@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3bed979b42677a7:006",
+  "document_id": "doc_b3bed979b42677a7",
+  "path": "wiki/characters/axions/판도라/support/appearance.md",
+  "wiki_path": "characters/axions/판도라/support/appearance.md",
+  "title": "판도라 외형",
+  "section": "관련 문서",
+  "summary": "판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_006.json",
+  "text": "## 관련 문서\n\n- [판도라](../index.md) - 최초 질문, 푸른 수정빛, 촛불과 죄책감이 외형의 질문성과 건국기 죄책감을 이루는 알렉시아 선대 엑시온.",
+  "metadata": {
+    "char_count": 91,
+    "sha256": "3ea6777d50cac4da9c1ff010f252a0b24f1e0b186beda0d6d2a511b94d4ed30a"
+  }
+}

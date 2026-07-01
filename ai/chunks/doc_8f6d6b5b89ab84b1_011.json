@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:011",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 자동 도구 후보 검토 종료",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_011.json",
+  "text": "## [2026-06-28] review | 자동 도구 후보 검토 종료\n\n[세계관 개발 TODO](review/worldbuilding_development_todo.md)의 자동 도구와 대시보드 후보를 검토했다. 국가 슬롯 커버리지는 수동 리뉴얼 표와 [본문 보강 대상](review/template_gaps.md)이 소유하고, reader frontmatter와 링크 검사는 기존 `tools/audit_reader_articles.py`가 담당하므로 새 도구를 만들지 않는다.",
+  "metadata": {
+    "char_count": 269,
+    "sha256": "3679924f688bbdfaf0035a372c08512fe8e51a44ecc6241872305d2810cdf36c"
+  }
+}

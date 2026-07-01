@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:001",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "개요",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_001.json",
+  "text": "## 개요\n\n세레나는 [염한](../../../universe/realms/balance/nations/염한.md)의 푸른 달 부족에서 살아남은 마지막 생존자이자 마지막 증언자다. 낡은 서사 속 전사처럼 꼿꼿하게 서고, 검을 들기 전에도 말투와 자세만으로 싸움의 자리를 정리한다. 명예와 긍지와 규율 같은 오래된 말은 아직 그녀의 입에서 힘을 가진다.\n\n그 전사의 얼굴 아래에는 붉은 달의 참극이 깔려 있다. 세레나는 부족의 몰살을 멀리서만 본 생존자로 머물지 않고, 야수화와 동족 포식에 직접 휩쓸렸고 그 과정의 쾌감까지 선명하게 기억한다. 채식, 절제, 고전적인 말투, 스스로를 단속하는 생활은 미덕의 장식이기 전에 그 기억을 눌러 두는 갑옷이다.\n\n세레나는 죽음만을 찾는 전사로 닫히지 않는다. 그녀는 사라진 이름과 검식과 전통과 이야기를 끝까지 적어 남기고 싶어 한다. 전사의 얼굴과 기록자의 손이 한 몸 안에 같이 산다.",
+  "metadata": {
+    "char_count": 464,
+    "sha256": "9545a6fb53b9fd0381d9543ecb7a33f04145a53f45d12548745f0939ee8136ce"
+  }
+}

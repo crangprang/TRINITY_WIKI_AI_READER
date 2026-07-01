@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:173",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 아인 1층위 장비선 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_173.json",
+  "text": "## [2026-06-26] maintenance | 아인 1층위 장비선 정리\n\n아인의 1층위 외형 support에서 상체 대각선 벨트와 허리 벨트에서 이어지는 하네스 오독을 닫고, 작은 어깨가방 끈과 생활형 버클만 남기는 기준으로 정리했다.\n\n- 정리: `support/appearance.md`에서 대각선 스트랩을 기본 요소처럼 읽히게 하는 표현을 줄였다.\n- 잠금: 긴 여행자 외투, 두꺼운 스카프, 작게 비치는 어두운 조끼, 작은 어깨가방, 손목시계, 손바닥 토큰, 레이스업 여행 부츠는 유지한다.\n- 금지: 상체를 크게 가르는 장비벨트, 허리 벨트에서 이어지는 하네스, 전술 장비처럼 보이는 스트랩 증폭은 제외한다.",
+  "metadata": {
+    "char_count": 349,
+    "sha256": "bd21abf149a6f82343199ab2713e8a36691bc7050f6697ce0b51e7ba904d7569"
+  }
+}

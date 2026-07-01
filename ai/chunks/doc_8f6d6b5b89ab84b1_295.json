@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:295",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 위키식 표제 잔여 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_295.json",
+  "text": "## [2026-06-26] style | 위키식 표제 잔여 정리\n\n루트 대문의 협업 영역 표제를 `검토와 결정`으로 바꾸고, 판타즈마와 원생 생물 항목의 `파훼와 장면 포인트` 표제를 `파훼와 장면 기능`으로 통일했다. `우주와 세계 구조`식 접근명은 독립 문서로 되살리지 않고 [삼위일체 우주](universe/structure/삼위일체_우주.md) alias로 유지한다.",
+  "metadata": {
+    "char_count": 210,
+    "sha256": "c28c614a3cc1334ba402144e350d6a9e1bc62f4abb1dd3d178706ad72383cb36"
+  }
+}

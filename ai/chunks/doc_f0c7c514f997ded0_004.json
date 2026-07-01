@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:004",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "휴식 상태",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_004.json",
+  "text": "## 휴식 상태\n\n휴식 중에는 망토와 감긴 천이 조금 내려가고, 눌려 있던 군청 포니테일과 짧은 뿔 끝, 목덜미 비늘, 아래 얼굴이 드러난다. 얼굴은 쉽게 풀리지 않고 눈이 먼저 주변을 살핀다.\n\n쉬는 장면에서 세레나는 기록자 기질을 조금 더 드러낸다. 작은 기록 노트, 두루마리, 필사도구, 방수 천주머니, 책을 묶는 끈은 전사와 기록자가 한 몸에 남아 있다는 표지다. 이런 소품은 전투와 이동에서는 검객 실루엣 아래로 들어간다.",
+  "metadata": {
+    "char_count": 241,
+    "sha256": "e3ce0b354fee0ef9e37303504e56ea900342e6e6cdd820eb3c4e2b417c5efced"
+  }
+}

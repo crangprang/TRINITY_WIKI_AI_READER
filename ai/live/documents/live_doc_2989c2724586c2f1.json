@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_2989c2724586c2f1",
+  "path": "02_LORE/L05_FREEDOM/L05_FACT_DETAIL.txt",
+  "title": "L05_오아시스 / FACT_DETAIL",
+  "summary": "L05_오아시스 / FACT_DETAIL",
+  "root": "02_LORE",
+  "category": "02_LORE:L05_FREEDOM",
+  "suffix": ".txt",
+  "sha256": "bd98ece48522e4d8cebb69391aa45f1bf655efc077f5338a1d3d9d67d14fee7f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2989c2724586c2f1.json",
+  "chunks": [
+    {
+      "id": "live_doc_2989c2724586c2f1:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2989c2724586c2f1_000.json",
+      "char_count": 5402
+    }
+  ]
+}

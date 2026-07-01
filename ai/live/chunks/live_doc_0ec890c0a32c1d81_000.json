@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_0ec890c0a32c1d81:000",
+  "document_id": "live_doc_0ec890c0a32c1d81",
+  "path": "02_LORE/L03_EXPLORER/L03_REFERENCE.txt",
+  "title": "L03_아르카르타 / REFERENCE",
+  "section": "body",
+  "summary": "L03_아르카르타 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L03_EXPLORER",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0ec890c0a32c1d81_000.json",
+  "text": "L03_아르카르타 / REFERENCE\n\n[이 문서 사용법]\n- 이 파일은 정본과 디테일 파일에 다 올리지 않은 참고 메모를 둔다.\n- `L03_CORE.txt`나 `L03_FACT_DETAIL.txt`와 충돌하면 이 파일을 승격하지 않는다.\n- 확장안, 변형안, 대체 방향 메모는 `L03_BRANCH_IDEA.txt`에 둔다.\n\n1. 인용 앵커\n\n- \"아르카르타의 국토는 지도보다 항로에 먼저 그려진다.\"\n- \"이 나라에선 편지 한 장이 닻보다 무겁고, 묘비보다 오래 남기도 한다.\"\n- \"멈추는 순간 따라잡힌다는 공포가 이미 생활 감각이 된 나라.\"\n\n2. 시각 / 장면 앵커\n\n- 풍차가 도는 구베르나, 우편부와 선착장, 방주 외피와 비공정 함대가 아르카르타의 기본 표면이다.\n- 내부에는 격벽과 배관, 미궁 같은 거주 구역, 열과 증기와 쇳가루가 깔린 벤트리스가 대비되어야 한다.\n- 이 나라의 전면은 먼저 탐험과 항로, 편지와 구조의 낭만이다. 저주와 망령 노동은 그 뒤에 따라온다.\n\n3. 경계 메모\n\n- 키베르노스와 에우테르페 설명은 `L03_FACT_DETAIL.txt` 안에서 해결하고, 장치 설명보다 길드와 항로의 전면이 먼저 읽히게 한다.\n- 아르카르타를 단순한 도피 국가로만 줄이지 않는다. 대륙을 잇는 길드와 우편, 활극의 앞면이 먼저 보여야 한다.\n- 벤트리스의 비극은 중요하지만, 갑판과 길드의 활기 없이 먼저 꺼내면 나라의 얼굴이 쪼그라든다.\n\n4. 레퍼런스 시트\n\n- 방주\n- 하늘 항로\n- 탐험가 길드\n- 풍차 도시\n- 로그북\n- 비공정 함대\n- 불멸의 추격\n- 편지 문화",
+  "metadata": {
+    "char_count": 787,
+    "sha256": "34eac97a75e0bb3d77bdb216635d7b38fe3f6d224a63d69fb4a4ccb0d4da75d1"
+  }
+}

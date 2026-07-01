@@ -1,0 +1,23 @@
+{
+  "id": "doc_56c6da211a6067ae:003",
+  "document_id": "doc_56c6da211a6067ae",
+  "path": "wiki/review/decision_requests/index.md",
+  "wiki_path": "review/decision_requests/index.md",
+  "title": "판단 요청",
+  "section": "운영 규칙",
+  "summary": "사용자 판단, 제안 승인, 상태 정리가 필요한 WIKI 항목 색인.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "decisions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56c6da211a6067ae_003.json",
+  "text": "## 운영 규칙\n\n- 새 판단 요청은 이 목록에 한 항목으로 추가하고, 관련 WIKI 항목의 `status`를 `needs_decision`으로 둔다.\n- 판단이 끝나면 해당 WIKI 항목의 `status`를 `draft` 또는 `user_locked`로 조정하고, 결정 내용은 [사용자 잠금](../user_locks.md) 또는 변경 기록에 남긴다.\n- 보류나 역사 보존만 필요한 내용은 판단 요청에 두지 않는다.",
+  "metadata": {
+    "char_count": 233,
+    "sha256": "09b1008f688121590c6605ab7104b0edbd21996471bf8d38a4b2923331700d9e"
+  }
+}

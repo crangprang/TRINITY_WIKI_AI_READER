@@ -1,0 +1,104 @@
+{
+  "id": "doc_2b50a63bc7af3c9a",
+  "path": "wiki/beings/creatures/플라센티아_원생_생물.md",
+  "wiki_path": "beings/creatures/플라센티아_원생_생물.md",
+  "title": "플라센티아 원생 생물",
+  "summary": "살덧막, 헛발점균, 양분젤 등이 고치와 심층 분해층 주변에서 이루는 플라센티아 숲 심층 미시 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "플라센티아 원생 생물"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "부패와 고치"
+    },
+    {
+      "level": 2,
+      "title": "생활과 생태 반응"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    }
+  ],
+  "sha256": "bcd711350d63dd9d22e25f510e01dcf6550d1f37f36cc21f052acc768f992039",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2b50a63bc7af3c9a.json",
+  "chunks": [
+    {
+      "id": "doc_2b50a63bc7af3c9a:000",
+      "section": "플라센티아 원생 생물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_000.json",
+      "char_count": 87
+    },
+    {
+      "id": "doc_2b50a63bc7af3c9a:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_001.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_2b50a63bc7af3c9a:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_002.json",
+      "char_count": 59
+    },
+    {
+      "id": "doc_2b50a63bc7af3c9a:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_003.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_2b50a63bc7af3c9a:004",
+      "section": "부패와 고치",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_004.json",
+      "char_count": 36
+    },
+    {
+      "id": "doc_2b50a63bc7af3c9a:005",
+      "section": "생활과 생태 반응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_005.json",
+      "char_count": 266
+    },
+    {
+      "id": "doc_2b50a63bc7af3c9a:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2b50a63bc7af3c9a_006.json",
+      "char_count": 182
+    }
+  ]
+}

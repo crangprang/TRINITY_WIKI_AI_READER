@@ -1,0 +1,24 @@
+{
+  "id": "doc_c683fea4ab1b9018:002",
+  "document_id": "doc_c683fea4ab1b9018",
+  "path": "wiki/universe/realms/balance/organizations/크로니클.md",
+  "wiki_path": "universe/realms/balance/organizations/크로니클.md",
+  "title": "크로니클",
+  "section": "기록과 공표",
+  "summary": "크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_002.json",
+  "text": "## 기록과 공표\n\n크로니클의 권한은 기록을 남기는 데서 끝나지 않는다. 기록 형식을 정하고, 공표 순서를 조정하고, 면허 갱신과 지침을 전달하며, 현장의 말과 사건을 정교가 사용할 수 있는 언어로 바꾼다.\n\n검열은 이 조직의 어두운 기능이다. 어떤 사건은 명예로운 구조로, 어떤 사건은 이단의 위협으로, 어떤 사건은 없었던 소동으로 정리된다. 기록이 사실을 보존하는 일과 권력이 읽을 수 있는 이름을 붙이는 일은 크로니클 안에서 분리되지 않는다.\n\n크로니클은 기능조직과 공인조직 사이의 언어망이기도 하다. 기능조직은 현장에서 실제 일을 하지만, 그 일이 대륙 공통 기록과 면허 갱신으로 인정받으려면 크로니클의 형식을 통과해야 한다. 그래서 크로니클은 칼보다 느리지만, 더 오래 남는 방식으로 현장을 바꾼다.",
+  "metadata": {
+    "char_count": 396,
+    "sha256": "ac0565d0545260da6ab897430459fd58033e62251a819dd1cd8538c78eaf9ea6"
+  }
+}

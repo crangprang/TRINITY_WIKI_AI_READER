@@ -1,0 +1,49 @@
+{
+  "id": "live_doc_83bcd6579ef7c5cf",
+  "path": "05_PLOT_AND_SCENE/01_PLOT_AND_SCENE_README.txt",
+  "title": "05_PLOT_AND_SCENE",
+  "summary": "`05_PLOT_AND_SCENE` is the live surface for plot order, episode flow, and scene beats.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:01_PLOT_AND_SCENE_README.txt",
+  "suffix": ".txt",
+  "sha256": "9bba3a099f236564bc1fbc990350523088dae686fc1403362835893637b939c2",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_83bcd6579ef7c5cf.json",
+  "chunks": [
+    {
+      "id": "live_doc_83bcd6579ef7c5cf:000",
+      "section": "05_PLOT_AND_SCENE",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_000.json",
+      "char_count": 203
+    },
+    {
+      "id": "live_doc_83bcd6579ef7c5cf:001",
+      "section": "Current Contract",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_001.json",
+      "char_count": 170
+    },
+    {
+      "id": "live_doc_83bcd6579ef7c5cf:002",
+      "section": "Reading Order",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_002.json",
+      "char_count": 190
+    },
+    {
+      "id": "live_doc_83bcd6579ef7c5cf:003",
+      "section": "What Lives Here",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_003.json",
+      "char_count": 191
+    },
+    {
+      "id": "live_doc_83bcd6579ef7c5cf:004",
+      "section": "What Does Not Live Here",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_004.json",
+      "char_count": 191
+    },
+    {
+      "id": "live_doc_83bcd6579ef7c5cf:005",
+      "section": "Current Phase Note",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_005.json",
+      "char_count": 236
+    }
+  ]
+}

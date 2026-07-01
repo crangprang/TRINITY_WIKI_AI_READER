@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:005",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "한 사람 앞의 칼",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_005.json",
+  "text": "### 한 사람 앞의 칼\n\n한 사람만 정면에 선 시련, 결투, 별의 시선을 잃을 위기에서 열린다. 평소의 비굴함과 미끄러짐이 빠지고 몸과 말이 한 줄로 선다. 호흡은 깊어지고, 문장은 짧고 정확해진다.\n\n이 층에서 단테는 `비켜`, `건드리지 마`, `내가 한다`, `놓치지 않아`, `아직 끝나지 않았어`처럼 말한다. 영웅의 맑은 선언은 빛을 줄이고, 필요하면 다시 손을 더럽혀서라도 이기는 사람의 차가움이 남는다.",
+  "metadata": {
+    "char_count": 233,
+    "sha256": "a727d3dad7c102c1c07cb65d7bb4c1e3e2047e791b9ddef75e851f34764159ca"
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "id": "doc_72605e0615031400",
+  "path": "wiki/universe/realms/balance/nations/파라디소.md",
+  "wiki_path": "universe/realms/balance/nations/파라디소.md",
+  "title": "파라디소",
+  "summary": "파라디소는 9개의 궤도 고리와 9개의 궤도도시가 흰 빛을 중심으로 서로 다른 각도로 도는 평화의 나라다. 구름과 무지개, 백색 성역과 성가, 병원과 관제소가 하나의 질서처럼 이어지고, 시민들은 자기 순수와 절제가 하늘을 떠받친다고 믿는다. 이 나라의 첫 얼굴은 검은 비보다 먼저 눈부신 백색 낙원과 알고도 유지하는 미소다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "파라디소"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "9개 궤도도시"
+    },
+    {
+      "level": 3,
+      "title": "엠포리오"
+    },
+    {
+      "level": 3,
+      "title": "오멜라스"
+    },
+    {
+      "level": 3,
+      "title": "라돈"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "백색 낙원"
+    },
+    {
+      "level": 3,
+      "title": "검은 비"
+    },
+    {
+      "level": 3,
+      "title": "순수와 위선"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "건국기"
+    },
+    {
+      "level": 3,
+      "title": "에우카리스 각성"
+    },
+    {
+      "level": 3,
+      "title": "설리반 이후"
+    },
+    {
+      "level": 2,
+      "title": "장치와 압력"
+    },
+    {
+      "level": 3,
+      "title": "카타르시스와 에우카리스"
+    },
+    {
+      "level": 3,
+      "title": "순수의 보물"
+    },
+    {
+      "level": 3,
+      "title": "호스티아와 아틀라스"
+    },
+    {
+      "level": 2,
+      "title": "생활과 문화"
+    },
+    {
+      "level": 3,
+      "title": "궤도 예법"
+    },
+    {
+      "level": 3,
+      "title": "아홉 번의 하강"
+    },
+    {
+      "level": 3,
+      "title": "검은 비"
+    },
+    {
+      "level": 3,
+      "title": "오멜라스 봉직 절차"
+    },
+    {
+      "level": 3,
+      "title": "엠포리오 접근권과 위험한 친절"
+    },
+    {
+      "level": 2,
+      "title": "주요 인물"
+    },
+    {
+      "level": 3,
+      "title": "헬렌"
+    },
+    {
+      "level": 3,
+      "title": "초대 엑시온"
+    },
+    {
+      "level": 3,
+      "title": "설리반"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "평화의 비용"
+    },
+    {
+      "level": 3,
+      "title": "앎과 의무"
+    },
+    {
+      "level": 3,
+      "title": "순수와 침묵"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "순수와 오멜라스"
+    },
+    {
+      "level": 3,
+      "title": "용의 수수께끼"
+    },
+    {
+      "level": 3,
+      "title": "관련 작품 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "위선의 판타즈마",
+      "target": "wiki/beings/phantasmas/위선의_판타즈마.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    }
+  ],
+  "sha256": "7901100470ada0c5d1ffa9256d894abccc95494f6c1f9b1a730dcd4a11958e7d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_72605e0615031400.json",
+  "chunks": [
+    {
+      "id": "doc_72605e0615031400:000",
+      "section": "파라디소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_000.json",
+      "char_count": 573
+    },
+    {
+      "id": "doc_72605e0615031400:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_001.json",
+      "char_count": 548
+    },
+    {
+      "id": "doc_72605e0615031400:002",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_72605e0615031400:003",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_003.json",
+      "char_count": 317
+    },
+    {
+      "id": "doc_72605e0615031400:004",
+      "section": "9개 궤도도시",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_004.json",
+      "char_count": 278
+    },
+    {
+      "id": "doc_72605e0615031400:005",
+      "section": "엠포리오",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_005.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_72605e0615031400:006",
+      "section": "오멜라스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_006.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_72605e0615031400:007",
+      "section": "라돈",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_007.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_72605e0615031400:008",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_008.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_72605e0615031400:009",
+      "section": "백색 낙원",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_009.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_72605e0615031400:010",
+      "section": "검은 비",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_010.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_72605e0615031400:011",
+      "section": "순수와 위선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_011.json",
+      "char_count": 149
+    },
+    {
+      "id": "doc_72605e0615031400:012",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_012.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_72605e0615031400:013",
+      "section": "건국기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_013.json",
+      "char_count": 191
+    },
+    {
+      "id": "doc_72605e0615031400:014",
+      "section": "에우카리스 각성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_014.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_72605e0615031400:015",
+      "section": "설리반 이후",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_015.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_72605e0615031400:016",
+      "section": "장치와 압력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_016.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_72605e0615031400:017",
+      "section": "카타르시스와 에우카리스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_017.json",
+      "char_count": 407
+    },
+    {
+      "id": "doc_72605e0615031400:018",
+      "section": "순수의 보물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_018.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_72605e0615031400:019",
+      "section": "호스티아와 아틀라스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_019.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_72605e0615031400:020",
+      "section": "생활과 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_020.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_72605e0615031400:021",
+      "section": "궤도 예법",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_021.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_72605e0615031400:022",
+      "section": "아홉 번의 하강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_022.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_72605e0615031400:023",
+      "section": "검은 비",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_023.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_72605e0615031400:024",
+      "section": "오멜라스 봉직 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_024.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_72605e0615031400:025",
+      "section": "엠포리오 접근권과 위험한 친절",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_025.json",
+      "char_count": 448
+    },
+    {
+      "id": "doc_72605e0615031400:026",
+      "section": "주요 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_026.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_72605e0615031400:027",
+      "section": "헬렌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_027.json",
+      "char_count": 126
+    },
+    {
+      "id": "doc_72605e0615031400:028",
+      "section": "초대 엑시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_028.json",
+      "char_count": 124
+    },
+    {
+      "id": "doc_72605e0615031400:029",
+      "section": "설리반",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_029.json",
+      "char_count": 141
+    },
+    {
+      "id": "doc_72605e0615031400:030",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_030.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_72605e0615031400:031",
+      "section": "평화의 비용",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_031.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_72605e0615031400:032",
+      "section": "앎과 의무",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_032.json",
+      "char_count": 146
+    },
+    {
+      "id": "doc_72605e0615031400:033",
+      "section": "순수와 침묵",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_033.json",
+      "char_count": 116
+    },
+    {
+      "id": "doc_72605e0615031400:034",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_034.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_72605e0615031400:035",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_035.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_72605e0615031400:036",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_036.json",
+      "char_count": 82
+    },
+    {
+      "id": "doc_72605e0615031400:037",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_037.json",
+      "char_count": 151
+    },
+    {
+      "id": "doc_72605e0615031400:038",
+      "section": "순수와 오멜라스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_038.json",
+      "char_count": 168
+    },
+    {
+      "id": "doc_72605e0615031400:039",
+      "section": "용의 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_039.json",
+      "char_count": 122
+    },
+    {
+      "id": "doc_72605e0615031400:040",
+      "section": "관련 작품 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_040.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_72605e0615031400:041",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_72605e0615031400_041.json",
+      "char_count": 550
+    }
+  ]
+}

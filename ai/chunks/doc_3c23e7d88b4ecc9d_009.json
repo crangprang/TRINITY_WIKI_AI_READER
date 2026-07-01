@@ -1,0 +1,23 @@
+{
+  "id": "doc_3c23e7d88b4ecc9d:009",
+  "document_id": "doc_3c23e7d88b4ecc9d",
+  "path": "wiki/characters/ensemble/소피아/index.md",
+  "wiki_path": "characters/ensemble/소피아/index.md",
+  "title": "소피아",
+  "section": "관련 문서",
+  "summary": "소피아는 용과 인간의 시대에 니그리스, 오피온과 함께 최초의 삼위를 이룬 인물이며, 에마나치온 이후 니그리스의 기억에 이성의 형태로 남아 지혜의 트리네아드 기원이 된다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "characters",
+    "ensemble",
+    "world-history"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3c23e7d88b4ecc9d_009.json",
+  "text": "## 관련 문서\n\n- [니그리스 알비우스 시트리노](../니그리스_알비우스_시트리노/index.md) - 소피아를 기억으로 품고 알비우스와 시트리노로 이어지는 인물.\n- [오피온](../오피온/index.md) - 소피아와 함께 니그리스를 멈추려 한 최초의 삼위 구성원.\n- [라케시스](../../trineads/라케시스/index.md) - 소피아의 기억과 이해의 보물에서 태어난 지혜의 트리네아드.\n- [오리진](../../../universe/structure/오리진.md) - 소피아가 기억의 형태로 남게 된 누미노스의 근원 매듭.\n- [세계사/1시대](../../../events/world_history/1시대_태초에서_에마나치온까지.md) - 소피아가 최초의 삼위와 에마나치온에 놓이는 시대.",
+  "metadata": {
+    "char_count": 395,
+    "sha256": "2899eb8bdea13b6a798a0230abcc6a66642662490f29b2502ca4e624ff42d433"
+  }
+}

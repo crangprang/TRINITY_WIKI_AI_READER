@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_7c700c3b5b022ad2",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/04_CHARON/PER04_BRANCH_IDEA.txt",
+  "title": "카론 / BRANCH_IDEA",
+  "summary": "카론 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "301d1f06855bffcaeeaa008ed92913ce0dbcf3673db8a7f351a3b35fdd7a9ce3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_7c700c3b5b022ad2.json",
+  "chunks": [
+    {
+      "id": "live_doc_7c700c3b5b022ad2:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7c700c3b5b022ad2_000.json",
+      "char_count": 92
+    }
+  ]
+}

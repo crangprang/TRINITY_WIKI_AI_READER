@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed488eec4d90ec3a:010",
+  "document_id": "doc_ed488eec4d90ec3a",
+  "path": "wiki/characters/trineads/index.md",
+  "wiki_path": "characters/trineads/index.md",
+  "title": "트리네아드",
+  "section": "정보 불균형",
+  "summary": "트리네아드는 세 세계의 상위 신격과 미덕, 왕권이 이름과 사건으로 드러나는 존재 층위다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "trineads",
+    "character_group"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_010.json",
+  "text": "### 정보 불균형\n\n트리네아드는 각자 다른 방향의 진실을 쥔다. 라케시스는 구조와 문장을 가장 많이 읽고, 감독은 끊김으로 끝나는 미래들을 보았으며, 니그리스는 타버린 과거의 진실을 가장 많이 품고 있다.\n\n셋의 정확성은 서로 다른 축에서 작동한다. 라케시스는 과거의 전모와 끊김의 본질에 닿지 못하고, 감독은 자신이 본 미래의 원인을 오독하며, 니그리스는 과거의 목격자로 남아도 이어진 구조 전체의 조작을 한눈에 장악하지 못한다. 이 정보 불균형 때문에 트리네아드 관계는 해설자들의 서열 경쟁을 벗어나 서로 다른 결핍의 충돌로 굴러간다.",
+  "metadata": {
+    "char_count": 302,
+    "sha256": "4a093f73e83ad3e136c865299a81eb4d50476ed64eeb94f94ce0731db70d5153"
+  }
+}

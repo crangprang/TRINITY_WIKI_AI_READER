@@ -1,0 +1,61 @@
+{
+  "id": "live_doc_7956ffd65dcd35a6",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/01_CHAPTER/00_EPISODE_DEFAULT.txt",
+  "title": "1. Episode role",
+  "summary": "EPISODE_DEFAULT",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "suffix": ".txt",
+  "sha256": "c17d8d8f7f19420a2b034487ed6f4acda26f09226a3e0ced5a4b81121b548de0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_7956ffd65dcd35a6.json",
+  "chunks": [
+    {
+      "id": "live_doc_7956ffd65dcd35a6:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_000.json",
+      "char_count": 149
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:001",
+      "section": "1. Episode role",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_001.json",
+      "char_count": 76
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:002",
+      "section": "2. Episode function",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_002.json",
+      "char_count": 114
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:003",
+      "section": "3. Entry state",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_003.json",
+      "char_count": 103
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:004",
+      "section": "4. Exit state",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_004.json",
+      "char_count": 89
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:005",
+      "section": "5. Module structure",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_005.json",
+      "char_count": 98
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:006",
+      "section": "6. Module details",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_006.json",
+      "char_count": 174
+    },
+    {
+      "id": "live_doc_7956ffd65dcd35a6:007",
+      "section": "7. Misread guardrails",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7956ffd65dcd35a6_007.json",
+      "char_count": 164
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:003",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "일확천금의 현지 가이드",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_003.json",
+  "text": "### 일확천금의 현지 가이드\n\n일상과 낯선 장소, 다수의 시선, 책임 회피가 필요한 자리에서 가장 먼저 나온다. 속도는 빠르고 호흡은 얕다. 말은 가벼운 반말, 생활형 농담, 얄미운 별명으로 흐른다.\n\n자주 쓰는 명사는 `돈`, `보상`, `출구`, `골목`, `구멍`, `조용히`, `살아야지`다. 그는 `그걸 굳이 지금 해`, `조용히 끝내면 좋잖아`, `보수는 누가 챙겨 주는데` 같은 식으로 대답을 비껴 간다. 단테의 어조는 완전히 남을 버리고 사라지는 냉담함에서 멀고, 투덜거리며 결국 끌고 가는 쪽에 선다.",
+  "metadata": {
+    "char_count": 290,
+    "sha256": "99f76c546c8a85c46245a84cbe8aacd54b882aead5759e578aacda661c3e4511"
+  }
+}

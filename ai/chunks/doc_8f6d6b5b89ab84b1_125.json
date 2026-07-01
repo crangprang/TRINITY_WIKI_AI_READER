@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:125",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 제페토 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_125.json",
+  "text": "## [2026-06-26] rebuild | 제페토 항목 정리\n\n[제페토](characters/axions/제페토/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리했다.\n\n- 정리: 사냥꾼들의 장로, 카를로와 피노키오 계획, 규율과 통치, 권능과 장치, 투르키나, 피톤과 숲, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [제페토 외형](characters/axions/제페토/support/appearance.md)의 관리 문구와 미완성 support 표면을 제거하고 60대 사냥 장로, 목각인형 전면 가면, 수지와 고치와 사냥 도구 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 제페토 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 375,
+    "sha256": "bf5f66af76ef39c7c4c2b85ee69f2b068a6efbda0fc4b4b2c86834ac0eb283d0"
+  }
+}

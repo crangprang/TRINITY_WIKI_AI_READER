@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_97f4835adc4e565c",
+  "path": "02_LORE/L06_TRUTH/L06_BRANCH_IDEA.txt",
+  "title": "L06_알렉시아 / BRANCH_IDEA",
+  "summary": "L06_알렉시아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L06_TRUTH",
+  "suffix": ".txt",
+  "sha256": "cc228ffc48b1d35478591b09ba026be0d0f7405a2543c5ef948456954dcf1256",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_97f4835adc4e565c.json",
+  "chunks": [
+    {
+      "id": "live_doc_97f4835adc4e565c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_97f4835adc4e565c_000.json",
+      "char_count": 750
+    }
+  ]
+}

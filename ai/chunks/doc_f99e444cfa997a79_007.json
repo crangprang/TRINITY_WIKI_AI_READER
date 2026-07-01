@@ -1,0 +1,23 @@
+{
+  "id": "doc_f99e444cfa997a79:007",
+  "document_id": "doc_f99e444cfa997a79",
+  "path": "wiki/characters/savior_candidates/루시리엘/index.md",
+  "wiki_path": "characters/savior_candidates/루시리엘/index.md",
+  "title": "루시리엘",
+  "section": "관련 문서",
+  "summary": "루시리엘은 파라디소의 구세주 후보이자 성기사로, 평화와 자비를 몸으로 실행하며 올림피아 순위로 약소국의 하늘을 떠받치는 현실적 방패다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f99e444cfa997a79_007.json",
+  "text": "## 관련 문서\n\n- [구세주 후보](../index.md) - 올림피아에 공표되는 후보명, 가면, 국가 시험의 공통 구조.\n- [루시리엘 외형](support/appearance.md) - 백금발 성기사와 파라디소의 현실적 방패성이 평화의 부담을 고정하는 외형 항목.\n- [파라디소](../../../universe/realms/balance/nations/파라디소.md) - 루시리엘의 선함과 국가 방패성이 놓이는 평화의 나라.\n- [올림피아](../../../universe/realms/balance/nations/올림피아.md) - 루시리엘의 순위와 국가 유예가 공표되는 무대.\n- [설리반](../../axions/설리반/index.md) - 파라디소의 비용을 공개하며 유지하는 엑시온.\n- [헬렌](../../personas/헬렌/index.md) - 파라디소의 자비와 선별을 위험하게 포장하는 페르소나.",
+  "metadata": {
+    "char_count": 457,
+    "sha256": "873574cbd8eed2366c97d79fc999ac26641b40494e54ee8a81dca0284a50afb3"
+  }
+}

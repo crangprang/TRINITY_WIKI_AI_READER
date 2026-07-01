@@ -1,0 +1,22 @@
+{
+  "id": "doc_54d059fd7a8308fb:000",
+  "document_id": "doc_54d059fd7a8308fb",
+  "path": "wiki/review/index.md",
+  "wiki_path": "review/index.md",
+  "title": "검토와 결정 요청",
+  "section": "검토와 결정 요청",
+  "summary": "WIKI 운영 중 필요한 판단 요청, 충돌, 항목 소유권 잠금, 본문 보강 대상 진입점.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_54d059fd7a8308fb_000.json",
+  "text": "# 검토와 결정 요청",
+  "metadata": {
+    "char_count": 11,
+    "sha256": "5da6be4f94c0ab3dae6e1ed2a1cb31d16b91359e9088a3b3e78f934902fe1ccc"
+  }
+}

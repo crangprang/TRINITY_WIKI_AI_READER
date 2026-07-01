@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0c9cc4256f47776c",
+  "path": "01_CANON/00_WORLD_CANON/WC00_TIMELINE/WC00_TIMELINE_01_PRIMORDIAL_TO_EMANACHION.txt",
+  "title": "WC00_TIMELINE",
+  "summary": "WC00_TIMELINE",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "ee1d41978b2ed71c5d28bc44bb31cca2b2de7dcdac5b4c8923a3307c97e80cc9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0c9cc4256f47776c.json",
+  "chunks": [
+    {
+      "id": "live_doc_0c9cc4256f47776c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0c9cc4256f47776c_000.json",
+      "char_count": 5385
+    }
+  ]
+}

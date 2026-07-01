@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:242",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 인물 상위 항목과 색인 문체 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_242.json",
+  "text": "## [2026-06-26] rebuild | 인물 상위 항목과 색인 문체 정리\n\n[인물](characters/index.md), [앙상블](characters/ensemble/index.md), [트리네아드 인물군](characters/trineads/index.md)을 단순 진입·색인 표면에서 인물군 항목으로 확장했다.\n\n- 정리: 인물 영역의 범위를 메인 파티, 앙상블, 트리네아드, 엑시온, 페르소나, 펠시온, 구세주 후보로 정의하고 세계사, 아홉 나라, 하위신과 연결했다.\n- 제목: 트리네아드 그룹 진입 항목은 `트리네아드 인물군`으로 구분해 공통 구조 항목 [트리네아드](characters/trineads/index.md)와 표시 제목 충돌을 줄였다.\n- 문체: 구세주 후보와 펠시온 개별 항목의 관련 문서 설명에서 `색인` 표현을 제거하고, 앙상블과 구세주 후보 appearance support 도입부의 `보조 기준`과 `관리한다` 문구를 시각 기준 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 496,
+    "sha256": "db7521b727ba19897ae29c99f7656b6b52373ed1713c7a1c16baf0a820dc71aa"
+  }
+}

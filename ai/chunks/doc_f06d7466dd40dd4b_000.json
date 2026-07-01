@@ -1,0 +1,22 @@
+{
+  "id": "doc_f06d7466dd40dd4b:000",
+  "document_id": "doc_f06d7466dd40dd4b",
+  "path": "wiki/events/world_history/index.md",
+  "wiki_path": "events/world_history/index.md",
+  "title": "세계사",
+  "section": "세계사",
+  "summary": "세계사는 1시대, 2시대, 3시대 세계사 문서로 이어지는 프리퀄 인과 허브다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "world-history"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f06d7466dd40dd4b_000.json",
+  "text": "# 세계사\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 세계사 / 프리퀄 인과 허브 |\n| 범위 | 태초부터 아홉 나라의 시대 직전까지 |\n| 시대 구분 | 1시대 / 2시대 / 3시대 |\n| 관리 원칙 | 세부 연표와 정본 서술은 하위 시대 문서가 소유한다. |",
+  "metadata": {
+    "char_count": 152,
+    "sha256": "9019940136f7925a6fecb8feff2a9da1e7ecbe38ca7005439819bb6a1651db0a"
+  }
+}

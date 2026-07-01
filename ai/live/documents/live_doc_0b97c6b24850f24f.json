@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0b97c6b24850f24f",
+  "path": "02_LORE/L05_FREEDOM/L05_BRANCH_IDEA.txt",
+  "title": "L05_오아시스 / BRANCH_IDEA",
+  "summary": "L05_오아시스 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L05_FREEDOM",
+  "suffix": ".txt",
+  "sha256": "60835ed02ccd9d0d86f5a3016775fd3438e6bca95c839bef1a6c0afe61cc762e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0b97c6b24850f24f.json",
+  "chunks": [
+    {
+      "id": "live_doc_0b97c6b24850f24f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0b97c6b24850f24f_000.json",
+      "char_count": 742
+    }
+  ]
+}

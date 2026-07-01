@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:303",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 메인 파티 support 관계 문장 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_303.json",
+  "text": "## [2026-06-26] style | 메인 파티 support 관계 문장 정리\n\n메인 파티의 외형, 보이스, 음악 support 관련 문서 설명에서 `발화의 기준점`, `외형의 기준점`, `음악의 기준점`처럼 제작 기준으로 읽히는 반복 문장을 말투, 외형, 음악이 실제 인물 층위와 이어지는 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 175,
+    "sha256": "da7a66c870064bb0d8ac568d3b9eed198dfe145828cbcea322dfdfdc74e80643"
+  }
+}

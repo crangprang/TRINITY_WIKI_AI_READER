@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:093",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] rename | 하급 생물 항목명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_093.json",
+  "text": "## [2026-06-27] rename | 하급 생물 항목명 정리\n\n[하급 생물](beings/creatures/index.md)의 표시 제목을 복합 묶음형 제목에서 존재 범주 조회어로 정리하고, [존재](beings/index.md)와 [판타즈마](beings/phantasmas/index.md)의 관련 링크 라벨을 같은 항목명으로 맞췄다.",
+  "metadata": {
+    "char_count": 193,
+    "sha256": "2664774add84a0321d9e6269ad4b062476e78a3a35f2a68e6b9a1cce9c8ede73"
+  }
+}

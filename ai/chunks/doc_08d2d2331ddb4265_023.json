@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:023",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "말투와 장면 역할",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_023.json",
+  "text": "## 말투와 장면 역할\n\n단테의 말투는 보통 능글맞고 미끄러지는 반말로 시작한다. 그는 돈과 보상, 귀찮음과 출구를 먼저 말하고, 질문에는 옆길을 열어 답한다. 불안할수록 말이 늘고 같은 말을 반복하며 몸을 더 접는다.\n\n한 사람만 앞에 선 시련에서는 말수가 줄고 목소리가 맑아진다. 핑계와 농담이 뒤로 물러나고, `비켜`, `내가 한다`, `아직 끝나지 않았어` 같은 짧은 지시가 먼저 나온다.\n\n말투의 세부 기준, 관계별 호칭, 상황별 발화는 [단테 보이스](support/voice.md)에서 다룬다.",
+  "metadata": {
+    "char_count": 283,
+    "sha256": "9c036a5b51b0577dbd51d4a084f735b78a50fae27c34312f80db7e4341b05187"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_663c7c05554a0840:003",
+  "document_id": "doc_663c7c05554a0840",
+  "path": "wiki/characters/axions/프로스페로/support/appearance.md",
+  "wiki_path": "characters/axions/프로스페로/support/appearance.md",
+  "title": "프로스페로 외형",
+  "section": "가면과 항로 표식",
+  "summary": "프로스페로의 40대 선장 실루엣, 긴 코트와 큰 모자, 찢어진 돛과 선장 해골표식이 합쳐진 전면 가면, 항로 소품을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_003.json",
+  "text": "## 가면과 항로 표식\n\n가면은 얼굴에 쓰는 전면 가면이다. 찢어진 흰 돛과 오래된 선장 해골표식이 합쳐진 얼굴가림으로, 폭풍과 항해의 마모가 표면에 남는다.\n\n한쪽 눈구멍은 나침반처럼 읽히고, 턱선은 닻과 조타륜의 곡선처럼 이어진다. 표면에는 폭풍에 찢긴 천, 항로선, 편지 봉인의 흔적이 붙을 수 있다.",
+  "metadata": {
+    "char_count": 171,
+    "sha256": "e062b69b19833fc5f4f24b7440b1c60be07b56b11844ae0cca6ff680fb3d767e"
+  }
+}

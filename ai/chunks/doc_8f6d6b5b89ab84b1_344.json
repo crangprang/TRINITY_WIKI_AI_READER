@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:344",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] naming | 파라디소 상부 내핵명 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_344.json",
+  "text": "## [2026-06-28] naming | 파라디소 상부 내핵명 보정\n\n아홉 나라 명명 체계 TODO를 대조해 [파라디소](universe/realms/balance/nations/파라디소.md)와 LIVE의 상부 내핵명 `엠포리오`를 정본으로 확인했다. [균형계 언어](universe/realms/balance/language/index.md)에 남아 있던 잔존 충돌을 `엠포리오`로 보정하고, 교체 전 명칭은 별칭이나 전통명으로 남기지 않았다.",
+  "metadata": {
+    "char_count": 252,
+    "sha256": "5f205a6c91384a8e857d4c1d4a92fcf36fc7cfef5439e6530f7b3a1d762bea5b"
+  }
+}

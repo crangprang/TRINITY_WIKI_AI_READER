@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:002",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "처리 분류",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_002.json",
+  "text": "## 처리 분류\n\n| 분류 | 처리 기준 |\n|---|---|\n| A. 본문 승격 | 원천 claim을 하나의 주제로 잡고, 기존 WIKI 소유 문서에 문장 단위로 흡수한다. |\n| B. 분리 검토 | 장면 세부, 실제 은유 물성, 사건 세부를 제외하고 본문화 가능한 claim만 A로 이관한다. |\n| C. 캐릭터 support | 캐릭터 음악·감각 키워드는 각 캐릭터 `support/music`이 소유한다. CORE 해석에도 붙는 내용은 본문에도 반영한다. 메인 캐릭터 support 외형·음악 확장은 별도 지시 전까지 보류한다. |\n| D. 플롯 | 본편 플롯, 에피소드 세부, 관계도 확장은 사용자 지시 전까지 보류한다. |\n| E. 운영 정책 | 계약에 넣을 내용, 1회성 작업 정책, repo-level TODO를 분리한다. 기존 계약이 이미 포괄하는 항목은 중복 계약화하지 않는다. |\n| F. 정리 완료 | 이름 정규화, 기능조직 분리, 원샷 슬롯 제거처럼 이미 처리된 항목은 체크 완료나 로그로 닫고 새 대기열로 남기지 않는다. |",
+  "metadata": {
+    "char_count": 531,
+    "sha256": "a4bb66e53cab9986d9f783462056f4f4f8ff6728f3ca95272ecd886f300136c6"
+  }
+}

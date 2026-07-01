@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:006",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] structure | 세계관 대응표 팩트 테이블화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_006.json",
+  "text": "## [2026-06-29] structure | 세계관 대응표 팩트 테이블화\n\n[삼위일체 우주 대응표](universe/structure/삼위일체_우주_대응표.md)와 [아홉 보물](universe/structure/아홉_보물.md)의 보물 표를 명칭과 구성값 중심의 팩트 테이블로 정리했다. 보물 계열, 하위신 층위, 국가 구성, 아홉 용, 국가별 인물·조직, 예언 계열은 조회 가능한 대응값만 남기는 방향으로 낮추고, 대응표 연결 설명도 국가 구성과 결합 재료 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 270,
+    "sha256": "fa539ebe726b50fc58c559f23d66c70519099838ff1ff675672c3aa9ac19979b"
+  }
+}

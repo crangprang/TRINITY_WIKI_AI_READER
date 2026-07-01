@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:002",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 3시대 인과 보강과 삼위정교 owner 신설",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_002.json",
+  "text": "## [2026-06-29] worldhistory | 3시대 인과 보강과 삼위정교 owner 신설\n\n[세계사/3시대](events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md)에 흐름 표를 추가하고, 혼돈의 시대, 두 문, 대공명, 파괴계 침략 계획, 삼위정교, 퍼시스 사건의 인과 순서를 재정렬했다. [삼위정교](universe/realms/balance/organizations/삼위정교.md)를 균형계 조직 하위의 독립 owner로 신설해 교리, 빈 공좌, 9성좌 공의회, 공인조직과 이단 분류의 상위 구조를 맡겼다.\n\n[스트레인저](universe/realms/balance/organizations/스트레인저.md)는 퍼시스 사건 이후 형성, 횃불과 모닥불 내부 흐름, 불지기 명명을 보강했다. [세계사](events/world_history/index.md), [균형계 조직](universe/realms/balance/organizations/index.md), WIKI 대문 링크도 새 순서와 owner에 맞춰 정리했다.",
+  "metadata": {
+    "char_count": 538,
+    "sha256": "ee83b61c06c04b998a396c2663df4912b69af93190aeb3511fbf006a96517e48"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_c09561e807d6988c",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/05_OUROBOROS.txt",
+  "title": "우로보로스",
+  "summary": "우로보로스",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "bc5ac4c434b917ee1aa256348faf29760bff9c0858d8cdb682f43b7d62961ca0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c09561e807d6988c.json",
+  "chunks": [
+    {
+      "id": "live_doc_c09561e807d6988c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c09561e807d6988c_000.json",
+      "char_count": 1083
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:010",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "배제 프롬프트",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_010.json",
+  "text": "### 배제 프롬프트\n\n```text\n아기 얼굴, 치비, 과하게 큰 머리, 병약한 유아 인상, 칼단발, 솜사탕 머리, 백내장 같은 흰 눈, 귀신 같은 흰 눈, 네온 RGB 눈, 최면 소용돌이 눈, 공포 영화 표적 눈, 프릴 인형옷, 마법소녀 의상, 큰 지팡이, 아이돌 소품, 수녀풍 성물, 귀신 가면, 네온 무지개 팔레트, 젖은 붉은 얼룩, 피, 독, 초록 점액, 빛나는 손톱, 마법 오라, 떠다니는 색 입자, 검은 숄더백, 수직 어깨끈, 백팩, 현대 학생가방, 성서형 두꺼운 양장본, 볼펜, 마커, 샤프, 메리제인, 로퍼, 광택 구두, 운동화, 무거운 전투화, 고무 장화, 두 눈 전체를 손 프레임 안에 넣는 구도, 여섯 손가락, 긴 자 같은 검지\n```",
+  "metadata": {
+    "char_count": 367,
+    "sha256": "d4a6a5824753245d4855a8d765823f671ae3e6a597f1ab60836ea399bca7ca1e"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_bb715ad1ad9d7128:002",
+  "document_id": "doc_bb715ad1ad9d7128",
+  "path": "wiki/review/template_gaps.md",
+  "wiki_path": "review/template_gaps.md",
+  "title": "본문 보강 대상",
+  "section": "활성 보강 대상",
+  "summary": "독자용 WIKI 항목에서 빈 섹션을 만들지 않기 위해 남겨 둔 활성 보강 대상과 리뉴얼 슬롯.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "wiki",
+    "template-gaps"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_002.json",
+  "text": "## 활성 보강 대상",
+  "metadata": {
+    "char_count": 11,
+    "sha256": "b980190b9f0be518bd832271f823775e27eb666054cfac4b048907066b6882df"
+  }
+}

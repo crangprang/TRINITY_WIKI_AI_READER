@@ -1,0 +1,168 @@
+{
+  "id": "doc_0dfefc7cf87c8208",
+  "path": "wiki/universe/laws/신격과_신적_권위.md",
+  "wiki_path": "universe/laws/신격과_신적_권위.md",
+  "title": "신격과 신적 권위",
+  "summary": "신격과 신적 권위는 아난케, 오리진, 거짓 신명, 아홉 용, 트리네아드, 하위신 계열이 각각 어떤 방식으로 신처럼 취급되는지 구분하는 우주 법칙 항목이다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "divine-authority"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "신격과 신적 권위"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "분류 표"
+    },
+    {
+      "level": 2,
+      "title": "하위신 성립 경로"
+    },
+    {
+      "level": 2,
+      "title": "근원과 거짓 신명"
+    },
+    {
+      "level": 2,
+      "title": "아홉 용과 판타즈마의 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아난케",
+      "target": "wiki/characters/historical/아난케.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    }
+  ],
+  "sha256": "fde7a117f9c6ef3e6bbba07b3751270c21c82ebe691a64a62cb098c7fa693f57",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0dfefc7cf87c8208.json",
+  "chunks": [
+    {
+      "id": "doc_0dfefc7cf87c8208:000",
+      "section": "신격과 신적 권위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_000.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_0dfefc7cf87c8208:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_001.json",
+      "char_count": 383
+    },
+    {
+      "id": "doc_0dfefc7cf87c8208:002",
+      "section": "분류 표",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_002.json",
+      "char_count": 1434
+    },
+    {
+      "id": "doc_0dfefc7cf87c8208:003",
+      "section": "하위신 성립 경로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_003.json",
+      "char_count": 408
+    },
+    {
+      "id": "doc_0dfefc7cf87c8208:004",
+      "section": "근원과 거짓 신명",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_004.json",
+      "char_count": 610
+    },
+    {
+      "id": "doc_0dfefc7cf87c8208:005",
+      "section": "아홉 용과 판타즈마의 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_005.json",
+      "char_count": 293
+    },
+    {
+      "id": "doc_0dfefc7cf87c8208:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0dfefc7cf87c8208_006.json",
+      "char_count": 516
+    }
+  ]
+}

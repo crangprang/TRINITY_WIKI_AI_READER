@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_583204b72410ce41",
+  "path": "04_MAIN_CHARACTER/01_ENSEMBLE/E04_COLLAPSE_ERGO.txt",
+  "title": "E04_붕괴의 트리네아드_에르고",
+  "summary": "E04_붕괴의 트리네아드_에르고",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:01_ENSEMBLE",
+  "suffix": ".txt",
+  "sha256": "4c33dbd9200cca744f527687551366f182d240623fc5f9c097a074985387bd83",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_583204b72410ce41.json",
+  "chunks": [
+    {
+      "id": "live_doc_583204b72410ce41:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_583204b72410ce41_000.json",
+      "char_count": 4776
+    }
+  ]
+}

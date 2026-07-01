@@ -1,0 +1,161 @@
+{
+  "id": "doc_933f3ca9cff676ab",
+  "path": "wiki/universe/laws/저주.md",
+  "wiki_path": "universe/laws/저주.md",
+  "title": "저주",
+  "summary": "저주는 강렬한 부정 이데아가 작은 생명의 의지와 반응해 신체와 정신에 남는 영구 제약이며, 비슷한 간섭을 포식하고 그 대가로 악화될 수 있다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "energy",
+    "curse"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "저주"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "발생 구조"
+    },
+    {
+      "level": 2,
+      "title": "선택 압박과 해소"
+    },
+    {
+      "level": 2,
+      "title": "면역과 반동"
+    },
+    {
+      "level": 2,
+      "title": "사회적 분류"
+    },
+    {
+      "level": 2,
+      "title": "축복과의 관계"
+    },
+    {
+      "level": 2,
+      "title": "운용 원칙"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    }
+  ],
+  "sha256": "27040d4bd462efe9fba6f1186d9650c5848fa7271b59584a668d634c8df5c173",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_933f3ca9cff676ab.json",
+  "chunks": [
+    {
+      "id": "doc_933f3ca9cff676ab:000",
+      "section": "저주",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_000.json",
+      "char_count": 217
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_001.json",
+      "char_count": 318
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:002",
+      "section": "발생 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_002.json",
+      "char_count": 333
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:003",
+      "section": "선택 압박과 해소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_003.json",
+      "char_count": 304
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:004",
+      "section": "면역과 반동",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_004.json",
+      "char_count": 341
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:005",
+      "section": "사회적 분류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_005.json",
+      "char_count": 297
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:006",
+      "section": "축복과의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_006.json",
+      "char_count": 286
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:007",
+      "section": "운용 원칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_007.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_933f3ca9cff676ab:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_933f3ca9cff676ab_008.json",
+      "char_count": 370
+    }
+  ]
+}

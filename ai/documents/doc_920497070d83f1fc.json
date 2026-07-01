@@ -1,0 +1,378 @@
+{
+  "id": "doc_920497070d83f1fc",
+  "path": "wiki/universe/realms/balance/nations/에레모스.md",
+  "wiki_path": "universe/realms/balance/nations/에레모스.md",
+  "title": "에레모스",
+  "summary": "에레모스는 아홉 나라 바깥에서 길과 야영지와 구난 루트가 살아 움직이는 외지 권역이다. 돌로 닦인 길 대신 살아 돌아온 발걸음이 길을 만들고, 국경 대신 장막과 통과구와 임시 야영지가 생활권을 잇는다. 스트레인저, 용인 공동체, 떠돌이 기술자 같은 바깥의 사람들이 서로를 경계하면서도 끝내 길과 구조를 이어 붙인다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "에레모스"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "권역의 성격"
+    },
+    {
+      "level": 3,
+      "title": "외지 생활권"
+    },
+    {
+      "level": 3,
+      "title": "중심 장치의 부재"
+    },
+    {
+      "level": 3,
+      "title": "평판과 현장 감각"
+    },
+    {
+      "level": 2,
+      "title": "지리와 통과구"
+    },
+    {
+      "level": 3,
+      "title": "길"
+    },
+    {
+      "level": 3,
+      "title": "장막과 야영지"
+    },
+    {
+      "level": 3,
+      "title": "통과구"
+    },
+    {
+      "level": 2,
+      "title": "공동체와 세력"
+    },
+    {
+      "level": 3,
+      "title": "스트레인저"
+    },
+    {
+      "level": 3,
+      "title": "불지기와 보호"
+    },
+    {
+      "level": 3,
+      "title": "유령 의뢰에 대한 경계"
+    },
+    {
+      "level": 3,
+      "title": "용인 공동체와 드래그니즘"
+    },
+    {
+      "level": 3,
+      "title": "떠돌이 기술자와 비공식 구조자"
+    },
+    {
+      "level": 2,
+      "title": "재난과 구난"
+    },
+    {
+      "level": 3,
+      "title": "재난의 성격"
+    },
+    {
+      "level": 3,
+      "title": "구난 루트"
+    },
+    {
+      "level": 2,
+      "title": "문명권과의 관계"
+    },
+    {
+      "level": 3,
+      "title": "올림피아와 아홉 나라"
+    },
+    {
+      "level": 3,
+      "title": "정교와 공의회"
+    },
+    {
+      "level": 2,
+      "title": "관련 사건"
+    },
+    {
+      "level": 3,
+      "title": "백색 폐허와 유령 의뢰"
+    },
+    {
+      "level": 3,
+      "title": "마사오트 조우 실패와 알렉시아 기록 추적"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "장소 감각"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "드래그니즘",
+      "target": "wiki/universe/realms/balance/organizations/드래그니즘.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "니그리스/알비우스/시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "백색 폐허와 유령 의뢰",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    }
+  ],
+  "sha256": "9c3ffa47b2e919df11cad9f3cc16c595f90ed0d9ccf9d40f4c715447f992a2d7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_920497070d83f1fc.json",
+  "chunks": [
+    {
+      "id": "doc_920497070d83f1fc:000",
+      "section": "에레모스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_000.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_920497070d83f1fc:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_001.json",
+      "char_count": 552
+    },
+    {
+      "id": "doc_920497070d83f1fc:002",
+      "section": "권역의 성격",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_920497070d83f1fc:003",
+      "section": "외지 생활권",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_003.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_920497070d83f1fc:004",
+      "section": "중심 장치의 부재",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_004.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_920497070d83f1fc:005",
+      "section": "평판과 현장 감각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_005.json",
+      "char_count": 252
+    },
+    {
+      "id": "doc_920497070d83f1fc:006",
+      "section": "지리와 통과구",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_006.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_920497070d83f1fc:007",
+      "section": "길",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_007.json",
+      "char_count": 228
+    },
+    {
+      "id": "doc_920497070d83f1fc:008",
+      "section": "장막과 야영지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_008.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_920497070d83f1fc:009",
+      "section": "통과구",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_009.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_920497070d83f1fc:010",
+      "section": "공동체와 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_010.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_920497070d83f1fc:011",
+      "section": "스트레인저",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_011.json",
+      "char_count": 331
+    },
+    {
+      "id": "doc_920497070d83f1fc:012",
+      "section": "불지기와 보호",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_012.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_920497070d83f1fc:013",
+      "section": "유령 의뢰에 대한 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_013.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_920497070d83f1fc:014",
+      "section": "용인 공동체와 드래그니즘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_014.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_920497070d83f1fc:015",
+      "section": "떠돌이 기술자와 비공식 구조자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_015.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_920497070d83f1fc:016",
+      "section": "재난과 구난",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_016.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_920497070d83f1fc:017",
+      "section": "재난의 성격",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_017.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_920497070d83f1fc:018",
+      "section": "구난 루트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_018.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_920497070d83f1fc:019",
+      "section": "문명권과의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_019.json",
+      "char_count": 11
+    },
+    {
+      "id": "doc_920497070d83f1fc:020",
+      "section": "올림피아와 아홉 나라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_020.json",
+      "char_count": 281
+    },
+    {
+      "id": "doc_920497070d83f1fc:021",
+      "section": "정교와 공의회",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_021.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_920497070d83f1fc:022",
+      "section": "관련 사건",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_022.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_920497070d83f1fc:023",
+      "section": "백색 폐허와 유령 의뢰",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_023.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_920497070d83f1fc:024",
+      "section": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_024.json",
+      "char_count": 237
+    },
+    {
+      "id": "doc_920497070d83f1fc:025",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_025.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_920497070d83f1fc:026",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_026.json",
+      "char_count": 74
+    },
+    {
+      "id": "doc_920497070d83f1fc:027",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_027.json",
+      "char_count": 221
+    },
+    {
+      "id": "doc_920497070d83f1fc:028",
+      "section": "장소 감각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_028.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_920497070d83f1fc:029",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_920497070d83f1fc_029.json",
+      "char_count": 662
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_ecbc6f13cba9abd5",
+  "path": "04_MAIN_CHARACTER/01_ENSEMBLE/E05_BETRAYAL.txt",
+  "title": "E05_배신의 펠시온",
+  "summary": "E05_배신의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:01_ENSEMBLE",
+  "suffix": ".txt",
+  "sha256": "e02843bbd0df7e6284043c8dc2b47c34976227e5e3266d0a6bfd04f63412f9cd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_ecbc6f13cba9abd5.json",
+  "chunks": [
+    {
+      "id": "live_doc_ecbc6f13cba9abd5:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_ecbc6f13cba9abd5_000.json",
+      "char_count": 4665
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:024",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "관련 문서",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_024.json",
+  "text": "## 관련 문서\n\n- [길티어](../index.md) - 사고 방지 감시, 마스크맨 실패, 짧은 판결문이 말투의 감시성과 피로를 이루는 인물.\n- [길티어 외형](appearance.md) - 마스크맨 잔재와 생존 장비가 짧은 현장 지시의 몸짓으로 이어지는 외형 항목.\n- [파티](../../파티/index.md) - 길티어의 제지와 위험 판정이 실제로 작동하는 이동 집단.",
+  "metadata": {
+    "char_count": 211,
+    "sha256": "53e8c11ebb14c37dccf4de039e4abba37aae3e44afe9765102e7360cabef918a"
+  }
+}

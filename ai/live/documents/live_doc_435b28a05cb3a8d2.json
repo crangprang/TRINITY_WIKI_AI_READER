@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_435b28a05cb3a8d2",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TR05_VOID.txt",
+  "title": "공허의 트리네아드",
+  "summary": "공허의 트리네아드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "8273222ea45a44998e5f622f9132ad896a0bae7a44cb3da1f9ea9465a50ca10f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_435b28a05cb3a8d2.json",
+  "chunks": [
+    {
+      "id": "live_doc_435b28a05cb3a8d2:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_435b28a05cb3a8d2_000.json",
+      "char_count": 625
+    }
+  ]
+}

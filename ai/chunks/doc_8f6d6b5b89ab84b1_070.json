@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:070",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 오리진과 위상그릇 경로 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_070.json",
+  "text": "## [2026-06-28] ingest | 오리진과 위상그릇 경로 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md`의 오리진, 위상, 위상그릇 발생 경로를 세계법칙 문서에 반영했다. [오리진](universe/structure/오리진.md)은 세 에너지와 구분되는 근원 매듭으로 정의하고, `위상`을 세계 법칙에 닿는 격으로 별도 정리했다.\n\n[아홉 보물](universe/structure/아홉_보물.md)은 처음부터 오리진을 담기 위한 그릇이 아니라 불지피기 의식의 제어장치였고, 칼시네이션 이후 영웅의 고결한 의지와 긍정 이데아가 [트리네아드](characters/trineads/index.md)로 분리되며 빈 위상그릇으로 남았다는 경로를 보강했다. [하위신](universe/laws/하위신.md)은 인간의 생명필터·축복·저주·비술과 하위신급 위상그릇·권능·하마르티아·현현을 분리했다.",
+  "metadata": {
+    "char_count": 461,
+    "sha256": "276b490a60619f4b0a7584efc518a476b951d93743c8ed869f6e5f9beed82a60"
+  }
+}

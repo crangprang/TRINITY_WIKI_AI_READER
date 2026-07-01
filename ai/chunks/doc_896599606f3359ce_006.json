@@ -1,0 +1,23 @@
+{
+  "id": "doc_896599606f3359ce:006",
+  "document_id": "doc_896599606f3359ce",
+  "path": "wiki/events/singularities/사상누각.md",
+  "wiki_path": "events/singularities/사상누각.md",
+  "title": "사상누각",
+  "section": "관련 문서",
+  "summary": "프로젝트 아툼과 시간의 문이 폭주하고, 사막의 자유가 시간 루프로 뒤집히는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_006.json",
+  "text": "## 관련 문서\n\n- [오아시스](../../universe/realms/balance/nations/오아시스.md) - 사상누각이 뒤집는 자유의 나라.\n- [아인](../../characters/main_party/아인/index.md) - 루프 자각과 돌파의 중심 인물.\n- [랄](../../characters/savior_candidates/랄/index.md) - 오아시스의 반복과 기억 보관을 떠안는 구세주 후보.\n- [오만의 판타즈마](../../beings/phantasmas/오만의_판타즈마.md) - 시간 루프와 오만의 압력을 구현하는 판타즈마.\n- [파티](../../characters/main_party/파티/index.md) - 반복되는 현재를 통과하는 주인공 집단.",
+  "metadata": {
+    "char_count": 387,
+    "sha256": "b4bb483411ad1e0e77028c9d999ad8bf238b6c47117cea785ccc057302ed35c6"
+  }
+}

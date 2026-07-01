@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:007",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 2시대 의식 인과와 세계관 대응표 정렬",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_007.json",
+  "text": "## [2026-06-29] worldhistory | 2시대 의식 인과와 세계관 대응표 정렬\n\n[세계사/2시대](events/world_history/2시대_아홉_영웅과_칼시네이션.md)는 아홉 영웅과 보물 대응표를 [아홉 보물](universe/structure/아홉_보물.md) 소유로 낮추고, 의식 전야 흐름을 리그레드와 알레인의 문답, 알레인의 동화책 소각, 알비우스의 일부 회수, 오리진 탈취 제안과 수락으로 정리했다. 칼시네이션 원인은 리그레드, 알레인, 알비우스가 각기 다른 이유로 오리진을 차지하려 하며 의식 제어가 무너진 사건으로 보강했다.\n\n[세계사/3시대](events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md)는 문 계열 표면을 두 문과 두 문의 거름망으로 정렬했다. 비극예언과 아홉 아타노르 기능의 후대 연결은 [예언](universe/laws/예언.md)이 소유하도록 옮겼다.\n\n[삼위일체 우주 대응표](universe/structure/삼위일체_우주_대응표.md)를 신설했다. 국가 하위 항목이 아니라 우주 구조 참조 문서로 배치하고, 같은 행의 트리네아드·국가 표면 대응이 통치 관계가 아니라 기원, 분화, 후대 연결임을 명시했다. LIVE 용/수수께끼 계열과 대조해 4등급 판타즈마의 국가, 부정 이데아, 자연 상징, 수수께끼 답, 파훼 열쇠 대응도 함께 넣었다.",
+  "metadata": {
+    "char_count": 685,
+    "sha256": "3d4ad6e5e237d65b49b65ab0d092772fb29186ba894cab3c202dd704c18292e7"
+  }
+}

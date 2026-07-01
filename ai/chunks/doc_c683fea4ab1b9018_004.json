@@ -1,0 +1,24 @@
+{
+  "id": "doc_c683fea4ab1b9018:004",
+  "document_id": "doc_c683fea4ab1b9018",
+  "path": "wiki/universe/realms/balance/organizations/크로니클.md",
+  "wiki_path": "universe/realms/balance/organizations/크로니클.md",
+  "title": "크로니클",
+  "section": "관련 문서",
+  "summary": "크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 크로니클이 놓이는 조직 색인.\n- [구세군](구세군.md) - 크로니클이 현장 활동을 공표하고 기록하는 공인 조직.\n- [파르마콘](파르마콘.md) - 크로니클이 판정 기록과 지침을 유통하는 공인 조직.\n- [이레귤러 헌터](이레귤러_헌터.md) - 크로니클의 복무 기록과 선전이 연결되는 제도.\n- [균형계 문화](../culture/index.md) - 기록과 공표가 문화 권한으로 작동하는 배경.",
+  "metadata": {
+    "char_count": 257,
+    "sha256": "292911e4f924d2b8b77303bac03eb2e8c64b70b5ab2c621384b18c2b8863d6b4"
+  }
+}

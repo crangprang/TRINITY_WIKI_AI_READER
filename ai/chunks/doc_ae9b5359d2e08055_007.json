@@ -1,0 +1,23 @@
+{
+  "id": "doc_ae9b5359d2e08055:007",
+  "document_id": "doc_ae9b5359d2e08055",
+  "path": "wiki/characters/main_party/파티/index.md",
+  "wiki_path": "characters/main_party/파티/index.md",
+  "title": "파티",
+  "section": "관련 문서",
+  "summary": "파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae9b5359d2e08055_007.json",
+  "text": "## 관련 문서\n\n- [파티 시각 문법](support/visual_grammar.md) - 파티 가면과 3층위 복장 운용 원칙.\n- [아인](../아인/index.md) - 복수와 증명 강박을 판 위에 올려 파티의 진행 방향을 계산하는 작은 리더.\n- [옌](../옌/index.md) - 색과 거리감으로 동료의 균열을 읽고 파티의 감정선을 비틀어 보는 관찰자.\n- [길티어](../길티어/index.md) - 마스크맨 실패 이후 파티의 위험 선택을 강하게 경계하는 감시자.\n- [진](../진/index.md) - 거래 감각과 현장 수습으로 파티의 손해를 몸으로 떠안는 해결사.\n- [블랑](../블랑/index.md) - 희생 논리와 폭주를 낮은 진단으로 멈춰 세우는 치료자.\n- [스칼렛](../스칼렛/index.md) - 공포와 연출을 자기 쪽으로 끌어 동료의 안전거리를 만드는 전면.\n- [세레나](../세레나/index.md) - 고결함과 자멸성을 함께 들고 파티의 칼끝을 세우는 순례자.\n- [단테](../단테/index.md) - 농담과 더러운 선택으로 죄책감과 생존 사이를 건너는 순례자.",
+  "metadata": {
+    "char_count": 563,
+    "sha256": "e7241a456b5005b18a7533043ffa5c71884af190a92cec937abea3b81949ba41"
+  }
+}

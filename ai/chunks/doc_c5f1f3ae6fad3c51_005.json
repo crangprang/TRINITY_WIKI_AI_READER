@@ -1,0 +1,23 @@
+{
+  "id": "doc_c5f1f3ae6fad3c51:005",
+  "document_id": "doc_c5f1f3ae6fad3c51",
+  "path": "wiki/events/singularities/건곤일척.md",
+  "wiki_path": "events/singularities/건곤일척.md",
+  "title": "건곤일척",
+  "section": "관련 인물 및 세력",
+  "summary": "장기 정보 수집 끝에 티폰 토벌을 건 건곤일척의 원정 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c5f1f3ae6fad3c51_005.json",
+  "text": "## 관련 인물 및 세력\n\n- 마젤란과 탐험가 길드는 정보 수집을 결전 원정으로 바꾸는 주체다.\n- [운명의 판타즈마](../../beings/phantasmas/운명의_판타즈마.md)는 도피를 끝점의 토벌로 바꾸는 폭풍의 판타즈마다.\n- [파티](../../characters/main_party/파티/index.md)는 관망과 다음 기회를 잃는 원정에 말려든다.",
+  "metadata": {
+    "char_count": 204,
+    "sha256": "ea1e7d057324b2afefd14b381f324f07fc8ab0f873e4d0ae7801bae1270f2f2b"
+  }
+}

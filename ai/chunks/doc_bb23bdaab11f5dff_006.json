@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:006",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "순례자와 마지막 질문",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_006.json",
+  "text": "### 순례자와 마지막 질문\n\n별, 루시아, 기사검, 마지막 질문이 직접 닿으면 단테의 농담은 잘 붙지 않는다. 말끝은 늦게 닫히고, 이름은 짧게 끊겨 나온다. 이 층의 발화는 크지 않지만 오래 남는다.\n\n단테가 `별`을 말할 때, 그 단어는 하늘의 빛만 가리키지 않는다. 루시아, 자신을 바라보는 시선, 속죄의 가능성, 끝내 답해야 하는 질문이 함께 열린다. 그래서 이 축의 대사는 짧아도 문장 안에 죄와 맹세의 무게가 들어간다.",
+  "metadata": {
+    "char_count": 241,
+    "sha256": "6935905f70d082aabf701b65faef0339cc05a92c98d04addb002096085d80ccc"
+  }
+}

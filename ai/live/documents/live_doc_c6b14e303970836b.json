@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_c6b14e303970836b",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC00_GUIDE.txt",
+  "title": "구세주 후보 운용 가이드",
+  "summary": "구세주 후보 운용 가이드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "2556afa118de4bc242dd8fd6720cc0a81750d827a183f35665c65c11a1dd5966",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c6b14e303970836b.json",
+  "chunks": [
+    {
+      "id": "live_doc_c6b14e303970836b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6b14e303970836b_000.json",
+      "char_count": 1942
+    }
+  ]
+}

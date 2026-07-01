@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:011",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "단테",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_011.json",
+  "text": "### 단테\n\n[단테](../../단테/index.md) 앞에서는 허세와 농담이 쉽게 오간다. 둘은 더러운 승리와 생활 수치를 빨리 알아본다. 단테가 빠질 구멍을 찾는 순간 진이 먼저 끌어당긴다.",
+  "metadata": {
+    "char_count": 109,
+    "sha256": "d43bb981a66617d87078da50cfa3bc673291c87f8842191a9f00cc197a339be4"
+  }
+}

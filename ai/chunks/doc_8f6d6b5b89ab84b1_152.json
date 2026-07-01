@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:152",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 트리네아드 총론 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_152.json",
+  "text": "## [2026-06-26] rebuild | 트리네아드 총론 항목 정리\n\n[트리네아드](characters/trineads/index.md) 총론을 실제 위키 항목 구조로 재배치했다.\n\n- 정리: 개요, 계통, 창조계 트리네아드, 균형계 트리네아드, 파괴계 트리네아드, 작동 원리, 관련 문서로 본문 소유권을 나눴다.\n- 분해: 현실, 자연, 생명, 지혜, 용기, 절제, 죽음, 붕괴, 공허를 각각 조회 가능한 하위항목으로 세웠다.\n- 색인: [트리네아드 색인](characters/trineads/index.md)의 에르고와 감독 요약을 선언형 문장으로 정리했다.",
+  "metadata": {
+    "char_count": 317,
+    "sha256": "f76f56759773a7addf68af15da73fa8bbf38c0aa572c04d6148585fb62b66486"
+  }
+}

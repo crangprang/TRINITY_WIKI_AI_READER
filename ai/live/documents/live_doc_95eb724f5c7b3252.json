@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_95eb724f5c7b3252",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC04_CERBERUS.txt",
+  "title": "케르베로스",
+  "summary": "케르베로스",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "32c9220eba32d033444e4378e40a89f688d2615ba8b7cba1591230fe2f5100b4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_95eb724f5c7b3252.json",
+  "chunks": [
+    {
+      "id": "live_doc_95eb724f5c7b3252:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_95eb724f5c7b3252_000.json",
+      "char_count": 702
+    }
+  ]
+}

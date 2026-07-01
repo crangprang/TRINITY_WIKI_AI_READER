@@ -1,0 +1,23 @@
+{
+  "id": "doc_2f364c42326b48d4:007",
+  "document_id": "doc_2f364c42326b48d4",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md",
+  "title": "백색 폐허와 유령 의뢰",
+  "section": "관련 문서",
+  "summary": "각기 다른 유령 의뢰를 받은 세 그룹이 백색 폐허의 지하 의식장에서 처음 충돌하고, 리그레드의 제지와 거래를 거쳐 임시 공조의 최소 조건을 얻는 시작 에피소드.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_007.json",
+  "text": "## 관련 문서\n\n- [아인](../../../../characters/main_party/아인/index.md) - 유령 의뢰 이후 세 그룹을 임시 공조로 묶는 논리를 세우는 리더.\n- [파티](../../../../characters/main_party/파티/index.md) - 서로 다른 의뢰 해석으로 모인 세 그룹이 최소 합의를 얻으며 시작되는 주인공 집단.\n- [세레나](../../../../characters/main_party/세레나/index.md) - 고대 유적과 미지의 강자, 고대 유물 가능성에 반응해 별도 루트로 들어오는 전사.\n- [블랑](../../../../characters/main_party/블랑/index.md) - 저주 치료 가능성과 유물 소유권에 반응해 진과 함께 백색 폐허로 향하는 의사.\n- [단테](../../../../characters/main_party/단테/index.md) - 세레나와 함께 유적 루트로 움직이며 의식장 대치에 들어오는 순례자.\n- [진](../../../../characters/main_party/진/index.md) - 현실적 보상과 저주 단서에 반응해 블랑과 함께 움직이는 해결사.\n- [길티어](../../../../characters/main_party/길티어/index.md) - 아인, 옌과 함께 폐허에 들어오고 경계를 맡는 전 마스크맨.\n- [옌](../../../../characters/main_party/옌/index.md) - 아인 일행으로 백색 폐허에 들어오며 첫 공조의 감각 축을 만든다.\n- [엘리자베스](../../../../characters/main_party/엘리자베스/index.md) - 블랑과 스칼렛의 공용 몸으로 이어지는 저주와 정체성 축.\n- [라케시스](../../../../characters/trineads/라케시스/index.md) - 유령 의뢰의 범용 미끼와 반응 관측 구조에 닿는 조작자.",
+  "metadata": {
+    "char_count": 960,
+    "sha256": "7848063fe7fcc71b89d41dfc17fad2e96143a0dd186eaaad0e12e557940ca044"
+  }
+}

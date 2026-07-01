@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:195",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-05-31] maintenance | WIKI-first 운영 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_195.json",
+  "text": "## [2026-05-31] maintenance | WIKI-first 운영 정리\n\nIMAGE의 닫힌 prompt 폴더에서 최신 P05 블랑/스칼렛 외형 잠금을 WIKI 프롬프트 패킷으로 옮기고, 전체 서사 요약 진입점을 추가했다.\n\n- 프롬프트 기준: [블랑 / 외형](characters/main_party/블랑/support/appearance.md), [스칼렛 / 외형](characters/main_party/스칼렛/support/appearance.md)\n- 원본 통합 패킷 closeout: `RUN/TRINITY_WIKI/20260531/prompt_packet_closeout/p05_pair_packet_20260531_0355/`\n- 줄거리: [삼위의 군상/1부/아홉 나라의 시대/줄거리](events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md)\n- 운영 관점: 새 판단은 WIKI에 먼저 입력하고, 충분히 쌓여 잠긴 항목만 LIVE 승격 후보로 넘긴다.",
+  "metadata": {
+    "char_count": 493,
+    "sha256": "972bc098f5b8b5ac2f483e894e2ac13bc98e13ff3568ea536ee4288e489b87ee"
+  }
+}

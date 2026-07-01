@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6a4fa710b55c65cb",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/04_CHARON/PER04_VOICE_SAMPLE.txt",
+  "title": "카론 / VOICE_SAMPLE",
+  "summary": "카론 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "487e071ac5a3ffc9c2d378aea15754f8780dd761b5ced67afc2f95a96b942f05",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6a4fa710b55c65cb.json",
+  "chunks": [
+    {
+      "id": "live_doc_6a4fa710b55c65cb:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6a4fa710b55c65cb_000.json",
+      "char_count": 173
+    }
+  ]
+}

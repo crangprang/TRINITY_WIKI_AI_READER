@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:007",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "살고 싶은 마음",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_007.json",
+  "text": "### 살고 싶은 마음\n\n살고 싶은 마음이 올라오는 순간 블랑의 목소리는 작아진다. 고통을 끝내고 싶다는 말, 죽음 대신 삶을 붙잡고 싶다는 말, 자기 방식으로 살고 싶다는 말이 같은 자리에 선다.\n\n이 층의 발화는 크게 터지지 않는다. `끝나야 해`, `아픈 채로 남겨 두고 싶지 않아`, `나는 아직 살고 싶었어`처럼 조용히 남는다.",
+  "metadata": {
+    "char_count": 188,
+    "sha256": "52e053780d702255b97a277b85aecb35397275de5433bbf9d47a36cae8b43c95"
+  }
+}

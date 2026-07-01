@@ -1,0 +1,23 @@
+{
+  "id": "doc_c79dbf5afee5d615:006",
+  "document_id": "doc_c79dbf5afee5d615",
+  "path": "wiki/characters/fellsions/기만의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/기만의_펠시온/index.md",
+  "title": "기만의 펠시온",
+  "section": "변환자재 마니아",
+  "summary": "기만의 펠시온은 공허 출신의 덫 사냥꾼이며, 변환자재 마니아를 실, 정신 독, 안개, 경화 무기로 바꾸어 강자의 정신 에너지와 경험을 사냥한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c79dbf5afee5d615_006.json",
+  "text": "## 변환자재 마니아\n\n기만의 선천적 특이 형질은 `변환자재 마니아`다. 그녀는 자신의 마니아 에너지를 정교하게 제어해 형태와 성질을 자유롭게 바꾼다.\n\n- 실: 감각 기관이 확장된 거미줄을 뽑아 사냥터를 구축하고 지배한다.\n- 액체: 대상의 정신에 작용하는 독을 만들어 환각과 편집증을 유발한다.\n- 기체: 자신을 감추는 안개를 만들어 흔적 없이 사라진다.\n- 고체: 순간적으로 경화시켜 암살용 무기로 사용한다.\n\n이 능력은 사냥터를 완성하는 도구다. 실은 정보망, 독은 관계 붕괴, 안개는 은신과 탈출, 경화 무기는 마지막 처리에 배치된다.",
+  "metadata": {
+    "char_count": 304,
+    "sha256": "7cd3b7c633f88428348d56b4cd3bc733471b18d405423897ac2305809270ba5b"
+  }
+}

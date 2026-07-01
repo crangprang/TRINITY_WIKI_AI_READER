@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:224",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] merge | 우주 진입점 삼위일체 우주 병합",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_224.json",
+  "text": "## [2026-06-26] merge | 우주 진입점 삼위일체 우주 병합\n\n`wiki/universe/index.md`를 독립 독자 문서 표면에서 제거하고 [삼위일체 우주](universe/structure/삼위일체_우주.md)를 우주 구조의 상위 진입 항목으로 확정했다.\n\n- 정리: 루트 색인과 균형계 관련 링크를 삼위일체 우주로 직접 연결했다.\n- 보존: 기존 `universe/index.md` 요청은 alias를 통해 삼위일체 우주에 도달한다.\n- 계약: 비위키식 복합 제목은 리네임, 병합, 분해 대상이라는 규칙을 외부 WIKI 계약에 보강했다.",
+  "metadata": {
+    "char_count": 312,
+    "sha256": "a89d02da2ff742e695be4f8b06c87b45ad2fe8b4aaf20edd5be5b1465d269354"
+  }
+}

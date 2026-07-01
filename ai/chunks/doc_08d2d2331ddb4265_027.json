@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:027",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "블랑",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_027.json",
+  "text": "### 블랑\n\n[블랑](../블랑/index.md)은 단테가 버리고 온 선의와 루시아의 기억을 건드리는 사람이다. 단테는 블랑 앞에서 더 능청스럽고 더 비켜 서지만, 그녀가 자기 손을 더럽히는 장면은 오래 견디지 못한다.",
+  "metadata": {
+    "char_count": 123,
+    "sha256": "e2b1ba0f4b9ab63afc4b7b99080eb292a5467b2de31fb3bcbb497b3033b1713d"
+  }
+}

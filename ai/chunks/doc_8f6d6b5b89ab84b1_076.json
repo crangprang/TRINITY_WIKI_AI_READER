@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:076",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 염한 H5 하위항목 복원",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_076.json",
+  "text": "## [2026-06-27] structure | 염한 H5 하위항목 복원\n\n[염한](universe/realms/balance/nations/염한.md)의 용의 수수께끼와 4등급 판타즈마는 이후 서술이 길어질 독립 하위항목으로 판단해 H5 헤딩으로 복원했다. 아홉 나라 원샷 WIKI 최적화 양식도 H5를 장기 서술이 확실한 하위항목에 허용하도록 갱신했다.",
+  "metadata": {
+    "char_count": 200,
+    "sha256": "2638f9a3f11e2cd0592fedc2bce3edbc01be164b2c9c6da037b44696e95a7ab0"
+  }
+}

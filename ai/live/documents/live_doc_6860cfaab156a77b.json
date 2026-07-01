@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6860cfaab156a77b",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P07_DANTE/P07_VOICE_SAMPLE.txt",
+  "title": "P07_단테 / VOICE_SAMPLE",
+  "summary": "P07_단테 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "d4335643963dcab655b0cbe66989445bb3114c792a409dcd3da227dd1a5db229",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6860cfaab156a77b.json",
+  "chunks": [
+    {
+      "id": "live_doc_6860cfaab156a77b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6860cfaab156a77b_000.json",
+      "char_count": 4678
+    }
+  ]
+}

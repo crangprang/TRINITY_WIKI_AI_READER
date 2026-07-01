@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:007",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "아인",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_007.json",
+  "text": "### 아인\n\n[아인](../../아인/index.md)에게는 반말이 자연스럽다. 서로 속을 다 아는 전제가 먼저 서며, 하얀 성녀 얼굴을 굳이 유지하려 들지 않는다. 색을 정답처럼 읽는 대신, 변함없는 검은색을 흥미로워하고 몸에서 일어나는 반응을 본다.\n\n어려운 말이나 추상적인 설명을 오래 붙들지 못한다. 아인의 설명이 길어지면 중간에서 잘라 버리듯 짜증이 튄다.",
+  "metadata": {
+    "char_count": 205,
+    "sha256": "1fe9228ae9bcfaad65a8f4185c0a167aa7803b07bd3f5775c493c3df7922e114"
+  }
+}

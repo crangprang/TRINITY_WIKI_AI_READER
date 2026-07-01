@@ -1,0 +1,105 @@
+{
+  "id": "doc_64a46976159d72bb",
+  "path": "wiki/universe/realms/balance/organizations/유랑_서커스.md",
+  "wiki_path": "universe/realms/balance/organizations/유랑_서커스.md",
+  "title": "유랑 서커스",
+  "summary": "유랑 서커스는 우니오네 기반의 기능조직으로, 순회 공연 면허와 흥행망을 통해 공연, 후원자 접촉, 정보 수집을 함께 수행한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "유랑 서커스"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "공연과 정보"
+    },
+    {
+      "level": 2,
+      "title": "국가와 후보"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "로렌초 카발리에리",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "로렌초 카발리에리",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    }
+  ],
+  "sha256": "6b99d7cad868c9ae7a36ee47ccca9dce25bd411925ceccbdfd1908fc57cbce95",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_64a46976159d72bb.json",
+  "chunks": [
+    {
+      "id": "doc_64a46976159d72bb:000",
+      "section": "유랑 서커스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_64a46976159d72bb_000.json",
+      "char_count": 337
+    },
+    {
+      "id": "doc_64a46976159d72bb:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_64a46976159d72bb_001.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_64a46976159d72bb:002",
+      "section": "공연과 정보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_64a46976159d72bb_002.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_64a46976159d72bb:003",
+      "section": "국가와 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_64a46976159d72bb_003.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_64a46976159d72bb:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_64a46976159d72bb_004.json",
+      "char_count": 271
+    }
+  ]
+}

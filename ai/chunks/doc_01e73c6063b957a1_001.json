@@ -1,0 +1,24 @@
+{
+  "id": "doc_01e73c6063b957a1:001",
+  "document_id": "doc_01e73c6063b957a1",
+  "path": "wiki/characters/main_party/단테/support/appearance.md",
+  "wiki_path": "characters/main_party/단테/support/appearance.md",
+  "title": "단테 외형",
+  "section": "외형 기준",
+  "summary": "단테의 접힌 지하 생존자 실루엣, 눌린 녹색 머리와 흐린 벽안, 한 사람 앞에서 살아나는 기사선을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_01e73c6063b957a1_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 20대 중반 |\n| 체형 | 민첩하고 과장되지 않은 체구. 평소에는 어깨와 목을 말아 체구에 비해 작게 읽힌다. |\n| 머리 | 카키, 이끼, 죽은 올리브로 눌린 녹색 계열. 눈가와 광대를 가리며 시선을 숨기는 덥수룩한 길이. |\n| 눈 | 흐린 회청색으로 죽은 옅은 벽안. 한 사람 앞의 시련에서 맑고 차갑게 살아난다. |\n| 의상 | 눌린 외투, 짧은 망토성 덧자락, 해진 시종복의 잔재, 안주머니가 많은 조끼, 바랜 셔츠, 좁은 실무형 바지, 조용한 장화. |\n| 소품 | 숨긴 기사검 `마지막 질문`, 얇은 단검, 락픽 세트, 지도 조각, 동전주머니, 가짜 신분용 소품. |\n| 팔레트 | 카키, 이끼색, 죽은 올리브, 먹회색, 바랜 갈색, 빛 죽은 가죽, 차가운 은빛, 흐린 청색. |\n| 첫인상 | 시선을 피하고 출구부터 찾는 현지 가이드. 같은 옷과 같은 얼굴이 1:1 구도에서 기사처럼 정렬된다. |",
+  "metadata": {
+    "char_count": 513,
+    "sha256": "45cbdc78e3efaa24d416e8122aa6feb084af81dda5f33c8a6633862a6d7673a0"
+  }
+}

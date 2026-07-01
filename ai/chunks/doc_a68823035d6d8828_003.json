@@ -1,0 +1,24 @@
+{
+  "id": "doc_a68823035d6d8828:003",
+  "document_id": "doc_a68823035d6d8828",
+  "path": "wiki/events/world_history/알레인의_동화책.md",
+  "wiki_path": "events/world_history/알레인의_동화책.md",
+  "title": "알레인의 동화책",
+  "section": "알비우스의 보존",
+  "summary": "알레인의 동화책은 공포를 아이가 부를 수 있는 이름으로 다시 번역한 이야기 체계이며, 아홉 아타노르의 이름과 아홉 나라의 오독으로 이어지는 세계사 핵심 서사 물건이다.",
+  "status": "draft",
+  "type": "event_artifact",
+  "tags": [
+    "events",
+    "world-history",
+    "artifact",
+    "alaine"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a68823035d6d8828_003.json",
+  "text": "## 알비우스의 보존\n\n알비우스에게 남은 동화의 흔적은 보존하려는 선의, 죄책감, 애도, 기억의 한계를 함께 품는다. 그는 알레인이 태우려 한 책을 모두 구하지 못했고, 가까스로 회수한 일부와 자기 기억으로 빈자리를 메운다. 이 보존은 사라진 알레인의 어린 시절을 붙잡으려는 늦은 애도에 가깝다.\n\n다만 보존의 선의가 완전한 원형을 보장하지는 않는다. 기억으로 복원된 판본은 알비우스가 기억하는 방식의 한계를 지니고, 빠진 장면과 뒤틀린 강조점을 남긴다. 후대 사람들은 그 불완전한 판본을 통해 별과 기사, 실패와 가능성을 다시 묻게 된다.",
+  "metadata": {
+    "char_count": 302,
+    "sha256": "cb1304b46933af1148ed918ad6007db0879460873e22bba4b762060df5b8a4cb"
+  }
+}

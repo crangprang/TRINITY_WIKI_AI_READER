@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f00586713c82c89f",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P04_JIN/P04_FACT_DETAIL.txt",
+  "title": "P04_진 / FACT_DETAIL",
+  "summary": "P04_진 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "b1d2f54404ff900502efb4f0737659a89f6b6f67a0b483b2d4e1f6bda3aba9ae",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f00586713c82c89f.json",
+  "chunks": [
+    {
+      "id": "live_doc_f00586713c82c89f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f00586713c82c89f_000.json",
+      "char_count": 5048
+    }
+  ]
+}

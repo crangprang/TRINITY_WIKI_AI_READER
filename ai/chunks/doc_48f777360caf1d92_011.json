@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:011",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "진",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_011.json",
+  "text": "### 진\n\n[진](../../진/index.md) 앞에서는 생활적인 숨결이 가장 잘 나온다. 차, 오늘, 한숨, 농담, 숨 같은 말이 붙고, 블랑이 드물게 장난을 받아 준다.\n\n진이 웃으며 넘기면 블랑은 한 박자 늦게 웃거나 되묻는다. 그러나 말끝은 쉽게 풀리지 않는다. 안도와 경계가 같은 문장 안에 남는다.",
+  "metadata": {
+    "char_count": 174,
+    "sha256": "e78dd5ea0e4e0870a092b8421f2a1c526796990b208537b4b19a2db49fcb2961"
+  }
+}

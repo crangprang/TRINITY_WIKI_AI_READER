@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_bb6f96223f4f3ce0",
+  "path": "04_MAIN_CHARACTER/00_PARTY/00_PARTY_CORE.txt",
+  "title": "00_PARTY / CORE",
+  "summary": "00_PARTY / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "8eace92f8dcce1c209d4b6bad2bfb9226336fb14722924576eeba2f3fd31a346",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_bb6f96223f4f3ce0.json",
+  "chunks": [
+    {
+      "id": "live_doc_bb6f96223f4f3ce0:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_bb6f96223f4f3ce0_000.json",
+      "char_count": 830
+    }
+  ]
+}

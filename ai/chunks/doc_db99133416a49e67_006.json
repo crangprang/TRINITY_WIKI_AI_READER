@@ -1,0 +1,23 @@
+{
+  "id": "doc_db99133416a49e67:006",
+  "document_id": "doc_db99133416a49e67",
+  "path": "wiki/characters/savior_candidates/랄/index.md",
+  "wiki_path": "characters/savior_candidates/랄/index.md",
+  "title": "랄",
+  "section": "현장 기능",
+  "summary": "자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db99133416a49e67_006.json",
+  "text": "## 현장 기능\n\n랄은 선택지와 스코어링을 다루는 장면에서 선명하다. 그녀는 위험을 감정으로 판단하지 않고 수로 보고, 기록이 있으면 어제 처음 본 일도 바로 계산으로 옮긴다.\n\n현장에서 랄은 자유의 나라가 가진 기술 해석 능력을 판다. 고대 유물 감정, 낡은 장치의 작동 원리, 점수표와 의뢰 태그를 읽는 실무가 그녀의 표면 역할이다. 아인의 이름이 걸린 순간에는 계산보다 먼저 체스 습관과 몸의 반응이 움직인다.",
+  "metadata": {
+    "char_count": 232,
+    "sha256": "5981752a69abd57b2f9762e47bd84f601a07a29cd8cf3d7200ab2a32052b8a0a"
+  }
+}

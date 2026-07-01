@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3bed979b42677a7:001",
+  "document_id": "doc_b3bed979b42677a7",
+  "path": "wiki/characters/axions/판도라/support/appearance.md",
+  "wiki_path": "characters/axions/판도라/support/appearance.md",
+  "title": "판도라 외형",
+  "section": "외형 기준",
+  "summary": "판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 60대 |\n| 실루엣 | 일반 인간으로 돌아온 맹인 학장과 창립자 |\n| 머리색 | 회색 |\n| 눈 | 맹인, 필요 장면의 안대와 눈가림 |\n| 의상 | 건국기 엑시온의 잔향이 남은 학장 복식 |\n| 가면 | 가면 없음, 후계자에게 물려준 얼굴가림의 부재 |\n| 소품 | 검은 석판, 푸른 수정빛, 촛불, 질문 기록, 망설이는 손 |",
+  "metadata": {
+    "char_count": 244,
+    "sha256": "6f24c80b95d51bb9f0a623ca9c989f4ca602bc20585afff5a0cf510f71e6e992"
+  }
+}

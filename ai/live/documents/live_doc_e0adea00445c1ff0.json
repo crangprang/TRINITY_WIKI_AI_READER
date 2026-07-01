@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_e0adea00445c1ff0",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/09_TURCHINA/PER09_FACT_DETAIL.txt",
+  "title": "투르키나 / FACT_DETAIL",
+  "summary": "투르키나 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "0581226799a00503e761bd75328ecb9890e843667153306331a937246b127bcf",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_e0adea00445c1ff0.json",
+  "chunks": [
+    {
+      "id": "live_doc_e0adea00445c1ff0:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_e0adea00445c1ff0_000.json",
+      "char_count": 276
+    }
+  ]
+}

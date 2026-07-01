@@ -1,0 +1,23 @@
+{
+  "id": "doc_4b66cf2c590d7211:000",
+  "document_id": "doc_4b66cf2c590d7211",
+  "path": "wiki/characters/axions/판도라/index.md",
+  "wiki_path": "characters/axions/판도라/index.md",
+  "title": "판도라",
+  "section": "판도라",
+  "summary": "판도라는 알렉시아 건국기의 최초 질문을 오르가논에 입력한 맹인 학장이며, 나라를 살린 빛과 벌레의 재앙을 함께 연 건국기 엑시온이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4b66cf2c590d7211_000.json",
+  "text": "# 판도라\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 판도라 |\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 60대 |\n| 머리색 | 회색 |\n| 소속/지역 | 9성좌 공의회, 진리의 나라 [알렉시아](../../../universe/realms/balance/nations/알렉시아.md) |\n| 직책/역할 | 학장, 건국기 엑시온, 진리 성좌 |\n| 계승 상태 | 건국기 엑시온 |\n| 연결된 아포라투스 | 아나그노리시스 |\n| 제어기관 | 오르가논 |\n| 보물 | 이해의 보물, 검은 석판 |\n| 권능 | 빛, 해석, 기록 산출, 질문 연산 |\n| 보물 선택 조건 | 도시 생존을 위해 최초 질문을 입력하고 빛과 벌레의 비용을 짊어진 책임감 |\n| 왕권 상징 | 검은 석판, 오르가논 색인륜, 맹인 학장의 지팡이, 촛불 |\n| 대응 페르소나 | [탈레스](../../personas/탈레스/index.md) |\n| 후계자 | [엘피스](../엘피스/index.md) |",
+  "metadata": {
+    "char_count": 508,
+    "sha256": "16b06b25cd88bcc02663bd970d89b789f7c4d0884dda35a9f41a1b7b5bbadec1"
+  }
+}

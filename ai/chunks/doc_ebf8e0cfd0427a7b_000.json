@@ -1,0 +1,24 @@
+{
+  "id": "doc_ebf8e0cfd0427a7b:000",
+  "document_id": "doc_ebf8e0cfd0427a7b",
+  "path": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md",
+  "wiki_path": "universe/realms/balance/organizations/이레귤러_헌터.md",
+  "title": "이레귤러 헌터",
+  "section": "이레귤러 헌터",
+  "summary": "이레귤러 헌터는 정교가 저주 보유자에게 열어 둔 속죄 통로처럼 선전하는 공개 소모품 제도이며, 실제로는 이레귤러가 다른 이레귤러를 추적하게 만드는 현장 장치다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_system"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ebf8e0cfd0427a7b_000.json",
+  "text": "# 이레귤러 헌터\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 정교 현장 제도 |\n| 공적 표면 | 속죄 중인 현장 인력 / 위험 지역 보조자 / 추적 담당자 |\n| 현장 멸칭 | 사냥개 |\n| 주요 기능 | 이레귤러 추적 / 몰아내기 / 처치 / 위험 현장 소모품화 |\n| 연계 조직 | [구세군](구세군.md) / [파르마콘](파르마콘.md) / [크로니클](크로니클.md) |",
+  "metadata": {
+    "char_count": 218,
+    "sha256": "c73688783693a969ddcdad5a3e3f45387bebe5b7faec2bd9b489f120bb2e6a70"
+  }
+}

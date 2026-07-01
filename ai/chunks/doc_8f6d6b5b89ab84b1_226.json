@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:226",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 스칼렛 캐릭터 패키지 분기",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_226.json",
+  "text": "## [2026-06-26] rebuild | 스칼렛 캐릭터 패키지 분기\n\n[스칼렛](characters/main_party/스칼렛/index.md)의 본문, 외형, 말투 지원 문서를 캐릭터 패키지 구조로 정리했다.\n\n- 정리: 본문은 페티멘토의 외과의사, 꿈의 아틀리에, 마고리아 재구성, 엘리자베스라는 이름, 하마르티아, 내면 구조, 혈조와 관계를 담당하게 하고 말투와 지원 운용은 [스칼렛 / 말투](characters/main_party/스칼렛/support/voice.md), [스칼렛 / 외형](characters/main_party/스칼렛/support/appearance.md)으로 분기했다.\n- 문체: 번호형 하위 제목, 장기 운영 문구, 해석 메모, 프롬프트 패킷 잔여 문구를 제거하고 선언형 위키 항목으로 바꿨다.\n- 관계: 블랑, 엘리자베스, 빈센트, 파티, 우니오네를 스칼렛의 각본, 진실, 블랑, 지워지지 않으려는 이름 구조와 연결했다.",
+  "metadata": {
+    "char_count": 482,
+    "sha256": "42f1a80ebca1d56538661845ca08e8b4d8327f967fb0c23a4edabbf10167fe31"
+  }
+}

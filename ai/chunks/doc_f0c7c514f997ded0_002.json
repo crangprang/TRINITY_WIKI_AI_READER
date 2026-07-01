@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:002",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "기본 인상",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_002.json",
+  "text": "## 기본 인상\n\n세레나는 작은 체구에도 작게 읽히지 않는다. 허리는 곧고 어깨는 검을 기억하며, 몸의 폭을 키우는 대신 긴 수직선을 끝까지 세운다. 처음에는 코발트블루 머리와 뿔이 앞서는 용인 전사의 이미지에 앞서, 검은 외피와 감긴 천 아래 자신을 눌러 둔 순례자 검객으로 읽힌다.\n\n붉은 눈, 수직 동공, 짧은 뿔, 얕은 목비늘은 용인의 정체성을 숨기지 않는다. 그러나 그 표지는 과시되지 않는다. 가까이 다가가거나 외피가 내려가거나, 전투와 달빛이 깊어질 때 선명해진다.\n\n표정 변화는 `무심한 점검 -> 결의 -> 위험한 환희`의 순서로 올라간다. 평상시 얼굴은 감정을 지운 빈 얼굴로 닫히지 않고, 주변과 사람과 틈을 먼저 확인하는 얼굴이다. 전투에 들어가면 결의가 먼저 서고, 더 깊어지면 입꼬리와 이빨이 늦게 드러난다.",
+  "metadata": {
+    "char_count": 410,
+    "sha256": "50827682b5aee5e37f11877a00b49fad7fa9995e490cd03743b932b4855c049a"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:342",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 전대 엑시온 처리 경계 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_342.json",
+  "text": "## [2026-06-28] ingest | 전대 엑시온 처리 경계 보강\n\n`아포라투스_HANDOFF.txt`의 엑시온 계승 claim을 대조해 [엑시온](characters/axions/index.md)에 재위 중 자연 노쇠 정지, 계승 후 인간화, 나라별 선대 처리 관습의 층위 차이를 보강했다. [판도라](characters/axions/판도라/index.md)는 엘피스 계승 뒤 인간으로 돌아온 선대 학장 예시로 본문에 명시했고, 염한의 가인 즉위 폭력은 일반 관습 확정표로 확장하지 않았다.",
+  "metadata": {
+    "char_count": 279,
+    "sha256": "59a52b2599c3129255bfa635928863ece9f1d5604b2c7007585ebce56786480a"
+  }
+}

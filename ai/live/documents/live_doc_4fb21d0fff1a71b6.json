@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_4fb21d0fff1a71b6",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/08_HELEN/PER08_REFERENCE.txt",
+  "title": "헬렌 / REFERENCE",
+  "summary": "헬렌 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "22398915a46795046d0e78b7f227debbf7a00111a411d15439314aefa49c09c6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_4fb21d0fff1a71b6.json",
+  "chunks": [
+    {
+      "id": "live_doc_4fb21d0fff1a71b6:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4fb21d0fff1a71b6_000.json",
+      "char_count": 190
+    }
+  ]
+}

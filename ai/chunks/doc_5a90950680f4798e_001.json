@@ -1,0 +1,23 @@
+{
+  "id": "doc_5a90950680f4798e:001",
+  "document_id": "doc_5a90950680f4798e",
+  "path": "wiki/characters/axions/파우스트/index.md",
+  "wiki_path": "characters/axions/파우스트/index.md",
+  "title": "파우스트",
+  "section": "개요",
+  "summary": "파우스트는 오아시스의 왕이자 자유 성좌의 엑시온으로, 그레트헨의 상실 때문에 나라 전체를 반복되는 현재에 묶은 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5a90950680f4798e_001.json",
+  "text": "## 개요\n\n[파우스트](index.md)는 [오아시스](../../../universe/realms/balance/nations/오아시스.md)의 왕이자 자유 성좌의 엑시온이다. 그는 사막의 결핍을 넘어서는 물과 출력의 낙원을 세웠지만, 그레트헨을 잃은 뒤 나라 전체를 반복되는 현재에 묶었다.\n\n파우스트의 자유는 미래로 나아가는 힘에서 멈춘 현재를 유지하는 질서로 굳었다. 시민은 선택한다고 믿고, 시스템은 허용된 현재를 계속 출력한다. 파우스트는 그 질서를 안정이라 부르며 오아시스를 애도의 방처럼 다스린다.",
+  "metadata": {
+    "char_count": 287,
+    "sha256": "58f35ef3a20c437012bbcb1be607c46c3b39822be9a4210353373a7a8925b6db"
+  }
+}

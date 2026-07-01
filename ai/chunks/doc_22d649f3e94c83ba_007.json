@@ -1,0 +1,23 @@
+{
+  "id": "doc_22d649f3e94c83ba:007",
+  "document_id": "doc_22d649f3e94c83ba",
+  "path": "wiki/beings/phantasmas/탐욕의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/탐욕의_판타즈마.md",
+  "title": "탐욕의 판타즈마",
+  "section": "관련 문서",
+  "summary": "탐욕이 자본 흐름과 전력망을 먹고 도시 전체로 뻗어 나간 시스템형 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_22d649f3e94c83ba_007.json",
+  "text": "## 관련 문서\n\n- [판타즈마](index.md) - 이름, 부정 이데아, 장소와 핵이 판타즈마를 만드는 공통 발생 구조.\n- [레이어드](../../universe/realms/balance/nations/레이어드.md) - 탐욕과 거래 축이 응축되는 대응 국가.\n- [더 나은 내일](../../events/singularities/더_나은_내일.md) - 탐욕의 판타즈마 현현과 연결되는 특이점.\n- [레이어드 3등급 판타즈마](레이어드_3등급_판타즈마.md) - 레이어드 하위 3등급 판타즈마군.",
+  "metadata": {
+    "char_count": 282,
+    "sha256": "34d3967a19cd0683914f622208d86a64c6c9dddbdf4a22bf9dc9c13726159819"
+  }
+}

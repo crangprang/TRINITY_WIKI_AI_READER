@@ -1,0 +1,149 @@
+{
+  "id": "doc_a8008addca890c82",
+  "path": "wiki/events/singularities/index.md",
+  "wiki_path": "events/singularities/index.md",
+  "title": "특이점",
+  "summary": "특이점은 아홉 나라의 이념과 장치가 임계에 닿아 국가 질서와 파티의 인식을 다음 상태로 넘기는 전환 사건이다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "singularities"
+  ],
+  "updated": "2026-06-29",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "특이점"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "작동 구조"
+    },
+    {
+      "level": 2,
+      "title": "전환의 결과"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "일월성신",
+      "target": "wiki/events/singularities/일월성신.md"
+    },
+    {
+      "label": "몽환포영",
+      "target": "wiki/events/singularities/몽환포영.md"
+    },
+    {
+      "label": "건곤일척",
+      "target": "wiki/events/singularities/건곤일척.md"
+    },
+    {
+      "label": "더 나은 내일",
+      "target": "wiki/events/singularities/더_나은_내일.md"
+    },
+    {
+      "label": "사상누각",
+      "target": "wiki/events/singularities/사상누각.md"
+    },
+    {
+      "label": "Fahrenheit 451",
+      "target": "wiki/events/singularities/Fahrenheit_451.md"
+    },
+    {
+      "label": "생사불문",
+      "target": "wiki/events/singularities/생사불문.md"
+    },
+    {
+      "label": "백해무익",
+      "target": "wiki/events/singularities/백해무익.md"
+    },
+    {
+      "label": "삼라만상",
+      "target": "wiki/events/singularities/삼라만상.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "65dab8d16d4651f4f77904d099be44de724f96d12fe588c751a973c6d3804802",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a8008addca890c82.json",
+  "chunks": [
+    {
+      "id": "doc_a8008addca890c82:000",
+      "section": "특이점",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a8008addca890c82_000.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_a8008addca890c82:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a8008addca890c82_001.json",
+      "char_count": 454
+    },
+    {
+      "id": "doc_a8008addca890c82:002",
+      "section": "작동 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a8008addca890c82_002.json",
+      "char_count": 293
+    },
+    {
+      "id": "doc_a8008addca890c82:003",
+      "section": "전환의 결과",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a8008addca890c82_003.json",
+      "char_count": 310
+    },
+    {
+      "id": "doc_a8008addca890c82:004",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a8008addca890c82_004.json",
+      "char_count": 749
+    },
+    {
+      "id": "doc_a8008addca890c82:005",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a8008addca890c82_005.json",
+      "char_count": 423
+    }
+  ]
+}

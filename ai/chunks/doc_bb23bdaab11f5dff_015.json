@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:015",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "공개 칭찬",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_015.json",
+  "text": "### 공개 칭찬\n\n칭찬이 공개될수록 단테의 숨은 얕아진다. 그는 농담으로 받아넘기거나 자기 비하를 던져 시선을 흩는다. 좋은 사람, 기사, 영웅 같은 말은 단테를 세우기 전에 먼저 얼린다.",
+  "metadata": {
+    "char_count": 106,
+    "sha256": "e2d7e758fdf0bb1a464440b7812389c3e17d3b8e9f4feb369c57a161a16ca8f6"
+  }
+}

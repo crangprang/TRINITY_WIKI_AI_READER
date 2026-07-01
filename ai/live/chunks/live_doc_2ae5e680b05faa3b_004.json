@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_2ae5e680b05faa3b:004",
+  "document_id": "live_doc_2ae5e680b05faa3b",
+  "path": "04_MAIN_CHARACTER/README.md",
+  "title": "04_MAIN_CHARACTER",
+  "section": "Promotion Rule",
+  "summary": "`04_MAIN_CHARACTER` is the live character surface.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_004.json",
+  "text": "## Promotion Rule\n\n- within `04_MAIN_CHARACTER`, approved handoff text is the promotion baseline unless it conflicts with `GOAL.txt`, `01_CANON`, or `02_LORE`\n- the `legacy archive` is no longer peer truth; use it only to reinforce stable scene-usable material that handoff and canon do not contradict\n- safe `OLD` pickups are gesture, voice texture, living habits, relation triggers, practical object use, and other scene-ready details\n- `P##_BRANCH_IDEA.txt` is not fact, not canon, and not auto-promotable truth; it is a holding place for future extension paths\n- do not silently import new chronology, new mechanics, new culture rules, or handoff-overwriting claims from `OLD`\n- if a claim is strong but still unresolved, leave it in handoff or archive instead of half-promoting it into the live file",
+  "metadata": {
+    "char_count": 804,
+    "sha256": "973d51fb8c77aca49c9728cf1a4532bf61828944215c5a634d4f6193bf832a24"
+  }
+}

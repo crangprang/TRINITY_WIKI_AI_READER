@@ -1,0 +1,100 @@
+{
+  "id": "doc_301401584ebbfe8d",
+  "path": "wiki/beings/creatures/레이어드_원생_생물.md",
+  "wiki_path": "beings/creatures/레이어드_원생_생물.md",
+  "title": "레이어드 원생 생물",
+  "summary": "잔류젤, 수은근, 금열포, 계약해면이 누전·배관·폐기물 주변에서 이루는 레이어드 하층 미시 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "레이어드 원생 생물"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "생활 기능"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    }
+  ],
+  "sha256": "9587aa292cde16329470f67237b2c2b08281a4891a0438098dd6e08f50f599d4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_301401584ebbfe8d.json",
+  "chunks": [
+    {
+      "id": "doc_301401584ebbfe8d:000",
+      "section": "레이어드 원생 생물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_000.json",
+      "char_count": 85
+    },
+    {
+      "id": "doc_301401584ebbfe8d:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_001.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_301401584ebbfe8d:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_002.json",
+      "char_count": 47
+    },
+    {
+      "id": "doc_301401584ebbfe8d:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_003.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_301401584ebbfe8d:004",
+      "section": "생활 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_004.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_301401584ebbfe8d:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_005.json",
+      "char_count": 72
+    },
+    {
+      "id": "doc_301401584ebbfe8d:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_301401584ebbfe8d_006.json",
+      "char_count": 114
+    }
+  ]
+}

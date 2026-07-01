@@ -1,0 +1,23 @@
+{
+  "id": "doc_6c1b4be6614275d9:005",
+  "document_id": "doc_6c1b4be6614275d9",
+  "path": "wiki/characters/personas/메피스토/index.md",
+  "wiki_path": "characters/personas/메피스토/index.md",
+  "title": "메피스토",
+  "section": "피라미디온의 시간 고정",
+  "summary": "메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6c1b4be6614275d9_005.json",
+  "text": "## 피라미디온의 시간 고정\n\n피라미디온은 과거의 설계도와 기록을 읽어 필요한 물자, 건축, 병력을 모래로 출력한다. 메피스토는 이 장치가 만드는 반복을 생활 가능한 이야기로 묶는다. 시민에게는 공정한 점수와 물 배급을, 노동자에게는 오늘만 버티면 된다는 이유를, 파우스트에게는 사랑을 계속 붙들 수 있다는 해석을 준다.\n\n그가 다루는 오아시스의 잔혹함은 비명을 숨기는 방식으로 작동한다. 두아트의 노동, 반복되는 상점과 대사, 같은 축제 구호, 모래가 새는 생활물자는 모두 메피스토의 이야기 안에서 관리 가능한 정상으로 포장된다. 위험한 말은 거친 명령보다 `괜찮다`, `정상이다`, `선택한 것이다` 같은 부드러운 문장으로 나타난다.",
+  "metadata": {
+    "char_count": 356,
+    "sha256": "002c3e4e56f2e74afa9619522d7722bd6e4f9e39c9fa45dd5ef2d833d32490bc"
+  }
+}

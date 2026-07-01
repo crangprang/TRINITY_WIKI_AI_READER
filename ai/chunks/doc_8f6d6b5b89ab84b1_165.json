@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:165",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] merge | 우주와 세계 구조 항목 병합",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_165.json",
+  "text": "## [2026-06-26] merge | 우주와 세계 구조 항목 병합\n\n비위키식 진입 항목이던 `우주와 세계 구조`를 [삼위일체 우주](universe/structure/삼위일체_우주.md)에 병합했다.\n\n- 삭제: `wiki/universe/index.md`를 독립 독자 문서 표면에서 제거했다.\n- 연결: 루트 색인과 관련 문서 링크를 삼위일체 우주, 세 에너지, 하위신, 오리진, 균형계로 직접 연결했다.\n- 보존: 기존 `universe/index.md`와 `overview.md` 요청은 alias로 삼위일체 우주에 도달하게 했다.",
+  "metadata": {
+    "char_count": 303,
+    "sha256": "c62b3be5ff2ddd3ff0e1e372ab1a85fc5fbdde3370e96e4bb71745238ec3f030"
+  }
+}

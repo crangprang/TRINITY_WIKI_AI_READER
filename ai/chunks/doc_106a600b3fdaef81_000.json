@@ -1,0 +1,21 @@
+{
+  "id": "doc_106a600b3fdaef81:000",
+  "document_id": "doc_106a600b3fdaef81",
+  "path": "wiki/characters/index.md",
+  "wiki_path": "characters/index.md",
+  "title": "인물",
+  "section": "인물",
+  "summary": "인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "characters"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_000.json",
+  "text": "# 인물\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 행위자 |\n| 구성 | 주인공 파티 / 앙상블 / 역사적 행위자 / 트리네아드 / 엑시온 / 페르소나 / 펠시온 / 구세주 후보 |\n| 중심 작동 | 이름 / 역할 / 국가 이념 / 신격 압력 / 장치 권한 / 사건 선택 |\n| 주요 무대 | 삼위의 군상 1부 / 아홉 나라의 시대 / 세계사 |",
+  "metadata": {
+    "char_count": 200,
+    "sha256": "6ea1e766e442e3d6de6ff1f4d6a585d0713edd4d7066cb2788ec9dd7e4d2f449"
+  }
+}

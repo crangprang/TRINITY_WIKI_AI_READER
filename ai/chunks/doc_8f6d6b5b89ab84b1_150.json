@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:150",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 국가 폴더 잔여 문체 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_150.json",
+  "text": "## [2026-06-26] maintenance | 국가 폴더 잔여 문체 정리\n\n국가 폴더 전체 검색에서 남은 비교형·지시형 문장을 정리했다.\n\n- 반영: [아홉 나라 색인](universe/realms/balance/nations/index.md), [마사오트](universe/realms/balance/nations/마사오트.md), [알렉시아](universe/realms/balance/nations/알렉시아.md), [올림피아](universe/realms/balance/nations/올림피아.md)\n- 정리: 우니오네 색인 요약, 마사오트 브리지 설명, 알렉시아 건국기와 엘피스 설명, 올림피아 시각 앵커를 선언형 문장으로 바꿨다.",
+  "metadata": {
+    "char_count": 362,
+    "sha256": "744b0ae5ef0354ef866c5bb9222e939311a92876f0d12add5af6a34aedbbe59f"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_a07b6c7f699e9532:004",
+  "document_id": "doc_a07b6c7f699e9532",
+  "path": "wiki/beings/creatures/마사오트_원생_생물.md",
+  "wiki_path": "beings/creatures/마사오트_원생_생물.md",
+  "title": "마사오트 원생 생물",
+  "section": "생활과 생태 반응",
+  "summary": "난류젤리, 증기근, 무게포가 선체와 하늘 항로의 열·기류·무게 조건에서 이루는 마사오트 미시 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_004.json",
+  "text": "## 생활과 생태 반응\n\n마사오트 원생 생물은 선체 내부의 열, 기류, 무게 관리를 보여 준다. 난류젤리는 시야와 기류 교란을 만들고, 증기근은 열 누출과 환기 실패를 드러내며, 무게포는 화물 균형과 밸러스트 판단을 흔든다.\n\n이 생태를 다루는 핵심은 건조 분말, 열 관리, 환기, 화물 재배치, 밸러스트 점검이다. 난류젤리는 불길보다 건조 분말에 약하고, 증기근과 무게포는 선체 유지 절차와 함께 움직일 때 항해 생활의 일부로 통제된다.",
+  "metadata": {
+    "char_count": 245,
+    "sha256": "22a829d3446188c80d565498926e6756efa4eb831feda8fcd943fea238bf7001"
+  }
+}

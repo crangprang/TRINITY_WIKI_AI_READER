@@ -1,0 +1,23 @@
+{
+  "id": "doc_6c1b4be6614275d9:000",
+  "document_id": "doc_6c1b4be6614275d9",
+  "path": "wiki/characters/personas/메피스토/index.md",
+  "wiki_path": "characters/personas/메피스토/index.md",
+  "title": "메피스토",
+  "section": "메피스토",
+  "summary": "메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6c1b4be6614275d9_000.json",
+  "text": "# 메피스토\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 메피스토 |\n| 소속/지역 | 자유의 나라 [오아시스](../../../universe/realms/balance/nations/오아시스.md) |\n| 연결된 아포라투스 | 페리아크토이 |\n| 연결된 장치 요소 | 피라미디온 |\n| 표층 인터페이스 | 떠돌이 설화 수집가 / 시스템의 음성 안내 / 세 번째 해답의 목소리 |\n| 심층 주도권 | 영원의 보물, 요술램프 |\n| 왜곡 목적 | 영원으로 이끌어 멸망하지 않는 구원을 실현한다 |\n| 주요 관계 | [파우스트](../../axions/파우스트/index.md), [랄](../../savior_candidates/랄/index.md) |",
+  "metadata": {
+    "char_count": 382,
+    "sha256": "f8e6f43affa399d286c8a7f5cecb24dba99d999812d872e77677fdddd1b9ee19"
+  }
+}

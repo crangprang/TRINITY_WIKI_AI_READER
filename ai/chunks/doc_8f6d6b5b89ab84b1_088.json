@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:088",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] planning | 세계관 DB 보강 범위와 개발 TODO 표면 추가",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_088.json",
+  "text": "## [2026-06-27] planning | 세계관 DB 보강 범위와 개발 TODO 표면 추가\n\n세계관 DB 보강의 실행 계획을 `RUN/TRINITY_WIKI/20260627/worldbuilding_db_reinforcement_plan.md`에 남기고, 사용자 잠금에 WIKI 우선, 세계법칙-아홉 나라-주인공 파티 우선순위, 본편 플롯/에피소드/관계도 보류 원칙을 기록했다.\n\n- 추가: [세계관 개발 TODO](review/worldbuilding_development_todo.md)를 만들어 기존 문서 정리 중 실제 개발이 필요한 내용, 플롯 보류 소재, 원샷 양식 커버리지 감사 항목을 독자용 본문과 분리해 관리한다.\n- 연결: [검토와 결정 요청](review/index.md)에 세계관 개발 TODO 링크를 추가했다.",
+  "metadata": {
+    "char_count": 413,
+    "sha256": "1b37731442d7e5691f3b7433c3cf6b07f691ca40667d19fe0b625daf36496dc2"
+  }
+}

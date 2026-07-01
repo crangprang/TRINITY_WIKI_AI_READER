@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d6946f7add2e5274",
+  "path": "02_LORE/L03_EXPLORER/L03_BRANCH_IDEA.txt",
+  "title": "L03_아르카르타 / BRANCH_IDEA",
+  "summary": "L03_아르카르타 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L03_EXPLORER",
+  "suffix": ".txt",
+  "sha256": "9d5de1096a5e01f5cf12d257408f824e64cdda52c822090538a1321a496ed598",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d6946f7add2e5274.json",
+  "chunks": [
+    {
+      "id": "live_doc_d6946f7add2e5274:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d6946f7add2e5274_000.json",
+      "char_count": 861
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:221",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 우주 진입점과 빈 raw 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_221.json",
+  "text": "## [2026-06-26] maintenance | 우주 진입점과 빈 raw 표면 정리\n\n[삼위일체 우주](universe/structure/삼위일체_우주.md)를 상위 진입점으로 두고 [균형계](universe/realms/balance/index.md)를 독자용 항목으로 정리했다. 원천 자료가 없는 placeholder `raw/README.md`는 삭제했다.\n\n- 정리: [삼위일체 우주](universe/structure/삼위일체_우주.md), [오리진](universe/structure/오리진.md), [세 에너지](universe/laws/세_에너지.md), [하위신](universe/laws/하위신.md), [균형계](universe/realms/balance/index.md)의 진입 경로를 루트 색인에서 연결했다.\n- 문체: 균형계 인덱스의 운영 원칙형 문장을 세계 설명, 아홉 나라, 문화와 언어, 하위 항목, 관련 문서 구조로 바꿨다.\n- 표면: repo에는 실제 보존 원천이 있을 때만 raw 표면을 만들도록 README 설명을 선택 표면으로 조정했다.",
+  "metadata": {
+    "char_count": 549,
+    "sha256": "bc0f29b1de14db30de047c0222e41c39a4470cb4dde36e19433dbc2d9f39b246"
+  }
+}

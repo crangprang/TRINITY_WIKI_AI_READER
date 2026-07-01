@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:112",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 메테우스 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_112.json",
+  "text": "## [2026-06-26] rebuild | 메테우스 항목 정리\n\n[메테우스](characters/savior_candidates/메테우스/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [알렉시아](universe/realms/balance/nations/알렉시아.md)의 소각 업무, 인퀴지터, 판도라의 최초 질문, 엘피스의 유예 구조에 맞췄다.\n\n- 정리: 인퀴지터 집행자, 판도라, 알렉시아의 연결 절단, 엘피스, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [메테우스 외형](characters/savior_candidates/메테우스/support/appearance.md)의 관리 문구와 미완성 support 표면을 제거하고 중후한 인퀴지터 실루엣, 재난 봉인 버너, 봉쇄 현장 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 메테우스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 468,
+    "sha256": "ad144015218b4615153e6ba54f9678cb714c6f7e06aad8ee21d8ed6e3339a8c4"
+  }
+}

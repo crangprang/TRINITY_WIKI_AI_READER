@@ -1,0 +1,23 @@
+{
+  "id": "doc_595fcd72d7fbc726:011",
+  "document_id": "doc_595fcd72d7fbc726",
+  "path": "wiki/characters/axions/제페토/index.md",
+  "wiki_path": "characters/axions/제페토/index.md",
+  "title": "제페토",
+  "section": "관련 문서",
+  "summary": "제페토는 플라센티아의 사냥 규율을 세운 엑시온이자 사냥꾼들의 스승이며, 죽은 아들 카를로를 되살리려는 집착으로 피노키오 계획과 고치 순환을 연 장로다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_011.json",
+  "text": "## 관련 문서\n\n- [엑시온](../index.md) - 보물이 선택한 인간 숙주와 통치 얼굴.\n- [제페토 외형](support/appearance.md) - 사냥 장로와 목각인형 가면이 고치 순환의 집착을 고정하는 외형 항목.\n- [플라센티아](../../../universe/realms/balance/nations/플라센티아.md) - 제페토의 규율과 피노키오 계획이 나라의 순환에 묶인 조화의 나라.\n- [투르키나](../../personas/투르키나/index.md) - 제페토의 부성애와 피노키오 계획을 밀어 넣는 페르소나.\n- [부패의 판타즈마](../../../beings/phantasmas/부패의_판타즈마.md) - 플라센티아의 고치 순환과 면역 반응으로 떠오르는 판타즈마.",
+  "metadata": {
+    "char_count": 389,
+    "sha256": "b2807be2ff77843cb3386d96c592d48ace54273d749ad73db695fe87e0c61f3f"
+  }
+}

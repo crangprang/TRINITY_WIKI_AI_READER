@@ -1,0 +1,136 @@
+{
+  "id": "doc_896599606f3359ce",
+  "path": "wiki/events/singularities/사상누각.md",
+  "wiki_path": "events/singularities/사상누각.md",
+  "title": "사상누각",
+  "summary": "프로젝트 아툼과 시간의 문이 폭주하고, 사막의 자유가 시간 루프로 뒤집히는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "사상누각"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "오만의 판타즈마",
+      "target": "wiki/beings/phantasmas/오만의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "오만의 판타즈마",
+      "target": "wiki/beings/phantasmas/오만의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "a70ccb10baa1202e397b7bece79369ea486e325bec1bc2b76fb770c7a45238c3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_896599606f3359ce.json",
+  "chunks": [
+    {
+      "id": "doc_896599606f3359ce:000",
+      "section": "사상누각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_000.json",
+      "char_count": 181
+    },
+    {
+      "id": "doc_896599606f3359ce:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_001.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_896599606f3359ce:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_002.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_896599606f3359ce:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_003.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_896599606f3359ce:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_004.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_896599606f3359ce:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_005.json",
+      "char_count": 327
+    },
+    {
+      "id": "doc_896599606f3359ce:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_896599606f3359ce_006.json",
+      "char_count": 387
+    }
+  ]
+}

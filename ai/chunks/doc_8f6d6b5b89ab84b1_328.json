@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:328",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 1차 채움",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_328.json",
+  "text": "## [2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 1차 채움\n\n핵심 아홉 나라 문서의 숨김 원샷 슬롯에 기존 WIKI 본문, 정보표, 캐릭터 대응 문서로 확인되는 표면층부터 핵심 질문까지의 값을 1차로 채웠다. `TRINITY_LIVE/02_LORE/L01~L09`와 대조해 이름·장치명 차이는 WIKI 우선으로 두고, 후속 판단이 필요한 차이는 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다.",
+  "metadata": {
+    "char_count": 270,
+    "sha256": "fc5c61bc834c4137f734366d49764b53bc0f6ff4ba0446b6780b2033b83cc12b"
+  }
+}

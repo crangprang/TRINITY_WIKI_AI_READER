@@ -1,0 +1,24 @@
+{
+  "id": "doc_e38cf4f3fc61468f:005",
+  "document_id": "doc_e38cf4f3fc61468f",
+  "path": "wiki/characters/main_party/진/support/music.md",
+  "wiki_path": "characters/main_party/진/support/music.md",
+  "title": "진 음악",
+  "section": "곡 진행",
+  "summary": "진의 워크맨, 빌려 피운 번갯불, 약속, 오늘과 내일, 장르 변주를 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_005.json",
+  "text": "## 곡 진행\n\n도입은 낡은 카세트 소리와 갑작스러운 재생으로 연다. 웃고 떠들던 진의 공기가 식고, 워크맨의 작은 기계음이 장면의 박자를 바꾼다.\n\n벌스는 거리의 해결사 층이다. 빚, 계산서, 비, 길거리, 농담, 빠른 발끝이 먼저 나오고, 보컬은 시끄럽고 거칠게 굴러간다.\n\n프리코러스는 사라와 약속의 층이다. 오늘과 내일, 못 끝낸 정산, 도망쳤다는 기억이 올라오고, 장르는 갑자기 부드러워지거나 차갑게 식을 수 있다.\n\n후렴은 빌려 피운 번갯불의 층이다. 비가 내리고 워크맨이 박자를 밀어붙이며, 진은 또 늦을 것 같은 순간에 자기 몫이 아닌 힘까지 끌어다 쓴다. 선언은 깔끔한 영웅담보다 몸이 먼저 나가는 짧은 문장으로 닫는다.\n\n브리지는 트랙이 진을 견인하는 층이다. 선곡을 기다린 것인지 끌려간 것인지 흐려지고, 고문과 닻이 같은 리듬으로 겹친다. 마지막 후렴은 진이 약속을 저주하면서도 그 리듬 위에서 다시 버티는 결로 돌아온다.",
+  "metadata": {
+    "char_count": 472,
+    "sha256": "28f19b2de6e591aae1bca94015d913c2e5b34fdfa275cc09eaf2f6fbc85ce3fa"
+  }
+}

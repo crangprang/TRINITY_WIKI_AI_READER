@@ -1,0 +1,24 @@
+{
+  "id": "doc_497b84cd0ed3f44a:001",
+  "document_id": "doc_497b84cd0ed3f44a",
+  "path": "wiki/universe/realms/balance/organizations/탐험가_길드.md",
+  "wiki_path": "universe/realms/balance/organizations/탐험가_길드.md",
+  "title": "탐험가 길드",
+  "section": "개요",
+  "summary": "탐험가 길드는 마사오트 기반의 기능조직으로, 의뢰와 보수를 중심으로 탐사, 운반, 구조, 지부 파견을 중개한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_497b84cd0ed3f44a_001.json",
+  "text": "## 개요\n\n탐험가 길드는 마사오트의 항로와 탐험 능력을 대륙 실무로 공급하는 기능조직이다. 본진은 하늘 위 함대국가 마사오트의 생활권에 놓이지만, 길드는 여러 나라의 지부와 의뢰망을 통해 움직인다.\n\n길드는 의뢰와 보수를 중심으로 탐사, 운반, 구조, 위험 지역 안내를 중개한다. 신분보다 현장 실력과 귀환 기록이 먼저 평가되며, 길드 인장은 여권, 보험, 학교, 묘비명 사이의 무게를 가진다.",
+  "metadata": {
+    "char_count": 221,
+    "sha256": "2cfdb7aa9ea5e35ebf158bdb72d280bd5bfe60e647df833738c5c2ea23497258"
+  }
+}

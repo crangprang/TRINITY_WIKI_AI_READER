@@ -1,0 +1,23 @@
+{
+  "id": "doc_67d2ed6c73f5444d:007",
+  "document_id": "doc_67d2ed6c73f5444d",
+  "path": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md",
+  "wiki_path": "characters/savior_candidates/로렌초_카발리에리/index.md",
+  "title": "로렌초 카발리에리",
+  "section": "관련 문서",
+  "summary": "로렌초 카발리에리는 우니오네의 구세주 후보이자 유랑 서커스 단장으로, 꿈과 공연을 빌려 주고 관객을 현실로 돌려보내는 책임을 진다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_007.json",
+  "text": "## 관련 문서\n\n- [구세주 후보](../index.md) - 올림피아에 공표되는 후보명, 가면, 국가 시험의 공통 구조.\n- [로렌초 카발리에리 외형](support/appearance.md) - 유랑 서커스 단장과 낡은 연극적 얼굴 가림이 꿈과 현실 사이의 후보를 고정하는 외형 항목.\n- [우니오네](../../../universe/realms/balance/nations/우니오네.md) - 로렌초가 공연과 초대장으로 드나드는 예술의 나라.\n- [유리디스 도리안 드 발루아](../../axions/유리디스_도리안_드_발루아/index.md) - 꿈의 독성을 알면서도 나라를 장면으로 버티게 하는 우니오네의 여왕.\n- [빈센트](../../personas/빈센트/index.md) - 아름다운 출구로 사람을 꿈에 들이는 페르소나.\n- [모방의 펠시온](../../fellsions/모방의_펠시온/index.md) - 공연과 꿈 유입로가 왜곡될 때 연결되는 위험한 관계선.\n- [진](../../main_party/진/index.md) - 우니오네 꿈과 공연선에 연결되는 주역.",
+  "metadata": {
+    "char_count": 551,
+    "sha256": "43a762a15c33ec0817b411cc08b00ee370fad235285ee811dc538b11daef7878"
+  }
+}

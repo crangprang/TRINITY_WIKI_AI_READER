@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:086",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 세계법칙 판단값과 트리네아드 분리 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_086.json",
+  "text": "## [2026-06-27] structure | 세계법칙 판단값과 트리네아드 분리 반영\n\n세계법칙 심화 질문의 결정값을 [사용자 잠금](review/user_locks.md)에 정리하고, [판단 요청](review/decision_requests/index.md)의 활성 WLAW 큐를 닫았다. [오리진](universe/structure/오리진.md)의 누미노스/역누미노스 정의는 오리진에서 인간으로 향하는 접촉과 인간에서 섭리로 되새겨지는 역방향 새김으로 다시 썼다.\n\n- 분리: [트리네아드](characters/trineads/index.md)는 정의, 기원, 구성, 공통 작동 원리를 소유하도록 줄이고, [자연의 트리네아드](characters/trineads/자연의_트리네아드/index.md), [생명의 트리네아드](characters/trineads/생명의_트리네아드/index.md), [용기의 트리네아드](characters/trineads/용기의_트리네아드/index.md), [절제의 트리네아드](characters/trineads/절제의_트리네아드/index.md), [죽음의 트리네아드](characters/trineads/죽음의_트리네아드/index.md), [공허의 트리네아드](characters/trineads/공허의_트리네아드/index.md)를 개별 항목으로 만들었다.\n- 후속: 세계법칙 문서의 LIVE WC 기반 상세화와 신설 트리네아드 항목의 2차 심화는 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다.",
+  "metadata": {
+    "char_count": 788,
+    "sha256": "f661b6bffa0f33d900564a5b5dae17177a942db3376ac8a0123fe5e17b5133ab"
+  }
+}

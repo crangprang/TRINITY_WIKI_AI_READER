@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:022",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 염한 아곤과 탈리아 장치층 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_022.json",
+  "text": "## [2026-06-28] nation | 염한 아곤과 탈리아 장치층 보강\n\n[염한](universe/realms/balance/nations/염한.md)을 LIVE `L01_STRUGGLE`의 장치층 claim과 사용자 잠금의 염한 정본명 기준에 맞춰 대조했다. LIVE의 시지기/테르프시코레 표기는 WIKI 정본명인 아곤/탈리아 층위로 정규화하고, 헬리오스·셀레네 잔재와 일륜·월륜 기능기관 분리는 유지했다.\n\n아곤의 유시 격돌을 자연재난이자 하루의 노동·장례·통행·비무 일정을 재계산하게 하는 생활 리듬으로 보강했다. 증오, 원한, 패배감, 비교심, 고독이 정책·사랑·장례·오락까지 비무 문법으로 번역되는 압력과, 탈리아의 지반·조석 조율 흔적이 비무·보법·계단 발끝의 시험으로 비틀리는 구조를 정리했다.",
+  "metadata": {
+    "char_count": 398,
+    "sha256": "4adc533cff3fae3d2acf6c0450d4c9453233d518a735469c138f72ab2bd1f76c"
+  }
+}

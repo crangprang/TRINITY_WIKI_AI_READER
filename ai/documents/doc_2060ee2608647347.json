@@ -1,0 +1,446 @@
+{
+  "id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "블랑"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "스푸마토의 왕녀"
+    },
+    {
+      "level": 3,
+      "title": "페티멘토의 봄"
+    },
+    {
+      "level": 3,
+      "title": "꿈의 아틀리에"
+    },
+    {
+      "level": 3,
+      "title": "마고리아의 재구성"
+    },
+    {
+      "level": 2,
+      "title": "세계와 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "아픔에는 이름이 있다"
+    },
+    {
+      "level": 3,
+      "title": "액자만 남은 기억"
+    },
+    {
+      "level": 3,
+      "title": "흰 별명"
+    },
+    {
+      "level": 3,
+      "title": "고통은 끝이 있어야 한다"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "진료가방 든 아가씨"
+    },
+    {
+      "level": 3,
+      "title": "이상을 좇는 의사"
+    },
+    {
+      "level": 3,
+      "title": "해야 하는 일"
+    },
+    {
+      "level": 3,
+      "title": "새장 바깥의 세계"
+    },
+    {
+      "level": 3,
+      "title": "살고 싶은 마음"
+    },
+    {
+      "level": 2,
+      "title": "능력과 재연"
+    },
+    {
+      "level": 3,
+      "title": "섬세"
+    },
+    {
+      "level": 3,
+      "title": "의술과 판단"
+    },
+    {
+      "level": 3,
+      "title": "리볼버와 혈조탄"
+    },
+    {
+      "level": 3,
+      "title": "재연"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "스칼렛"
+    },
+    {
+      "level": 3,
+      "title": "아인"
+    },
+    {
+      "level": 3,
+      "title": "진"
+    },
+    {
+      "level": 3,
+      "title": "옌"
+    },
+    {
+      "level": 3,
+      "title": "길티어"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑 보이스",
+      "target": "wiki/characters/main_party/블랑/support/voice.md"
+    },
+    {
+      "label": "블랑 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "블랑 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "블랑 보이스",
+      "target": "wiki/characters/main_party/블랑/support/voice.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    }
+  ],
+  "sha256": "eb2be01d54c3e8109caf8c7e80c596cca844d1eb2f3dcd7eb7441f71bf389b6e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2060ee2608647347.json",
+  "chunks": [
+    {
+      "id": "doc_2060ee2608647347:000",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_000.json",
+      "char_count": 183
+    },
+    {
+      "id": "doc_2060ee2608647347:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_001.json",
+      "char_count": 585
+    },
+    {
+      "id": "doc_2060ee2608647347:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_2060ee2608647347:003",
+      "section": "스푸마토의 왕녀",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_003.json",
+      "char_count": 342
+    },
+    {
+      "id": "doc_2060ee2608647347:004",
+      "section": "페티멘토의 봄",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_004.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_2060ee2608647347:005",
+      "section": "꿈의 아틀리에",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_005.json",
+      "char_count": 393
+    },
+    {
+      "id": "doc_2060ee2608647347:006",
+      "section": "마고리아의 재구성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_006.json",
+      "char_count": 279
+    },
+    {
+      "id": "doc_2060ee2608647347:007",
+      "section": "세계와 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_007.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_2060ee2608647347:008",
+      "section": "아픔에는 이름이 있다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_008.json",
+      "char_count": 272
+    },
+    {
+      "id": "doc_2060ee2608647347:009",
+      "section": "액자만 남은 기억",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_009.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_2060ee2608647347:010",
+      "section": "흰 별명",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_010.json",
+      "char_count": 143
+    },
+    {
+      "id": "doc_2060ee2608647347:011",
+      "section": "고통은 끝이 있어야 한다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_011.json",
+      "char_count": 276
+    },
+    {
+      "id": "doc_2060ee2608647347:012",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_012.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_2060ee2608647347:013",
+      "section": "진료가방 든 아가씨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_013.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_2060ee2608647347:014",
+      "section": "이상을 좇는 의사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_014.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_2060ee2608647347:015",
+      "section": "해야 하는 일",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_015.json",
+      "char_count": 204
+    },
+    {
+      "id": "doc_2060ee2608647347:016",
+      "section": "새장 바깥의 세계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_016.json",
+      "char_count": 141
+    },
+    {
+      "id": "doc_2060ee2608647347:017",
+      "section": "살고 싶은 마음",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_017.json",
+      "char_count": 137
+    },
+    {
+      "id": "doc_2060ee2608647347:018",
+      "section": "능력과 재연",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_018.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_2060ee2608647347:019",
+      "section": "섬세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_019.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_2060ee2608647347:020",
+      "section": "의술과 판단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_020.json",
+      "char_count": 274
+    },
+    {
+      "id": "doc_2060ee2608647347:021",
+      "section": "리볼버와 혈조탄",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_021.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_2060ee2608647347:022",
+      "section": "재연",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_022.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_2060ee2608647347:023",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_023.json",
+      "char_count": 346
+    },
+    {
+      "id": "doc_2060ee2608647347:024",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_024.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_2060ee2608647347:025",
+      "section": "스칼렛",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_025.json",
+      "char_count": 234
+    },
+    {
+      "id": "doc_2060ee2608647347:026",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_026.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_2060ee2608647347:027",
+      "section": "진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_027.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_2060ee2608647347:028",
+      "section": "옌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_028.json",
+      "char_count": 128
+    },
+    {
+      "id": "doc_2060ee2608647347:029",
+      "section": "길티어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_029.json",
+      "char_count": 113
+    },
+    {
+      "id": "doc_2060ee2608647347:030",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_030.json",
+      "char_count": 159
+    },
+    {
+      "id": "doc_2060ee2608647347:031",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_031.json",
+      "char_count": 720
+    }
+  ]
+}

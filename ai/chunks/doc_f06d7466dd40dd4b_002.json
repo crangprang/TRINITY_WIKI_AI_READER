@@ -1,0 +1,22 @@
+{
+  "id": "doc_f06d7466dd40dd4b:002",
+  "document_id": "doc_f06d7466dd40dd4b",
+  "path": "wiki/events/world_history/index.md",
+  "wiki_path": "events/world_history/index.md",
+  "title": "세계사",
+  "section": "시대 문서",
+  "summary": "세계사는 1시대, 2시대, 3시대 세계사 문서로 이어지는 프리퀄 인과 허브다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "world-history"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f06d7466dd40dd4b_002.json",
+  "text": "## 시대 문서\n\n| 항목 | 범위 | 역할 |\n|---|---|---|\n| [세계사/1시대](1시대_태초에서_에마나치온까지.md) | 아난케 / 끄트머리 우주 / 용과 인간의 시대 / 최초의 삼위 / 에마나치온 | 오리진의 첫 완성, 최초의 삼위 붕괴, 메아리 전쟁의 씨앗을 다룬다. |\n| [세계사/2시대](2시대_아홉_영웅과_칼시네이션.md) | 메아리 전쟁 / 아홉 영웅 / 아홉 아타노르 / 아홉 보물 / 칼시네이션 | 두 번째 구원 시도, 아홉 보물, 저주와 판타즈마의 발생 조건을 다룬다. |\n| [세계사/3시대](3시대_재창조에서_아홉_나라의_시대까지.md) | 삼위일체 우주 재창조 / 지혜와 감독 / 혼돈의 시대 / 대공명 / 삼위정교 / 스트레인저 / 대붕괴 | 재창조 이후 아홉 나라 체제와 본편 직전 질서가 생기는 과정을 다룬다. |\n| [알레인의 동화책](알레인의_동화책.md) | 아홉 영웅의 시대부터 후대 아홉 나라의 오독까지 | 2시대의 사적 이야기와 후대 국가 이름, 빠진 장면의 공백을 잇는다. |",
+  "metadata": {
+    "char_count": 521,
+    "sha256": "bf676a6a52bd0b4039ad7a0c750aff8ae2838c3585963a3f734b3e0a0baab7f9"
+  }
+}

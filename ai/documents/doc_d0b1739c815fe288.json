@@ -1,0 +1,132 @@
+{
+  "id": "doc_d0b1739c815fe288",
+  "path": "wiki/characters/fellsions/기근의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/기근의_펠시온/index.md",
+  "title": "기근의 펠시온",
+  "summary": "기근의 펠시온은 살아 있는 세계를 농장으로 보고 생명력, 에너지, 수분을 반복 수확하는 죽음 군단의 수탈자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "기근의 펠시온"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 2,
+      "title": "이름 낙인과 균형계 침투"
+    },
+    {
+      "level": 2,
+      "title": "신체포식"
+    },
+    {
+      "level": 2,
+      "title": "침식과 수확"
+    },
+    {
+      "level": 2,
+      "title": "농장 건설"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "기근의 펠시온 외형",
+      "target": "wiki/characters/fellsions/기근의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    }
+  ],
+  "sha256": "d1a9ddb9420138a0efb8aba5ddfb559c5523e930c129e1853fecefa8ca67431c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d0b1739c815fe288.json",
+  "chunks": [
+    {
+      "id": "doc_d0b1739c815fe288:000",
+      "section": "기근의 펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_000.json",
+      "char_count": 306
+    },
+    {
+      "id": "doc_d0b1739c815fe288:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_001.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_d0b1739c815fe288:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_002.json",
+      "char_count": 208
+    },
+    {
+      "id": "doc_d0b1739c815fe288:003",
+      "section": "이름 낙인과 균형계 침투",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_003.json",
+      "char_count": 417
+    },
+    {
+      "id": "doc_d0b1739c815fe288:004",
+      "section": "신체포식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_004.json",
+      "char_count": 239
+    },
+    {
+      "id": "doc_d0b1739c815fe288:005",
+      "section": "침식과 수확",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_005.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_d0b1739c815fe288:006",
+      "section": "농장 건설",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_006.json",
+      "char_count": 227
+    },
+    {
+      "id": "doc_d0b1739c815fe288:007",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_007.json",
+      "char_count": 309
+    },
+    {
+      "id": "doc_d0b1739c815fe288:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_008.json",
+      "char_count": 291
+    }
+  ]
+}

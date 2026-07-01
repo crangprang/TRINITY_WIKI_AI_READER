@@ -1,0 +1,81 @@
+{
+  "id": "doc_a9937415fe8842ac",
+  "path": "wiki/characters/trineads/감독/support/appearance.md",
+  "wiki_path": "characters/trineads/감독/support/appearance.md",
+  "title": "감독 외형",
+  "summary": "감독의 알레인 원형, 백안의 공작 가면, 창조계 총책임자의 외형 표지를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:trineads",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "감독 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "원형과 인상"
+    },
+    {
+      "level": 2,
+      "title": "백안의 공작 가면"
+    },
+    {
+      "level": 2,
+      "title": "소품과 자세"
+    }
+  ],
+  "links": [
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    }
+  ],
+  "sha256": "1d0949551f16e99001c4c18a344c5184d350b4e310faed45341a941eaf62a805",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a9937415fe8842ac.json",
+  "chunks": [
+    {
+      "id": "doc_a9937415fe8842ac:000",
+      "section": "감독 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_000.json",
+      "char_count": 78
+    },
+    {
+      "id": "doc_a9937415fe8842ac:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_001.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_a9937415fe8842ac:002",
+      "section": "원형과 인상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_002.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_a9937415fe8842ac:003",
+      "section": "백안의 공작 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_003.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_a9937415fe8842ac:004",
+      "section": "소품과 자세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_004.json",
+      "char_count": 152
+    }
+  ]
+}

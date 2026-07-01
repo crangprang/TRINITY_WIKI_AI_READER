@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_ded91c1948ddf4f5:000",
+  "document_id": "live_doc_ded91c1948ddf4f5",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_FACT_DETAIL.txt",
+  "title": "빈센트 / FACT_DETAIL",
+  "section": "body",
+  "summary": "빈센트 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_ded91c1948ddf4f5_000.json",
+  "text": "빈센트 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER02_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 사이프러스 단검의 꿈 절반은 빈센트의 아틀리에와 엘리자베스의 기억을 통해 남아 있다.\n- 엘리자베스 축에서는 직접 등장보다 리볼버, 치료라는 말, 스칼렛의 악역 연기, 아틀리에 단서 안에 남는 숨은 카메오가 강하다.\n- `재연`이 빈센트 쪽으로 읽힐 때 부활은 수단, 파멸은 복수, 미학은 자신이 옳았다는 장면을 완성하려는 최상위 욕망이다.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 405,
+    "sha256": "5949375f08416082a28e72fa96e0462cdc3c23ef298c3264da5ad4e73c545b59"
+  }
+}

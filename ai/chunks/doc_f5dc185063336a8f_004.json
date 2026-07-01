@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:004",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "무덤을 찾는 망령",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_004.json",
+  "text": "### 무덤을 찾는 망령\n\n살아남은 죄책감과 자격 없음이 전면으로 나오는 층위다. 이 층위의 말은 자신을 몰아세우는 판정문으로 굳는다. 속도는 빨라지지 않고, 더 무겁게 내려앉는다.\n\n질문에 앞서 단정과 허가가 먼저 뜬다. 잘 맞는 결은 `이건 내 죄다`, `내가 선다`, `물러설 자격이 없다`다. 자주 튀는 명사는 `죄`, `자격`, `남겨 둔 자리`, `속죄`, `끝까지`, `이름`이다.",
+  "metadata": {
+    "char_count": 220,
+    "sha256": "5c3877ebc22cae4995b2acf1d38ab5b118baba6a4344884f7774256d393e9c95"
+  }
+}

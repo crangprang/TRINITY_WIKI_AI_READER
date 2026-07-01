@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:137",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 니그리스 알비우스 시트리노 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_137.json",
+  "text": "## [2026-06-26] rebuild | 니그리스 알비우스 시트리노 항목 정리\n\n[니그리스 알비우스 시트리노](characters/ensemble/니그리스_알비우스_시트리노/index.md)의 번호형 대형 본문과 중복 개요를 인물 기사 구조로 정리했다.\n\n- 정리: 정체와 역할, 이름과 시대, 스트레인저와 불지기, 세속 생존 윤리, 내면 구조, 능력과 제약, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 외형: [니그리스 알비우스 시트리노 외형](characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md)의 관리 문구와 중복 항목을 제거하고 계약자 육체, 후드, 재, 불씨 눈빛, 불지기 실루엣 중심으로 다시 세웠다.\n- 색인: 앙상블 색인의 니그리스 알비우스 시트리노 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 424,
+    "sha256": "168df051b8e64e4a8988f5825aa4292291b4ad51af3658adb86e61e3bf75023b"
+  }
+}

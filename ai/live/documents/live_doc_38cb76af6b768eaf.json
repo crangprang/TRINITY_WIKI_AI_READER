@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_38cb76af6b768eaf",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_05_ORGANIZATIONS_AND_POWERS.txt",
+  "title": "5.조직과 세력",
+  "summary": "5.조직과 세력",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "a336e90bc7e5c829131d0c6bbff7e3bd8abc795e35f91f4f800efd1a553a9653",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_38cb76af6b768eaf.json",
+  "chunks": [
+    {
+      "id": "live_doc_38cb76af6b768eaf:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_38cb76af6b768eaf_000.json",
+      "char_count": 8995
+    }
+  ]
+}

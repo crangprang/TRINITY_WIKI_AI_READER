@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:004",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "피라미디온 청사진",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_004.json",
+  "text": "## 피라미디온 청사진\n\n메피스토 주변의 청사진은 건물 설계도와 이야기 구조표를 겸한다. 선은 모래 위에 그려지고, 필요한 장면과 물자와 역할을 다시 출력할 준비를 한다. 의뢰 태그와 점수표는 그 청사진을 생활 행정으로 낮춘다.\n\n배경은 짧은 사막, 물빛 반사, 황금과 흰색의 출력 도시, 피라미디온의 각진 그림자로 처리한다. 장면의 중심은 사막 풍경보다 제안하는 손, 접힌 설계도, 가면, 발밑 연기의 경계에 둔다.",
+  "metadata": {
+    "char_count": 233,
+    "sha256": "677f47b93e9b50fc84b170c8ec8150fed99d100185744da07db13a46491dfc7d"
+  }
+}

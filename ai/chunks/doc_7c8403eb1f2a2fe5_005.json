@@ -1,0 +1,24 @@
+{
+  "id": "doc_7c8403eb1f2a2fe5:005",
+  "document_id": "doc_7c8403eb1f2a2fe5",
+  "path": "wiki/characters/personas/index.md",
+  "wiki_path": "characters/personas/index.md",
+  "title": "페르소나",
+  "section": "엑시온과 신앙",
+  "summary": "페르소나는 아홉 아타노르 잔재, 보물, 프로토타입 필로시온이 합성되어 태어난 장치 심층 관리자 의식이자 표층 대변자 인격이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "personas",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_005.json",
+  "text": "## 엑시온과 신앙\n\n페르소나는 [엑시온](../axions/index.md)과 같은 나라를 사이에 두고 긴장한다. 엑시온은 보물과 왕권을 통해 권능을 호출하고, 페르소나는 아포라투스 제어핵과 장치 심층 논리로 나라의 지속을 붙든다.\n\n신앙의 응답권도 페르소나의 표층에서 흔들린다. 신은 멀거나 침묵하고, 페르소나는 눈앞의 응답처럼 말을 건다. 이 점에서 페르소나는 신앙의 응답권을 가로챈 가짜 안내자다.\n\n페르소나는 사람의 감정을 부정하지 않는다. 고통, 죄책감, 질문, 그리움이 실제라고 인정한 뒤, 그 감정의 출구를 아포라투스로 연결한다. 그래서 응답은 구원처럼 들리지만, 실제 기능은 질문을 끝내고 장치가 허용한 답으로 사람을 묶는 데 있다.",
+  "metadata": {
+    "char_count": 363,
+    "sha256": "49f9b84b708d92f8f470f614594a315b8c91a68574f47976c3fc9d23edb42cc2"
+  }
+}

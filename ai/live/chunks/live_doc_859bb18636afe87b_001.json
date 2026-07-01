@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_859bb18636afe87b:001",
+  "document_id": "live_doc_859bb18636afe87b",
+  "path": "03_WORLD/04_CREATURE/00_CREATURE_README.txt",
+  "title": "04_CREATURE",
+  "section": "Live Surface",
+  "summary": "`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_001.json",
+  "text": "## Live Surface\n\n- Country creature packages use the same country order as `02_LORE`, but with `C00` to `C10`.\n- Each country package has `01_NONSAPI/` for non-sapient life and `02_FANTASMA/` for phantasma.\n- `00_WC_LIFE_CLASSIFICATION.txt` is the route map and operating rule for this branch.\n- `99_NINE_DRAGONS` keeps the nine dragon phantasma dossiers together as the shared 4급 exception.",
+  "metadata": {
+    "char_count": 391,
+    "sha256": "84cffdacd57b1a688a2b60b7f729b35c2beb9ec2529d6e3189a3499afdd30d63"
+  }
+}

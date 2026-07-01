@@ -1,0 +1,22 @@
+{
+  "id": "doc_d6a2c0f1a14f3640:003",
+  "document_id": "doc_d6a2c0f1a14f3640",
+  "path": "wiki/beings/creatures/index.md",
+  "wiki_path": "beings/creatures/index.md",
+  "title": "하급 생물",
+  "section": "작동 방식",
+  "summary": "하급 생물은 아홉 나라의 자연, 도시, 생활 환경이 낳은 원생 생물, 생활 생물, 직접 위협 생물이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "creatures"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_003.json",
+  "text": "## 작동 방식\n\n하급 생물의 작동은 먹이망, 서식 조건, 장치 출력의 결합으로 열린다. 빛을 먹는 균막, 금속에 붙는 젤, 종이를 갉는 벌레, 수로에 사는 해면, 구름길을 따라 움직이는 조류는 각 나라의 환경을 생물의 습성으로 바꾼다.\n\n장치 주변 생태는 국가의 병든 출력을 작은 몸으로 보여 준다. 전력망, 우편 항로, 서가 냉광, 숲의 고치와 사냥 흔적은 생물의 먹이와 길이 되며, 그 길이 비틀릴 때 주민은 장치 변질과 판타즈마 전조를 함께 감지한다.",
+  "metadata": {
+    "char_count": 256,
+    "sha256": "157f8b4ca62ed8930eabea8ab52f55807a38c4239512e5dfe461e4d8d21eefd1"
+  }
+}

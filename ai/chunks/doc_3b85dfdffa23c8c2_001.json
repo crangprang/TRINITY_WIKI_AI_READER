@@ -1,0 +1,24 @@
+{
+  "id": "doc_3b85dfdffa23c8c2:001",
+  "document_id": "doc_3b85dfdffa23c8c2",
+  "path": "wiki/characters/personas/빈센트/support/appearance.md",
+  "wiki_path": "characters/personas/빈센트/support/appearance.md",
+  "title": "빈센트 외형",
+  "section": "외형 기준",
+  "summary": "빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 30대 후반 |\n| 실루엣 | 유럽 신사, 조각가, 악몽이 겹친다. 모자와 액자 프레임 가면, 프레임 안의 웃는 기괴한 얼굴이 첫 인상을 잡는다. |\n| 의상 | 유럽식 신사복과 모자. 모자 그림자가 액자 프레임 안 얼굴을 평소에 부분적으로 가린다. |\n| 가면 | 액자/프레임 가면. 액자 프레임 안에는 웃고 있는 기괴한 얼굴이 있다. 민낯은 보이지 않고, 평소에는 모자 그림자에 가려진다. |\n| 소품 | 조각 도구, 작은 끌, 스케치, 카메오 브로치 가면, 아틀리에 단서 |\n| 배경 | 극장 조명, 아틀리에, 살롱, 가스등 운하, 붉은 수면의 우아한 반사 |\n| 표정/자세 | 다정한 위험과 측정하는 손. 표정은 액자 프레임 안의 기괴한 얼굴과 모자 그림자에서 읽힌다. |",
+  "metadata": {
+    "char_count": 438,
+    "sha256": "e9ed2ccb5eed8369491834cb3ced5f573b5234b9819b1447ff35f226ba452d39"
+  }
+}

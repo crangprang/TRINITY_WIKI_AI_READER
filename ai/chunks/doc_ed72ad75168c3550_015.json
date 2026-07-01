@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:015",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "후퇴",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_015.json",
+  "text": "### 후퇴\n\n후퇴 때 말은 거의 없다. 뒤처지거나 주저앉지 않고 조용히 따라붙으며, 꼭 필요한 말만 짧게 낸다.",
+  "metadata": {
+    "char_count": 63,
+    "sha256": "bceebb2ac7b8229a8464c9e6d08de417e5906be17d100bba81275742a1cc1bb6"
+  }
+}

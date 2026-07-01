@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:017",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "플롯과 에피소드 보류",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_017.json",
+  "text": "### 플롯과 에피소드 보류\n\n본편 1부 이후 플롯, 에피소드, 관계도 소재는 사용자 지시 전까지 독자용 문서에 확장하지 않는다. 단, 사용자가 승인한 2부·3부 큰 줄거리 문서는 거대 윤곽만 유지한다. EP01~02는 현재 WIKI의 최소 샘플로 남기고, 새 에피소드 구조화 작업은 보류한다.\n\n- 아홉 영웅 시대의 메아리 전쟁 종결 방식, 세 오리진 조각 회수 과정, 아홉 아타노르 건설 장면의 세부, 불지피기 의식 당일의 세부 장면.\n- 염한의 역사 사건명 세부(`첫번째 비무`, `두번째 비무`, `천혈비무` 등).",
+  "metadata": {
+    "char_count": 292,
+    "sha256": "824ecae35e8e972ac55d3b7026e19cdb3ecd646e015612b747461f3fb02d09ee"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:313",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 외형 support 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_313.json",
+  "text": "## [2026-06-26] style | 외형 support 표면 정리\n\n캐릭터 외형 support 문서의 공통 정보표 머리말에서 `기준/방향`을 제거하고 `내용`으로 정리했다. [오아시스](universe/realms/balance/nations/오아시스.md)의 `두아트 노동과 메피스토의 운영 감각` 제목도 `두아트 노동과 메피스토의 약속`으로 바꿔, 제작·운영 표면보다 세계 내부 관계가 먼저 보이게 했다.\n\n[삼위일체 우주](universe/structure/삼위일체_우주.md), [세 에너지](universe/laws/세_에너지.md), [하위신](universe/laws/하위신.md)의 `TRINITY`, `작중 적용`, `서사 기능`, `개인 보스전` 표면도 세계 내부 제목과 문장으로 고쳤다.\n\n[오리진](universe/structure/오리진.md)의 `작중 적용`, [올림피아](universe/realms/balance/nations/올림피아.md)의 `서사적 기능`, 아홉 나라 문서의 `인용 앵커`와 `시각 앵커` 제목을 상징 문장과 시각 장면 중심으로 정리했다. 대문 문장도 `지원층` 대신 외형, 말투, 음악 항목으로 읽히게 고쳤다.\n\n[단테 음악](characters/main_party/단테/support/music.md), [아인 음악](characters/main_party/아인/support/music.md), [미노스 외형](characters/personas/미노스/support/appearance.md)에 남은 `앵커` 표현도 가사 모티프와 시각 중심으로 낮췄다.\n\n[엘리자베스](characters/main_party/엘리자베스/index.md)의 `자기서사` 제목과 본문 표현은 `자기 이해`로 바꿔 외부 분석어보다 인물 내부 인식이 먼저 보이게 했다.\n\n[블랑](characters/main_party/블랑/index.md)과 [블랑 말투](characters/main_party/블랑/support/voice.md)에 남은 `자기서사` 표현도 `자기 이해`로 맞췄다.",
+  "metadata": {
+    "char_count": 1023,
+    "sha256": "c4df2379910a0955c88208df710704c987414e70024589b349b01cd752996147"
+  }
+}

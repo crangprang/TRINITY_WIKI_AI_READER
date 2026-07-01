@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:180",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | character support type/order 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_180.json",
+  "text": "## [2026-06-26] maintenance | character support type/order 정리\n\n캐릭터 support 파일의 메타와 표시 순서를 통일하고, 외형 프롬프트 패킷을 외형 support 안으로 흡수했다.\n\n- 메타: 캐릭터 support 파일은 `type: character_support`와 `support_kind`를 사용한다.\n- 표시: WIKI 앱은 `appearance`, `music`, `speech`, 기타 순서로 support를 표시한다.\n- 흡수: 블랑/스칼렛의 standalone `support/prompts.md`는 각 `support/appearance.md`의 `생성 프롬프트 운용` 섹션으로 이동했다.",
+  "metadata": {
+    "char_count": 367,
+    "sha256": "0af9acd54ad0be04fcf38e502293e4443ddf8aca642e877f0c978844a8c96d73"
+  }
+}

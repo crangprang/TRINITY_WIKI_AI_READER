@@ -1,0 +1,23 @@
+{
+  "id": "doc_a07b6c7f699e9532:005",
+  "document_id": "doc_a07b6c7f699e9532",
+  "path": "wiki/beings/creatures/마사오트_원생_생물.md",
+  "wiki_path": "beings/creatures/마사오트_원생_생물.md",
+  "title": "마사오트 원생 생물",
+  "section": "관련 문서",
+  "summary": "난류젤리, 증기근, 무게포가 선체와 하늘 항로의 열·기류·무게 조건에서 이루는 마사오트 미시 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a07b6c7f699e9532_005.json",
+  "text": "## 관련 문서\n\n- [마사오트](../../universe/realms/balance/nations/마사오트.md) - 열, 기류, 무게 조건이 원생 생물군을 만드는 탐험의 나라.\n- [운명의 판타즈마](../phantasmas/운명의_판타즈마.md) - 마사오트 항로 전체를 압박하는 폭풍 계열 대형 판타즈마.",
+  "metadata": {
+    "char_count": 175,
+    "sha256": "27e4609d487578a65b3fc7320823b31c32fb89ff7e1b6623b4147ec92798c7a4"
+  }
+}

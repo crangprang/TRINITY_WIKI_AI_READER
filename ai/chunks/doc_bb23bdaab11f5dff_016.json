@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:016",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "더러운 선택",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_016.json",
+  "text": "### 더러운 선택\n\n누군가의 손이 더러워질 장면에서 단테는 먼저 움직인다. 이때 그는 고상한 희생을 말하지 않는다. `내가 한다`, `눈 돌려`, `끝나고 욕해`처럼 짧게 정리하고, 이유는 뒤로 미룬다.",
+  "metadata": {
+    "char_count": 114,
+    "sha256": "7ee6afc18380a0128ef18581fda2fc72666ddf769eccfc0fd35cc57034297c22"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:003",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "지하의 책과 루시아",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_003.json",
+  "text": "### 지하의 책과 루시아\n\n단테는 정의의 나라 지하 프라우돌렌티에서 자랐다. 지하에 버려진 책 `별을 쫓는 기사`는 그에게 기사라는 꿈을 처음 심었다. 단테와 루시아는 언젠가 지상의 별을 함께 보겠다는 약속을 품었고, 그 약속은 지하의 생활을 견디게 하는 희미한 방향이 되었다.\n\n기사 지망생이 되었다는 소식은 질투와 밀고를 타고 퍼졌다. 그 소식은 단테의 꿈을 흔들고 루시아까지 재판의 자리로 끌어냈다. 단테에게 별은 그때부터 루시아의 이름, 기사라는 꿈, 지상으로 향하던 약속을 함께 묶는 말이 되었다.",
+  "metadata": {
+    "char_count": 284,
+    "sha256": "be269694c896071a221fb1ec634d363e959afd9a20b9021d50a24cdc9362e4f9"
+  }
+}

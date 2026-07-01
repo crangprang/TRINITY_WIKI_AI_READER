@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:027",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "말투와 장면 역할",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_027.json",
+  "text": "## 말투와 장면 역할\n\n진의 기본 발화는 빠르고 시끄러운 현장 해결사다. 농담, 태클, 짜증, 감탄이 한 문장 안에서 같이 튀고, 불안할수록 별명과 계산 이야기가 늘어난다. 위험이 진짜로 깊어지면 말이 줄고 몸이 먼저 나간다.\n\n말투의 세부 기준과 발화 샘플은 [진 보이스](support/voice.md)에서 다룬다.",
+  "metadata": {
+    "char_count": 179,
+    "sha256": "b26c391e7fdd1eaa8dfb76d06d1de6d95433a051528c9efc43d3f9f958e6f887"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_3959b6f64a3562f5:008",
+  "document_id": "doc_3959b6f64a3562f5",
+  "path": "wiki/characters/personas/에어리얼/index.md",
+  "wiki_path": "characters/personas/에어리얼/index.md",
+  "title": "에어리얼",
+  "section": "말투와 태도",
+  "summary": "에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_008.json",
+  "text": "## 말투와 태도\n\n에어리얼의 말투는 낮고 맑다. 그녀는 큰 선언보다 항로, 바람, 편지, 폭풍의 징후를 짧게 말한다. 브리지의 조언자는 감정 대신 방향을 먼저 제시하고, 그 방향이 가진 대가까지 함께 들려준다.\n\n그녀는 도피를 모험으로 부르는 사람, 복수를 구조로 포장하는 사람, 다음 세대의 이름을 핑계로 항로를 바꾸는 사람을 잘 읽는다. 미전달 편지와 벤트리스의 소리 앞에서는 안내자의 평온이 가장 차갑게 남는다.",
+  "metadata": {
+    "char_count": 234,
+    "sha256": "f28875251ce8757bddc93eb75a7e837f3f6c2040f048c364ff8251bdba3f18b0"
+  }
+}

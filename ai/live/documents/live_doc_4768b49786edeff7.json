@@ -1,0 +1,31 @@
+{
+  "id": "live_doc_4768b49786edeff7",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/README.md",
+  "title": "04_FELLSION",
+  "summary": "이 폴더의 `FS##_*.txt` 파일은 현재 live single-file surface다.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".md",
+  "sha256": "d7e2c8986e3870171beee1173d608e234b317c6cd25068be1d18e7fa89b36fb6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_4768b49786edeff7.json",
+  "chunks": [
+    {
+      "id": "live_doc_4768b49786edeff7:000",
+      "section": "04_FELLSION",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4768b49786edeff7_000.json",
+      "char_count": 67
+    },
+    {
+      "id": "live_doc_4768b49786edeff7:001",
+      "section": "Current State",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4768b49786edeff7_001.json",
+      "char_count": 160
+    },
+    {
+      "id": "live_doc_4768b49786edeff7:002",
+      "section": "Use Rule",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4768b49786edeff7_002.json",
+      "char_count": 311
+    }
+  ]
+}

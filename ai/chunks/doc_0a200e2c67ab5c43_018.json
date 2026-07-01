@@ -1,0 +1,23 @@
+{
+  "id": "doc_0a200e2c67ab5c43:018",
+  "document_id": "doc_0a200e2c67ab5c43",
+  "path": "wiki/universe/realms/balance/nations/오르딜리아.md",
+  "wiki_path": "universe/realms/balance/nations/오르딜리아.md",
+  "title": "오르딜리아",
+  "section": "아웃로",
+  "summary": "오르딜리아는 얼음 돔 아래에서 반지와 고백, 결투 재판, 자기감시로 질서를 세우는 정의의 나라다. 낙원 1과 푸르가토리오 7탑, 코큐토스의 얼음 판정핵, 프라우돌렌티 8노선이 위와 아래를 정반처럼 맞물리고, 시민은 정의를 말하기 전에 먼저 스스로를 절제하고 감시하도록 배운다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_018.json",
+  "text": "### 아웃로\n\n[아웃로](../organizations/아웃로.md)는 오르딜리아의 법과 공식 운송망이 닿지 않는 곳에서 사람과 짐, 정보와 비공식 구난을 옮기는 기능조직이다. 하층의 선로, 증기 인프라, 검문선의 사각, 중앙 기록이 놓친 지하 길을 이어 공식 통행권 밖의 이동을 맡는다.\n\n아웃로는 오르딜리아가 완벽한 정의 국가로 보이기 위해 밀어낸 하층을 다시 드러낸다. 이 조직의 물류는 곧 정보이며, 누가 어디로 도망쳤는지, 어느 검문이 비었는지, 어떤 위조 신분이 통하는지를 아는 사람이 하층의 길을 쥔다.",
+  "metadata": {
+    "char_count": 289,
+    "sha256": "595120ef4264c7151c78e6a2a318435449c8fc7ad72b9e68dd80ac4341c28a52"
+  }
+}

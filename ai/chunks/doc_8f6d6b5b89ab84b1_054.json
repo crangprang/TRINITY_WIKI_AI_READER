@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:054",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 트리네아드 외형 support 분리 검토",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_054.json",
+  "text": "## [2026-06-28] review | 트리네아드 외형 support 분리 검토\n\n자연, 생명, 용기, 절제, 죽음, 공허의 트리네아드 문서에서 외형 support 분리 필요성을 점검했다. 자연·생명은 `외형과 표지` 문단이 역할 해석과 장면감에 붙어 있어 본문에 유지하고, 용기·절제·죽음·공허는 `외형 표지` 수준이라 별도 support를 만들지 않았다.\n\n추후 원형, 색채, 의상, 가면 세부처럼 독립 외형 claim이 충분히 쌓이면 각 캐릭터 패키지의 `support/appearance.md`가 소유한다.",
+  "metadata": {
+    "char_count": 290,
+    "sha256": "0f9888085697002b3a4175b66cf0bd241cbb4b19ad9d32e297519db92873c0db"
+  }
+}

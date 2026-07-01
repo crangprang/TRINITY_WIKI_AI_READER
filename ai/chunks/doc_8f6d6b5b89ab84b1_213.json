@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:213",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-24] maintenance | live mirror / raw snapshot 구조 제거",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_213.json",
+  "text": "## [2026-06-24] maintenance | live mirror / raw snapshot 구조 제거\n\n정본 흡수 완료 후 운영 기준을 WIKI-first 수동 수정 방식으로 정리하고, 역할이 끝난 LIVE CANON 미러와 raw snapshot 구조를 제거했다.\n\n- 제거: `wiki/live_canon/`, `raw/live_canon_snapshots/`, `tools/ingest_live_canon.py`\n- 정리: 과거 mirror 링크를 `absorbed-live-canon:<relative-path>` 출처 기록으로 전환했다.\n- 계약: 상세 외형 잠금과 음악 장르/스타일/악기/키워드는 WIKI-only로 유지하고, 사용자의 명시 지시 없이 `TRINITY_LIVE`로 승격하지 않는다.",
+  "metadata": {
+    "char_count": 402,
+    "sha256": "da69f3223cefd7d9cec6c08c9b43b84b37f17e36a49fca8dd0aebc33705ca843"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "doc_af874f21279d1aca",
+  "path": "wiki/characters/axions/마이더스/support/appearance.md",
+  "wiki_path": "characters/axions/마이더스/support/appearance.md",
+  "title": "마이더스 외형",
+  "summary": "마이더스의 50대 건장한 수트 실루엣, 금색 눈, 금이 간 황금 사자 신용 가면, 황금 의수와 계약 소품을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마이더스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "회장 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "황금 사자 신용 가면"
+    },
+    {
+      "level": 2,
+      "title": "황금 의수와 소품"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    }
+  ],
+  "sha256": "a94d55e827d10c71ce40de5faa88a9ead5fc17abed224d4d39b9b2952939ca9f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_af874f21279d1aca.json",
+  "chunks": [
+    {
+      "id": "doc_af874f21279d1aca:000",
+      "section": "마이더스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_000.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_af874f21279d1aca:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_001.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_af874f21279d1aca:002",
+      "section": "회장 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_002.json",
+      "char_count": 169
+    },
+    {
+      "id": "doc_af874f21279d1aca:003",
+      "section": "황금 사자 신용 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_003.json",
+      "char_count": 167
+    },
+    {
+      "id": "doc_af874f21279d1aca:004",
+      "section": "황금 의수와 소품",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_004.json",
+      "char_count": 173
+    },
+    {
+      "id": "doc_af874f21279d1aca:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_005.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_af874f21279d1aca:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_006.json",
+      "char_count": 88
+    }
+  ]
+}

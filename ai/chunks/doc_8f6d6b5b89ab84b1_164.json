@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:164",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rename | 아홉 나라의 시대 경로 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_164.json",
+  "text": "## [2026-06-26] rename | 아홉 나라의 시대 경로 정리\n\n비위키식 `part1_nine_nations_era` 경로와 `전체 서사 요약` 항목을 `삼위의 군상/1부/아홉 나라의 시대/줄거리` 구조로 정리했다.\n\n- 이동: `wiki/events/part1_nine_nations_era/`를 `wiki/events/삼위의_군상/1부/아홉_나라의_시대/`로 옮겼다.\n- 이름: `전체_서사_요약.md`는 `줄거리.md`, `백색_폐허와_유령_의뢰_2.md`는 `백색_폐허와_유령_의뢰.md`로 정리했다.\n- 연결: 사건 색인과 루트 색인은 새 표시 경로를 직접 가리키고, 기존 경로는 alias로 새 항목에 도달하게 했다.",
+  "metadata": {
+    "char_count": 357,
+    "sha256": "4d67a994c713884bdf344ce1a7416a0df99e7d9ea96a9fd89ea50f9699fe8908"
+  }
+}

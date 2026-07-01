@@ -1,0 +1,154 @@
+{
+  "id": "doc_2f364c42326b48d4",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md",
+  "title": "백색 폐허와 유령 의뢰",
+  "summary": "각기 다른 유령 의뢰를 받은 세 그룹이 백색 폐허의 지하 의식장에서 처음 충돌하고, 리그레드의 제지와 거래를 거쳐 임시 공조의 최소 조건을 얻는 시작 에피소드.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-26",
+  "category": "events:삼위의_군상",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "백색 폐허와 유령 의뢰"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "단서와 오인"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    }
+  ],
+  "sha256": "2fd85fd60a4453ec0d00937b4186bb16eca9126ae2f850275ca678cef19224cf",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2f364c42326b48d4.json",
+  "chunks": [
+    {
+      "id": "doc_2f364c42326b48d4:000",
+      "section": "백색 폐허와 유령 의뢰",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_000.json",
+      "char_count": 318
+    },
+    {
+      "id": "doc_2f364c42326b48d4:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_001.json",
+      "char_count": 160
+    },
+    {
+      "id": "doc_2f364c42326b48d4:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_002.json",
+      "char_count": 284
+    },
+    {
+      "id": "doc_2f364c42326b48d4:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_003.json",
+      "char_count": 793
+    },
+    {
+      "id": "doc_2f364c42326b48d4:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_004.json",
+      "char_count": 209
+    },
+    {
+      "id": "doc_2f364c42326b48d4:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_005.json",
+      "char_count": 261
+    },
+    {
+      "id": "doc_2f364c42326b48d4:006",
+      "section": "단서와 오인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_006.json",
+      "char_count": 454
+    },
+    {
+      "id": "doc_2f364c42326b48d4:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2f364c42326b48d4_007.json",
+      "char_count": 960
+    }
+  ]
+}

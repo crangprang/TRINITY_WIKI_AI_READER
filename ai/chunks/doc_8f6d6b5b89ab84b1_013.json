@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:013",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 우니오네 언어권과 유랑 서커스 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_013.json",
+  "text": "## [2026-06-28] nation | 우니오네 언어권과 유랑 서커스 보강\n\n[우니오네](universe/realms/balance/nations/우니오네.md)를 LIVE `L02_ART`, [균형계 언어](universe/realms/balance/language/index.md), [아홉 나라의 시대](events/삼위의_군상/1부/아홉_나라의_시대/index.md), [유랑 서커스](universe/realms/balance/organizations/유랑_서커스.md), [모방의 펠시온](characters/fellsions/모방의_펠시온/index.md)과 대조했다. 언어권은 이탈리아어/프랑스어 계열과 공연·사교 언어로 보강하고, 국가 엔진은 용기 미덕과 창조성 초심을 연결했다.\n\n기능조직은 유랑 서커스로 연결하고 로렌초의 단장 위치를 국가 조직층에 붙였다. 캘리번의 탐험가 길드 우니오네 지부는 마사오트식 외부 중개 거점으로 정리했고, 모방의 펠시온은 우니오네의 꿈과 공연 유입로를 기술 수업장과 실종 사건으로 바꾸는 대응 펠시온으로 연결했다. 염한 외 2핵심기관+1제어기관 확정은 보류 유지하고, 마고리아 내부 장치 계층은 새 본문값으로 만들지 않았다.",
+  "metadata": {
+    "char_count": 604,
+    "sha256": "38e3c4d6b9121d2f7d921a5537c6f3f2c67e75fcdc91b07bb5b3d7512929035b"
+  }
+}

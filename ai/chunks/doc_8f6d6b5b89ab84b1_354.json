@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:354",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 세계사 1/2/3시대 분할 상세화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_354.json",
+  "text": "## [2026-06-29] worldhistory | 세계사 1/2/3시대 분할 상세화\n\n[세계사](events/world_history/index.md)를 시대별 라우팅 허브로 낮추고 [세계사/1시대](events/world_history/1시대_태초에서_에마나치온까지.md), [세계사/2시대](events/world_history/2시대_아홉_영웅과_칼시네이션.md), [세계사/3시대](events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md)를 신설했다. 1시대에는 아난케의 장력 딜레마, 세계수, 용왕 분열, 최초의 삼위, 에마나치온을 확장했고, 2시대에는 메아리 전쟁, 아홉 영웅, 아타노르, 아홉 보물, 칼시네이션과 저주·판타즈마 조건을 확장했다. 3시대에는 삼위일체 우주 재창조, 지혜의 창조주 참칭, 감독의 타락, 창조계 침공, 혼돈의 시대, 두 문, 파괴계 생존전쟁, 대공명, 삼위정교, 퍼시스 사건, 스트레인저, 대붕괴를 상세화했다.",
+  "metadata": {
+    "char_count": 493,
+    "sha256": "8480f12d8901b4e43209e2149801876f0988117fbc04f239b882606c4b442ea5"
+  }
+}

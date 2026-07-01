@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:000",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "길티어 보이스",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_000.json",
+  "text": "# 길티어 보이스\n\n길티어 보이스는 [길티어](../index.md)의 현장 사냥꾼성과 보호자성을 말투로 다루는 항목이다. 층위별 발화, 관계별 호칭, 위기 상황의 짧은 지시가 길티어의 보호와 경계를 드러낸다.",
+  "metadata": {
+    "char_count": 117,
+    "sha256": "dedd958ef20a24c4fbd59fb88447d76f1b692c79eb57772ca5a0771786ff34af"
+  }
+}

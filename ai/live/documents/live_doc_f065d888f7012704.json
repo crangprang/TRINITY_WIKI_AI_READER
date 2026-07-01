@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f065d888f7012704",
+  "path": "03_WORLD/04_CREATURE/C04_TRADE/01_NONSAPI/04_PROTIST/C04_PROTIST_BRANCH_IDEA.txt",
+  "title": "C04_TRADE / PROTIST_BRANCH_IDEA",
+  "summary": "C04_TRADE / PROTIST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "2986fb97cb22a8d8a526480f02d62d0fae2ce4c39b43e49458979ee50478799d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f065d888f7012704.json",
+  "chunks": [
+    {
+      "id": "live_doc_f065d888f7012704:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f065d888f7012704_000.json",
+      "char_count": 439
+    }
+  ]
+}

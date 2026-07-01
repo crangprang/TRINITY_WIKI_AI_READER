@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:108",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 미노스 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_108.json",
+  "text": "## [2026-06-26] rebuild | 미노스 항목 정리\n\n[미노스](characters/personas/미노스/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [오르딜리아](universe/realms/balance/nations/오르딜리아.md)의 페리페테이아, 파놉티콘, 마스터 링, 마텔다의 공포 기반 정의 구조에 맞췄다.\n\n- 정리: 방랑자의 귀환, 재판 연출자, 파놉티콘과 스노우볼, 마텔다, 단테에게 남기는 질문, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [미노스 외형](characters/personas/미노스/support/appearance.md)의 관리 문구와 앵커 목록 표면을 제거하고 제복 판관, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 미노스 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 480,
+    "sha256": "12b6410fb55236eee87e047517c50faacc5194777c1bafe34d3169dcc73ab6dd"
+  }
+}

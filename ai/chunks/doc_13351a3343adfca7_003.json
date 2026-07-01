@@ -1,0 +1,24 @@
+{
+  "id": "doc_13351a3343adfca7:003",
+  "document_id": "doc_13351a3343adfca7",
+  "path": "wiki/characters/personas/미노스/support/appearance.md",
+  "wiki_path": "characters/personas/미노스/support/appearance.md",
+  "title": "미노스 외형",
+  "section": "황소와 판관 가면",
+  "summary": "미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_003.json",
+  "text": "## 황소와 판관 가면\n\n가면은 미궁의 황소와 판관을 겹친다. 황소의 형상은 미궁, 추적, 빠져나갈 수 없는 통로를 부르고, 판관의 형상은 재판장과 판결을 부른다. 두 형상이 함께 있을 때 미노스는 오르딜리아 전체를 하나의 미궁 법정으로 만든다.\n\n가면의 표면에는 시민의 시선, 반지 기록, 고백, 통행 규칙이 모두 붙는다. 괴물성은 미노스의 미궁성을 보조하고, 판관성과 파놉티콘이 장면의 중심을 잡는다.",
+  "metadata": {
+    "char_count": 226,
+    "sha256": "0fa434d7e3d573dd4611a01231413a70bd986278bcb980a1b043e3c1e8cfe9a5"
+  }
+}

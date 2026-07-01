@@ -1,0 +1,43 @@
+{
+  "id": "live_doc_2ae5e680b05faa3b",
+  "path": "04_MAIN_CHARACTER/README.md",
+  "title": "04_MAIN_CHARACTER",
+  "summary": "`04_MAIN_CHARACTER` is the live character surface.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:README.md",
+  "suffix": ".md",
+  "sha256": "0cd565ac790aa2a8eb4b6edb1e94c17b69a6379d3e3167d5b3414d0de0f048bc",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2ae5e680b05faa3b.json",
+  "chunks": [
+    {
+      "id": "live_doc_2ae5e680b05faa3b:000",
+      "section": "04_MAIN_CHARACTER",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_000.json",
+      "char_count": 71
+    },
+    {
+      "id": "live_doc_2ae5e680b05faa3b:001",
+      "section": "Live Contract",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_001.json",
+      "char_count": 3139
+    },
+    {
+      "id": "live_doc_2ae5e680b05faa3b:002",
+      "section": "Read Order",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_002.json",
+      "char_count": 516
+    },
+    {
+      "id": "live_doc_2ae5e680b05faa3b:003",
+      "section": "Writing Rule",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_003.json",
+      "char_count": 1002
+    },
+    {
+      "id": "live_doc_2ae5e680b05faa3b:004",
+      "section": "Promotion Rule",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_004.json",
+      "char_count": 804
+    }
+  ]
+}

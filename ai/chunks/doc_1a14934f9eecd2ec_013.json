@@ -1,0 +1,23 @@
+{
+  "id": "doc_1a14934f9eecd2ec:013",
+  "document_id": "doc_1a14934f9eecd2ec",
+  "path": "wiki/universe/realms/balance/culture/index.md",
+  "wiki_path": "universe/realms/balance/culture/index.md",
+  "title": "균형계 문화",
+  "section": "관련 문서",
+  "summary": "균형계에서 이름, 공적 가면, 이름 맹세, 모닥불 유예, 죽은 자의 잔불, 금기와 통행이 사회적 역할과 의례로 작동하는 방식.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "culture"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1a14934f9eecd2ec_013.json",
+  "text": "## 관련 문서\n\n- [균형계](../index.md) - 이름, 가면, 금기가 생활 질서로 작동하는 중심 세계.\n- [균형계 언어](../language/index.md) - 언어권, 명명 방식, 아포라투스와 기관명의 이름 체계.\n- [아홉 나라](../nations/index.md) - 나라별 문화 변형이 놓이는 국가 질서.\n- [올림피아](../nations/올림피아.md) - 공개 무대와 공적 가면 문화의 중심지.\n- [세 에너지](../../../laws/세_에너지.md) - 이름, 잔불, 저주, 비술이 현실 압력으로 작동하는 상위 법칙.\n- [저주](../../../laws/저주.md) - 이름 맹세 위반과 사회적 낙인이 연결될 수 있는 영구 제약.\n- [비술](../../../laws/비술.md) - 이름을 건 맹세와 같은 에테르 계열 금기 비술의 상위 운용.",
+  "metadata": {
+    "char_count": 437,
+    "sha256": "3521b1209a78f430143f1d43918b36e0da79db27f80e420dae811f9a31ac97ec"
+  }
+}

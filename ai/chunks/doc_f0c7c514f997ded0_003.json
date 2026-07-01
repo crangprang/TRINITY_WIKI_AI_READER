@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:003",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "이동 상태",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_003.json",
+  "text": "## 이동 상태\n\n이동 중의 세레나는 긴 검은 망토와 머리와 입가를 감싼 천 아래 자신을 눌러 둔다. 감긴 천은 입과 코를 넘어 콧대 가까이까지 올라오고, 붉은 눈만 남는다. 이 상태에서는 성별 인상도 잠겨 `검은 순례자`가 먼저 읽힌다.\n\n뿔은 완전히 가려지거나 검은 실루엣의 압력으로만 남는다. 후드나 감긴 천 위로 뿔이 그대로 솟으면 다른 괴물 표지로 흐른다. 포니테일도 높이와 채도가 눌려 있어, 처음에는 묶은 머리를 외피 아래 숨긴 사람으로 읽힌다.\n\n겉에서는 장식에 앞서 오래 손질한 천과 가죽의 흔적이 먼저 선다. 안쪽에는 거의 검게 눌린 남색 교차 여밈 옷, 움직임을 견디는 하의, 검집걸이 벨트, 전완 보호대, 긴 이동용 장화가 숨어 있다.",
+  "metadata": {
+    "char_count": 367,
+    "sha256": "c090c25f59cdd8587bbe3cf4bd430d59a1c0dac3536228ad4d22526984fff491"
+  }
+}

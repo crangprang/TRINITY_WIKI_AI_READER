@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_2f4c65e0547f7b29",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_REFERENCE.txt",
+  "title": "에어리얼 / REFERENCE",
+  "summary": "에어리얼 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "5449cf30bda6e5c91fb7a20806443906fdd6b366f184664f49f1dd444cee4b3b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2f4c65e0547f7b29.json",
+  "chunks": [
+    {
+      "id": "live_doc_2f4c65e0547f7b29:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2f4c65e0547f7b29_000.json",
+      "char_count": 174
+    }
+  ]
+}

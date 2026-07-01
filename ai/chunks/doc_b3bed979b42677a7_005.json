@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3bed979b42677a7:005",
+  "document_id": "doc_b3bed979b42677a7",
+  "path": "wiki/characters/axions/판도라/support/appearance.md",
+  "wiki_path": "characters/axions/판도라/support/appearance.md",
+  "title": "판도라 외형",
+  "section": "시각 경계",
+  "summary": "판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_005.json",
+  "text": "## 시각 경계\n\n- 전면 가면은 판도라의 중심 인상을 흐린다.\n- 신성한 얼굴가림은 후계자와 장치의 인상으로 분리된다.\n- 푸른 수정빛과 촛불은 질문의 비용과 죄책감을 드러낸다.",
+  "metadata": {
+    "char_count": 100,
+    "sha256": "d0834f268b06e50de0ad8798f232a2c6acd052301d957059a3da4453b87019f0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:288",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 독자 표면 메타어 축소",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_288.json",
+  "text": "## [2026-06-26] style | 독자 표면 메타어 축소\n\n존재, 특이점, 레이어드 원생 생물 항목에서 관리 표면처럼 읽히는 문서 표현을 항목, 기록, 장부처럼 세계 내부 역할이 드러나는 말로 바꿨다.",
+  "metadata": {
+    "char_count": 117,
+    "sha256": "5757f3a4cd29155a7bef4ca68665ac4f38651c7f00f3bd36b82a1d50423daf97"
+  }
+}

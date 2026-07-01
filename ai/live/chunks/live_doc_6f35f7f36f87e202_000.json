@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6f35f7f36f87e202:000",
+  "document_id": "live_doc_6f35f7f36f87e202",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_VOICE_SAMPLE.txt",
+  "title": "메피스토 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "메피스토 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6f35f7f36f87e202_000.json",
+  "text": "메피스토 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER05_CORE.txt`와 `PER05_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 175,
+    "sha256": "d12392ee28ed72ae18da2f647ea18799c8c4c0204a72071619c4ad5707e15011"
+  }
+}

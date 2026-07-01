@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:002",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "층위별 발화",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_002.json",
+  "text": "## 층위별 발화",
+  "metadata": {
+    "char_count": 9,
+    "sha256": "6b0e465b5d5b2f8a00e394ff8028e93307c98c8841a58e774a090dfb9cc9e989"
+  }
+}

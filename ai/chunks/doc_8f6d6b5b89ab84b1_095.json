@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:095",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 존재 하위 대문 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_095.json",
+  "text": "## [2026-06-26] rebuild | 존재 하위 대문 보강\n\n[하급 생물과 생태](beings/creatures/index.md)에 생활권의 감지층, 전조와 사건 기능 설명을 추가하고 [판타즈마](beings/phantasmas/index.md)에 국가 공포와 생태 설명을 보강했다. 작은 생물의 먹이망과 장치 변질이 판타즈마 발생 바닥으로 이어지는 관계를 존재 항목 안에서 바로 읽을 수 있게 했다.",
+  "metadata": {
+    "char_count": 229,
+    "sha256": "ad4c5619e83750122c09c244c9db18bc9bcf47acad2aa4aa3fe56640294f6566"
+  }
+}

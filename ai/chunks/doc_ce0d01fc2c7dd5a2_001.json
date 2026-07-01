@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce0d01fc2c7dd5a2:001",
+  "document_id": "doc_ce0d01fc2c7dd5a2",
+  "path": "wiki/universe/realms/balance/language/index.md",
+  "wiki_path": "universe/realms/balance/language/index.md",
+  "title": "균형계 언어",
+  "section": "개요",
+  "summary": "균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "language",
+    "naming"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_001.json",
+  "text": "## 개요\n\n균형계 언어는 균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙으로 이루어진 체계다. 아포라투스의 상위명은 전부 `아포라투스`로 유지하고, 하위명과 기관명은 나라별 언어권과 장르톤을 따른다.\n\n하위기관, 도시, 기능조직은 각 나라의 언어권과 기반 이야기, 생활 감각을 따라 다른 결을 가진다. 올림피아 중심 표준은 대륙 공통 의례와 통행의 언어로 작동하고, 나라별 이름은 각국의 장치와 생활 질서를 드러내는 표지로 작동한다.",
+  "metadata": {
+    "char_count": 255,
+    "sha256": "30eb55241255b81ea87c5c1ea38e33a96c315ce27719d60a71d3c6eed3bc9109"
+  }
+}

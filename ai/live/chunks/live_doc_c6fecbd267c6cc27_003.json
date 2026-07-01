@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_c6fecbd267c6cc27:003",
+  "document_id": "live_doc_c6fecbd267c6cc27",
+  "path": "02_LORE/README.md",
+  "title": "02_LORE",
+  "section": "Current Boundary",
+  "summary": "`02_LORE` is the live lore surface.",
+  "root": "02_LORE",
+  "category": "02_LORE:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_003.json",
+  "text": "## Current Boundary\n\n- `02_LORE` is now nation-first at the root for migrated nation packages.\n- Do not recreate `00_REGION/`, `01_NINE_NATION_APPARATUS/`, or `02_NINE_NATION_PROTO_PHILOSION/` as live surfaces.\n- Keep apparatus / proto truth absorbed into the package unless it is clearly support-only.",
+  "metadata": {
+    "char_count": 302,
+    "sha256": "2f75c9f728a7a6affad964fd056b63cb1d310e1ff9f62acf1c5c7532504b1033"
+  }
+}

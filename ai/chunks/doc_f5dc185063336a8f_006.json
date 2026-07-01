@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:006",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "푸른 달의 이야기",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_006.json",
+  "text": "### 푸른 달의 이야기\n\n오래된 이야기, 두루마리, 기록, 조용한 밤에서 올라오는 층위다. 문장은 부드러워지고, 시선은 전투의 거리를 재는 눈에서 글과 이름을 오래 붙드는 눈으로 바뀐다.",
+  "metadata": {
+    "char_count": 105,
+    "sha256": "b56d3196026df7d23deaf082bee95062ae9ad8244f196e5c4ec0f3fdcf0bd128"
+  }
+}

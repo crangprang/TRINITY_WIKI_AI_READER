@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:265",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 특이점 사건 문서 구조 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_265.json",
+  "text": "## [2026-06-26] rebuild | 특이점 사건 문서 구조 확장\n\n특이점 개별 문서를 단순 전개 중심 기록에서 사건 기사 구조로 확장했다.\n\n- 아홉 특이점 문서에 사건 배경, 결과와 영향, 관련 인물 및 세력 섹션을 정리했다.\n- 관련 문서 설명을 `인물`, `국가`, `존재` 같은 단순 라벨에서 사건 관계 설명으로 바꿨다.\n- 특이점 개별 문서의 양식 공백이 해소되어 review의 template gap 기록에서 해당 항목을 제거했다.",
+  "metadata": {
+    "char_count": 253,
+    "sha256": "78f1385c2254bc7fd97d7b1981a3c2215ffe022b5b81b76090edf41dde5085aa"
+  }
+}

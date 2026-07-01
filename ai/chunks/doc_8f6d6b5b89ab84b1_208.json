@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:208",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] visual update | 옌 2층위 신발과 손끝 안료 기준 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_208.json",
+  "text": "## [2026-06-23] visual update | 옌 2층위 신발과 손끝 안료 기준 보정\n\n옌 2층위 외형 실험 결과를 바탕으로 검은 고딕 하이넥 롱탑, 얇은 검은 케이프렛, 밝은 테이퍼드 하의, 흑회색/차콜 여행용 앵클부츠, 손끝의 구분되는 다색 고체 안료 방향을 보강했다.\n\n- 반영: [옌](characters/main_party/옌/index.md)\n- 주요 판단: 2층위 신발은 검은 상의와 이어지되 1층위 흰 외피 아래에서도 현대적인 스트랩 구두처럼 튀지 않아야 한다. 2층위에서는 가방과 스케치북을 전면에서 덜어내고, 손끝의 작은 다색 안료로 `색을 보는 화가` 감각만 남기는 편이 안정적이다.",
+  "metadata": {
+    "char_count": 343,
+    "sha256": "a8d54d25e65d2998e81e9f375394ce6b6285fcf570a726d298c03e3d09d17d18"
+  }
+}

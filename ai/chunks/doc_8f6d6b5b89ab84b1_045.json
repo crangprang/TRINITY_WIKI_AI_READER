@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:045",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] persona | 헬렌 심층 주도권 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_045.json",
+  "text": "## [2026-06-28] persona | 헬렌 심층 주도권 보강\n\n[헬렌](characters/personas/헬렌/index.md)을 파라디소, 설리반, 순수의 보물, 아포라투스 LIVE WC claim과 대조했다. 파라디소 추가 리뉴얼과 염한 외 2+1 기관 확정은 건드리지 않고, 헬렌 문서 안에서 표층 인터페이스와 심층 주도권만 보강했다.\n\n헬렌의 심층 주도권은 순수의 보물인 세리엔의 우의에 놓았다. 왜곡 목적은 평화롭고 이상적인 사회를 달성하기 위해 감정과 죄책감의 비용을 아래로 배분하는 일로 정리했고, 설리반의 비용 공개 통치가 헬렌의 자비와 선별 언어로 다시 작동하는 관계를 보강했다.",
+  "metadata": {
+    "char_count": 339,
+    "sha256": "e09a7e1bf052c8dcded4b5bb7bf84f48933888ed9e77160ac07f533345ec470e"
+  }
+}

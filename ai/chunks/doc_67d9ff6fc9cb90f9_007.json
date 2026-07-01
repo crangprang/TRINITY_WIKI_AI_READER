@@ -1,0 +1,24 @@
+{
+  "id": "doc_67d9ff6fc9cb90f9:007",
+  "document_id": "doc_67d9ff6fc9cb90f9",
+  "path": "wiki/characters/fellsions/정적의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/정적의_펠시온/support/appearance.md",
+  "title": "정적의 펠시온 외형",
+  "section": "관련 문서",
+  "summary": "정적의 펠시온의 검은 무사복, 머리를 수평으로 관통한 귀마개 검, 닫힌 입의 귀뚜라미 백골 가면, 발도 직전의 정적을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d9ff6fc9cb90f9_007.json",
+  "text": "## 관련 문서\n\n- [정적의 펠시온](../index.md) - 닫힌 입의 귀뚜라미 백골 가면, 침묵 압력, 묵음의 발도 직전 정지가 외형의 정적성과 검귀성을 이루는 펠시온.",
+  "metadata": {
+    "char_count": 98,
+    "sha256": "fc65f1f72a3866200d7fdb10054b44a934db2925cfa39ca0a19fc5a8886b8562"
+  }
+}

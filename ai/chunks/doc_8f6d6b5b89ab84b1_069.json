@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:069",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 아포라투스 비술 물리 대응 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_069.json",
+  "text": "## [2026-06-28] ingest | 아포라투스 비술 물리 대응 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md`의 아홉 보물과 아포라투스 비술 물리 대응을 [아포라투스](universe/realms/balance/apparatus/index.md)와 [아홉 보물](universe/structure/아홉_보물.md)에 반영했다. 아포라투스는 인간 비술의 확대판으로 태어난 장치가 아니라, 창조계가 생명체의 에너지 변환 원리를 국가 규모로 강제 조립한 장치로 정리했다.\n\n제어핵 대응은 프로토타입 필로시온을 뇌·에테르·이성 축, 빈 아홉 보물을 심장·이데아·감정 축, 아타노르 잔재에 남은 용 잔재를 척수·마니아·본능 축으로 두었다. 국가별 심층부 물성은 이번 원문에서 새 값을 만들지 않고 기존 후속 TODO 범위에 남겼다.",
+  "metadata": {
+    "char_count": 426,
+    "sha256": "a8e108d648c9382668388c2e24198533e3e1eecf47b9e85ff5ddbca9cb4134ea"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_ebf8e0cfd0427a7b:004",
+  "document_id": "doc_ebf8e0cfd0427a7b",
+  "path": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md",
+  "wiki_path": "universe/realms/balance/organizations/이레귤러_헌터.md",
+  "title": "이레귤러 헌터",
+  "section": "관련 문서",
+  "summary": "이레귤러 헌터는 정교가 저주 보유자에게 열어 둔 속죄 통로처럼 선전하는 공개 소모품 제도이며, 실제로는 이레귤러가 다른 이레귤러를 추적하게 만드는 현장 장치다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_system"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ebf8e0cfd0427a7b_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 이레귤러 헌터가 놓이는 조직 색인.\n- [구세군](구세군.md) - 이레귤러 헌터 현장 운용과 무력 투입을 맡는 공인 조직.\n- [파르마콘](파르마콘.md) - 저주 상태 판정과 등급화를 맡는 공인 조직.\n- [크로니클](크로니클.md) - 복무 기록과 선전을 맡는 공인 조직.\n- [에레모스](../nations/에레모스.md) - 이레귤러 헌터 함정과 단속이 실제 위협으로 작동하는 외지 권역.",
+  "metadata": {
+    "char_count": 255,
+    "sha256": "479306f89da4968795b69edeac59513191ac686dbd031bd864667f301a746375"
+  }
+}

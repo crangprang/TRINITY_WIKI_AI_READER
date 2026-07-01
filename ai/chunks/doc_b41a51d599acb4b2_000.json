@@ -1,0 +1,23 @@
+{
+  "id": "doc_b41a51d599acb4b2:000",
+  "document_id": "doc_b41a51d599acb4b2",
+  "path": "wiki/characters/savior_candidates/케르베로스/index.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/index.md",
+  "title": "케르베로스",
+  "section": "케르베로스",
+  "summary": "케르베로스는 레이어드의 구세주 후보이자 마이더스 전속 용병으로, 자기 가치를 가격화한 올림피아 2위이며 카론의 헤라클레스 조건에 묶여 있다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b41a51d599acb4b2_000.json",
+  "text": "# 케르베로스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 케르베로스 |\n| 성별/프레젠테이션 | 남성 |\n| 소속/지역 | 거래의 나라 [레이어드](../../../universe/realms/balance/nations/레이어드.md) |\n| 직책/역할 | 구세주 후보 / 마이더스 전속 용병 / 올림피아 2위 |\n| 기능조직 | [글로벌 코텍스](../../../universe/realms/balance/organizations/글로벌_코텍스.md) |\n| 주요 계약 | [마이더스](../../axions/마이더스/index.md), [카론](../../personas/카론/index.md) |",
+  "metadata": {
+    "char_count": 355,
+    "sha256": "8d9577e9b65bbacbb215d43517a3294b0bd39a6917b2bb10287152771301e93e"
+  }
+}

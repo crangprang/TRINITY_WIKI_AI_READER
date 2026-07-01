@@ -1,0 +1,23 @@
+{
+  "id": "doc_354313d4f2acf424:010",
+  "document_id": "doc_354313d4f2acf424",
+  "path": "wiki/characters/axions/마텔다/index.md",
+  "wiki_path": "characters/axions/마텔다/index.md",
+  "title": "마텔다",
+  "section": "관련 문서",
+  "summary": "마텔다는 오르딜리아의 엑시온이자 심판관으로, 무법의 공포를 막기 위해 반지와 결투 재판과 감시를 법으로 세우고 자기 자신까지 얼린 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_010.json",
+  "text": "## 관련 문서\n\n- [엑시온](../index.md) - 보물이 선택한 인간 숙주와 통치 얼굴.\n- [마텔다 외형](support/appearance.md) - 심판관 실루엣과 서리 파프니르 바이저가 정의의 판결 압력을 고정하는 외형 항목.\n- [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) - 마텔다의 반지와 결투 재판이 통치 구조로 작동하는 정의의 나라.\n- [미노스](../../personas/미노스/index.md) - 마텔다의 공포 기반 정의를 무대적 파국으로 밀어 넣는 페르소나.\n- [분노의 판타즈마](../../../beings/phantasmas/분노의_판타즈마.md) - 마텔다의 서리 기사 바이저와 보물창고 모티프에 연결되는 판타즈마.",
+  "metadata": {
+    "char_count": 401,
+    "sha256": "6443bda8457a2141f579b53cab61541037580274f40102cf52092a0b1508cc4a"
+  }
+}

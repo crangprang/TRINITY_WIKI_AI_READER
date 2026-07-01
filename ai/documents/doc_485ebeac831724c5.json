@@ -1,0 +1,117 @@
+{
+  "id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "메피스토 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "설계도-퀘스트 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "가면과 램프 연기"
+    },
+    {
+      "level": 2,
+      "title": "피라미디온 청사진"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    }
+  ],
+  "sha256": "ac25081c4b55184f7662dc4e8f3c1a2755eb8396ca639fe15e28e9f464e8eb7c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_485ebeac831724c5.json",
+  "chunks": [
+    {
+      "id": "doc_485ebeac831724c5:000",
+      "section": "메피스토 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_000.json",
+      "char_count": 97
+    },
+    {
+      "id": "doc_485ebeac831724c5:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_001.json",
+      "char_count": 524
+    },
+    {
+      "id": "doc_485ebeac831724c5:002",
+      "section": "설계도-퀘스트 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_002.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_485ebeac831724c5:003",
+      "section": "가면과 램프 연기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_003.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_485ebeac831724c5:004",
+      "section": "피라미디온 청사진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_004.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_485ebeac831724c5:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_005.json",
+      "char_count": 202
+    },
+    {
+      "id": "doc_485ebeac831724c5:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_006.json",
+      "char_count": 316
+    }
+  ]
+}

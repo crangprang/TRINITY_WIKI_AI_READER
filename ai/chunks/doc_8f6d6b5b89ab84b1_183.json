@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:183",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] decision | WIKI 구조와 표기 잠금 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_183.json",
+  "text": "## [2026-06-26] decision | WIKI 구조와 표기 잠금 반영\n\n사용자 결정에 따라 신설 검토 방향, 염한 후속 셰어 표면, 캐릭터 support 표시, 문서 최소 양식 기준을 잠금 기록으로 정리했다.\n\n- 잠금: [사용자 잠금](review/user_locks.md)\n- 정리: [신설 제안 및 분해 검토](review/ownership_locks.md), [문서 양식 공백 기록](review/template_gaps.md), [판단 요청](review/decision_requests/index.md)\n- 주요 판단: 아홉 나라 명명 체계는 균형계 언어·문화 개요와 국가별 문서로 나누고, 하위신 체계는 우주 법칙/구조와 각 그룹 index로 분해한다. 혼돈에서 현재까지의 구조는 우주 구조와 사건 흐름으로 분해한다.\n- 표기: `아백`으로 통일하고 이전 표기 alias는 제거했다.\n- 양식: 독자용 문서는 유형별 최소 양식만 강제하고, 원천이 없는 표준 섹션을 만들지 않는다.",
+  "metadata": {
+    "char_count": 505,
+    "sha256": "29edd0822c0aff3447bd27af2c09425dc125357e6c24db1cc0c5b821d5cf9845"
+  }
+}

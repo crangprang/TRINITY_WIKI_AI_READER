@@ -1,0 +1,109 @@
+{
+  "id": "doc_3be46c6b7a69dc1d",
+  "path": "wiki/universe/realms/balance/organizations/구세군.md",
+  "wiki_path": "universe/realms/balance/organizations/구세군.md",
+  "title": "구세군",
+  "summary": "구세군은 삼위정교 공인 조직으로, 용기의 이름 아래 파괴계 침공과 전조 대응, 구조, 치안, 현장 무력 투입을 수행한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "구세군"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "현장 권한"
+    },
+    {
+      "level": 2,
+      "title": "정교 질서와 비밀 명령"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    }
+  ],
+  "sha256": "6264ba70004da7bb6a5ddd1639ce5a6b236d55c124a2bb860c570d0f8ac4b0fe",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3be46c6b7a69dc1d.json",
+  "chunks": [
+    {
+      "id": "doc_3be46c6b7a69dc1d:000",
+      "section": "구세군",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_000.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_3be46c6b7a69dc1d:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_001.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_3be46c6b7a69dc1d:002",
+      "section": "현장 권한",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_002.json",
+      "char_count": 366
+    },
+    {
+      "id": "doc_3be46c6b7a69dc1d:003",
+      "section": "정교 질서와 비밀 명령",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_003.json",
+      "char_count": 349
+    },
+    {
+      "id": "doc_3be46c6b7a69dc1d:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_004.json",
+      "char_count": 261
+    }
+  ]
+}

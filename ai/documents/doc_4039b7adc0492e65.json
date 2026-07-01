@@ -1,0 +1,118 @@
+{
+  "id": "doc_4039b7adc0492e65",
+  "path": "wiki/beings/phantasmas/레이어드_3등급_판타즈마.md",
+  "wiki_path": "beings/phantasmas/레이어드_3등급_판타즈마.md",
+  "title": "레이어드 3등급 판타즈마",
+  "summary": "크레스트, 미라쥬, 키사라기 권역의 역사적 판타즈마를 중심으로 구성된 레이어드의 3등급 판타즈마군.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-27",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "레이어드 3등급 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "외곽 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "탐욕의 판타즈마",
+      "target": "wiki/beings/phantasmas/탐욕의_판타즈마.md"
+    }
+  ],
+  "sha256": "704872ac7580fb68aef7f4f6f34b49307f515650164b9f504c52c987744f3395",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4039b7adc0492e65.json",
+  "chunks": [
+    {
+      "id": "doc_4039b7adc0492e65:000",
+      "section": "레이어드 3등급 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_000.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_4039b7adc0492e65:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_001.json",
+      "char_count": 113
+    },
+    {
+      "id": "doc_4039b7adc0492e65:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_002.json",
+      "char_count": 138
+    },
+    {
+      "id": "doc_4039b7adc0492e65:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_003.json",
+      "char_count": 218
+    },
+    {
+      "id": "doc_4039b7adc0492e65:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_004.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_4039b7adc0492e65:005",
+      "section": "외곽 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_005.json",
+      "char_count": 61
+    },
+    {
+      "id": "doc_4039b7adc0492e65:006",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_006.json",
+      "char_count": 66
+    },
+    {
+      "id": "doc_4039b7adc0492e65:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4039b7adc0492e65_007.json",
+      "char_count": 256
+    }
+  ]
+}

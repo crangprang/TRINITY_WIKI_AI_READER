@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:013",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "아백",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_013.json",
+  "text": "### 아백\n\n[아백](../../../savior_candidates/아백/index.md) 앞에서는 그리움이 먼저 열린다. 그 뒤에 미안함과 수치가 따라온다. `서린`이라는 이름도 이쪽에서 가장 먼저 미끄러진다.",
+  "metadata": {
+    "char_count": 120,
+    "sha256": "c03a208335f5d4f87ef11bf38587f149143ceb63261022b0e9c0814fc1ab6917"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_c9c7b9403c998494:000",
+  "document_id": "live_doc_c9c7b9403c998494",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_CORE.txt",
+  "title": "빈센트 / CORE",
+  "section": "body",
+  "summary": "빈센트 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c9c7b9403c998494_000.json",
+  "text": "빈센트 / CORE\n\n1. 식별\n빈센트은 우니오네의 아포라투스 `마고리아`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 우니오네 / 마고리아\n- 전면: 방랑 예술가, 꿈의 큐레이터, 수면 위에 비친 친절한 상담자\n- 압력: 가장 아름다운 출구를 열어 현실을 꿈 쪽으로 기울게 만드는 유혹자\n- 관계: 유리디스의 현실 책임, 잔느의 희생, 엘리자베스의 기억 축과 연결\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 383,
+    "sha256": "fdcde62efa533208c8d4368936fa02ba943d7f63646bc131f82fd1c98cc5e511"
+  }
+}

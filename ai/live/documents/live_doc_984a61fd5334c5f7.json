@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_984a61fd5334c5f7",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX07_JUDITH.txt",
+  "title": "쥬디스",
+  "summary": "쥬디스",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "4b22cd35c4368d2168ca8af046ecb3b9fb496e7463323b17f8a15b20e66a922f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_984a61fd5334c5f7.json",
+  "chunks": [
+    {
+      "id": "live_doc_984a61fd5334c5f7:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_984a61fd5334c5f7_000.json",
+      "char_count": 1828
+    }
+  ]
+}

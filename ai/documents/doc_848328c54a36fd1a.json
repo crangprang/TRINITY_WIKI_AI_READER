@@ -1,0 +1,117 @@
+{
+  "id": "doc_848328c54a36fd1a",
+  "path": "wiki/characters/savior_candidates/루시리엘/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/루시리엘/support/appearance.md",
+  "title": "루시리엘 외형",
+  "summary": "루시리엘의 백금발 성기사 실루엣, 작은 방패, 닳은 장갑, 환자에게 뻗은 손, 파라디소의 현실적 방패성을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "루시리엘 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "성기사 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "방패와 손"
+    },
+    {
+      "level": 2,
+      "title": "흰 도시와 구호 현장"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    }
+  ],
+  "sha256": "8f83fb39a7535d9ced0fa8299b5c4664fb96eba21c11fb10d015f0646f9214ef",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_848328c54a36fd1a.json",
+  "chunks": [
+    {
+      "id": "doc_848328c54a36fd1a:000",
+      "section": "루시리엘 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_000.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_848328c54a36fd1a:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_001.json",
+      "char_count": 331
+    },
+    {
+      "id": "doc_848328c54a36fd1a:002",
+      "section": "성기사 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_002.json",
+      "char_count": 240
+    },
+    {
+      "id": "doc_848328c54a36fd1a:003",
+      "section": "방패와 손",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_003.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_848328c54a36fd1a:004",
+      "section": "흰 도시와 구호 현장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_004.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_848328c54a36fd1a:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_005.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_848328c54a36fd1a:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_848328c54a36fd1a_006.json",
+      "char_count": 309
+    }
+  ]
+}

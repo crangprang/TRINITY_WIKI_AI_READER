@@ -1,0 +1,121 @@
+{
+  "id": "doc_2dbce8f4840ba35a",
+  "path": "wiki/characters/personas/투르키나/support/appearance.md",
+  "wiki_path": "characters/personas/투르키나/support/appearance.md",
+  "title": "투르키나 외형",
+  "summary": "투르키나의 뒤틀린 엄격한 안내자 실루엣, 푸른 요정 표면, 사냥꾼 소품, 메시아 씨앗과 숲 매듭을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "투르키나 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "엄격한 푸른 요정"
+    },
+    {
+      "level": 2,
+      "title": "사냥꾼과 숲 매듭"
+    },
+    {
+      "level": 2,
+      "title": "메시아 씨앗과 고치"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    }
+  ],
+  "sha256": "7d73c5e6ad9f6c2e11034f0782f0d413ee7b070650e5ece8d4c7818d32571b47",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2dbce8f4840ba35a.json",
+  "chunks": [
+    {
+      "id": "doc_2dbce8f4840ba35a:000",
+      "section": "투르키나 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_000.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_2dbce8f4840ba35a:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_001.json",
+      "char_count": 400
+    },
+    {
+      "id": "doc_2dbce8f4840ba35a:002",
+      "section": "엄격한 푸른 요정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_002.json",
+      "char_count": 237
+    },
+    {
+      "id": "doc_2dbce8f4840ba35a:003",
+      "section": "사냥꾼과 숲 매듭",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_003.json",
+      "char_count": 263
+    },
+    {
+      "id": "doc_2dbce8f4840ba35a:004",
+      "section": "메시아 씨앗과 고치",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_004.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_2dbce8f4840ba35a:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_005.json",
+      "char_count": 182
+    },
+    {
+      "id": "doc_2dbce8f4840ba35a:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2dbce8f4840ba35a_006.json",
+      "char_count": 405
+    }
+  ]
+}

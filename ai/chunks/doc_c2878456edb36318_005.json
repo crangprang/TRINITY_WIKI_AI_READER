@@ -1,0 +1,24 @@
+{
+  "id": "doc_c2878456edb36318:005",
+  "document_id": "doc_c2878456edb36318",
+  "path": "wiki/characters/savior_candidates/캘리번/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/캘리번/support/appearance.md",
+  "title": "캘리번 외형",
+  "section": "시각 경계",
+  "summary": "캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_005.json",
+  "text": "## 시각 경계\n\n- 근육 과시형 영웅 실루엣으로 읽히지 않게 한다.\n- 노동자 이미지에만 갇히지 않도록 낡은 품격과 지부장 책임을 함께 둔다.\n- 가면은 괴물형 위협보다 인간적인 탐험가 얼굴을 유지한다.\n- 밧줄과 갑판 장비를 핵심 소품으로 둔다.",
+  "metadata": {
+    "char_count": 139,
+    "sha256": "b4f9b7e4d440a7760c77632bbbc6689f55f907c29c03dbc73d53275482eafda7"
+  }
+}

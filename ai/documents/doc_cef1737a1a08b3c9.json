@@ -1,0 +1,562 @@
+{
+  "id": "doc_cef1737a1a08b3c9",
+  "path": "wiki/universe/realms/balance/nations/알렉시아.md",
+  "wiki_path": "universe/realms/balance/nations/알렉시아.md",
+  "title": "알렉시아",
+  "summary": "알렉시아는 푸른 수정과 촛불이 밤을 버티는 질문의 지하 도시다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "알렉시아"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 3,
+      "title": "언어권과 학술 언어"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "아파시아"
+    },
+    {
+      "level": 3,
+      "title": "100~900 지식 구역"
+    },
+    {
+      "level": 3,
+      "title": "아그노시아"
+    },
+    {
+      "level": 3,
+      "title": "대색인수와 오르가논 색인륜"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "질문"
+    },
+    {
+      "level": 3,
+      "title": "빛과 촛불"
+    },
+    {
+      "level": 3,
+      "title": "망상"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "건국기"
+    },
+    {
+      "level": 3,
+      "title": "최초의 질문"
+    },
+    {
+      "level": 3,
+      "title": "질문과 벌레의 질서"
+    },
+    {
+      "level": 2,
+      "title": "장치와 압력"
+    },
+    {
+      "level": 3,
+      "title": "아나그노리시스와 오르가논"
+    },
+    {
+      "level": 3,
+      "title": "정보 수정과 광력"
+    },
+    {
+      "level": 3,
+      "title": "에키드나와 벌레"
+    },
+    {
+      "level": 2,
+      "title": "조직과 집단"
+    },
+    {
+      "level": 3,
+      "title": "인퀴지터"
+    },
+    {
+      "level": 2,
+      "title": "사회와 계층"
+    },
+    {
+      "level": 3,
+      "title": "감정사"
+    },
+    {
+      "level": 3,
+      "title": "소각 집행층"
+    },
+    {
+      "level": 3,
+      "title": "채굴꾼"
+    },
+    {
+      "level": 2,
+      "title": "생활 규칙과 기류"
+    },
+    {
+      "level": 3,
+      "title": "정적과 필담"
+    },
+    {
+      "level": 3,
+      "title": "푸른 빛과 촛불"
+    },
+    {
+      "level": 3,
+      "title": "질문 허가"
+    },
+    {
+      "level": 3,
+      "title": "소각 절차"
+    },
+    {
+      "level": 2,
+      "title": "주요 인물"
+    },
+    {
+      "level": 3,
+      "title": "판도라"
+    },
+    {
+      "level": 3,
+      "title": "엘피스"
+    },
+    {
+      "level": 3,
+      "title": "메테우스"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "진실과 생존"
+    },
+    {
+      "level": 3,
+      "title": "이해와 소각"
+    },
+    {
+      "level": 3,
+      "title": "희망의 진리"
+    },
+    {
+      "level": 2,
+      "title": "용과 생태"
+    },
+    {
+      "level": 3,
+      "title": "용의 수수께끼"
+    },
+    {
+      "level": 3,
+      "title": "생태와 크리쳐"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "이름층과 성상"
+    },
+    {
+      "level": 3,
+      "title": "관련 작품 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "망상의 판타즈마",
+      "target": "wiki/beings/phantasmas/망상의_판타즈마.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    }
+  ],
+  "sha256": "9e384061480c872972c6af3c710f2a498e2da787a323564eaa82d6c63c6514da",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cef1737a1a08b3c9.json",
+  "chunks": [
+    {
+      "id": "doc_cef1737a1a08b3c9:000",
+      "section": "알렉시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_000.json",
+      "char_count": 697
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_001.json",
+      "char_count": 481
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:002",
+      "section": "언어권과 학술 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_002.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:003",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_003.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:004",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_004.json",
+      "char_count": 461
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:005",
+      "section": "아파시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_005.json",
+      "char_count": 256
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:006",
+      "section": "100~900 지식 구역",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_006.json",
+      "char_count": 411
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:007",
+      "section": "아그노시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_007.json",
+      "char_count": 160
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:008",
+      "section": "대색인수와 오르가논 색인륜",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_008.json",
+      "char_count": 337
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:009",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_009.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:010",
+      "section": "질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_010.json",
+      "char_count": 159
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:011",
+      "section": "빛과 촛불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_011.json",
+      "char_count": 149
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:012",
+      "section": "망상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_012.json",
+      "char_count": 141
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:013",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_013.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:014",
+      "section": "건국기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_014.json",
+      "char_count": 687
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:015",
+      "section": "최초의 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_015.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:016",
+      "section": "질문과 벌레의 질서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_016.json",
+      "char_count": 596
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:017",
+      "section": "장치와 압력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:018",
+      "section": "아나그노리시스와 오르가논",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_018.json",
+      "char_count": 491
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:019",
+      "section": "정보 수정과 광력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_019.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:020",
+      "section": "에키드나와 벌레",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_020.json",
+      "char_count": 165
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:021",
+      "section": "조직과 집단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_021.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:022",
+      "section": "인퀴지터",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_022.json",
+      "char_count": 321
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:023",
+      "section": "사회와 계층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_023.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:024",
+      "section": "감정사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_024.json",
+      "char_count": 116
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:025",
+      "section": "소각 집행층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_025.json",
+      "char_count": 132
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:026",
+      "section": "채굴꾼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_026.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:027",
+      "section": "생활 규칙과 기류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_027.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:028",
+      "section": "정적과 필담",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_028.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:029",
+      "section": "푸른 빛과 촛불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_029.json",
+      "char_count": 245
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:030",
+      "section": "질문 허가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_030.json",
+      "char_count": 138
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:031",
+      "section": "소각 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_031.json",
+      "char_count": 179
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:032",
+      "section": "주요 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_032.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:033",
+      "section": "판도라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_033.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:034",
+      "section": "엘피스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_034.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:035",
+      "section": "메테우스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_035.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:036",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_036.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:037",
+      "section": "진실과 생존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_037.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:038",
+      "section": "이해와 소각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_038.json",
+      "char_count": 123
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:039",
+      "section": "희망의 진리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_039.json",
+      "char_count": 122
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:040",
+      "section": "용과 생태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_040.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:041",
+      "section": "용의 수수께끼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_041.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:042",
+      "section": "생태와 크리쳐",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_042.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:043",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_043.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:044",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_044.json",
+      "char_count": 204
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:045",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_045.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:046",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_046.json",
+      "char_count": 135
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:047",
+      "section": "이름층과 성상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_047.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:048",
+      "section": "관련 작품 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_048.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_cef1737a1a08b3c9:049",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_cef1737a1a08b3c9_049.json",
+      "char_count": 660
+    }
+  ]
+}

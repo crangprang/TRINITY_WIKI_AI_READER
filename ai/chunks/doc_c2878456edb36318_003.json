@@ -1,0 +1,24 @@
+{
+  "id": "doc_c2878456edb36318:003",
+  "document_id": "doc_c2878456edb36318",
+  "path": "wiki/characters/savior_candidates/캘리번/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/캘리번/support/appearance.md",
+  "title": "캘리번 외형",
+  "section": "탐험가 가면",
+  "summary": "캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_003.json",
+  "text": "## 탐험가 가면\n\n가면은 거칠지만 인간적인 얼굴 언어를 가진 탐험가 가면이다. 새것의 매끈함보다 항로와 사고를 지나온 마모가 중요하다. 가면은 캘리번을 위협적인 괴물로 만들지 않고, 위험한 문 앞에서도 눈을 크게 뜨고 뛰어드는 사람으로 보이게 한다.\n\n가면의 선은 선체 부품, 통풍구, 압력계, 항로 표식에서 온다. 화려한 장식보다 마사오트식 장비성과 우니오네 지부의 이질감이 함께 남아야 한다.",
+  "metadata": {
+    "char_count": 222,
+    "sha256": "768ba9cd904bb2c82018abdd149a3c1000a698e50122c7457a862c2c6063d4a8"
+  }
+}

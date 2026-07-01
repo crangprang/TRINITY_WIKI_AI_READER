@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:321",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] link | 트리네아드 개별 외형 support 연결",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_321.json",
+  "text": "## [2026-06-27] link | 트리네아드 개별 외형 support 연결\n\n[감독](characters/trineads/감독/index.md), [라케시스](characters/trineads/라케시스/index.md), [에르고](characters/trineads/에르고/index.md)의 관련 문서에 각 `support/appearance.md` 링크를 추가했다.",
+  "metadata": {
+    "char_count": 212,
+    "sha256": "5ad969635e2237b9258cb66ec957639bec7bdddb5f2e5b607d04c5242d773ce1"
+  }
+}

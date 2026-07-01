@@ -1,0 +1,43 @@
+{
+  "id": "live_doc_859bb18636afe87b",
+  "path": "03_WORLD/04_CREATURE/00_CREATURE_README.txt",
+  "title": "04_CREATURE",
+  "summary": "`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "afb9152feac603924690518fce9ba90c3c61c3d792e32db54d34b39651bdbd2c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_859bb18636afe87b.json",
+  "chunks": [
+    {
+      "id": "live_doc_859bb18636afe87b:000",
+      "section": "04_CREATURE",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_000.json",
+      "char_count": 80
+    },
+    {
+      "id": "live_doc_859bb18636afe87b:001",
+      "section": "Live Surface",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_001.json",
+      "char_count": 391
+    },
+    {
+      "id": "live_doc_859bb18636afe87b:002",
+      "section": "Folder Contract",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_002.json",
+      "char_count": 353
+    },
+    {
+      "id": "live_doc_859bb18636afe87b:003",
+      "section": "Reading Rule",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_003.json",
+      "char_count": 336
+    },
+    {
+      "id": "live_doc_859bb18636afe87b:004",
+      "section": "Candidate Staging",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_004.json",
+      "char_count": 567
+    }
+  ]
+}

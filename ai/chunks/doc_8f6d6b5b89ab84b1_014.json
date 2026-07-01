@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:014",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 오아시스 언어권과 그레트헨 연구소 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_014.json",
+  "text": "## [2026-06-28] nation | 오아시스 언어권과 그레트헨 연구소 보강\n\n[오아시스](universe/realms/balance/nations/오아시스.md)를 LIVE `L05_FREEDOM`, [균형계 언어](universe/realms/balance/language/index.md), [아홉 나라의 시대](events/삼위의_군상/1부/아홉_나라의_시대/index.md), [그레트헨 연구소](universe/realms/balance/organizations/그레트헨_연구소.md)와 대조했다. 언어권은 이집트어/페르시아어 계열과 시스템 언어로 보강하고, 국가 엔진은 지혜 미덕과 자립 초심을 연결했다.\n\n기능조직은 그레트헨 연구소로 연결하고 랄의 연구소장 위치를 국가 조직층에 붙였다. 대응 펠시온은 L05_FREEDOM core/fact/reference와 현재 WIKI 펠시온 문서에서 직접 근거가 없어 새 본문값으로 만들지 않았다. 염한 외 2핵심기관+1제어기관 확정은 보류 유지하고, 오아시스 장치명은 대표 장치 요소 표면으로만 다뤘다.",
+  "metadata": {
+    "char_count": 541,
+    "sha256": "1901e181ce9a4c60f3f155d253f746ada4cc53155bb20d6e61ccf057d71d7f4c"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "id": "doc_8766a59d928813e3",
+  "path": "wiki/universe/realms/balance/organizations/index.md",
+  "wiki_path": "universe/realms/balance/organizations/index.md",
+  "title": "균형계 조직",
+  "summary": "균형계 조직은 삼위정교, 공인 조직, 기능조직, 이레귤러 헌터, 외지 공동체, 이단 세력이 세계 압력을 실무와 신앙 권력으로 바꾸는 조직 색인이다.",
+  "status": "draft",
+  "type": "organization_index",
+  "tags": [
+    "universe",
+    "balance",
+    "organizations",
+    "index"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "균형계 조직"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "상위 체계"
+    },
+    {
+      "level": 2,
+      "title": "삼위정교 공인 조직"
+    },
+    {
+      "level": 2,
+      "title": "기능조직"
+    },
+    {
+      "level": 2,
+      "title": "이레귤러 헌터"
+    },
+    {
+      "level": 2,
+      "title": "이단 세력"
+    },
+    {
+      "level": 2,
+      "title": "경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "그레트헨 연구소",
+      "target": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "마스크맨",
+      "target": "wiki/universe/realms/balance/organizations/마스크맨.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "필그림즈",
+      "target": "wiki/universe/realms/balance/organizations/필그림즈.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "염객방",
+      "target": "wiki/universe/realms/balance/organizations/염객방.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "이레귤러 헌터",
+      "target": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    },
+    {
+      "label": "흉조",
+      "target": "wiki/universe/realms/balance/organizations/흉조.md"
+    },
+    {
+      "label": "매니악",
+      "target": "wiki/universe/realms/balance/organizations/매니악.md"
+    },
+    {
+      "label": "에이티스트",
+      "target": "wiki/universe/realms/balance/organizations/에이티스트.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "드래그니즘",
+      "target": "wiki/universe/realms/balance/organizations/드래그니즘.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    }
+  ],
+  "sha256": "9834553ffbaa5eb6ab3b52ddcd1fd27ca34cffc576f5246bdea932b269d91fef",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8766a59d928813e3.json",
+  "chunks": [
+    {
+      "id": "doc_8766a59d928813e3:000",
+      "section": "균형계 조직",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_000.json",
+      "char_count": 247
+    },
+    {
+      "id": "doc_8766a59d928813e3:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_001.json",
+      "char_count": 526
+    },
+    {
+      "id": "doc_8766a59d928813e3:002",
+      "section": "상위 체계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_002.json",
+      "char_count": 266
+    },
+    {
+      "id": "doc_8766a59d928813e3:003",
+      "section": "삼위정교 공인 조직",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_003.json",
+      "char_count": 681
+    },
+    {
+      "id": "doc_8766a59d928813e3:004",
+      "section": "기능조직",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_004.json",
+      "char_count": 1390
+    },
+    {
+      "id": "doc_8766a59d928813e3:005",
+      "section": "이레귤러 헌터",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_005.json",
+      "char_count": 321
+    },
+    {
+      "id": "doc_8766a59d928813e3:006",
+      "section": "이단 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_006.json",
+      "char_count": 768
+    },
+    {
+      "id": "doc_8766a59d928813e3:007",
+      "section": "경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_007.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_8766a59d928813e3:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_008.json",
+      "char_count": 390
+    }
+  ]
+}

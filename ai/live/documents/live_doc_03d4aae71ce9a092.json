@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_03d4aae71ce9a092",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_VOICE_SAMPLE.txt",
+  "title": "빈센트 / VOICE_SAMPLE",
+  "summary": "빈센트 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "e3c92d6d688a18f24a2ebec2d1c5b3adea99d53a0f90e9ab0bcd6c6fa854bfb9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_03d4aae71ce9a092.json",
+  "chunks": [
+    {
+      "id": "live_doc_03d4aae71ce9a092:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_03d4aae71ce9a092_000.json",
+      "char_count": 174
+    }
+  ]
+}

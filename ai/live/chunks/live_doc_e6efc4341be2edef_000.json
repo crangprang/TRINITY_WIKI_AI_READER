@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_e6efc4341be2edef:000",
+  "document_id": "live_doc_e6efc4341be2edef",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_VOICE_SAMPLE.txt",
+  "title": "황 노인 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "황 노인 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_e6efc4341be2edef_000.json",
+  "text": "황 노인 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER01_CORE.txt`와 `PER01_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 175,
+    "sha256": "536c6131c8a3948864537d63b0b6afb460e6e7d622763cb774b1db59eb244a75"
+  }
+}

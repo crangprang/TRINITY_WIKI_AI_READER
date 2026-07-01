@@ -1,0 +1,23 @@
+{
+  "id": "doc_9eb2054c223ee828:008",
+  "document_id": "doc_9eb2054c223ee828",
+  "path": "wiki/characters/savior_candidates/아백/index.md",
+  "wiki_path": "characters/savior_candidates/아백/index.md",
+  "title": "아백",
+  "section": "관련 문서",
+  "summary": "아백은 염한의 대장군이자 구세주 후보로, 올림피아 순수 무력 1위이며 가인의 옥좌와 용인 병사의 명예를 함께 떠받치는 강함의 기준이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9eb2054c223ee828_008.json",
+  "text": "## 관련 문서\n\n- [구세주 후보](../index.md) - 올림피아에 공표되는 후보명, 가면, 국가 시험의 공통 구조.\n- [아백 외형](support/appearance.md) - 이무기 용기사 가면과 낮은 중심의 무인 실루엣 기준.\n- [염한](../../../universe/realms/balance/nations/염한.md) - 아백이 강함의 기준으로 서는 투쟁의 나라.\n- [가인](../../axions/가인/index.md) - 아백의 충성과 항복을 오독하는 염한의 여제.\n- [올림피아](../../../universe/realms/balance/nations/올림피아.md) - 아백을 순수 무력 1위 구세주 후보로 공표하는 중앙 무대.\n- [세레나](../../main_party/세레나/index.md) - 서린이라는 이름으로 아백의 과거와 맹세에 연결된 인물.",
+  "metadata": {
+    "char_count": 441,
+    "sha256": "3052e0bf948093c8700e177bb988fd1efd4de7c4df302e1620f7fc5bc2544374"
+  }
+}

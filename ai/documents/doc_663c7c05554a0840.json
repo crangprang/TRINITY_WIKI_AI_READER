@@ -1,0 +1,105 @@
+{
+  "id": "doc_663c7c05554a0840",
+  "path": "wiki/characters/axions/프로스페로/support/appearance.md",
+  "wiki_path": "characters/axions/프로스페로/support/appearance.md",
+  "title": "프로스페로 외형",
+  "summary": "프로스페로의 40대 선장 실루엣, 긴 코트와 큰 모자, 찢어진 돛과 선장 해골표식이 합쳐진 전면 가면, 항로 소품을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "프로스페로 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "선장 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "가면과 항로 표식"
+    },
+    {
+      "level": 2,
+      "title": "소품과 배경"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    }
+  ],
+  "sha256": "f21575e035870fd27bdbec0a546c04602cba17fed0c96822d2310519204910e1",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_663c7c05554a0840.json",
+  "chunks": [
+    {
+      "id": "doc_663c7c05554a0840:000",
+      "section": "프로스페로 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_000.json",
+      "char_count": 119
+    },
+    {
+      "id": "doc_663c7c05554a0840:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_001.json",
+      "char_count": 317
+    },
+    {
+      "id": "doc_663c7c05554a0840:002",
+      "section": "선장 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_002.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_663c7c05554a0840:003",
+      "section": "가면과 항로 표식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_003.json",
+      "char_count": 171
+    },
+    {
+      "id": "doc_663c7c05554a0840:004",
+      "section": "소품과 배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_004.json",
+      "char_count": 148
+    },
+    {
+      "id": "doc_663c7c05554a0840:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_005.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_663c7c05554a0840:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_663c7c05554a0840_006.json",
+      "char_count": 92
+    }
+  ]
+}

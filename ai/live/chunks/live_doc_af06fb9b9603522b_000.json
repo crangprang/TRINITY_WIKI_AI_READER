@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_af06fb9b9603522b:000",
+  "document_id": "live_doc_af06fb9b9603522b",
+  "path": "02_LORE/L09_HARMONY/L09_BRANCH_IDEA.txt",
+  "title": "L09_플라센티아 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "L09_플라센티아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L09_HARMONY",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_af06fb9b9603522b_000.json",
+  "text": "L09_플라센티아 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `L09_CORE.txt`, `L09_FACT_DETAIL.txt`, 혹은 live surface로 승격한다.\n- 작업 경과와 병목은 이 파일이 아니라 별도 process note나 평가 기록에 둔다.\n\n1. 확장 후보\n\n- 세 가지 계절마다 달라지는 사냥 규칙, 장비, 지도 표기 관습을 더 세밀하게 나누는 방향.\n- 말하는 키메라와 인간 정찰대가 잠시 거래하거나 휴전하는 회색 지대를 장면 단위로 확장하는 방향.\n- 소마의 어린 사냥꾼들이 표식과 암호, 냄새 읽기를 배우는 생활 교육 장면을 더 다듬는 방향.\n- 피톤 사냥 직전의 준비 의식과 연기, 가죽 장비, 뼈 무기 운용을 더 물성 있게 세우는 방향.\n\n2. 미감 확장\n\n- 갈비뼈 돔 아래의 축축한 바람, 가죽 천막의 결, 덩굴 다리 흔들림, 포자 먼지가 함께 보이는 시각층.\n- 숲의 울음 흉내, 멀리서 들리는 사냥 신호, 눅은 가죽 끈 소리, 발효 식품 냄새가 겹치는 음향과 후각층.\n- 위 항목들은 장면 밀도를 높일 수 있지만 현재는 branch 확장안으로만 유지한다.\n\n3. 크리쳐 / 판타즈마 후보 위치\n\n크리쳐 후보는 `03_WORLD/04_CREATURE/C09_HARMONY/` 아래 WC_LIFE 분류로 이동했다. 이 파일에는 플라센티아 국가 운영과 미감 확장만 남긴다.",
+  "metadata": {
+    "char_count": 804,
+    "sha256": "6aa3f61f5bc41354d54b59cd60c823b867908757601e8df5c0afe2b9dbd10bcc"
+  }
+}

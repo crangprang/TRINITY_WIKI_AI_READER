@@ -1,0 +1,24 @@
+{
+  "id": "doc_3b85dfdffa23c8c2:005",
+  "document_id": "doc_3b85dfdffa23c8c2",
+  "path": "wiki/characters/personas/빈센트/support/appearance.md",
+  "wiki_path": "characters/personas/빈센트/support/appearance.md",
+  "title": "빈센트 외형",
+  "section": "시각 경계",
+  "summary": "빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_005.json",
+  "text": "## 시각 경계\n\n- 인간 실루엣은 유지하되, 인간 민낯 초상은 액자 프레임 뒤로 잠긴다.\n- 오페라 가면, 광대 얼굴, 고딕 뱀파이어식 얼굴은 빈센트의 아틀리에성과 재조형 감각을 약하게 만든다.\n- 붓과 팔레트보다 조각 도구와 액자 프레임 가면을 중심 소품으로 둔다.\n- 미소는 인간 표정보다 프레임 안의 기괴한 얼굴과 손의 거리로 읽힌다.",
+  "metadata": {
+    "char_count": 191,
+    "sha256": "7c9101905eebcb0e4169579dd6e672af2a6583479d156791753731e55a76412e"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_a68823035d6d8828:005",
+  "document_id": "doc_a68823035d6d8828",
+  "path": "wiki/events/world_history/알레인의_동화책.md",
+  "wiki_path": "events/world_history/알레인의_동화책.md",
+  "title": "알레인의 동화책",
+  "section": "후대의 오독",
+  "summary": "알레인의 동화책은 공포를 아이가 부를 수 있는 이름으로 다시 번역한 이야기 체계이며, 아홉 아타노르의 이름과 아홉 나라의 오독으로 이어지는 세계사 핵심 서사 물건이다.",
+  "status": "draft",
+  "type": "event_artifact",
+  "tags": [
+    "events",
+    "world-history",
+    "artifact",
+    "alaine"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a68823035d6d8828_005.json",
+  "text": "## 후대의 오독\n\n후대의 아홉 나라는 알레인의 동화를 원형 그대로 보존하지 않는다. 건국기의 초심, 국가별 신화, 장치의 물성, 보물의 하마르티아가 동화의 이름을 각자 다른 방식으로 가져간다. 그래서 구세주 후보가 마주하는 것은 원래 동화로 돌아가는 문제가 아니라, 후대가 잃어버린 장면을 자기 시대의 사건으로 다시 쓰는 문제다.\n\n나라별 동화 원전, 개별 책 제목, 각 나라가 잃어버린 장면은 각 국가의 사건과 전승 속에서 드러난다. 알레인의 동화책은 그보다 앞선 공통 이야기층이며, 동화가 세계사와 아홉 나라의 서사층으로 내려가는 원리와 핵심 동화의 의미를 품는다.",
+  "metadata": {
+    "char_count": 319,
+    "sha256": "a290f177b3b4779da92d994a1be6de88af1d044f6532bb3f8563d3510cb3305f"
+  }
+}

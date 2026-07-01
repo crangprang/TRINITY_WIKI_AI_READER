@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_9af13a8b86c9ae42",
+  "path": "02_LORE/L00_OLYMPIA/L00_FACT_DETAIL.txt",
+  "title": "L00_올림피아 / FACT_DETAIL",
+  "summary": "L00_올림피아 / FACT_DETAIL",
+  "root": "02_LORE",
+  "category": "02_LORE:L00_OLYMPIA",
+  "suffix": ".txt",
+  "sha256": "a1472218c5ce750572161b0bdce6fa009098cb096e215ce3f7ae81c8500f1d3b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_9af13a8b86c9ae42.json",
+  "chunks": [
+    {
+      "id": "live_doc_9af13a8b86c9ae42:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9af13a8b86c9ae42_000.json",
+      "char_count": 3755
+    }
+  ]
+}

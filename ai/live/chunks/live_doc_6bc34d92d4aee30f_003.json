@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f:003",
+  "document_id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "section": "캐릭터 QA",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_003.json",
+  "text": "## 캐릭터 QA\n\n- 캐릭터는 역할명보다 핵심 오답, 욕망, 방어 방식, 타인에게 새는 진실을 우선한다.\n- 가면, 위장, 자기기만은 완전한 거짓말보다 진짜 감정과 목적을 비틀어 보호하는 반진실로 다룬다.\n- 대사는 짧게 만든다는 이유로 인물의 지식, 계급, 상처, 관계 압력을 지우지 않는다.\n- 캐릭터 소개는 외형, 습관, 말의 압력, 선택 경향을 통해 구분되게 한다.",
+  "metadata": {
+    "char_count": 209,
+    "sha256": "d94677c641438c08143510799ac731b5ea2fddc646c61b6f932d40ba56ef08a9"
+  }
+}

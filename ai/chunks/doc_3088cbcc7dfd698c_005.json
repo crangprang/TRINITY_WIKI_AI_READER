@@ -1,0 +1,23 @@
+{
+  "id": "doc_3088cbcc7dfd698c:005",
+  "document_id": "doc_3088cbcc7dfd698c",
+  "path": "wiki/characters/main_party/index.md",
+  "wiki_path": "characters/main_party/index.md",
+  "title": "주인공 파티",
+  "section": "관련 문서",
+  "summary": "주인공 파티는 삼위의 군상 1부에서 아홉 나라의 균열을 따라 이동하며 세계의 법칙과 각자의 판결을 함께 드러내는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "main_party",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_005.json",
+  "text": "## 관련 문서\n\n- [삼위의 군상/1부/아홉 나라의 시대](../../events/삼위의_군상/1부/아홉_나라의_시대/index.md) - 주인공 파티 초반 이동의 시대.\n- [삼위의 군상/1부/아홉 나라의 시대/줄거리](../../events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md) - 파티 결성, 유령 의뢰, 마사오트 조우 실패, 알렉시아 기록 추적으로 이어지는 이야기.\n- [특이점](../../events/singularities/index.md) - 각 나라의 파국이 다음 파트의 상태로 넘어가는 전환점.",
+  "metadata": {
+    "char_count": 294,
+    "sha256": "b7e0027e523496f1d51feeb994ca7d48f004d03e7b9b408a3a8f97907c2fc1ab"
+  }
+}

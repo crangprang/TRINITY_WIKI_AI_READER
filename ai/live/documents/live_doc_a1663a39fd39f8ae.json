@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_a1663a39fd39f8ae",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_01_BLANC/P05_01_BLANC_CORE.txt",
+  "title": "P05_01_BLANC / CORE",
+  "summary": "P05_01_BLANC / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "be42e29f45cd146a4813519bf557cd82a8baf488fe1d97c7b2f464a20ad942bc",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_a1663a39fd39f8ae.json",
+  "chunks": [
+    {
+      "id": "live_doc_a1663a39fd39f8ae:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_a1663a39fd39f8ae_000.json",
+      "char_count": 3333
+    }
+  ]
+}

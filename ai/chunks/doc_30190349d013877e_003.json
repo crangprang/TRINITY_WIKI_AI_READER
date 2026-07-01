@@ -1,0 +1,23 @@
+{
+  "id": "doc_30190349d013877e:003",
+  "document_id": "doc_30190349d013877e",
+  "path": "wiki/characters/fellsions/정복의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/정복의_펠시온/index.md",
+  "title": "정복의 펠시온",
+  "section": "골화 갑주",
+  "summary": "정복의 펠시온은 죽음 군단의 첫 번째 검이자 방패로, 골화 갑주와 정면 돌파를 통해 죽음의 질서를 수행하는 대장군이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_30190349d013877e_003.json",
+  "text": "## 골화 갑주\n\n정복의 특이 형질은 `골화 갑주`다. 그의 몸, 특히 뼈는 어떤 금속도 넘는 경도로 변한다. 전투 시에는 뼈를 피부 밖으로 돋아나게 해 온몸을 빈틈없는 백골 갑옷과 무기로 두른다.\n\n골화 갑주는 공격과 방어를 동시에 완성하는 전투 특화 형질이다. 갈비뼈는 방패처럼 펼쳐지고, 팔뼈는 칼과 창으로 늘어나며, 어깨와 등에서는 뿔과 칼날 같은 돌기가 솟는다.\n\n정복의 얼굴 장치는 장수풍뎅이형 백골 투구로 굳는다. 이마의 뿔은 장식보다 공성추에 가까운 돌파 압력으로 읽히고, 전면 갑각은 명령을 받는 병사에게 성벽처럼 보이는 지휘 얼굴이 된다.",
+  "metadata": {
+    "char_count": 311,
+    "sha256": "eeab4dfaf805bd4a4b0c9ce998c7419359e5117014a472430ed8d35f32584358"
+  }
+}

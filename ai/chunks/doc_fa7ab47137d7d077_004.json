@@ -1,0 +1,24 @@
+{
+  "id": "doc_fa7ab47137d7d077:004",
+  "document_id": "doc_fa7ab47137d7d077",
+  "path": "wiki/characters/fellsions/기근의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/기근의_펠시온/support/appearance.md",
+  "title": "기근의 펠시온 외형",
+  "section": "자세와 표정",
+  "summary": "기근의 펠시온의 마른 세리형 실루엣, 작은 얼굴판, 장부와 빈 공간, 가뭄과 수탈의 건조한 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fa7ab47137d7d077_004.json",
+  "text": "## 자세와 표정\n\n기근은 무미건조하고 감정이 거의 없다. 모든 것을 가치로 판단하며, 상대의 고통에 공감하지 못한다. 탐욕적이지만 그 탐욕은 차가운 계산에서 비롯된다.\n\n표정과 자세는 약자를 수탈하는 세리의 냉정함에 둔다. 장부를 들여다보며 죽지 않을 만큼만 남기는 계산이 먼저 읽힌다.",
+  "metadata": {
+    "char_count": 161,
+    "sha256": "bfc07a38c74892a2bf618763c39968339ed481e4fcdae9aac61f5dbf5e2240d5"
+  }
+}

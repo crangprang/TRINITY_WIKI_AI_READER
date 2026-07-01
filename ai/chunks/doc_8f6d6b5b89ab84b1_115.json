@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:115",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 캘리번 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_115.json",
+  "text": "## [2026-06-26] rebuild | 캘리번 항목 정리\n\n[캘리번](characters/savior_candidates/캘리번/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [마사오트](universe/realms/balance/nations/마사오트.md)의 탐험가 길드, 금지 심층, 우니오네 지부 배치 구조에 맞췄다.\n\n- 정리: 우니오네 지부장, 금지 심층과 감시선, 마사오트와 탐험가 길드, 미란다, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [캘리번 외형](characters/savior_candidates/캘리번/support/appearance.md)의 관리 문구와 `새 가면 디자인 필요` 표면을 제거하고 큰 탐험가 실루엣, 탐험가 가면, 밧줄과 갑판 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 캘리번 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 461,
+    "sha256": "e6dbfc272db5cd7fe453e1f8c51859a096f56c73781c38f5ac09d55d5a0ba63d"
+  }
+}

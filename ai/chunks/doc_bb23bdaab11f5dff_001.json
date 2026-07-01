@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:001",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "기본 톤",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_001.json",
+  "text": "## 기본 톤\n\n단테의 공개 얼굴은 능글맞고 미끄러지는 반말이다. 그는 돈, 보상, 귀찮음, 출구, 조용한 해결을 먼저 꺼낸다. 문장은 한 번에 닫히지 않고 옆으로 흘러가며, 질문에는 대개 빠져나갈 구멍을 찾는 방식으로 답한다.\n\n이 가벼움은 생존 방패다. 말이 많아질수록 단테의 몸은 작아지고, 다수의 시선 앞에서는 같은 말을 반복하거나 말꼬리를 흐린다. 공개 칭찬, 영웅 취급, 권위자의 호명은 박수의 온도를 거치기 전에 판결의 온도로 먼저 닿는다.\n\n한 사람만 정면에 선 순간에는 말이 짧아진다. 목소리는 맑고 낮아지며, 핑계와 농담 대신 동사와 지시가 앞에 온다. 이 변화는 별의 시선을 잃는 공포와 결투재판의 기억이 동시에 열릴 때 나타난다.",
+  "metadata": {
+    "char_count": 364,
+    "sha256": "33c4f73a29c17c54226f6a58ad567dd90418c0fb7de0b2ed219a8e034df2846a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_4a1743b219395638:006",
+  "document_id": "doc_4a1743b219395638",
+  "path": "wiki/characters/savior_candidates/발데마르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/발데마르/support/appearance.md",
+  "title": "발데마르 외형",
+  "section": "관련 문서",
+  "summary": "발데마르의 60~70대 추방 중앙기사 실루엣, 낡은 중앙기사 코트, 오래 관리한 검, 낮은 사과 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_006.json",
+  "text": "## 관련 문서\n\n- [발데마르](../index.md) - 오르딜리아의 구세주 후보이자 추방된 중앙기사.\n- [단테](../../../main_party/단테/index.md) - 발데마르의 사과가 향하는 순례자.\n- [마텔다](../../../axions/마텔다/index.md) - 발데마르가 밀려난 오르딜리아의 엑시온.\n- [오르딜리아](../../../../universe/realms/balance/nations/오르딜리아.md) - 발데마르의 법정과 추방이 놓이는 정의의 나라.",
+  "metadata": {
+    "char_count": 274,
+    "sha256": "1fb06ca6f15650ecad9a774d24e6ebb19a2d120a15fbb85054a03f2a5268b41b"
+  }
+}

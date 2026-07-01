@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:237",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 특이점 사건군 항목 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_237.json",
+  "text": "## [2026-06-26] rebuild | 특이점 사건군 항목 확장\n\n[특이점](events/singularities/index.md)을 문서 목록에서 아홉 나라의 임계 전환을 설명하는 사건군 항목으로 확장했다.\n\n- 정리: 특이점의 정의, 파티의 인식 손실, 국가 이념과 장치가 사건으로 뒤집히는 작동 구조를 본문에 추가했다.\n- 하위 항목: 일월성신, 몽환포영, 건곤일척, 더 나은 내일, 사상누각, Fahrenheit 451, 생사불문, 백해무익, 삼라만상을 `## 하위 항목` 표로 정리했다.\n- 상위 항목: [사건](events/index.md)에 사건 영역의 역할과 세계사, 아홉 나라의 시대, 특이점 하위 항목 설명을 추가했다.",
+  "metadata": {
+    "char_count": 360,
+    "sha256": "db283714bb3d8f328601a6f855ee90f81da0649e6e781d328088149907128d4a"
+  }
+}

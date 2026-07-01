@@ -1,0 +1,121 @@
+{
+  "id": "doc_ce20d090386715c3",
+  "path": "wiki/characters/personas/탈레스/support/appearance.md",
+  "wiki_path": "characters/personas/탈레스/support/appearance.md",
+  "title": "탈레스 외형",
+  "summary": "탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "탈레스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "질문 의지 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "얼굴판과 질문 기하"
+    },
+    {
+      "level": 2,
+      "title": "검은 석판과 촛불"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    }
+  ],
+  "sha256": "449ab928dc33f18c3eae0fafd8e484f79c58587c6c9b7149997fc22fd0a8b94b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce20d090386715c3.json",
+  "chunks": [
+    {
+      "id": "doc_ce20d090386715c3:000",
+      "section": "탈레스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_000.json",
+      "char_count": 102
+    },
+    {
+      "id": "doc_ce20d090386715c3:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_001.json",
+      "char_count": 370
+    },
+    {
+      "id": "doc_ce20d090386715c3:002",
+      "section": "질문 의지 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_002.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_ce20d090386715c3:003",
+      "section": "얼굴판과 질문 기하",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_003.json",
+      "char_count": 217
+    },
+    {
+      "id": "doc_ce20d090386715c3:004",
+      "section": "검은 석판과 촛불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_004.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_ce20d090386715c3:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_005.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_ce20d090386715c3:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_006.json",
+      "char_count": 367
+    }
+  ]
+}

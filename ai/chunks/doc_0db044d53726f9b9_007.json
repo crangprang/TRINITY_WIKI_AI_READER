@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:007",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "여섯의 밤",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_007.json",
+  "text": "### 여섯의 밤\n\n여섯의 밤은 복수와 같은 방식의 상실이 걸릴 때 열린다. 부모와 사냥단, 여섯 이름이 한꺼번에 걸리고, 놓아야 한다는 사실을 알아도 쉽게 손을 떼지 못한다.",
+  "metadata": {
+    "char_count": 98,
+    "sha256": "9c8b516e249c2d934c64825f32108213651ddc950ca9c81c230de8403ee5cfab"
+  }
+}

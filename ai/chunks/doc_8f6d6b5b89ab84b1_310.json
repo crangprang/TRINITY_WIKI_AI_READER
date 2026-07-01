@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:310",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] merge | 트리네아드 중복 항목 병합",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_310.json",
+  "text": "## [2026-06-26] merge | 트리네아드 중복 항목 병합\n\n[트리네아드](characters/trineads/index.md)를 상위 신격 정본 항목으로 확정하고, 중복 하위 패키지 `characters/trineads/트리네아드/index.md`의 상세 본문을 병합했다. 공통 외형 support는 [트리네아드 외형](characters/trineads/index.md#외형-원리)으로 병합했고, 옛 하위 경로는 alias로 보존했다. WIKI 서버와 독자 감사의 캐릭터 항목 판정도 그룹 정본 항목의 support를 읽도록 맞췄다.",
+  "metadata": {
+    "char_count": 306,
+    "sha256": "99c208279f2275f775a48bdce101a1a6e3e90052c36f9c397a254536145671e4"
+  }
+}

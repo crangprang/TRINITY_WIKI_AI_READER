@@ -1,0 +1,24 @@
+{
+  "id": "doc_80e6bc6e2a9c33bb:004",
+  "document_id": "doc_80e6bc6e2a9c33bb",
+  "path": "wiki/characters/main_party/엘리자베스/support/appearance.md",
+  "wiki_path": "characters/main_party/엘리자베스/support/appearance.md",
+  "title": "엘리자베스 외형",
+  "section": "스칼렛",
+  "summary": "엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_004.json",
+  "text": "### 스칼렛\n\n스칼렛은 같은 조형 위에서 오른쪽 녹색 눈과 왼쪽 붉은 홍채의 녹/적 오드아이, 강한 위눈꺼풀 압력, 비대칭 입꼬리, 열린 흰 블라우스, 고정핀 슬릿, 혈조 도구의 압력으로 선다. 시선은 상대를 붙잡고, 몸은 무대처럼 비스듬히 열린다.\n\n자세한 외형과 시각 경계는 [스칼렛 외형](../../스칼렛/support/appearance.md)에서 다룬다.",
+  "metadata": {
+    "char_count": 205,
+    "sha256": "36ff909320aad575a2b1be4203155715a91e19381fed3609744348912d1f8aa8"
+  }
+}

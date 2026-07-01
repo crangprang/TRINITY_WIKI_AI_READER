@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_74f8792b265c7ac1",
+  "path": "02_LORE/L01_STRUGGLE/L01_BRANCH_IDEA.txt",
+  "title": "L01_염한 / BRANCH_IDEA",
+  "summary": "L01_염한 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L01_STRUGGLE",
+  "suffix": ".txt",
+  "sha256": "bba26de9c51d569774706401ae6cb738d8d85ca93cc9496f42462ec34e90d960",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_74f8792b265c7ac1.json",
+  "chunks": [
+    {
+      "id": "live_doc_74f8792b265c7ac1:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_74f8792b265c7ac1_000.json",
+      "char_count": 798
+    }
+  ]
+}

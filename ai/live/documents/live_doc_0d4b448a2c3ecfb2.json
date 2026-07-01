@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0d4b448a2c3ecfb2",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TRINEAD_REFERENCE.txt",
+  "title": "TRINEAD_REFERENCE",
+  "summary": "TRINEAD_REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "f973a77e97d7c8fcb73c82b5c8c11fe951c787e65e5ac49a35542f0b5b89f173",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0d4b448a2c3ecfb2.json",
+  "chunks": [
+    {
+      "id": "live_doc_0d4b448a2c3ecfb2:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0d4b448a2c3ecfb2_000.json",
+      "char_count": 1624
+    }
+  ]
+}

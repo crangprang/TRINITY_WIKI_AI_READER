@@ -1,0 +1,24 @@
+{
+  "id": "doc_80e6bc6e2a9c33bb:005",
+  "document_id": "doc_80e6bc6e2a9c33bb",
+  "path": "wiki/characters/main_party/엘리자베스/support/appearance.md",
+  "wiki_path": "characters/main_party/엘리자베스/support/appearance.md",
+  "title": "엘리자베스 외형",
+  "section": "시각 경계",
+  "summary": "엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_005.json",
+  "text": "## 시각 경계\n\n엘리자베스 외형은 두 전면의 차이를 새 체형이나 새 의상으로 만들지 않는다. 같은 몸의 눈빛, 말의 온도, 손목과 어깨의 각도, 옷의 여밈, 눈색 변화가 전환을 드러낸다.\n\n반사면은 엘리자베스의 시각 징후로 작동한다. 거울, 물, 유리 같은 면은 블랑이 흔들릴 때 블랑의 상을 흐리게 만들거나, 스칼렛 쪽 결을 지나치게 선명하게 남길 수 있다.\n\n공용 몸의 세부 이미지 생성 기준은 전면별 외형 기준과 함께 갈라진다. 블랑 단독 이미지는 [블랑 외형](../../블랑/support/appearance.md), 스칼렛 단독 이미지는 [스칼렛 외형](../../스칼렛/support/appearance.md)을 따른다.",
+  "metadata": {
+    "char_count": 355,
+    "sha256": "1b8212cd31a4f092bcfec1e9a94fdb9f615631f82869da6a51047831de40eb87"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:016",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "LIVE lore 대조 결과",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_016.json",
+  "text": "#### LIVE lore 대조 결과\n\n이 대조는 `TRINITY_LIVE/02_LORE/L01~L09`의 core/fact 계열을 확인한 1차 결과다. 이름 차이는 현재 WIKI 본문을 우선해 정규화하고, 사용자 명시가 없으면 교체 전 명칭을 보존하지 않는다.\n\n| 항목 | 후속 처리 |\n|---|---|\n| 국가명·인물명·물건명 차이 | WIKI 정본명으로 정규화한다. 교체 전 명칭은 판단 선택지로 제시하지 않는다. |\n| 필로시온 표기 정합성 | 현재 WIKI 표기를 유지하고, 국가 대응표 2차 점검 때 정본명만 남긴다. |\n| 장치명 계층 | WIKI의 상위 아포라투스명과 장치 표면 요소를 구분한다. 염한의 일륜/월륜/시지기만 확정 기관 구조로 유지하고, LIVE ingest 때 WIKI 구조 밖의 계층명은 보존하지 않는다. |\n\n공통 누락 슬롯은 언어권, 세부 동화·신화, 트리네아드 미덕, 시트리노 초심, 대응 펠시온, 4등급 판타즈마·예언, 로컬 종교와 삼위정교 공인 조직이다. 이 값들은 국가 문서에 임시값으로 올리지 않고 후속 국가별 리뉴얼에서 확정한다.\n\n- [x] [올림피아](../universe/realms/balance/nations/올림피아.md)와 [에레모스](../universe/realms/balance/nations/에레모스.md)는 핵심 아홉 나라가 아니라 주변 권역이므로 원샷 슬롯을 그대로 적용하지 않는다.",
+  "metadata": {
+    "char_count": 703,
+    "sha256": "623aa77d81cee2ee66c8a8db1bcd0d76933d0b220189ecd0f9d9791f125a6325"
+  }
+}

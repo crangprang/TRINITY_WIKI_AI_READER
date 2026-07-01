@@ -1,0 +1,24 @@
+{
+  "id": "doc_3be46c6b7a69dc1d:000",
+  "document_id": "doc_3be46c6b7a69dc1d",
+  "path": "wiki/universe/realms/balance/organizations/구세군.md",
+  "wiki_path": "universe/realms/balance/organizations/구세군.md",
+  "title": "구세군",
+  "section": "구세군",
+  "summary": "구세군은 삼위정교 공인 조직으로, 용기의 이름 아래 파괴계 침공과 전조 대응, 구조, 치안, 현장 무력 투입을 수행한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3be46c6b7a69dc1d_000.json",
+  "text": "# 구세군\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 삼위정교 공인 조직 |\n| 삼위 대응 | 용기 |\n| 주요 업무 | 파괴계 침공 대응 / 치안 / 구조 / 현장 무력 투입 |\n| 권한 | 예산 지원 / 통행권 / 징발권 / 단속 협조권 |\n| 연계 조직 | [파르마콘](파르마콘.md) / [크로니클](크로니클.md) |\n| 관련 제도 | [이레귤러 헌터](이레귤러_헌터.md) |",
+  "metadata": {
+    "char_count": 222,
+    "sha256": "dd2398b52d920b48a591cc6496c147beb14fc626b5178505ddd7c9eed0523e63"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:015",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] lock | 비염한 2+1 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_015.json",
+  "text": "## [2026-06-28] lock | 비염한 2+1 표면 정리\n\n사용자 잠금에 따라 염한 외 `2핵심기관+1제어기관` 확정은 보류 상태로 유지했다. [아포라투스](universe/realms/balance/apparatus/index.md), [균형계 언어](universe/realms/balance/language/index.md), [아홉 나라](universe/realms/balance/nations/index.md), [오아시스](universe/realms/balance/nations/오아시스.md), [파라디소](universe/realms/balance/nations/파라디소.md), [플라센티아](universe/realms/balance/nations/플라센티아.md)의 확정표처럼 읽히는 라벨을 대표 표면 요소와 대표 하위명으로 낮췄다.\n\n[파우스트](characters/axions/파우스트/index.md), [메피스토](characters/personas/메피스토/index.md), [설리반](characters/axions/설리반/index.md), [헬렌](characters/personas/헬렌/index.md), [제페토](characters/axions/제페토/index.md), [투르키나](characters/personas/투르키나/index.md)의 정보표도 같은 기준에 맞춰 장치 요소 연결로 정리했다. 염한의 일륜/월륜/시지기는 확정 기관 구조로 유지하고, 오아시스 ingest는 이 정리 뒤 다시 진행한다.",
+  "metadata": {
+    "char_count": 764,
+    "sha256": "34d348e04ea2a7239148561c1f81dbb4f19d52b54feedce3bab979475e7f090f"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_ffab697840829384:026",
+  "document_id": "doc_ffab697840829384",
+  "path": "wiki/characters/main_party/스칼렛/index.md",
+  "wiki_path": "characters/main_party/스칼렛/index.md",
+  "title": "스칼렛",
+  "section": "파티와 외부 시선",
+  "summary": "스칼렛은 같은 몸 안에서 더러운 역할과 시선의 무게를 먼저 떠안는 배우이자 탐정이다. 위험한 웃음과 무대성은 블랑에게 향하는 시선을 자기 쪽으로 돌리는 생존 장치이며, 엘리자베스라는 이름 밑에서 지워지지 않으려는 사람의 버팀이 함께 남는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_026.json",
+  "text": "### 파티와 외부 시선\n\n[파티](../파티/index.md)는 스칼렛에게 동료이기 전에 관객이며, 동시에 이 몸의 안전거리를 정하는 사람들이다. 공포가 자기 쪽으로 몰릴수록 스칼렛은 숨이 편해진다.\n\n외부 시선이 블랑에게 오래 붙으면 스칼렛은 장면을 더럽히거나, 더 큰 웃음과 위협으로 시선을 빼앗아 온다. `저쪽은 건드리지 마`라는 선을 먼저 성립시키는 일이 그녀의 관계 운용을 지배한다.",
+  "metadata": {
+    "char_count": 220,
+    "sha256": "2bf8fdfcc472e19cd9c103979b2a887ab9f27bf72e7f52d2b2da5b6f380b3f1e"
+  }
+}

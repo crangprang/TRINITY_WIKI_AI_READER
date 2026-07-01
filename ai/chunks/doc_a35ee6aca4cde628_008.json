@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:008",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-26 캐릭터 support와 항목 양식",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_008.json",
+  "text": "## 2026-06-26 캐릭터 support와 항목 양식\n\n- P01 아인과 P07 단테의 음악 키워드는 각 캐릭터 `support/music.md`로 유지한다.\n- WIKI 앱은 캐릭터 항목을 열 때 메인 `index.md`와 승인된 `support/` 파일을 구분된 문단으로 함께 보여야 한다.\n- 캐릭터 외형 기준은 각 캐릭터 `support/appearance.md`에서 관리하며 메인 본문에는 두지 않는다.\n- 캐릭터 외형 이미지 생성 기준과 배제 프롬프트/QA 기준은 해당 캐릭터 `support/appearance.md`의 `## 이미지 생성 기준`과 `## 시각 경계`에서 관리하며 별도 prompt packet 항목으로 분리하지 않는다.\n- 독자용 항목은 유형별 최소 양식만 강제한다. 근거 있는 내용이 없는 표준 섹션은 만들지 않고, 항목 유형별 권장 섹션은 소유 후보로만 사용한다.\n- 독자용 항목에는 `sources` 프런트매터와 원천 섹션을 두지 않는다. 근거 추적이 필요하면 RUN, 변경 기록, 또는 활성 review 항목에서 처리한다.",
+  "metadata": {
+    "char_count": 540,
+    "sha256": "fd6b36aa7fcd6adedb4613ad28fadefc7922e148ad3c6a669e3b787323515ac7"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_c6963020bb9f7607",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_99_SPOILER.txt",
+  "title": "?. 스포일러",
+  "summary": "?. 스포일러",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "3cde3fc1be419e97e9a43de67636b8d083eb43f2afae77ea36a4cff7f970fcb0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c6963020bb9f7607.json",
+  "chunks": [
+    {
+      "id": "live_doc_c6963020bb9f7607:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6963020bb9f7607_000.json",
+      "char_count": 3766
+    }
+  ]
+}

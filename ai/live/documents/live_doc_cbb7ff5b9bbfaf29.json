@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_cbb7ff5b9bbfaf29",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_01_BLANC/P05_01_BLANC_VOICE_SAMPLE.txt",
+  "title": "P05_01_BLANC / VOICE_SAMPLE",
+  "summary": "P05_01_BLANC / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "32910ac2d71ae1a6bc2fe54a9f5f9b9826afa6cd494fac6efd58767ed520cabb",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_cbb7ff5b9bbfaf29.json",
+  "chunks": [
+    {
+      "id": "live_doc_cbb7ff5b9bbfaf29:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cbb7ff5b9bbfaf29_000.json",
+      "char_count": 5014
+    }
+  ]
+}

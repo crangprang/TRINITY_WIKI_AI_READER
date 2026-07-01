@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:022",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "달빛 중독자",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_022.json",
+  "text": "### 달빛 중독자\n\n- `[용투 초입]` `좋군. 너무 선명하군.`\n- `[환희가 샐 때]` `더 와라. 아직 끝내기엔 이르다.`\n- `[상대를 몰아붙일 때]` `숨이 흐트러졌다. 다음은 목이다.`\n- `[감각을 붙들 때]` `꺼지지 마라. 아직... 아직이다.`\n- `[월광 잔열]` `피 냄새가 남았다. 멀리 서라.`\n- `[블랑이 말릴 때]` `알고 있다. 그래서 더 멈춰야 하는데.`",
+  "metadata": {
+    "char_count": 219,
+    "sha256": "9334185f11eae2299b25f4453b00681ccd926944e59bc2d1e101c0e9a0023a31"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_b021d4f35369b635:001",
+  "document_id": "doc_b021d4f35369b635",
+  "path": "wiki/characters/fellsions/침식의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/침식의_펠시온/support/appearance.md",
+  "title": "침식의 펠시온 외형",
+  "section": "외형 기준",
+  "summary": "침식의 펠시온의 금욕적 죄수 실루엣, 송장벌레 백골 가면, 붉은 봉인 문신, 검은 침식 문신, 수라가 새어 나오는 몸의 감옥 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b021d4f35369b635_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 실루엣 | 금욕적인 죄수의 인간형 실루엣, 가장자리와 팔·등 일부에서 번지는 검은 침식 |\n| 의상 | 봉인 문신을 가리지 않는 누더기 천과 탄화 흔적 |\n| 가면 | 송장벌레 백골 가면, 봉인된 폭력의 얼굴, 검은 침식이 새어 나오는 봉인 얼굴 |\n| 소품 | 붉은 봉인 문신과 검은 침식 문신이 새겨진 몸 자체 |\n| 표정/자세 | 한쪽 손이나 몸의 중심으로 봉인을 누르는 자세, 틈에서 탈옥하듯 번지는 검은 침식 |\n| 팔레트/질감 | 붉은 봉인선, 검은 먹물 문신, 탄화, 누더기 천, 창백한 피부 |",
+  "metadata": {
+    "char_count": 318,
+    "sha256": "8bd61945ed1f42c4c473871491d344e434e58560c6c78e38bccfb4742c2a946a"
+  }
+}

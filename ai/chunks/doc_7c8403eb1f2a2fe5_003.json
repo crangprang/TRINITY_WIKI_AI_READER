@@ -1,0 +1,24 @@
+{
+  "id": "doc_7c8403eb1f2a2fe5:003",
+  "document_id": "doc_7c8403eb1f2a2fe5",
+  "path": "wiki/characters/personas/index.md",
+  "wiki_path": "characters/personas/index.md",
+  "title": "페르소나",
+  "section": "심층과 표층",
+  "summary": "페르소나는 아홉 아타노르 잔재, 보물, 프로토타입 필로시온이 합성되어 태어난 장치 심층 관리자 의식이자 표층 대변자 인격이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "personas",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_003.json",
+  "text": "## 심층과 표층\n\n페르소나는 심층과 표층으로 나뉜다. 심층에는 제어핵에 묶인 근본 의식이 있고, 표층에는 인간 사회에 드러나는 인터페이스, 페르소나명, 인격화된 대변자가 있다.\n\n페르소나를 읽을 때는 이름의 층위를 구분해야 한다. 잔재명과 아타노르명은 고대 장치의 이름이고, 삼위정교 공식명은 중앙 전례가 붙인 이름이며, 로컬 성상명은 각 나라가 삼위 덕목을 자기 언어로 번역한 이름이다. 페르소나명은 이 층위들과 별개로, 장치 심층 관리자 의식과 표층 대변자 인격을 가리킨다.",
+  "metadata": {
+    "char_count": 268,
+    "sha256": "d4c572944dfbc0f0879a7362fa68224e14f9879de69d46c7722aab9bf97e640c"
+  }
+}

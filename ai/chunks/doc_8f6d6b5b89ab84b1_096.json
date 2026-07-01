@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:096",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 구세주 후보와 앙상블 대문 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_096.json",
+  "text": "## [2026-06-26] rebuild | 구세주 후보와 앙상블 대문 보강\n\n[구세주 후보](characters/savior_candidates/index.md)에 대표성과 균열, 현장성과 개인 목적 설명을 추가하고 [앙상블](characters/ensemble/index.md)에 증언과 탈주, 파티 바깥의 인과 설명을 보강했다. 두 캐릭터 그룹 대문이 목록 안내보다 올림피아 대표성, 기능조직, 세계사 증언, 파괴계 탈주의 관계를 먼저 읽히게 했다.",
+  "metadata": {
+    "char_count": 255,
+    "sha256": "abfec4c243beb9af3bcf6acca95e640a6efd08cfd74c1b4f29ee1a2368fe4660"
+  }
+}

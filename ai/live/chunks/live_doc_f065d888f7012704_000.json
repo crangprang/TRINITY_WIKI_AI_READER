@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_f065d888f7012704:000",
+  "document_id": "live_doc_f065d888f7012704",
+  "path": "03_WORLD/04_CREATURE/C04_TRADE/01_NONSAPI/04_PROTIST/C04_PROTIST_BRANCH_IDEA.txt",
+  "title": "C04_TRADE / PROTIST_BRANCH_IDEA",
+  "section": "body",
+  "summary": "C04_TRADE / PROTIST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f065d888f7012704_000.json",
+  "text": "C04_TRADE / PROTIST_BRANCH_IDEA\n\n[이 문서 사용법]\n- 레이어드의 원생물 후보를 둔다.\n- 아직 개체 dossier가 아니며, 승격 전까지 후보로만 취급한다.\n\n1. 후보\n\n- 잔류젤\n- 수은근\n- 금열포\n- 계약해면\n\n2. 적용 메모\n\n- 레이어드 원생물은 돈이 아니라 누전, 배관, 폐기물, 젖은 문서, 전광망 주변 물성에서 자란다.\n- 잔류젤은 누전과 젖은 바닥 위의 남은 전도 반응을 드러내는 젤형 군체다.\n- 수은근은 배관과 하층 수로, 금속 오염에 반응하는 뿌리형 원생물이다.\n- 금열포는 뜨거운 거품과 전도성 폐기물로 장비 고장과 배수기 정지를 만든다.\n- 계약해면은 계약의 의미를 먹는 것이 아니라 젖은 종이, 잉크, 봉투 접착제, 장부좀 사체를 빨아들이는 해면형 원생물이다.\n- 처리 방향은 절연, 건조, 배수, 문서 분리, 전광망 차단이다.",
+  "metadata": {
+    "char_count": 439,
+    "sha256": "92a1a1c618f56ae8fa9d05e03ece83d3c338c56f84c4244520c2192fedc811d5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "doc_106a600b3fdaef81:004",
+  "document_id": "doc_106a600b3fdaef81",
+  "path": "wiki/characters/index.md",
+  "wiki_path": "characters/index.md",
+  "title": "인물",
+  "section": "하위 항목",
+  "summary": "인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "characters"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_106a600b3fdaef81_004.json",
+  "text": "## 하위 항목\n\n| 하위 항목 | 역할 |\n|---|---|\n| [주인공 파티](main_party/index.md) | 삼위의 군상 1부에서 아홉 나라를 이동하며 세계 법칙과 각자의 판결을 함께 드러내는 주인공 집단. |\n| [앙상블](ensemble/index.md) | 세계사와 파괴계, 스트레인저, 장기 계획을 관통하며 주인공 집단 바깥에서 큰 사건 압력을 만드는 인물. |\n| [역사적 행위자](historical/index.md) | 본편 이전 세계사의 창조, 우주 구조, 시대 전환을 직접 움직인 행위자. |\n| [트리네아드](trineads/index.md) | 창조계, 균형계, 파괴계의 상위 신격과 그 개별 인격을 다루는 신격 축. |\n| [엑시온](axions/index.md) | 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권과 통치로 번역하는 통치 얼굴. |\n| [페르소나](personas/index.md) | 아포라투스 심층 관리자 의식과 표층 대변자 인격을 다루는 장치 심층의 얼굴. |\n| [펠시온](fellsions/index.md) | 파괴계 트리네아드의 이름 판결을 받아 균형계에 침투한 인간형 하위신 계열. |\n| [구세주 후보](savior_candidates/index.md) | 아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자. |",
+  "metadata": {
+    "char_count": 689,
+    "sha256": "3f7e6c481936ae5a68247a6e56d0abdd31a0f1e4b0bece147f6b82a6dd4c2c8f"
+  }
+}

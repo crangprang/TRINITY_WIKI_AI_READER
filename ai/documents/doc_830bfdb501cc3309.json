@@ -1,0 +1,248 @@
+{
+  "id": "doc_830bfdb501cc3309",
+  "path": "wiki/characters/savior_candidates/index.md",
+  "wiki_path": "characters/savior_candidates/index.md",
+  "title": "구세주 후보",
+  "summary": "아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "savior_candidates",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:savior_candidates",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "구세주 후보"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "대표성과 균열"
+    },
+    {
+      "level": 2,
+      "title": "현장성과 개인 목적"
+    },
+    {
+      "level": 2,
+      "title": "올림피아 제도"
+    },
+    {
+      "level": 2,
+      "title": "신앙과 페르소나"
+    },
+    {
+      "level": 2,
+      "title": "기능조직"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "염객방",
+      "target": "wiki/universe/realms/balance/organizations/염객방.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    },
+    {
+      "label": "그레트헨 연구소",
+      "target": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "필그림즈",
+      "target": "wiki/universe/realms/balance/organizations/필그림즈.md"
+    },
+    {
+      "label": "마스크맨",
+      "target": "wiki/universe/realms/balance/organizations/마스크맨.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "염객방",
+      "target": "wiki/universe/realms/balance/organizations/염객방.md"
+    },
+    {
+      "label": "로렌초 카발리에리",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "그레트헨 연구소",
+      "target": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "발데마르",
+      "target": "wiki/characters/savior_candidates/발데마르/index.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "필그림즈",
+      "target": "wiki/universe/realms/balance/organizations/필그림즈.md"
+    },
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    },
+    {
+      "label": "마스크맨",
+      "target": "wiki/universe/realms/balance/organizations/마스크맨.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    }
+  ],
+  "sha256": "f8f846af67afeabab9ab93c2e3817965f758ee8dc5e33ef23ee99383efef0232",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_830bfdb501cc3309.json",
+  "chunks": [
+    {
+      "id": "doc_830bfdb501cc3309:000",
+      "section": "구세주 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_000.json",
+      "char_count": 176
+    },
+    {
+      "id": "doc_830bfdb501cc3309:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_001.json",
+      "char_count": 253
+    },
+    {
+      "id": "doc_830bfdb501cc3309:002",
+      "section": "대표성과 균열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_002.json",
+      "char_count": 371
+    },
+    {
+      "id": "doc_830bfdb501cc3309:003",
+      "section": "현장성과 개인 목적",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_003.json",
+      "char_count": 369
+    },
+    {
+      "id": "doc_830bfdb501cc3309:004",
+      "section": "올림피아 제도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_004.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_830bfdb501cc3309:005",
+      "section": "신앙과 페르소나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_005.json",
+      "char_count": 419
+    },
+    {
+      "id": "doc_830bfdb501cc3309:006",
+      "section": "기능조직",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_006.json",
+      "char_count": 1605
+    },
+    {
+      "id": "doc_830bfdb501cc3309:007",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_007.json",
+      "char_count": 1531
+    },
+    {
+      "id": "doc_830bfdb501cc3309:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_008.json",
+      "char_count": 414
+    }
+  ]
+}

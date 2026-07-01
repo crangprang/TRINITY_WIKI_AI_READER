@@ -1,0 +1,281 @@
+{
+  "id": "doc_95c91b0f1eb11ba7",
+  "path": "wiki/index.md",
+  "wiki_path": "index.md",
+  "title": "삼위일체 우주 대문",
+  "summary": "삼위일체 우주의 세계법칙, 국가, 사건, 인물, 존재를 한곳에서 여는 대문.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "index",
+    "navigation"
+  ],
+  "updated": "2026-06-29",
+  "category": "index.md",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "삼위일체 우주 대문"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "세계법칙"
+    },
+    {
+      "level": 2,
+      "title": "인물과 존재"
+    },
+    {
+      "level": 2,
+      "title": "사건과 기록"
+    },
+    {
+      "level": 2,
+      "title": "검토와 결정"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "삼위일체 우주 대응표",
+      "target": "wiki/universe/structure/삼위일체_우주_대응표.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "앙상블",
+      "target": "wiki/characters/ensemble/index.md"
+    },
+    {
+      "label": "역사적 행위자",
+      "target": "wiki/characters/historical/index.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "용 계열",
+      "target": "wiki/beings/dragonkin/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "사건",
+      "target": "wiki/events/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "삼위의 군상/2부/신들의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md"
+    },
+    {
+      "label": "삼위의 군상/3부/초인의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    },
+    {
+      "label": "검토와 결정 요청",
+      "target": "wiki/review/index.md"
+    },
+    {
+      "label": "기록 로그",
+      "target": "wiki/log.md"
+    }
+  ],
+  "sha256": "2a6d53c18d860c9020671b907bb96bc924230eed4ef25e35f1431783c063b6a8",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_95c91b0f1eb11ba7.json",
+  "chunks": [
+    {
+      "id": "doc_95c91b0f1eb11ba7:000",
+      "section": "삼위일체 우주 대문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_000.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_95c91b0f1eb11ba7:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_001.json",
+      "char_count": 880
+    },
+    {
+      "id": "doc_95c91b0f1eb11ba7:002",
+      "section": "세계법칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_002.json",
+      "char_count": 1402
+    },
+    {
+      "id": "doc_95c91b0f1eb11ba7:003",
+      "section": "인물과 존재",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_003.json",
+      "char_count": 762
+    },
+    {
+      "id": "doc_95c91b0f1eb11ba7:004",
+      "section": "사건과 기록",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_004.json",
+      "char_count": 913
+    },
+    {
+      "id": "doc_95c91b0f1eb11ba7:005",
+      "section": "검토와 결정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_005.json",
+      "char_count": 170
+    }
+  ]
+}

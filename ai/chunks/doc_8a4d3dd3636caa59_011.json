@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:011",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "시각 경계",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_011.json",
+  "text": "## 시각 경계\n\n- 1층에서는 흰 구름 같은 여행자, 갈색 대각선 크로스백, 얇고 넓은 스케치북이 함께 드러나야 한다.\n- 2층에서는 흰 외피가 사라지고 검은 고딕 하이넥 롱탑, 오팔 끝단 케이프렛, 마른 고체 안료가 드러나야 한다.\n- 3층에서는 흰 스목, 맨발, 마른 안료 자국, 한쪽 눈의 컬러휠, 손가락 프레임이 함께 드러나야 한다.\n- 세 층 모두 밝은 테이퍼드 바지의 검은 옆선, 별도 단추열, 하단 다이아몬드 포인트를 유지한다.\n- 1·2층 신발은 흑회색/차콜 여행용 앵클부츠다. 3층은 맨발이다.\n- 젖은 액체, 피, 독, 마법 이펙트로 색을 표현하면 기각한다.\n- 귀여운 파스텔 마스코트, 백치형 흰 눈, 네온 무지개 화려함은 기각한다.",
+  "metadata": {
+    "char_count": 366,
+    "sha256": "055896ec7801bcb42405d94848eb31a971ed88248eb8c81e76d43f5aa0159c2b"
+  }
+}

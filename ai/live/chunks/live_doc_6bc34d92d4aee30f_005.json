@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f:005",
+  "document_id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "section": "외형 번역 QA",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_005.json",
+  "text": "## 외형 번역 QA\n\n- 외형은 나이 read, 체형/실루엣, 얼굴 구조, 머리, 눈, 의복 구조, 색, 소품, 마모, 자세 순서로 구체화한다.\n- 아름답다, 우아하다, 고귀하다 같은 평가어는 구체 lock을 대체하지 못한다.\n- 마스크나 가면은 `착용`, `탈착`, `소지`, `반사`, `부재` 상태를 분명히 한다.\n- 이미지 생성용 prompt 문장은 독자용 canon 본문에 그대로 옮기지 않는다. 보이는 기준만 support나 visual lock으로 정리한다.",
+  "metadata": {
+    "char_count": 264,
+    "sha256": "99e8c554737cd9037b3d7470d1bd8e7dc9641c1296623440200f9c1e35809b18"
+  }
+}

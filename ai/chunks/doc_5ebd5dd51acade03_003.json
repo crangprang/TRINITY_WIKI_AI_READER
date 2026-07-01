@@ -1,0 +1,24 @@
+{
+  "id": "doc_5ebd5dd51acade03:003",
+  "document_id": "doc_5ebd5dd51acade03",
+  "path": "wiki/characters/savior_candidates/카스파르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/카스파르/support/appearance.md",
+  "title": "카스파르 외형",
+  "section": "역할 가면 세트",
+  "summary": "카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_003.json",
+  "text": "## 역할 가면 세트\n\n역할 가면 세트는 카스파르의 핵심 소품이다. 가면은 개인 정체성을 감추는 장식이면서, 동시에 추적, 유인, 방어, 보고, 회수 같은 현장 역할을 나누는 도구다. 각 가면은 사냥단의 기능과 계약 책임을 보여 준다.\n\n가면은 다음 출발을 기다리는 장비다. 박물관 진열물의 표면은 카스파르의 운영성을 약하게 만든다. 손이 닿는 거리, 장비 벨트와 같은 높이, 현장 지시서 옆에 놓일 때 카스파르의 운영성이 살아난다.",
+  "metadata": {
+    "char_count": 242,
+    "sha256": "2bbbca2f1fade948f157390e7f80cb132d1b1a6cf8399a477df2c0a7a3f05306"
+  }
+}

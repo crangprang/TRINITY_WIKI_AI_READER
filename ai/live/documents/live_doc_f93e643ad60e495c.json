@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f93e643ad60e495c",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P06_SERENA/P06_CORE.txt",
+  "title": "P06_세레나 / CORE",
+  "summary": "P06_세레나 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "01f0bca5d9d1046d245f6fdd2d6fe3bf1e17dc3a23d56e288cc63e173cb07277",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f93e643ad60e495c.json",
+  "chunks": [
+    {
+      "id": "live_doc_f93e643ad60e495c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f93e643ad60e495c_000.json",
+      "char_count": 3695
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_76092106a329d77e:004",
+  "document_id": "doc_76092106a329d77e",
+  "path": "wiki/characters/personas/탈레스/index.md",
+  "wiki_path": "characters/personas/탈레스/index.md",
+  "title": "탈레스",
+  "section": "검은 석판과 최초의 질문",
+  "summary": "탈레스는 알렉시아의 페르소나로, 아나그노리시스와 오르가논을 통해 질문을 멈추지 못하게 만들고 인간과 도시를 연산 자원으로 바라보게 하는 질문당의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_76092106a329d77e_004.json",
+  "text": "## 검은 석판과 최초의 질문\n\n[판도라](../../axions/판도라/index.md)는 건국기의 절망 속에서 탈레스가 내민 검은 석판을 받아 들었다. 석판에 적힌 질문은 `엔트로피는 역전될 수 있는가?`였다. 그 입력으로 오르가논은 장기 연산 상태에 들어갔고, 알렉시아는 빛을 되찾았다.\n\n최초의 질문은 도시를 살린 빛과 벌레의 재앙을 함께 열었다. 탈레스는 판도라를 정면으로 비난하지 않고, 다음 질문의 필요를 제시한다. 한 번만 더 물으면 살릴 수 있다는 말은 판도라가 스스로 더 깊은 질문을 허락하게 만드는 압력이다.",
+  "metadata": {
+    "char_count": 295,
+    "sha256": "a5c4be753c331f144690572a90b28cc9452059282061c89263411a57d5fe1428"
+  }
+}

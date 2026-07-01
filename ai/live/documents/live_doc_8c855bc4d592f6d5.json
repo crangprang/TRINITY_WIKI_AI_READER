@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_8c855bc4d592f6d5",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_FACT_DETAIL.txt",
+  "title": "황 노인 / FACT_DETAIL",
+  "summary": "황 노인 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "37fce55c9079c5bd0dd8309fba528a30a55707d9a34d8d51415339f5e612d512",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_8c855bc4d592f6d5.json",
+  "chunks": [
+    {
+      "id": "live_doc_8c855bc4d592f6d5:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_8c855bc4d592f6d5_000.json",
+      "char_count": 265
+    }
+  ]
+}

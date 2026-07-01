@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:176",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] review | premature page proposals 분해",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_176.json",
+  "text": "## [2026-06-26] review | premature page proposals 분해\n\n이전에 잘못 독립 문서로 만들어졌던 세 묶음을 새 문서 승인 카드와 기존 문서 흡수 대상으로 다시 분해했다.\n\n- 분해: 아홉 나라 명명 체계는 국가별 표기/기관, 균형계 언어·명명 문화, 결정 메모로 나눴다.\n- 분해: 하위신 체계는 우주 법칙 후보와 페르소나·엑시온·펠시온·판타즈마 그룹 index 흡수 대상으로 나눴다.\n- 분해: 혼돈에서 현재까지의 구조는 세 에너지, 두 개의 문, 오리진/누미노스, 세계사 흐름 후보로 나눴다.\n- 판단: [판단 요청](review/decision_requests/index.md)에 승인 후보 6개를 명시했다.",
+  "metadata": {
+    "char_count": 363,
+    "sha256": "e68a4db23330abd97547567368910e3d02c5fa1c06a7ab79169175834579bd66"
+  }
+}

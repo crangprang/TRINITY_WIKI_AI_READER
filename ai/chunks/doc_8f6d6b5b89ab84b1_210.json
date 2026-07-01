@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:210",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-24] maintenance | 옌 외형 잠금 단일화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_210.json",
+  "text": "## [2026-06-24] maintenance | 옌 외형 잠금 단일화\n\n옌의 최종 1·2층위 키비주얼 기준을 독자용 기사 안의 외형 잠금으로 통합하고, 역할이 끝난 live canon 미러와 원천 스냅샷 미러를 제거했다.\n\n- 반영: [옌](characters/main_party/옌/index.md), 인물 색인, live canon 색인, raw snapshot manifest\n- 주요 판단: 상세 외형은 위키 기사 한 곳에서 관리한다. 1층위는 갈색 대각선 크로스백, 얇고 넓은 스케치북, 흰 여행 스목, 밝은 테이퍼드 바지, 흑회색/차콜 여행용 앵클부츠로 고정하고, 2층위는 검은 고딕 롱탑, 얇은 검은 케이프렛의 오팔 끝단, 같은 밝은 하의와 앵클부츠, 마른 고체 안료로 고정한다.",
+  "metadata": {
+    "char_count": 390,
+    "sha256": "27e38a0098df12978cb777b6883f60dceb650492758bdb0ac2388f947a8e3f2b"
+  }
+}

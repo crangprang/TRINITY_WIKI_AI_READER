@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:276",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 엑시온·구세주 후보·펠시온 정보상자 라벨 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_276.json",
+  "text": "## [2026-06-26] style | 엑시온·구세주 후보·펠시온 정보상자 라벨 정리\n\n캐릭터 루트, 앙상블, 엑시온, 구세주 후보, 펠시온 영역 상단 표의 `문서 유형` 라벨을 `분류`로 바꿨다.\n\n- 범위: 캐릭터 전체 색인, 앙상블 인물, 엑시온 인물, 구세주 후보 인물군과 개별 후보, 펠시온 개별 인물.\n- 유지: 인물/인물군 분류값, 캐릭터 패키지 구조, support 연결은 그대로 둔다.",
+  "metadata": {
+    "char_count": 226,
+    "sha256": "4c2e23eb63aaeb5edceaaeeae57be852c9a59544bcb637971b58f1947d210666"
+  }
+}

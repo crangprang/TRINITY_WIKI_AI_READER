@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_fe65563d886e1264",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/00_WC01_DETAILS_index.json",
+  "title": "{",
+  "summary": "\"index_version\": \"2.4\",",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".json",
+  "sha256": "d3642ac2ffe313aa2779503f7fd59f1536265a26e7243fec86d9418f77380b4a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_fe65563d886e1264.json",
+  "chunks": [
+    {
+      "id": "live_doc_fe65563d886e1264:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_fe65563d886e1264_000.json",
+      "char_count": 932
+    }
+  ]
+}

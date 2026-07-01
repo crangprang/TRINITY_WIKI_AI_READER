@@ -1,0 +1,24 @@
+{
+  "id": "doc_09b37b2397c017ce:001",
+  "document_id": "doc_09b37b2397c017ce",
+  "path": "wiki/characters/axions/마텔다/support/appearance.md",
+  "wiki_path": "characters/axions/마텔다/support/appearance.md",
+  "title": "마텔다 외형",
+  "section": "외형 기준",
+  "summary": "마텔다의 20대 중반 심판관 실루엣, 금발과 푸른 눈, 법정복과 군복의 혼합, 서리 파프니르 기사 바이저를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09b37b2397c017ce_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 20대 중반 |\n| 실루엣 | 판결 직전의 심판관, 차갑고 흔들림 없는 얼굴 |\n| 머리색 | 금발 |\n| 눈색 | 푸른색 |\n| 의상 | 법정복과 군복의 혼합, 법정과 군율과 감시를 집행하는 심판관의 옷 |\n| 가면 | 서리 파프니르 기사 바이저와 잠긴 성문이 겹친 전면 얼굴가림 |\n| 소품 | 칼집 안의 검, 마스터 링, 반지 공명, 판결 기록 |\n| 배경 | 법정, 얼음, 잠긴 성문, 차가운 감시 |\n| 팔레트/질감 | 서리, 얼음, 차가운 금속 |",
+  "metadata": {
+    "char_count": 314,
+    "sha256": "75a609a5f18a150e33acd6daf6f22412f09b36421f2fea9a6569116cd68fe91f"
+  }
+}

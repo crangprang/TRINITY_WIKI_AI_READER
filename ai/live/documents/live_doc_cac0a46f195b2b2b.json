@@ -1,0 +1,37 @@
+{
+  "id": "live_doc_cac0a46f195b2b2b",
+  "path": "01_CANON/README.md",
+  "title": "01_CANON",
+  "summary": "`01_CANON` is the canon stabilizer for the repo.",
+  "root": "01_CANON",
+  "category": "01_CANON:README.md",
+  "suffix": ".md",
+  "sha256": "ea158f8da5622097d0d48b9d663aa10024e24d4963fbca295f0cc29a98d1205c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_cac0a46f195b2b2b.json",
+  "chunks": [
+    {
+      "id": "live_doc_cac0a46f195b2b2b:000",
+      "section": "01_CANON",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_000.json",
+      "char_count": 60
+    },
+    {
+      "id": "live_doc_cac0a46f195b2b2b:001",
+      "section": "Live Contract",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_001.json",
+      "char_count": 392
+    },
+    {
+      "id": "live_doc_cac0a46f195b2b2b:002",
+      "section": "Reading Order",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_002.json",
+      "char_count": 93
+    },
+    {
+      "id": "live_doc_cac0a46f195b2b2b:003",
+      "section": "Phase 2 Boundary",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_003.json",
+      "char_count": 169
+    }
+  ]
+}

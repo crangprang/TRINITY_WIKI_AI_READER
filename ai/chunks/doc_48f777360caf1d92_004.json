@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:004",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "이상을 좇는 의사",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_004.json",
+  "text": "### 이상을 좇는 의사\n\n이상을 좇는 의사는 몸의 이상, 기억의 빈칸, 반사면, 설명되지 않는 결과를 만났을 때 열린다. 말은 더 조용하고 더 정확해진다. 다정함은 사라지지 않지만 빈틈이 줄어든다.\n\n이 층의 문장은 확인과 판독이 중심이다. `방금 뭐라고 했어`, `그 이름은 왜 지금 나왔지`, `거울은 치워 줘`, `다시 말해 줘`, `그 얼굴로는 숨기기 어려워` 같은 말이 잘 붙는다.",
+  "metadata": {
+    "char_count": 219,
+    "sha256": "bf103d6c17e940c5a64dd67d826f3ec9a8212b184eb9dbced2341a820ce9ca1f"
+  }
+}

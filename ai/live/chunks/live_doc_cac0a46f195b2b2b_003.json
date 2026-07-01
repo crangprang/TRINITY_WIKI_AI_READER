@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_cac0a46f195b2b2b:003",
+  "document_id": "live_doc_cac0a46f195b2b2b",
+  "path": "01_CANON/README.md",
+  "title": "01_CANON",
+  "section": "Phase 2 Boundary",
+  "summary": "`01_CANON` is the canon stabilizer for the repo.",
+  "root": "01_CANON",
+  "category": "01_CANON:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_cac0a46f195b2b2b_003.json",
+  "text": "## Phase 2 Boundary\n\n- Keep the current hierarchy and IDs.\n- Do not flatten or rename the canon surface in this phase.\n- Do not treat index files as reader-facing truth.",
+  "metadata": {
+    "char_count": 169,
+    "sha256": "edeec0e9e5ed5368e05d116d6f6198fd08ce4ccde7fd8630c1bbaa8cc9449443"
+  }
+}

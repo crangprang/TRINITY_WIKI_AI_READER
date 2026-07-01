@@ -1,0 +1,11 @@
+# TRINITY_LIVE
+
+> Live canon source surface for TRINITY worldbuilding and story collaboration.
+
+## Start Here
+
+- [AI Boot Pack](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/bootpack.md)
+- [Manifest](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/manifest.json)
+- [Search Index](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/search-index.json)
+- [Cache Manifest](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/downloads/cache_manifest.json)
+- [Cache ZIP](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/downloads/trinity_live_cache_full.zip)

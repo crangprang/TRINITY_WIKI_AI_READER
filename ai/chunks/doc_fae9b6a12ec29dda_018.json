@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:018",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "용투",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_018.json",
+  "text": "### 용투\n\n축복 `용투`는 죽음의 경계에서 초회복과 함께 육체를 크게 강화한다. 죽기 직전의 피가 전사의 언어를 얻는 순간, 세레나는 긍지, 전능감, 명확함, 쾌락을 동시에 느낀다. 겉으로는 푸른 달처럼 서도, 세레나 안에서는 가장 붉은 욕망을 전사의 언어로 허가한다.\n\n치명상을 입어도 몸은 초고속으로 회복한다. 통증과 공포가 정리되고 전장의 흐름이 비정상적으로 선명해진다. 이때 세레나의 말은 길어지고, 웃음과 도발이 새며, 감각이 꺼질까 두려워 전투에 더 매달린다.",
+  "metadata": {
+    "char_count": 265,
+    "sha256": "92ee03d1b7c9759fc4c448a78d0fde9a086820efd5f0e57e02978d305d87aa4d"
+  }
+}

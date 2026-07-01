@@ -1,0 +1,23 @@
+{
+  "id": "doc_e4d6c40bf3d0405d:009",
+  "document_id": "doc_e4d6c40bf3d0405d",
+  "path": "wiki/characters/personas/빈센트/index.md",
+  "wiki_path": "characters/personas/빈센트/index.md",
+  "title": "빈센트",
+  "section": "관련 문서",
+  "summary": "빈센트는 우니오네의 페르소나로, 미메시스와 마고리아를 통해 가장 아름다운 출구를 열고 현실을 꿈 쪽으로 기울이는 꿈의 큐레이터다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e4d6c40bf3d0405d_009.json",
+  "text": "## 관련 문서\n\n- [페르소나](../index.md) - 나라 내부의 장치 심층 관리자 의식과 표층 대변자.\n- [빈센트 외형](support/appearance.md) - 액자 프레임 가면, 유럽 신사와 조각가 실루엣, 아틀리에가 꿈의 큐레이터를 고정하는 외형 항목.\n- [우니오네](../../../universe/realms/balance/nations/우니오네.md) - 빈센트의 미메시스와 마고리아가 놓이는 예술의 나라.\n- [유리디스 도리안 드 발루아](../../axions/유리디스_도리안_드_발루아/index.md) - 꿈의 독성을 알면서도 우니오네를 장면으로 버티게 하는 엑시온.\n- [엘리자베스](../../main_party/엘리자베스/index.md) - 빈센트의 아틀리에와 저주 재연이 남은 공용 몸.\n- [블랑](../../main_party/블랑/index.md) - 재연이 선량한 의사와 피해자의 자리로 세우는 전면.\n- [스칼렛](../../main_party/스칼렛/index.md) - 재연이 병과 위험의 자리로 밀어 넣는 전면.\n- [로렌초 카발리에리](../../savior_candidates/로렌초_카발리에리/index.md) - 빈센트의 아름다운 출구와 대비되는 귀환의 책임을 맡는 후보.",
+  "metadata": {
+    "char_count": 636,
+    "sha256": "42a1b4976dc0c063e13f275244440b266fd58f6a30d5dec4436158fecb02e105"
+  }
+}

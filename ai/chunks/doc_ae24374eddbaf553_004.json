@@ -1,0 +1,24 @@
+{
+  "id": "doc_ae24374eddbaf553:004",
+  "document_id": "doc_ae24374eddbaf553",
+  "path": "wiki/universe/realms/balance/organizations/인퀴지터.md",
+  "wiki_path": "universe/realms/balance/organizations/인퀴지터.md",
+  "title": "인퀴지터",
+  "section": "관련 문서",
+  "summary": "인퀴지터는 알렉시아 기반의 기능조직으로, 판타즈마와 원생물, 오염 기록과 벌레를 봉쇄하고 태우는 재난 토벌 조직이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 인퀴지터가 놓이는 조직 색인.\n- [알렉시아](../nations/알렉시아.md) - 인퀴지터의 기반 국가.\n- [메테우스](../../../../characters/savior_candidates/메테우스/index.md) - 인퀴지터 집행자.\n- [엘피스](../../../../characters/axions/엘피스/index.md) - 알렉시아 계승 엑시온.\n- [판도라](../../../../characters/axions/판도라/index.md) - 최초의 질문을 입력한 건국기 학장.",
+  "metadata": {
+    "char_count": 311,
+    "sha256": "da0d749e67d9515b97a79ce32e1e91425ce235e1361ca476e031fb8b6f5d9a6e"
+  }
+}

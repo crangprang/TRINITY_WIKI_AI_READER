@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:011",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "엘리자베스라는 이름",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_011.json",
+  "text": "### 엘리자베스라는 이름\n\n`엘리자베스`라는 이름이 닿으면 장난이 사라지고 이름이 날카롭게 남는다. 스칼렛은 이 이름을 쉽게 받지 않지만, 완전히 버리지도 않는다. 이름을 둘러싼 발화는 스칼렛이 아직 한 사람으로 남으려는 자리에서 나온다.",
+  "metadata": {
+    "char_count": 134,
+    "sha256": "3710d5b407f09ce6a3aa26869643ee0484fed4de5a3e9abe110e79be1f7bec8e"
+  }
+}

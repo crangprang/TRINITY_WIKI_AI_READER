@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_1be7f933977c116c:000",
+  "document_id": "live_doc_1be7f933977c116c",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_VOICE_SAMPLE.txt",
+  "title": "에어리얼 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "에어리얼 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1be7f933977c116c_000.json",
+  "text": "에어리얼 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER03_CORE.txt`와 `PER03_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 175,
+    "sha256": "f1f5823927d45bc4170f225abe0e1afb65c779f9a30ff328178f5a8a902bea28"
+  }
+}

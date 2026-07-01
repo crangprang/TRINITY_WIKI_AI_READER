@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:090",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] rename | 주인공 파티 항목명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_090.json",
+  "text": "## [2026-06-27] rename | 주인공 파티 항목명 정리\n\n[주인공 파티](characters/main_party/index.md)의 표시 제목과 관련 링크 라벨을 디렉터리 분류명에서 독자용 집단 조회어로 정리했다. [파티](characters/main_party/파티/index.md)는 배신 문법을 다루는 하위 항목으로 유지했다.",
+  "metadata": {
+    "char_count": 193,
+    "sha256": "ea3709c2990630cb990c70a53246c668c88f28f3a8002b50f3d8e9033915d9cd"
+  }
+}

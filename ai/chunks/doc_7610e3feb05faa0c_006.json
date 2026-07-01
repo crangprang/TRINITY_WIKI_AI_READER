@@ -1,0 +1,24 @@
+{
+  "id": "doc_7610e3feb05faa0c:006",
+  "document_id": "doc_7610e3feb05faa0c",
+  "path": "wiki/characters/main_party/스칼렛/support/appearance.md",
+  "wiki_path": "characters/main_party/스칼렛/support/appearance.md",
+  "title": "스칼렛 외형",
+  "section": "시각 경계",
+  "summary": "스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_006.json",
+  "text": "## 시각 경계\n\n스칼렛의 시각 경계는 블랑에게 붙는 시선을 자기 쪽으로 돌리는 데서 출발한다. 반사면, 문간, 무대, 수면, 조명 아래의 빈 공간은 스칼렛이 관객의 시선을 붙잡는 배경으로 쓸 수 있다.\n\n손에 쥔 도구는 피로 만들어진다. 가위, 바늘, 메스, 단검 중 하나가 장면의 성격에 맞고, 느슨한 붉은 실은 구도에 따라 따라온다. 총은 블랑과 과거 장면에 강하게 묶인 도구이며, 스칼렛의 전면 도구는 혈조로 만든 날붙이와 실이다.\n\n스칼렛의 전면은 죽은 냉기와 축축한 호러로 닫히지 않는다. 위험한 생기, 상대의 시선을 자기 쪽에 오래 붙드는 여유, 죄책감과 유혹성이 함께 걸린 표정이 우선한다.",
+  "metadata": {
+    "char_count": 338,
+    "sha256": "aaedf9b10478b518cb1048de3c09f22e6a3d5301b2c2dc5e3827feff7f991ef5"
+  }
+}

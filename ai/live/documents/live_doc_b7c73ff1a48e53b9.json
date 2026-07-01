@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b7c73ff1a48e53b9",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_02_COMPOSITION.txt",
+  "title": "2. 구성",
+  "summary": "2. 구성",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "6459314a9cceb93e087c6d00f45b0d55ff2475fdd836f1233916d2c5e44b1560",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b7c73ff1a48e53b9.json",
+  "chunks": [
+    {
+      "id": "live_doc_b7c73ff1a48e53b9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b7c73ff1a48e53b9_000.json",
+      "char_count": 4167
+    }
+  ]
+}

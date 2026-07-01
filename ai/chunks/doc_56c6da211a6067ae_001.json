@@ -1,0 +1,23 @@
+{
+  "id": "doc_56c6da211a6067ae:001",
+  "document_id": "doc_56c6da211a6067ae",
+  "path": "wiki/review/decision_requests/index.md",
+  "wiki_path": "review/decision_requests/index.md",
+  "title": "판단 요청",
+  "section": "활성 판단",
+  "summary": "사용자 판단, 제안 승인, 상태 정리가 필요한 WIKI 항목 색인.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "decisions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56c6da211a6067ae_001.json",
+  "text": "## 활성 판단\n\n현재 활성 판단 없음.",
+  "metadata": {
+    "char_count": 22,
+    "sha256": "ca4b9e18af53e7b8a7aad94e2c6590e655a615b74a148f2f13f59273e870e33d"
+  }
+}

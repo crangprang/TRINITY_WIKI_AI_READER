@@ -1,0 +1,23 @@
+{
+  "id": "doc_df8592bd4f90cb57:004",
+  "document_id": "doc_df8592bd4f90cb57",
+  "path": "wiki/characters/main_party/길티어/index.md",
+  "wiki_path": "characters/main_party/길티어/index.md",
+  "title": "길티어",
+  "section": "마지막 지시",
+  "summary": "길티어는 전설적인 사냥단 마스크맨의 전 리더이자 파티의 감시자다. 그는 곧 다칠 사람을 먼저 보고, 물통과 식사, 장비와 도주선을 확인하며, 한 번 더 밀어붙이면 누가 쓰러질지 보이는 순간 제일 먼저 몸을 들이민다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_004.json",
+  "text": "### 마지막 지시\n\n피톤 추적 중 길티어의 무리한 판단과 잘못된 지시는 가족 같던 여섯 동료의 몰살로 이어졌다. 그날 이후 길티어는 자기 직관과 리더로서의 최종 판단을 곧장 믿지 못하는 사람이 되었다.\n\n마지막 지시는 길티어 안에서 모든 판단을 늦추는 고장으로 남아 있다. 그는 동료를 볼 때도 옛 전장의 그림자를 덧씌우고, 되돌릴 수 없다는 사실을 알수록 지금 눈앞의 선택까지 더 망설인다.",
+  "metadata": {
+    "char_count": 220,
+    "sha256": "af727328425d6536e1df8d8d339e9a89c02fc4c477612de8aab7537f55219f74"
+  }
+}

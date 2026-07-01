@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_26e0401303bf04fd:000",
+  "document_id": "live_doc_26e0401303bf04fd",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/07_MINOS/PER07_FACT_DETAIL.txt",
+  "title": "미노스 / FACT_DETAIL",
+  "section": "body",
+  "summary": "미노스 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_26e0401303bf04fd_000.json",
+  "text": "미노스 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER07_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 재판, 무대, 가짜 하늘, 별, 마스터 링 위의 스노우볼 보석.\n- 정의의 언어가 연출 노트처럼 들리기 시작하는 얼굴.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 281,
+    "sha256": "bf6eea6b660268c3dc74dbf3695da37fae08ad741fa1b3c5a9c34083b34414ed"
+  }
+}

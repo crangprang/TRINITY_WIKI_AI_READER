@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce0d01fc2c7dd5a2:002",
+  "document_id": "doc_ce0d01fc2c7dd5a2",
+  "path": "wiki/universe/realms/balance/language/index.md",
+  "wiki_path": "universe/realms/balance/language/index.md",
+  "title": "균형계 언어",
+  "section": "공용어와 지역 언어",
+  "summary": "균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "language",
+    "naming"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_002.json",
+  "text": "## 공용어와 지역 언어\n\n균형계의 대륙 공용어는 표준 알렉시아어다. 알렉시아어는 본래 진리의 나라 알렉시아의 학술·기록 언어였으나, 삼위정교 수립 이후 종교, 학술, 외교, 국제 행정의 표준 언어로 넓어졌다. 정교 문서, 올림피아 의례, 국가 간 조약, 공인조직 면허와 보고서는 대체로 표준 알렉시아어 체계를 기준으로 작성된다.\n\n표준 알렉시아어가 공용어가 되었다고 해서 각국 언어가 사라진 것은 아니다. 염한의 한자어적 무협 언어, 마사오트의 항로와 편지 언어, 레이어드의 계약 언어, 우니오네의 공연과 후원 언어처럼 지역 언어는 생활과 장치, 감정의 표면을 계속 맡는다. 공용어는 나라 사이를 잇는 제도 언어이고, 지역 언어는 한 나라가 자기 비극과 생활을 몸으로 말하는 언어다.\n\n이 이중 구조 때문에 같은 사건도 두 층위로 기록된다. 정교와 공의회는 표준 알렉시아어로 사건명을 정리하고, 현지 사람들은 자기 언어로 사건의 냄새와 수치, 금기와 농담을 보존한다. WIKI에서 국가별 명명 결을 유지해야 하는 이유도 여기에 있다.",
+  "metadata": {
+    "char_count": 523,
+    "sha256": "d4e8c26feb693f0716bc411346e9676a32e7982c83339a4aafa72ed2b8313b14"
+  }
+}

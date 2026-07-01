@@ -1,0 +1,24 @@
+{
+  "id": "doc_a9937415fe8842ac:001",
+  "document_id": "doc_a9937415fe8842ac",
+  "path": "wiki/characters/trineads/감독/support/appearance.md",
+  "wiki_path": "characters/trineads/감독/support/appearance.md",
+  "title": "감독 외형",
+  "section": "외형 기준",
+  "summary": "감독의 알레인 원형, 백안의 공작 가면, 창조계 총책임자의 외형 표지를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 여성 / 소녀형 |\n| 나이 인상 | 10대 중반, 조금 어른스러운 인상 |\n| 실루엣 | 의상, 가면, 자세로 권위를 세운다 |\n| 머리색 | 금발 / 스트레이트 롱 헤어 |\n| 눈색 | 푸른 눈동자 |\n| 의상 | 창조계 행정자와 무대 연출자의 권위 |\n| 가면 | 백안의 공작 가면 |\n| 소품 | 행정과 명령 체계를 드러내는 물건 |\n| 표정/자세 | 필연적인 무대 압력 |",
+  "metadata": {
+    "char_count": 259,
+    "sha256": "9cba623e5eb39bae982541ccc4944845548c3d06239f0b2723a55c91da296f2a"
+  }
+}

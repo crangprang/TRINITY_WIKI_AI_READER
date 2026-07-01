@@ -1,0 +1,158 @@
+{
+  "id": "doc_7bf6597c8642d4dd",
+  "path": "wiki/characters/savior_candidates/카스파르/index.md",
+  "wiki_path": "characters/savior_candidates/카스파르/index.md",
+  "title": "카스파르",
+  "summary": "카스파르는 플라센티아의 구세주 후보이자 마스크맨 현 리더로, 길티어가 남긴 실패와 역할 가면을 계약 사냥단 체계로 재건한 운영형 사냥꾼이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:savior_candidates",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "카스파르"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "마스크맨 현 리더"
+    },
+    {
+      "level": 2,
+      "title": "역할 가면과 계약 사냥단"
+    },
+    {
+      "level": 2,
+      "title": "플라센티아의 사냥 실무"
+    },
+    {
+      "level": 2,
+      "title": "길티어의 실패와 피톤"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "마스크맨",
+      "target": "wiki/universe/realms/balance/organizations/마스크맨.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "카스파르 외형",
+      "target": "wiki/characters/savior_candidates/카스파르/support/appearance.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    }
+  ],
+  "sha256": "b3c81fbe366894e14f1a8c80b15a872f155d0c0ca178c5285f731209656a3026",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7bf6597c8642d4dd.json",
+  "chunks": [
+    {
+      "id": "doc_7bf6597c8642d4dd:000",
+      "section": "카스파르",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_000.json",
+      "char_count": 408
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_001.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:002",
+      "section": "마스크맨 현 리더",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_002.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:003",
+      "section": "역할 가면과 계약 사냥단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_003.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:004",
+      "section": "플라센티아의 사냥 실무",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_004.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:005",
+      "section": "길티어의 실패와 피톤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_005.json",
+      "char_count": 334
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:006",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_006.json",
+      "char_count": 169
+    },
+    {
+      "id": "doc_7bf6597c8642d4dd:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_007.json",
+      "char_count": 478
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:020",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "청색의 순례자",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_020.json",
+  "text": "### 청색의 순례자\n\n- `[낯선 도시 초입]` `리더, 길을 좁혀라. 눈이 너무 많다.`\n- `[검집끈이 풀렸을 때]` `검집부터 다시 매라. 흐트러진 손으로는 오래 못 간다.`\n- `[자세를 고칠 때]` `어깨를 낮춰라. 검끝이 먼저 말하고 있다.`\n- `[무례를 자를 때]` `예의 없는 말은 칼끝만큼 날카롭다. 거둬라.`\n- `[전투 직전]` `숨을 맞춰라. 셋째 걸음에서 끊는다.`\n- `[고기 냄새가 짙은 식탁 앞]` `나는 됐다. 물이면 충분하다.`\n- `[전승 이야기를 들을 때]` `그 이름은 그렇게 쓰지 않는다. 다시 말해라.`\n- `[기록을 숨기다 들킬 때]` `볼 것 없다. 길에서 필요한 기록일 뿐이다.`",
+  "metadata": {
+    "char_count": 352,
+    "sha256": "7bacaeaedd4ceee962834e1d69557b749e24a9ebbb4701778f92c83963dc397e"
+  }
+}

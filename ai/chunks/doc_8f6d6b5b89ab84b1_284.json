@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:284",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 지원 항목 부모 설명 잔여 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_284.json",
+  "text": "## [2026-06-26] style | 지원 항목 부모 설명 잔여 정리\n\n아인, 진, 블랑, 단테 지원 항목의 부모 링크를 외형·보이스·음악 기준점이 드러나는 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 100,
+    "sha256": "d73da1b10f0e761014970a7773399a82550178aefecfb03ff2e8e6d20696b654"
+  }
+}

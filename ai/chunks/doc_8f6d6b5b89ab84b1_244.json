@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:244",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 캐릭터 support 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_244.json",
+  "text": "## [2026-06-26] rebuild | 캐릭터 support 표면 정리\n\n캐릭터 support 항목의 표시 제목과 링크 설명을 독자용 위키 표면으로 맞췄다.\n\n- 제목: 메인 파티 support 표시를 `인물 / 외형`, `인물 / 말투`, `인물 / 음악`에서 `인물 외형`, `인물 보이스`, `인물 음악`으로 정리했다.\n- 구조: appearance support의 `외형 기준`, `외형 원칙` heading을 `외형 잠금`으로 맞추고 support 설명의 `보조 항목` 표현을 제거했다.\n- 링크: character index와 관련 문서 설명의 `외형 기준`, `말투 기준`, 패키지 코드 태그 잔재를 시각 기준과 보이스 기준 문맥으로 바꿨다.",
+  "metadata": {
+    "char_count": 370,
+    "sha256": "884ff77f1703b1e757d6195e035e1252e2f72253a7855587557d18d4301d58c1"
+  }
+}

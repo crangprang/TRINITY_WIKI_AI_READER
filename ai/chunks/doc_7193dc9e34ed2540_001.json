@@ -1,0 +1,23 @@
+{
+  "id": "doc_7193dc9e34ed2540:001",
+  "document_id": "doc_7193dc9e34ed2540",
+  "path": "wiki/review/ownership_locks.md",
+  "wiki_path": "review/ownership_locks.md",
+  "title": "항목 소유권 잠금",
+  "section": "소유 기준",
+  "summary": "비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "decomposition",
+    "locks"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_001.json",
+  "text": "## 소유 기준\n\n- 기존 WIKI 항목이 안정적인 조회 소유자라면 새 파일을 만들지 않고 그 항목에 흡수한다.\n- 새 독립 항목이 필요한 경우에는 실제 위키식 검색어, 경로, 소유 범위, 제외 범위를 먼저 승인받는다.\n- 원문 카드와 핸드오프 목차를 WIKI 본문 구조로 삼지 않고, 독자용 DB prose로 정리한다.\n- 독자용 항목에는 `sources` 프런트매터와 원천 섹션을 두지 않는다.",
+  "metadata": {
+    "char_count": 222,
+    "sha256": "0c0dc6f854e8dd36a1eb256622e039249798c6a53dff810ad588b22e8156230e"
+  }
+}

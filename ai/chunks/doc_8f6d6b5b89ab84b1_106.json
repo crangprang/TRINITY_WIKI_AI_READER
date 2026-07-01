@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:106",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 메피스토 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_106.json",
+  "text": "## [2026-06-26] rebuild | 메피스토 항목 정리\n\n[메피스토](characters/personas/메피스토/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [오아시스](universe/realms/balance/nations/오아시스.md)의 페리아크토이, 피라미디온, 반복되는 현재, 마더 그레트헨 구조에 맞췄다.\n\n- 정리: 세 번째 길, 파우스트와 마더 그레트헨, 피라미디온의 현재 유지, 랄과 기억 보관자, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [메피스토 외형](characters/personas/메피스토/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 설계도-퀘스트 실루엣, 가면, 램프 연기, 피라미디온 청사진 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 메피스토 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 478,
+    "sha256": "7582f695849bc4652ee731f9bc0d0eae31d57dc3513f42a64b3616a7fc14233e"
+  }
+}

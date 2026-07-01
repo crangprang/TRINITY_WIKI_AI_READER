@@ -1,0 +1,24 @@
+{
+  "id": "doc_3ef789818633e3db:006",
+  "document_id": "doc_3ef789818633e3db",
+  "path": "wiki/characters/main_party/아인/support/appearance.md",
+  "wiki_path": "characters/main_party/아인/support/appearance.md",
+  "title": "아인 외형",
+  "section": "이미지 생성 기준",
+  "summary": "아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_006.json",
+  "text": "## 이미지 생성 기준\n\n프롬프트의 주어는 보이는 요소로 둔다. 살짝 그을린 따뜻한 피부, 170cm 전후로 읽히는 compact한 비율, 어두운 홍채 안의 낮은 금빛/갈색 반사, 이마 대부분을 덮는 흐트러진 검은 앞머리, 높은 칼라와 두꺼운 어두운 스카프, 차콜/먹색/잿빛 남색의 긴 여행자 외투, 먼지와 햇빛 자국이 남은 무광 직물, 어두운 조끼, 회베이지 리넨 셔츠, 작은 어깨가방, 낡은 손목시계, 손바닥 안의 황동 기어-너트/밸브 토큰, 검은 레이스업 여행 부츠를 직접 쓴다.\n\n장면 배경을 쓸 때는 강한 햇빛의 공학적 사막 생존지, 흰 수로, 물탱크와 배관, 차양 천, 건조한 산지, 거울석과 결정, 유지보수 중인 수로 구조처럼 화면에 그려지는 요소로 푼다.\n\n아인의 화면은 작은 체구와 판단 압력이 함께 살아야 한다. 긴 외투와 장비가 몸을 키우는 대신 이동 중인 사람의 밀도를 더하고, 표정은 감정을 정리한 입매와 또렷한 시선으로 닫힌다.",
+  "metadata": {
+    "char_count": 477,
+    "sha256": "4f0026a54e6d3a1b8ced24eb0e4d377c48b8c23fafb4e3ee2cfa4c850a8380f7"
+  }
+}

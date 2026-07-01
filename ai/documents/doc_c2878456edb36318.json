@@ -1,0 +1,117 @@
+{
+  "id": "doc_c2878456edb36318",
+  "path": "wiki/characters/savior_candidates/캘리번/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/캘리번/support/appearance.md",
+  "title": "캘리번 외형",
+  "summary": "캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "캘리번 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "큰 탐험가 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "탐험가 가면"
+    },
+    {
+      "level": 2,
+      "title": "밧줄과 갑판"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    }
+  ],
+  "sha256": "742c8ea3220b2efe1138f332e7788ba923b5cb1e9f8e86696d911bb1d46643c7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c2878456edb36318.json",
+  "chunks": [
+    {
+      "id": "doc_c2878456edb36318:000",
+      "section": "캘리번 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_000.json",
+      "char_count": 103
+    },
+    {
+      "id": "doc_c2878456edb36318:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_001.json",
+      "char_count": 273
+    },
+    {
+      "id": "doc_c2878456edb36318:002",
+      "section": "큰 탐험가 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_002.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_c2878456edb36318:003",
+      "section": "탐험가 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_003.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_c2878456edb36318:004",
+      "section": "밧줄과 갑판",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_004.json",
+      "char_count": 202
+    },
+    {
+      "id": "doc_c2878456edb36318:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_005.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_c2878456edb36318:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_006.json",
+      "char_count": 301
+    }
+  ]
+}

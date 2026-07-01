@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:022",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "최종 판단",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_022.json",
+  "text": "### 최종 판단\n\n버릴 사람을 정하라는 압력, 같은 실수를 또 만들까 두려운 순간, 여섯 이름을 다시 묻어야 하는 장면, 임계선을 넘긴 자살성 행동 앞에서는 고장난 나침반이 열린다.",
+  "metadata": {
+    "char_count": 102,
+    "sha256": "eeceb9b1b3015f9e31afa262b5fd846774414a3a732367afaa9fb38a9556fb01"
+  }
+}

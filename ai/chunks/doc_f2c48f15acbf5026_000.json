@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:000",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "진",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_000.json",
+  "text": "# 진\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 진 |\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 20대 중반 |\n| 출신 | 거래의 나라 / 전 해결사 |\n| 예언명 | 극복하는 자 / 영웅 -> 불타는 개 |\n| 중심 문법 | 거래 / 약속 / 내일 |",
+  "metadata": {
+    "char_count": 164,
+    "sha256": "c184829975bf20198a0e7ec9ad9b3fa4793ed64787e3964f761acaf403c13046"
+  }
+}

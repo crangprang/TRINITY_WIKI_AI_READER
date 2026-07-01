@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_eda477ce0e00cad9",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P06_SERENA/P06_VOICE_SAMPLE.txt",
+  "title": "P06_세레나 / VOICE_SAMPLE",
+  "summary": "P06_세레나 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "abba7b88683dca2961b4d03b290c5e8f1b7fd14d2a0042d1764019eae5f02c21",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_eda477ce0e00cad9.json",
+  "chunks": [
+    {
+      "id": "live_doc_eda477ce0e00cad9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_eda477ce0e00cad9_000.json",
+      "char_count": 4150
+    }
+  ]
+}

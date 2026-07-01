@@ -1,0 +1,23 @@
+{
+  "id": "doc_21b88812e0f05aff:009",
+  "document_id": "doc_21b88812e0f05aff",
+  "path": "wiki/characters/personas/헬렌/index.md",
+  "wiki_path": "characters/personas/헬렌/index.md",
+  "title": "헬렌",
+  "section": "관련 문서",
+  "summary": "헬렌은 파라디소의 페르소나로, 카타르시스와 에우카리스에서 보이지 않는 고통을 아래로 배분해 평화로운 표면을 유지하는 하얀 성녀의 선별자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_009.json",
+  "text": "## 관련 문서\n\n- [페르소나](../index.md) - 나라 내부의 장치 심층 관리자 의식과 표층 대변자.\n- [헬렌 외형](support/appearance.md) - 눈가 천, 지팡이, 촉각 소통, 흰 낙원과 검은 비가 자비의 배분을 고정하는 외형 항목.\n- [파라디소](../../../universe/realms/balance/nations/파라디소.md) - 헬렌의 카타르시스와 에우카리스가 놓이는 평화의 나라.\n- [설리반](../../axions/설리반/index.md) - 헬렌의 자비와 선별 논리가 권하는 파라디소의 엑시온.\n- [루시리엘](../../savior_candidates/루시리엘/index.md) - 자비를 현장 행동으로 실행하는 구세주 후보.\n- [옌](../../main_party/옌/index.md) - 하얀 성녀 생존막과 파라디소의 색을 기억하는 주역.",
+  "metadata": {
+    "char_count": 446,
+    "sha256": "41d6164fe7a031a48124649743adb82c4a4740dce54b9241ff566a46ea34eace"
+  }
+}

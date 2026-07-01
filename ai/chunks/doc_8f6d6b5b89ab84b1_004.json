@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:004",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] law | 신격과 신적 권위와 운영규칙 정비",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_004.json",
+  "text": "## [2026-06-29] law | 신격과 신적 권위와 운영규칙 정비\n\n[신격과 신적 권위](universe/laws/신격과_신적_권위.md)를 신설해 아난케, 오리진, 태초의 불꽃, 고요한 종말, 아홉 용, 트리네아드, 필로시온, 엑시온, 펠시온, 페르소나를 실재성, 의지, 행위성, 계열, 현재 상태 기준으로 구분했다. 오리진은 무의지 근원과 세 에너지·섭리의 원동력으로 보강하고, 태초의 불꽃과 고요한 종말은 실재 신격이 없는 거짓 신명으로 정리했다.\n\n[하위신](universe/laws/하위신.md)은 기본 계열을 필로시온, 엑시온, 펠시온으로 정렬하고, 페르소나는 프로토타입 필로시온 파생 관리자 계열로 낮췄다. [아홉 용](beings/dragonkin/아홉_용.md)은 용 계열의 원초 자연신적 존재로 잠그고, [판타즈마](beings/phantasmas/index.md)는 트리네아드·하위신과 별개인 괴생태 축으로 경계를 보강했다.\n\nCONTRACTS/TRINITY_WIKI에는 대응표·경계표 규칙, 명칭 교체와 재분류 절차, 현행/역사 표 분리, TODO 라우팅 기준, FINDING 중지 조건, 불가피한 기계적 수정 체크리스트, 세계사 밀도와 분기 기준을 보강했다.",
+  "metadata": {
+    "char_count": 609,
+    "sha256": "e4609f0f1876140de53aa2db6c30f4f488be4f6811f53cf6c8f37c1f09623e40"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_fcdac0dc0eecbc5e",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/07_MINOS/PER07_BRANCH_IDEA.txt",
+  "title": "미노스 / BRANCH_IDEA",
+  "summary": "미노스 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "d45a6853d293ad107efa0ad835089137906f263a1d4f80d7fcecd9eace7d0d21",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_fcdac0dc0eecbc5e.json",
+  "chunks": [
+    {
+      "id": "live_doc_fcdac0dc0eecbc5e:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_fcdac0dc0eecbc5e_000.json",
+      "char_count": 89
+    }
+  ]
+}

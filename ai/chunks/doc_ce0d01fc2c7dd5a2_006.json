@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce0d01fc2c7dd5a2:006",
+  "document_id": "doc_ce0d01fc2c7dd5a2",
+  "path": "wiki/universe/realms/balance/language/index.md",
+  "wiki_path": "universe/realms/balance/language/index.md",
+  "title": "균형계 언어",
+  "section": "언어권과 장르톤",
+  "summary": "균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "language",
+    "naming"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_006.json",
+  "text": "## 언어권과 장르톤\n\n| 나라 | 주 언어 / 보조 언어 | 기반 이야기 | 장르톤 |\n|---|---|---|---|\n| 염한 | 한국어 / 한자어 | 카인과 아벨 | 고대 무협 제국, 황실 암투, 화산 괴수극 |\n| 우니오네 | 이탈리아어 / 프랑스어 | 오르페우스와 에우리디케 | 데카당스 고딕, 수몰 예술도시, 꿈의 살롱 |\n| 마사오트 | 히브리어 | 모비딕, 오디세이아, 폭풍극 | 중세 스팀펑크, 하늘 방주, 우편과 유랑 |\n| 레이어드 | 영어 / 광둥어 | 헤라클레스, 마이더스, 저승 강 | 근대 일렉트릭펑크, 네온 금융 느와르 |\n| 오아시스 | 이집트어 / 페르시아어 | 이집트 사후세계, 파우스트 | 고대 사막 판타지와 레트로퓨처 SF |\n| 알렉시아 | 그리스어 / 라틴어 | 판도라, 이그드라실, 지식의 나무 | 중세 지하 도서관 다크판타지 |\n| 오르딜리아 | 독일어 / 노르드어 | 단테식 재판장, 질서 붕괴, 위기와 판단 | 중세 프로스트펑크 |\n| 파라디소 | 에스페란토 / 슬라브어 | 체르노빌, 오멜라스, 성찬과 희생 | 근현대 SF 공개 디스토피아, 백색 성역 |\n| 플라센티아 | 나와틀어 / 마야어 | 피노키오, 숲의 거짓말, 부성애 | 잔혹 동화, 바디호러, 생태 사냥극 |",
+  "metadata": {
+    "char_count": 627,
+    "sha256": "dd4b9edc90936a5deb36cc8be100192d00fbca51e3429ff8508d33519cca3801"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:007",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "잔여 핸드오프 ingest: 혼돈-현재/아홉 영웅/동화책/아홉 나라 3축",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_007.json",
+  "text": "### 잔여 핸드오프 ingest: 혼돈-현재/아홉 영웅/동화책/아홉 나라 3축\n\n- [x] 문 구조는 두 문과 용기·절제의 직접 희생으로 정리했다.\n- [x] 라케시스의 부채, 태초의 불꽃·고요한 종말·아난케 가면, 아조트와 오피온 운용을 라케시스와 우주 구조 문서에 반영했다.\n- [x] 대공명은 감독이 심어 둔 아포라투스 씨앗과 파괴계 생존전쟁의 위상 충돌이 결합한 사건으로 정리했다.\n- [x] 파괴계 세 트리네아드의 알 상태, 붕괴 선각성, 공허의 초상계 발견, 마니아 생명과 펠시온 이름 판결을 트리네아드와 펠시온 문서에 반영했다.\n- [x] 알비우스의 오피온 외면, 리그레드 리더 전면화, 마지막 독단을 [오리진](../universe/structure/오리진.md)과 [니그리스 알비우스 시트리노](../characters/ensemble/니그리스_알비우스_시트리노/index.md)에 보강했다.\n- [x] 아홉 나라의 `트리네아드 위상 × 시트리노 공동체 초심 × 아홉 보물/아포라투스 하마르티아` 엔진을 [아홉 나라](../universe/realms/balance/nations/index.md)와 [아홉 나라의 시대](../events/삼위의_군상/1부/아홉_나라의_시대/index.md)에 반영했다.\n- [x] 알레인 동화책은 [알레인의 동화책](../events/world_history/알레인의_동화책.md) 독립 항목으로 신설하고, 세계사 문서는 요약과 연결을 소유하도록 정리했다.\n- [x] 아홉 아타노르의 기본 기능, 알레인의 명명, 의식 전야의 리그레드-알레인 핵심 문답은 [세계사/2시대](../events/world_history/2시대_아홉_영웅과_칼시네이션.md)와 [알레인의 동화책](../events/world_history/알레인의_동화책.md)에 반영했다. 메아리 전쟁 종결 방식, 세 오리진 조각 회수 과정, 아홉 아타노르 건설 장면의 세부, 불지피기 의식 당일의 세부 장면은 플롯·사건 상세 보류로 남긴다.\n- [x] 나라별 동화 원전, 비극·신화 레퍼런스, 은유 물성, 보물 선택 조건, 구세주 후보가 다시 써야 할 잃어버린 장면, 특이점 세부 구조는 개별 국가 리뉴얼 전용 보류값으로 분류했다. 현 국가 문서에는 현재 본문값과 확정 슬롯만 유지한다.",
+  "metadata": {
+    "char_count": 1122,
+    "sha256": "171ada71f501351e9ae17b9c422b2d2c415d9f01e890341f23a89e79fd064302"
+  }
+}

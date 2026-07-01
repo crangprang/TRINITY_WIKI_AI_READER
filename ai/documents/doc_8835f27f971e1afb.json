@@ -1,0 +1,105 @@
+{
+  "id": "doc_8835f27f971e1afb",
+  "path": "wiki/characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md",
+  "wiki_path": "characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md",
+  "title": "니그리스 알비우스 시트리노 외형",
+  "summary": "니그리스 알비우스 시트리노의 계약자 육체, 후드, 재, 불씨 눈빛, 불지기 실루엣을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:ensemble",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "니그리스 알비우스 시트리노 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "계약자의 몸"
+    },
+    {
+      "level": 2,
+      "title": "불지기 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "눈빛과 표정"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    }
+  ],
+  "sha256": "f5cd1f529a4b929043ec5b726d3224ec37a4ea1b4906516ace817730ed1bf4f3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8835f27f971e1afb.json",
+  "chunks": [
+    {
+      "id": "doc_8835f27f971e1afb:000",
+      "section": "니그리스 알비우스 시트리노 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_000.json",
+      "char_count": 119
+    },
+    {
+      "id": "doc_8835f27f971e1afb:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_001.json",
+      "char_count": 308
+    },
+    {
+      "id": "doc_8835f27f971e1afb:002",
+      "section": "계약자의 몸",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_002.json",
+      "char_count": 239
+    },
+    {
+      "id": "doc_8835f27f971e1afb:003",
+      "section": "불지기 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_003.json",
+      "char_count": 237
+    },
+    {
+      "id": "doc_8835f27f971e1afb:004",
+      "section": "눈빛과 표정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_004.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_8835f27f971e1afb:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_005.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_8835f27f971e1afb:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_006.json",
+      "char_count": 92
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:192",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-05-27] feature | 검수 대시보드와 관계 보강 모드",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_192.json",
+  "text": "## [2026-05-27] feature | 검수 대시보드와 관계 보강 모드\n\n웹앱에 `#/ops/dashboard` 검수 대시보드를 추가하고, share ingest 상태와 관계 보강 흐름을 운영 큐로 볼 수 있게 했다.\n\n- 대시보드: 문서 수, 외형 잠금, 활성 인입, 이전 후보, 관계 보강 큐, 외형 공백, 장문 문서를 표시한다.\n- share ingest: `superseded`, `archived` 상태를 추가하고, 최신 적용본에 밀린 후보를 이전 후보로 표시할 수 있게 했다.\n- 관계 보강: 문서별 관계 후보와 `## 관련 문서` 섹션 초안을 보여주고, 위키 직접 수정 대신 토론 요청으로 넘길 수 있게 했다.\n- 감사: 독자용 문서 감사에 로컬 링크 누락과 관리 문구 스캔을 포함했다.",
+  "metadata": {
+    "char_count": 395,
+    "sha256": "11ef455cf072e447acf4a0788c6e0bbadd1d7af191be2df58c32e4d9ba04fdda"
+  }
+}

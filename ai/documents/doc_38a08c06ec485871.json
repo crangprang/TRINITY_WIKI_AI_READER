@@ -1,0 +1,105 @@
+{
+  "id": "doc_38a08c06ec485871",
+  "path": "wiki/characters/fellsions/속박의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/속박의_펠시온/support/appearance.md",
+  "title": "속박의 펠시온 외형",
+  "summary": "속박의 펠시온의 굽은 인형사 실루엣, 업연이 주도권을 쥔 이인무, 지네 백골 가면, 업연과 피사슬을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "속박의 펠시온 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "외형과 인상"
+    },
+    {
+      "level": 2,
+      "title": "업연과 이인무"
+    },
+    {
+      "level": 2,
+      "title": "지네 백골 가면과 피사슬"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "속박의 펠시온",
+      "target": "wiki/characters/fellsions/속박의_펠시온/index.md"
+    },
+    {
+      "label": "속박의 펠시온",
+      "target": "wiki/characters/fellsions/속박의_펠시온/index.md"
+    }
+  ],
+  "sha256": "fa3998aebe322404a74d8c175ffbbe6c679561f588e6c29fa4a4bc6f54a443f5",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_38a08c06ec485871.json",
+  "chunks": [
+    {
+      "id": "doc_38a08c06ec485871:000",
+      "section": "속박의 펠시온 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_000.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_38a08c06ec485871:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_001.json",
+      "char_count": 272
+    },
+    {
+      "id": "doc_38a08c06ec485871:002",
+      "section": "외형과 인상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_002.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_38a08c06ec485871:003",
+      "section": "업연과 이인무",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_003.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_38a08c06ec485871:004",
+      "section": "지네 백골 가면과 피사슬",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_004.json",
+      "char_count": 240
+    },
+    {
+      "id": "doc_38a08c06ec485871:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_005.json",
+      "char_count": 181
+    },
+    {
+      "id": "doc_38a08c06ec485871:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_38a08c06ec485871_006.json",
+      "char_count": 89
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_52919d1a077b94b0:000",
+  "document_id": "live_doc_52919d1a077b94b0",
+  "path": "03_WORLD/04_CREATURE/C04_TRADE/02_FANTASMA/02_GRADE_2/C04_GRADE_2_FANTASMA_BRANCH_IDEA.txt",
+  "title": "C04_TRADE / GRADE_2_FANTASMA_BRANCH_IDEA",
+  "section": "body",
+  "summary": "C04_TRADE / GRADE_2_FANTASMA_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_52919d1a077b94b0_000.json",
+  "text": "C04_TRADE / GRADE_2_FANTASMA_BRANCH_IDEA\n\n[이 문서 사용법]\n- 레이어드의 1~2급 경계 판타즈마 후보 중, 사회적 공포 쪽으로 우선 배치한 항목을 둔다.\n- 1급으로 낮출 후보가 생기면 `01_GRADE_1`로 분리한다.\n\n1. 후보\n\n- 부도의 판타즈마\n- 추심의 판타즈마\n- 한도의 판타즈마\n- 시세의 판타즈마\n\n2. 적용 메모\n\n- 부도는 돈이 없는 괴물이 아니라 생활 기능이 하나씩 끊기는 공포다. 등불, 계량기, 단말기, 우산 프레임이 차례로 꺼지는 식으로 쓴다.\n- 추심은 밤중 두드림과 방문 공포다. 문을 여는 순간보다 두드리는 박자에 대답할지 말지의 긴장을 살린다.\n- 한도는 출입 제한과 신용 한도 공포를 막형 판타즈마로 만든다. 통로에 붉은 막처럼 형성되어 장비끈과 금속 부위를 긁는다.\n- 시세는 숫자를 바꾸는 마법이 아니라 광고나방, 장부 조각, 가격표, 구리비둘기 깃, 전도막 입자가 군집화해 판단을 흐리는 판타즈마다.\n- 상승, 투매, 담보는 필요하면 사건명이나 보조 개념으로 남기고, 공식명으로 바로 잠그지 않는다.",
+  "metadata": {
+    "char_count": 547,
+    "sha256": "f06e6ab7c75d5c9c6808721d08c1018c24b3038553759ade891ec50765f0f559"
+  }
+}

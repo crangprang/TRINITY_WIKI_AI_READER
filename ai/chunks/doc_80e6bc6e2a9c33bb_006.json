@@ -1,0 +1,24 @@
+{
+  "id": "doc_80e6bc6e2a9c33bb:006",
+  "document_id": "doc_80e6bc6e2a9c33bb",
+  "path": "wiki/characters/main_party/엘리자베스/support/appearance.md",
+  "wiki_path": "characters/main_party/엘리자베스/support/appearance.md",
+  "title": "엘리자베스 외형",
+  "section": "관련 문서",
+  "summary": "엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_006.json",
+  "text": "## 관련 문서\n\n- [엘리자베스](../index.md) - 블랑과 스칼렛의 공용 몸, 반사면, 전환 징후가 모이는 이름.\n- [블랑](../../블랑/index.md) - 낮은 진단과 닫힌 몸짓으로 공용 몸의 한 전면을 구성하는 인물.\n- [블랑 외형](../../블랑/support/appearance.md) - 녹안, 검은 조끼, 의료가방과 리볼버가 공용 몸의 낮은 층위를 고정하는 외형 항목.\n- [스칼렛](../../스칼렛/index.md) - 위협과 연출로 공용 몸의 다른 전면을 구성하는 인물.\n- [스칼렛 외형](../../스칼렛/support/appearance.md) - 오드아이, 고정핀 슬릿, 혈조 도구가 공용 몸의 위험한 층위를 고정하는 외형 항목.",
+  "metadata": {
+    "char_count": 377,
+    "sha256": "1bf82d04f33f3bdbbae739358b69314889fc963bc528dacae454387c66998daa"
+  }
+}

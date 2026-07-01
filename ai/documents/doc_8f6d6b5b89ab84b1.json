@@ -1,0 +1,6389 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "category": "log.md",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "기록 로그"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 3시대 RUN 핸드오프 재대조 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 3시대 인과 보강과 삼위정교 owner 신설"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] law | 신격과 신적 권위 명명과 USER_LOCKS 재구성"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] law | 신격과 신적 권위와 운영규칙 정비"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] structure | 대응표 계열 분리와 4등급 판타즈마 명칭 정정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] structure | 세계관 대응표 팩트 테이블화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 2시대 의식 인과와 세계관 대응표 정렬"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 1시대 용어와 4등급 판타즈마 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] review | 완료 핸드오프 원문 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 정복·침식 판단 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 자동 도구 후보 검토 종료"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 정복 가면 판단 큐 연결"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 우니오네 언어권과 유랑 서커스 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 오아시스 언어권과 그레트헨 연구소 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] lock | 비염한 2+1 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 오르딜리아 언어권과 아웃로 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 알렉시아 언어권과 인퀴지터 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 마사오트 언어권과 탐험가 길드 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 레이어드 언어권과 조직층 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 염한 L01 상세 재확장 회계 완료"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 염한 핵심 군상 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 염한 아곤과 탈리아 장치층 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 염한 생활과 문화 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] nation | 염한 도시 구조와 생활 압력 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 침식 정체 표현 충돌 판단 요청"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 정적 침투와 묵음 가면 기준 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 정복 가면 모티프 충돌 보류"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 역병 이름 낙인과 부패 복음 성전 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 속박 침투와 업연 결박 기준 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 모방 침투와 궁극 기술 목표 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 기만 침투와 공허 계열 사냥 논리 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fellsion | 기근 침투와 죽음 군단 수탈 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 나라별 엑시온 보강 TODO 종료"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 제페토 계승과 심장 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 설리반 계승과 세리엔의 우의 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 마텔다 계승과 마스터 링 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 엘피스 계승과 유예 왕권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 판도라 계승과 검은 석판 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 파우스트 계승과 요술램프 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 마이더스 계승과 황금 의수 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 프로스페로 계승과 불멸의 나침반 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 유리디스 계승과 꿈의 보물 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] axion | 가인 계승과 원한검 선택 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 투르키나 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 헬렌 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 미노스 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 탈레스 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 메피스토 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 카론 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 에어리얼 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 빈센트 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] persona | 황 노인 심층 주도권 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 세계법칙 LIVE WC 상세화 상위 TODO 종료"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 트리네아드 외형 support 분리 검토"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] trinead | 공허의 트리네아드 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] trinead | 죽음의 트리네아드 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] trinead | 절제의 트리네아드 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] trinead | 용기의 트리네아드 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] trinead | 생명의 트리네아드 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 제어핵 심층부 은유 물성 대조"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] lock | 아포라투스 2+1 기관 보류 판정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 2026-05-23 판타즈마 추천 항목 대조"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 아포라투스 국가 출력 축 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 트리네아드별 위상그릇 접합부 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 하마르티아 계열 구분 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] fix | 인간 파티 문서 하마르티아 용어 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 2026-05-23 세션 보류 항목 분리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 프로토타입 필로시온과 페르소나 재조립 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 아포라투스 비술 물리 대응 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 오리진과 위상그릇 경로 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 주인공 파티 출력 표본 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 세 에너지와 인간 출력 체계 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] update | 핸드오프 설정 반영과 예언 항목 신설"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] review | 핸드오프 WIKI 적용 1차 필터"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | ChatGPT 프로젝트 핸드오프 2건 회수"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 염한 H5 하위항목 복원"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] review | 염한 상세 서술 재확장 TODO"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 염한 목차 깊이 최적화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 염한 원샷 목차 재배열"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 염한 목차 번호 헤딩 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] update | 염한 원샷 1~8층 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] update | 보물 물성 및 아포라투스 상세 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 아홉 보물과 아포라투스 체계 분리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 세계법칙 상세 보강과 두 문 명칭 정렬"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] rename | 트리네아드 중요 캐릭터 대표명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 세계법칙 판단값과 트리네아드 분리 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] cleanup | 세계법칙 1차 조회 범위와 심화 질문 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] planning | 세계관 DB 보강 범위와 개발 TODO 표면 추가"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] rename | 항목 소유권 잠금 파일명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] rename | 주인공 파티 항목명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] rename | 줄거리 항목명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] rename | 삼위의 군상 프롤로그 항목명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] rename | 하급 생물 항목명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 세계사와 아홉 나라의 시대 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 존재 하위 대문 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 구세주 후보와 앙상블 대문 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 인물·존재·사건 대문 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 균형계 문화와 언어 항목 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 균형계와 아홉 나라 상위 항목 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 황 노인 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 헬렌 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 투르키나 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 탈레스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 에어리얼 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 빈센트 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 메피스토 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 카론 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 미노스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 카스파르 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 루시리엘 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 발데마르 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 메테우스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 랄 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 케르베로스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 캘리번 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 로렌초 카발리에리 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 아백 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 가인 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 파우스트 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 엘피스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 유리디스 도리안 드 발루아 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 설리반 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 마텔다 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 마이더스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 제페토 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 판도라 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 프로스페로 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 모방의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 기만의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 속박의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 정적의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 침식의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 역병의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 정복의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 기근의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 배신의 펠시온 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 니그리스 알비우스 시트리노 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 생태 항목 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 판타즈마 주제 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 길티어 패키지 분해"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 메인 파티 총론 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 트리네아드 외형 support 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 에르고 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 라케시스 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 감독 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 레이어드 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 알렉시아 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 에레모스 외지 권역 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 염한 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 국가 폴더 잔여 문체 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 사건 폴더 메타 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 트리네아드 총론 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 마사오트 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 오아시스 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 파라디소 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 플라센티아 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 우니오네 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rename | 특이점 사건 항목명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 올림피아 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] merge | 구세주 후보 항목 병합"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rename | 등급 판타즈마 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rename | 하급 생물과 생태 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] cleanup | repo-local schema residue 제거"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rename | 아홉 나라의 시대 경로 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] merge | 우주와 세계 구조 항목 병합"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 우주와 세계 구조 진입점 리빌드"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 오리진 정본형 리빌드"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 하위신 정본형 리빌드"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 세 에너지 정본형 리빌드"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 삼위일체 우주 정본형 리빌드"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] restructure | universe term entries and evidence surface cleanup"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 아인 셔츠색 잠금 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 아인 1층위 장비선 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | fellsion card heading cleanup"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | relation queue closeout"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] review | premature page proposals 분해"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | character card residue 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | nation summary 문장 복구"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | appearance support heading 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | character support type/order 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 판단 요청 표면 단일화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] restructure | 캐릭터 외형 잠금 support 분리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] decision | WIKI 구조와 표기 잠금 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] restructure | WIKI 소유권 트리 전환 1차"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-25] canon candidate | REMAIN 핸드오프 WIKI 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-25] setup | Initial wiki shell"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-25] ingest | LIVE CANON 전체 미러"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-25] build | 독자용 통합 문서"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-26] build | 독자용 통합 문서"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-27] apply | share ingest 20260527_195405_염한"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-27] maintenance | 독자용 문서 수동 운영 고정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-27] feature | 검수 대시보드와 관계 보강 모드"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-28] maintenance | 염한 구 share ingest 큐 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-31] ingest | LIVE CANON 전체 미러"
+    },
+    {
+      "level": 2,
+      "title": "[2026-05-31] maintenance | WIKI-first 운영 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-14] capture | 캐릭터 음악 키워드 / 명사 물성"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-14] review | 캐릭터 외형 잠금 정본 대조"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-14] review | 캐릭터 전문 대조 재검수"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] canon update | 단테 핵심 해석 갱신"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] canon update | 단테 동기와 물성 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] review | 인물 외형 잠금 공백 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] visual update | 아인 외형 방향 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] visual update | 아인 여행자 코트와 프롬프트 변환 주의"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] music update | 단테 Suno 방향 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] visual update | 옌 여행 스목 기준 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] visual update | 옌 2층위 하의 연속성"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] visual update | 옌 2층위 상의 길이 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-23] visual update | 옌 2층위 신발과 손끝 안료 기준 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-24] visual lock | 옌 1·2층위 소품/하의/케이프렛 기준 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-24] maintenance | 옌 외형 잠금 단일화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-24] visual lock | 옌 체구 표현 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-24] visual lock | 옌 3층위 덧칠된 무지개 선택본 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-24] maintenance | live mirror / raw snapshot 구조 제거"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-25] visual lock | 아인 curated 시각 앵커 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] canon ingest | 01_CANON 명명과 세계 규칙 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] visual lock | 아인 1층위 손소품과 전신 비율 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] visual lock | 아인 1층위 흰 배경 앵커 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] visual lock | 아인 3층위 목 바코드와 손목 은폐 기준 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 오르딜리아 국가 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 단테 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 우주 진입점과 빈 raw 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 아인 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 진 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] merge | 우주 진입점 삼위일체 우주 병합"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 블랑 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 스칼렛 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 엘리자베스 공용 몸 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 세레나 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 옌 캐릭터 패키지 분기"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 라돈 판타즈마 주제 섹션 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] cleanup | support 요약과 관계 색인 문체 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 펠시온 색인 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 엑시온 색인 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 페르소나 색인 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 메인 파티 진입 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 아홉 나라와 균형계 하위 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 특이점 사건군 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 아홉 나라의 시대 상위 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 세계사 사건 흐름 항목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 삼위일체 우주 하위 조회 축 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 존재 영역 상위 항목 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 인물 상위 항목과 색인 문체 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rename | 마사오트 조우 실패와 알렉시아 기록 추적"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 캐릭터 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 캐릭터 support heading 표준화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 하위 항목 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 아홉 용 장면 기능 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 메인 파티와 구세주 후보 하위 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 독자용 소유권 문장 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 하급 생태 정의 문장 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] relations | 초반 사건 관련 문서 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] relations | 국가 관련 문서 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] relations | 메인 파티 관련 문서 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] relations | 메인 파티 support 관련 문서 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] relations | 앙상블과 펠시온 관련 문서 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 트리네아드 외형 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 엑시온 외형 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 페르소나 외형 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 구세주 후보 외형 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 앙상블과 펠시온 외형 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 메인 파티 support 기준형 표현 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 링크 기반 관계 인덱스 전환"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | review 판단 큐와 legacy alias 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | template gap 기록 축소"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 특이점 사건 문서 구조 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 대문 메타 문구 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 프롤로그 사건 문서 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 국가별 판타즈마군 구조 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 지역 생태와 원생 생물 구조 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] relations | 계열 링크 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 상위 항목 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 사건 정보상자 라벨 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 세계법칙과 국가 정보상자 라벨 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 존재 정보상자 라벨 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 메인 파티·페르소나·트리네아드 정보상자 라벨 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 엑시온·구세주 후보·펠시온 정보상자 라벨 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | review 표면명 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | review 정책 문장 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] cleanup | alias self-reference 제거"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | review 항목 용어 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 주인공 집단 관계 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 주인공 지원 항목 관계 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 외형 지원 항목 부모 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 지원 항목 부모 설명 잔여 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 국가 항목 관계 설명 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 짧은 관계 설명 잔여 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] cleanup | 미사용 토론 CLI 제거"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 독자 표면 메타어 축소"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | review 정책 메타어 축소"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 웹 UI 항목 용어 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 색인 선언문 정본화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 외형 지원 표제 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | README와 잠금 문구 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 장면 표제 운영어 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 위키식 표제 잔여 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 국가 항목 시간 대비문 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 오아시스 인물 표제 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 사건 색인 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 1부 초반 사건 항목 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] maintenance | 우주 구조 alias 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 우주 법칙 항목 운영어 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 사건과 파티 항목 조회어 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 메인 파티 support 관계 문장 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 엑시온 support 관계 문장 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 펠시온과 앙상블 support 관계 문장 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 기준점 표현 잔여 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 존재 축 상위 항목 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 인물 축 상위 항목 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 하위신 인물군 정보표와 경계 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] merge | 트리네아드 중복 항목 병합"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 분류어 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] rebuild | 사건 시대 항목 정보표 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-26] style | 외형 support 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 사건과 국가 항목 제목 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 아홉 나라의 시대 visible title 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 하급 생물 문서 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 판타즈마 문서 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 삼위일체 우주 경계 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 사건 문서 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 트리네아드 그룹 support 병합"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] link | 트리네아드 개별 외형 support 연결"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] review | 잔여 핸드오프 원문 보관"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] review | 잔여 Markdown 핸드오프 원문 추가"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 하위신 체계 핸드오프 1차 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 페르소나 1부 퇴장 기준 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 아홉 나라 원샷 양식 슬롯화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 구축"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 1차 채움"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] style | 교체명과 별칭 표면 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 국가 원샷 슬롯 본문 승격"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] review | 잔여 핸드오프 ingest 큐 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 아포라투스 제어핵 구조 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 아홉 나라 명명 층위 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 염한 추가 해석 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 가인 외형 시기별 기준 확장"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 주인공 파티 키워드 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 혼돈-현재와 아홉 영웅 핸드오프 반영"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] structure | 염한 기준 국가 슬롯 정렬"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 디아도코이와 알레인의 동화책 신설"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] naming | 기능조직 정본명과 디아도코이 분류 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-27] ingest | 균형계 조직 독립 문서화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 전대 엑시온 처리 경계 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] ingest | 4등급 판타즈마 임계 조건 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] naming | 파라디소 상부 내핵명 보정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] review | 보류 잠금 항목 active TODO 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldlaw | 세계법칙 연결 순서 정리"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldlaw | 삼위일체 우주 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldlaw | 세 에너지 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldlaw | 오리진 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldlaw | 하위신 승격체 경계 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldlaw | 필로시온 양산형 경계 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] trinead | 자연의 트리네아드 LIVE WC 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-28] worldhistory | 세계사 프리퀄 인과 재구성"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 세계사 1/2/3시대 분할 상세화"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 세계사 시대 문체 조정"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 최초의 삼위 누미노스 잔류 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 1시대 연결 문서 설명력 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 2시대 아홉 영웅과 칼시네이션 보강"
+    },
+    {
+      "level": 2,
+      "title": "[2026-06-29] worldhistory | 2시대 풀림과 아홉 아타노르 보정"
+    },
+    {
+      "level": 1,
+      "title": "2026-06-29"
+    },
+    {
+      "level": 1,
+      "title": "2026-06-30"
+    }
+  ],
+  "links": [
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "삼위일체 우주 대응표",
+      "target": "wiki/universe/structure/삼위일체_우주_대응표.md"
+    },
+    {
+      "label": "삼위일체 우주 대응표",
+      "target": "wiki/universe/structure/삼위일체_우주_대응표.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    },
+    {
+      "label": "삼위일체 우주 대응표",
+      "target": "wiki/universe/structure/삼위일체_우주_대응표.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "용 계열",
+      "target": "wiki/beings/dragonkin/index.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "용인",
+      "target": "wiki/beings/dragonkin/용인.md"
+    },
+    {
+      "label": "역사적 행위자",
+      "target": "wiki/characters/historical/index.md"
+    },
+    {
+      "label": "아난케",
+      "target": "wiki/characters/historical/아난케.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "FEL-001",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "FEL-002",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "본문 보강 대상",
+      "target": "wiki/review/template_gaps.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "FEL-002",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "그레트헨 연구소",
+      "target": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "인퀴지터",
+      "target": "wiki/universe/realms/balance/organizations/인퀴지터.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "글로벌 코텍스",
+      "target": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "침식의 펠시온 외형",
+      "target": "wiki/characters/fellsions/침식의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "FEL-001",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    },
+    {
+      "label": "정적의 펠시온 외형",
+      "target": "wiki/characters/fellsions/정적의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "역병의 펠시온",
+      "target": "wiki/characters/fellsions/역병의_펠시온/index.md"
+    },
+    {
+      "label": "속박의 펠시온",
+      "target": "wiki/characters/fellsions/속박의_펠시온/index.md"
+    },
+    {
+      "label": "속박의 펠시온 외형",
+      "target": "wiki/characters/fellsions/속박의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "모방의 펠시온 외형",
+      "target": "wiki/characters/fellsions/모방의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "기근의 펠시온",
+      "target": "wiki/characters/fellsions/기근의_펠시온/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "절제의 트리네아드",
+      "target": "wiki/characters/trineads/절제의_트리네아드/index.md"
+    },
+    {
+      "label": "용기의 트리네아드",
+      "target": "wiki/characters/trineads/용기의_트리네아드/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "3부 줄거리",
+      "target": "wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    },
+    {
+      "label": "투르키나 외형",
+      "target": "wiki/characters/personas/투르키나/support/appearance.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    },
+    {
+      "label": "충돌 기록",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "항목 소유권 잠금",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "항목 소유권 잠금",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "용기의 트리네아드",
+      "target": "wiki/characters/trineads/용기의_트리네아드/index.md"
+    },
+    {
+      "label": "절제의 트리네아드",
+      "target": "wiki/characters/trineads/절제의_트리네아드/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "검토와 결정 요청",
+      "target": "wiki/review/index.md"
+    },
+    {
+      "label": "항목 소유권 잠금",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "주인공 파티",
+      "target": "wiki/characters/main_party/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "삼위의 군상 프롤로그",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md"
+    },
+    {
+      "label": "하급 생물",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "하급 생물과 생태",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "앙상블",
+      "target": "wiki/characters/ensemble/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "사건",
+      "target": "wiki/events/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "황 노인 외형",
+      "target": "wiki/characters/personas/황_노인/support/appearance.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "헬렌 외형",
+      "target": "wiki/characters/personas/헬렌/support/appearance.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "투르키나 외형",
+      "target": "wiki/characters/personas/투르키나/support/appearance.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "탈레스 외형",
+      "target": "wiki/characters/personas/탈레스/support/appearance.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "에어리얼 외형",
+      "target": "wiki/characters/personas/에어리얼/support/appearance.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "빈센트 외형",
+      "target": "wiki/characters/personas/빈센트/support/appearance.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "메피스토 외형",
+      "target": "wiki/characters/personas/메피스토/support/appearance.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "카론 외형",
+      "target": "wiki/characters/personas/카론/support/appearance.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "미노스 외형",
+      "target": "wiki/characters/personas/미노스/support/appearance.md"
+    },
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "카스파르 외형",
+      "target": "wiki/characters/savior_candidates/카스파르/support/appearance.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "루시리엘 외형",
+      "target": "wiki/characters/savior_candidates/루시리엘/support/appearance.md"
+    },
+    {
+      "label": "발데마르",
+      "target": "wiki/characters/savior_candidates/발데마르/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "발데마르 외형",
+      "target": "wiki/characters/savior_candidates/발데마르/support/appearance.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "메테우스 외형",
+      "target": "wiki/characters/savior_candidates/메테우스/support/appearance.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "랄 외형",
+      "target": "wiki/characters/savior_candidates/랄/support/appearance.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "케르베로스 외형",
+      "target": "wiki/characters/savior_candidates/케르베로스/support/appearance.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "캘리번 외형",
+      "target": "wiki/characters/savior_candidates/캘리번/support/appearance.md"
+    },
+    {
+      "label": "로렌초 카발리에리",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "로렌초 카발리에리 외형",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/support/appearance.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "아백 외형",
+      "target": "wiki/characters/savior_candidates/아백/support/appearance.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "가인 외형",
+      "target": "wiki/characters/axions/가인/support/appearance.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "파우스트 외형",
+      "target": "wiki/characters/axions/파우스트/support/appearance.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "엘피스 외형",
+      "target": "wiki/characters/axions/엘피스/support/appearance.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아 외형",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/support/appearance.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "설리반 외형",
+      "target": "wiki/characters/axions/설리반/support/appearance.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "마텔다 외형",
+      "target": "wiki/characters/axions/마텔다/support/appearance.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "마이더스 외형",
+      "target": "wiki/characters/axions/마이더스/support/appearance.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "제페토 외형",
+      "target": "wiki/characters/axions/제페토/support/appearance.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "판도라 외형",
+      "target": "wiki/characters/axions/판도라/support/appearance.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "프로스페로 외형",
+      "target": "wiki/characters/axions/프로스페로/support/appearance.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "모방의 펠시온 외형",
+      "target": "wiki/characters/fellsions/모방의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "기만의 펠시온 외형",
+      "target": "wiki/characters/fellsions/기만의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "속박의 펠시온",
+      "target": "wiki/characters/fellsions/속박의_펠시온/index.md"
+    },
+    {
+      "label": "속박의 펠시온 외형",
+      "target": "wiki/characters/fellsions/속박의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    },
+    {
+      "label": "정적의 펠시온 외형",
+      "target": "wiki/characters/fellsions/정적의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "침식의 펠시온 외형",
+      "target": "wiki/characters/fellsions/침식의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "역병의 펠시온",
+      "target": "wiki/characters/fellsions/역병의_펠시온/index.md"
+    },
+    {
+      "label": "역병의 펠시온 외형",
+      "target": "wiki/characters/fellsions/역병의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "정복의 펠시온 외형",
+      "target": "wiki/characters/fellsions/정복의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "기근의 펠시온",
+      "target": "wiki/characters/fellsions/기근의_펠시온/index.md"
+    },
+    {
+      "label": "기근의 펠시온 외형",
+      "target": "wiki/characters/fellsions/기근의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    },
+    {
+      "label": "배신의 펠시온 외형",
+      "target": "wiki/characters/ensemble/배신의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노 외형",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "길티어 보이스",
+      "target": "wiki/characters/main_party/길티어/support/voice.md"
+    },
+    {
+      "label": "길티어 외형",
+      "target": "wiki/characters/main_party/길티어/support/appearance.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "메인 파티 색인",
+      "target": "wiki/characters/main_party/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "트리네아드 외형",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "감독 외형",
+      "target": "wiki/characters/trineads/감독/support/appearance.md"
+    },
+    {
+      "label": "라케시스 외형",
+      "target": "wiki/characters/trineads/라케시스/support/appearance.md"
+    },
+    {
+      "label": "에르고 외형",
+      "target": "wiki/characters/trineads/에르고/support/appearance.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "아홉 나라 색인",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "백해무익",
+      "target": "wiki/events/singularities/백해무익.md"
+    },
+    {
+      "label": "Fahrenheit 451",
+      "target": "wiki/events/singularities/Fahrenheit_451.md"
+    },
+    {
+      "label": "건곤일척",
+      "target": "wiki/events/singularities/건곤일척.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "트리네아드 색인",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "레이어드 하층 생태",
+      "target": "wiki/beings/creatures/레이어드_하층_생태.md"
+    },
+    {
+      "label": "마사오트 항해 생태",
+      "target": "wiki/beings/creatures/마사오트_항해_생태.md"
+    },
+    {
+      "label": "알렉시아 동굴·서가 생태",
+      "target": "wiki/beings/creatures/알렉시아_동굴_서가_생태.md"
+    },
+    {
+      "label": "플라센티아 숲 생태",
+      "target": "wiki/beings/creatures/플라센티아_숲_생태.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "균형계/문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계/언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "신설 제안 및 분해 검토",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "문서 양식 공백 기록",
+      "target": "wiki/review/template_gaps.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "신설 제안 및 분해 검토",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "아홉 나라 명명 체계",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "하위신 체계",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "혼돈에서 현재까지의 구조",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "블랑 / 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "스칼렛 / 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "P01 아인 / 음악 키워드와 명사 물성",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    },
+    {
+      "label": "P07 단테 / 음악 키워드와 명사 물성",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "P07 단테 / 음악 키워드와 명사 물성",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "P07 단테 / 음악 키워드와 명사 물성",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "인물 목록",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "P07 단테 / 음악 키워드와 명사 물성",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "아홉 나라 명명 체계",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "혼돈에서 현재까지의 구조",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "하위신 체계",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "하위신 체계",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "단테 / 말투",
+      "target": "wiki/characters/main_party/단테/support/voice.md"
+    },
+    {
+      "label": "단테 / 외형",
+      "target": "wiki/characters/main_party/단테/support/appearance.md"
+    },
+    {
+      "label": "단테 / 음악",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "아인 / 말투",
+      "target": "wiki/characters/main_party/아인/support/voice.md"
+    },
+    {
+      "label": "아인 / 외형",
+      "target": "wiki/characters/main_party/아인/support/appearance.md"
+    },
+    {
+      "label": "아인 / 음악",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "진 / 말투",
+      "target": "wiki/characters/main_party/진/support/voice.md"
+    },
+    {
+      "label": "진 / 외형",
+      "target": "wiki/characters/main_party/진/support/appearance.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "블랑 / 말투",
+      "target": "wiki/characters/main_party/블랑/support/voice.md"
+    },
+    {
+      "label": "블랑 / 외형",
+      "target": "wiki/characters/main_party/블랑/support/appearance.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "스칼렛 / 말투",
+      "target": "wiki/characters/main_party/스칼렛/support/voice.md"
+    },
+    {
+      "label": "스칼렛 / 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "엘리자베스 / 외형",
+      "target": "wiki/characters/main_party/엘리자베스/support/appearance.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "세레나 / 말투",
+      "target": "wiki/characters/main_party/세레나/support/voice.md"
+    },
+    {
+      "label": "세레나 / 외형",
+      "target": "wiki/characters/main_party/세레나/support/appearance.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌 / 말투",
+      "target": "wiki/characters/main_party/옌/support/voice.md"
+    },
+    {
+      "label": "옌 / 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "위선의 판타즈마",
+      "target": "wiki/beings/phantasmas/위선의_판타즈마.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "메인 파티",
+      "target": "wiki/characters/main_party/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    },
+    {
+      "label": "사건",
+      "target": "wiki/events/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "삼위일체 우주 위키",
+      "target": "wiki/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "하급 생물과 생태",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "앙상블",
+      "target": "wiki/characters/ensemble/index.md"
+    },
+    {
+      "label": "트리네아드 인물군",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "탐험국 미스와 진리국 재라우팅",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "백색 폐허와 유령 의뢰",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "사건",
+      "target": "wiki/events/index.md"
+    },
+    {
+      "label": "프롤로그",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md"
+    },
+    {
+      "label": "백색 폐허와 유령 의뢰",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "사건",
+      "target": "wiki/events/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "메인 파티",
+      "target": "wiki/characters/main_party/index.md"
+    },
+    {
+      "label": "아백 외형",
+      "target": "wiki/characters/savior_candidates/아백/support/appearance.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "하급 생물과 생태",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "앙상블",
+      "target": "wiki/characters/ensemble/index.md"
+    },
+    {
+      "label": "트리네아드 인물군",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "트리네아드 외형",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "앙상블",
+      "target": "wiki/characters/ensemble/index.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "하급 생물과 생태",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "사건",
+      "target": "wiki/events/index.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "단테 음악",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "아인 음악",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    },
+    {
+      "label": "미노스 외형",
+      "target": "wiki/characters/personas/미노스/support/appearance.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "블랑 말투",
+      "target": "wiki/characters/main_party/블랑/support/voice.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "마사오트 조우 실패와 알렉시아 기록 추적",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "옌 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "엘리자베스 외형",
+      "target": "wiki/characters/main_party/엘리자베스/support/appearance.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "엘리자베스 외형",
+      "target": "wiki/characters/main_party/엘리자베스/support/appearance.md"
+    },
+    {
+      "label": "프롤로그",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md"
+    },
+    {
+      "label": "아홉 나라의 시대 줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "백색 폐허와 유령 의뢰",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "마사오트 원생 생물",
+      "target": "wiki/beings/creatures/마사오트_원생_생물.md"
+    },
+    {
+      "label": "마사오트 항해 생태",
+      "target": "wiki/beings/creatures/마사오트_항해_생태.md"
+    },
+    {
+      "label": "레이어드 원생 생물",
+      "target": "wiki/beings/creatures/레이어드_원생_생물.md"
+    },
+    {
+      "label": "레이어드 하층 생태",
+      "target": "wiki/beings/creatures/레이어드_하층_생태.md"
+    },
+    {
+      "label": "알렉시아 원생 생물",
+      "target": "wiki/beings/creatures/알렉시아_원생_생물.md"
+    },
+    {
+      "label": "알렉시아 동굴·서가 생태",
+      "target": "wiki/beings/creatures/알렉시아_동굴_서가_생태.md"
+    },
+    {
+      "label": "플라센티아 원생 생물",
+      "target": "wiki/beings/creatures/플라센티아_원생_생물.md"
+    },
+    {
+      "label": "플라센티아 숲 생태",
+      "target": "wiki/beings/creatures/플라센티아_숲_생태.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "본문 보강 대상",
+      "target": "wiki/review/template_gaps.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "가인 외형",
+      "target": "wiki/characters/axions/가인/support/appearance.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "진 음악",
+      "target": "wiki/characters/main_party/진/support/music.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "증오의 판타즈마",
+      "target": "wiki/beings/phantasmas/증오의_판타즈마.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "검토와 결정 요청",
+      "target": "wiki/review/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "옌 음악",
+      "target": "wiki/characters/main_party/옌/support/music.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "옌 보이스",
+      "target": "wiki/characters/main_party/옌/support/voice.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "2b51bd8fa497a178cffde90132b32b6143ab05f5153e4c5d8587a7b7cdd5a51c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8f6d6b5b89ab84b1.json",
+  "chunks": [
+    {
+      "id": "doc_8f6d6b5b89ab84b1:000",
+      "section": "기록 로그",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_000.json",
+      "char_count": 7
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:001",
+      "section": "[2026-06-29] worldhistory | 3시대 RUN 핸드오프 재대조 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_001.json",
+      "char_count": 574
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:002",
+      "section": "[2026-06-29] worldhistory | 3시대 인과 보강과 삼위정교 owner 신설",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_002.json",
+      "char_count": 538
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:003",
+      "section": "[2026-06-29] law | 신격과 신적 권위 명명과 USER_LOCKS 재구성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_003.json",
+      "char_count": 227
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:004",
+      "section": "[2026-06-29] law | 신격과 신적 권위와 운영규칙 정비",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_004.json",
+      "char_count": 609
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:005",
+      "section": "[2026-06-29] structure | 대응표 계열 분리와 4등급 판타즈마 명칭 정정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_005.json",
+      "char_count": 395
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:006",
+      "section": "[2026-06-29] structure | 세계관 대응표 팩트 테이블화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_006.json",
+      "char_count": 270
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:007",
+      "section": "[2026-06-29] worldhistory | 2시대 의식 인과와 세계관 대응표 정렬",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_007.json",
+      "char_count": 685
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:008",
+      "section": "[2026-06-29] worldhistory | 1시대 용어와 4등급 판타즈마 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_008.json",
+      "char_count": 443
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:009",
+      "section": "[2026-06-29] review | 완료 핸드오프 원문 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_009.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:010",
+      "section": "[2026-06-28] fellsion | 정복·침식 판단 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_010.json",
+      "char_count": 441
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:011",
+      "section": "[2026-06-28] review | 자동 도구 후보 검토 종료",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_011.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:012",
+      "section": "[2026-06-28] review | 정복 가면 판단 큐 연결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_012.json",
+      "char_count": 308
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:013",
+      "section": "[2026-06-28] nation | 우니오네 언어권과 유랑 서커스 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_013.json",
+      "char_count": 604
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:014",
+      "section": "[2026-06-28] nation | 오아시스 언어권과 그레트헨 연구소 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_014.json",
+      "char_count": 541
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:015",
+      "section": "[2026-06-28] lock | 비염한 2+1 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_015.json",
+      "char_count": 764
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:016",
+      "section": "[2026-06-28] nation | 오르딜리아 언어권과 아웃로 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_016.json",
+      "char_count": 584
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:017",
+      "section": "[2026-06-28] nation | 알렉시아 언어권과 인퀴지터 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_017.json",
+      "char_count": 484
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:018",
+      "section": "[2026-06-28] nation | 마사오트 언어권과 탐험가 길드 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_018.json",
+      "char_count": 463
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:019",
+      "section": "[2026-06-28] nation | 레이어드 언어권과 조직층 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_019.json",
+      "char_count": 485
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:020",
+      "section": "[2026-06-28] review | 염한 L01 상세 재확장 회계 완료",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_020.json",
+      "char_count": 348
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:021",
+      "section": "[2026-06-28] nation | 염한 핵심 군상 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_021.json",
+      "char_count": 467
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:022",
+      "section": "[2026-06-28] nation | 염한 아곤과 탈리아 장치층 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_022.json",
+      "char_count": 398
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:023",
+      "section": "[2026-06-28] nation | 염한 생활과 문화 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_023.json",
+      "char_count": 351
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:024",
+      "section": "[2026-06-28] nation | 염한 도시 구조와 생활 압력 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_024.json",
+      "char_count": 382
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:025",
+      "section": "[2026-06-28] review | 침식 정체 표현 충돌 판단 요청",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_025.json",
+      "char_count": 424
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:026",
+      "section": "[2026-06-28] fellsion | 정적 침투와 묵음 가면 기준 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_026.json",
+      "char_count": 438
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:027",
+      "section": "[2026-06-28] review | 정복 가면 모티프 충돌 보류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_027.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:028",
+      "section": "[2026-06-28] fellsion | 역병 이름 낙인과 부패 복음 성전 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_028.json",
+      "char_count": 392
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:029",
+      "section": "[2026-06-28] fellsion | 속박 침투와 업연 결박 기준 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_029.json",
+      "char_count": 469
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:030",
+      "section": "[2026-06-28] fellsion | 모방 침투와 궁극 기술 목표 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_030.json",
+      "char_count": 441
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:031",
+      "section": "[2026-06-28] fellsion | 기만 침투와 공허 계열 사냥 논리 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_031.json",
+      "char_count": 395
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:032",
+      "section": "[2026-06-28] fellsion | 기근 침투와 죽음 군단 수탈 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_032.json",
+      "char_count": 386
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:033",
+      "section": "[2026-06-28] review | 나라별 엑시온 보강 TODO 종료",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_033.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:034",
+      "section": "[2026-06-28] axion | 제페토 계승과 심장 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_034.json",
+      "char_count": 345
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:035",
+      "section": "[2026-06-28] axion | 설리반 계승과 세리엔의 우의 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_035.json",
+      "char_count": 336
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:036",
+      "section": "[2026-06-28] axion | 마텔다 계승과 마스터 링 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_036.json",
+      "char_count": 332
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:037",
+      "section": "[2026-06-28] axion | 엘피스 계승과 유예 왕권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_037.json",
+      "char_count": 361
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:038",
+      "section": "[2026-06-28] axion | 판도라 계승과 검은 석판 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_038.json",
+      "char_count": 358
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:039",
+      "section": "[2026-06-28] axion | 파우스트 계승과 요술램프 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_039.json",
+      "char_count": 394
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:040",
+      "section": "[2026-06-28] axion | 마이더스 계승과 황금 의수 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_040.json",
+      "char_count": 388
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:041",
+      "section": "[2026-06-28] axion | 프로스페로 계승과 불멸의 나침반 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_041.json",
+      "char_count": 359
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:042",
+      "section": "[2026-06-28] axion | 유리디스 계승과 꿈의 보물 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_042.json",
+      "char_count": 409
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:043",
+      "section": "[2026-06-28] axion | 가인 계승과 원한검 선택 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_043.json",
+      "char_count": 337
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:044",
+      "section": "[2026-06-28] persona | 투르키나 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_044.json",
+      "char_count": 375
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:045",
+      "section": "[2026-06-28] persona | 헬렌 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_045.json",
+      "char_count": 339
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:046",
+      "section": "[2026-06-28] persona | 미노스 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_046.json",
+      "char_count": 368
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:047",
+      "section": "[2026-06-28] persona | 탈레스 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_047.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:048",
+      "section": "[2026-06-28] persona | 메피스토 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_048.json",
+      "char_count": 323
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:049",
+      "section": "[2026-06-28] persona | 카론 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_049.json",
+      "char_count": 330
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:050",
+      "section": "[2026-06-28] persona | 에어리얼 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_050.json",
+      "char_count": 303
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:051",
+      "section": "[2026-06-28] persona | 빈센트 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_051.json",
+      "char_count": 309
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:052",
+      "section": "[2026-06-28] persona | 황 노인 심층 주도권 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_052.json",
+      "char_count": 357
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:053",
+      "section": "[2026-06-28] review | 세계법칙 LIVE WC 상세화 상위 TODO 종료",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_053.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:054",
+      "section": "[2026-06-28] review | 트리네아드 외형 support 분리 검토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_054.json",
+      "char_count": 290
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:055",
+      "section": "[2026-06-28] trinead | 공허의 트리네아드 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_055.json",
+      "char_count": 359
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:056",
+      "section": "[2026-06-28] trinead | 죽음의 트리네아드 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_056.json",
+      "char_count": 326
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:057",
+      "section": "[2026-06-28] trinead | 절제의 트리네아드 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_057.json",
+      "char_count": 321
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:058",
+      "section": "[2026-06-28] trinead | 용기의 트리네아드 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_058.json",
+      "char_count": 321
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:059",
+      "section": "[2026-06-28] trinead | 생명의 트리네아드 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_059.json",
+      "char_count": 343
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:060",
+      "section": "[2026-06-28] review | 제어핵 심층부 은유 물성 대조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_060.json",
+      "char_count": 405
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:061",
+      "section": "[2026-06-28] lock | 아포라투스 2+1 기관 보류 판정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_061.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:062",
+      "section": "[2026-06-28] review | 2026-05-23 판타즈마 추천 항목 대조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_062.json",
+      "char_count": 460
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:063",
+      "section": "[2026-06-28] ingest | 아포라투스 국가 출력 축 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_063.json",
+      "char_count": 349
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:064",
+      "section": "[2026-06-28] ingest | 트리네아드별 위상그릇 접합부 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_064.json",
+      "char_count": 369
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:065",
+      "section": "[2026-06-28] ingest | 하마르티아 계열 구분 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_065.json",
+      "char_count": 622
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:066",
+      "section": "[2026-06-28] fix | 인간 파티 문서 하마르티아 용어 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_066.json",
+      "char_count": 749
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:067",
+      "section": "[2026-06-28] review | 2026-05-23 세션 보류 항목 분리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_067.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:068",
+      "section": "[2026-06-28] ingest | 프로토타입 필로시온과 페르소나 재조립 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_068.json",
+      "char_count": 455
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:069",
+      "section": "[2026-06-28] ingest | 아포라투스 비술 물리 대응 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_069.json",
+      "char_count": 426
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:070",
+      "section": "[2026-06-28] ingest | 오리진과 위상그릇 경로 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_070.json",
+      "char_count": 461
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:071",
+      "section": "[2026-06-28] ingest | 주인공 파티 출력 표본 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_071.json",
+      "char_count": 910
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:072",
+      "section": "[2026-06-28] ingest | 세 에너지와 인간 출력 체계 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_072.json",
+      "char_count": 639
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:073",
+      "section": "[2026-06-27] update | 핸드오프 설정 반영과 예언 항목 신설",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_073.json",
+      "char_count": 1333
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:074",
+      "section": "[2026-06-27] review | 핸드오프 WIKI 적용 1차 필터",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_074.json",
+      "char_count": 402
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:075",
+      "section": "[2026-06-27] ingest | ChatGPT 프로젝트 핸드오프 2건 회수",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_075.json",
+      "char_count": 546
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:076",
+      "section": "[2026-06-27] structure | 염한 H5 하위항목 복원",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_076.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:077",
+      "section": "[2026-06-27] review | 염한 상세 서술 재확장 TODO",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_077.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:078",
+      "section": "[2026-06-27] style | 염한 목차 깊이 최적화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_078.json",
+      "char_count": 227
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:079",
+      "section": "[2026-06-27] structure | 염한 원샷 목차 재배열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_079.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:080",
+      "section": "[2026-06-27] style | 염한 목차 번호 헤딩 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_080.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:081",
+      "section": "[2026-06-27] update | 염한 원샷 1~8층 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_081.json",
+      "char_count": 357
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:082",
+      "section": "[2026-06-27] update | 보물 물성 및 아포라투스 상세 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_082.json",
+      "char_count": 398
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:083",
+      "section": "[2026-06-27] structure | 아홉 보물과 아포라투스 체계 분리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_083.json",
+      "char_count": 599
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:084",
+      "section": "[2026-06-27] structure | 세계법칙 상세 보강과 두 문 명칭 정렬",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_084.json",
+      "char_count": 612
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:085",
+      "section": "[2026-06-27] rename | 트리네아드 중요 캐릭터 대표명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_085.json",
+      "char_count": 464
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:086",
+      "section": "[2026-06-27] structure | 세계법칙 판단값과 트리네아드 분리 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_086.json",
+      "char_count": 788
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:087",
+      "section": "[2026-06-27] cleanup | 세계법칙 1차 조회 범위와 심화 질문 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_087.json",
+      "char_count": 476
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:088",
+      "section": "[2026-06-27] planning | 세계관 DB 보강 범위와 개발 TODO 표면 추가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_088.json",
+      "char_count": 413
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:089",
+      "section": "[2026-06-27] rename | 항목 소유권 잠금 파일명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_089.json",
+      "char_count": 159
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:090",
+      "section": "[2026-06-27] rename | 주인공 파티 항목명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_090.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:091",
+      "section": "[2026-06-27] rename | 줄거리 항목명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_091.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:092",
+      "section": "[2026-06-27] rename | 삼위의 군상 프롤로그 항목명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_092.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:093",
+      "section": "[2026-06-27] rename | 하급 생물 항목명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_093.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:094",
+      "section": "[2026-06-26] rebuild | 세계사와 아홉 나라의 시대 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_094.json",
+      "char_count": 287
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:095",
+      "section": "[2026-06-26] rebuild | 존재 하위 대문 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_095.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:096",
+      "section": "[2026-06-26] rebuild | 구세주 후보와 앙상블 대문 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_096.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:097",
+      "section": "[2026-06-26] rebuild | 인물·존재·사건 대문 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_097.json",
+      "char_count": 238
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:098",
+      "section": "[2026-06-26] rebuild | 균형계 문화와 언어 항목 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_098.json",
+      "char_count": 279
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:099",
+      "section": "[2026-06-26] rebuild | 균형계와 아홉 나라 상위 항목 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_099.json",
+      "char_count": 291
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:100",
+      "section": "[2026-06-26] rebuild | 황 노인 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_100.json",
+      "char_count": 478
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:101",
+      "section": "[2026-06-26] rebuild | 헬렌 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_101.json",
+      "char_count": 464
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:102",
+      "section": "[2026-06-26] rebuild | 투르키나 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_102.json",
+      "char_count": 503
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:103",
+      "section": "[2026-06-26] rebuild | 탈레스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_103.json",
+      "char_count": 486
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:104",
+      "section": "[2026-06-26] rebuild | 에어리얼 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_104.json",
+      "char_count": 496
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:105",
+      "section": "[2026-06-26] rebuild | 빈센트 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_105.json",
+      "char_count": 486
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:106",
+      "section": "[2026-06-26] rebuild | 메피스토 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_106.json",
+      "char_count": 478
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:107",
+      "section": "[2026-06-26] rebuild | 카론 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_107.json",
+      "char_count": 473
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:108",
+      "section": "[2026-06-26] rebuild | 미노스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_108.json",
+      "char_count": 480
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:109",
+      "section": "[2026-06-26] rebuild | 카스파르 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_109.json",
+      "char_count": 506
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:110",
+      "section": "[2026-06-26] rebuild | 루시리엘 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_110.json",
+      "char_count": 508
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:111",
+      "section": "[2026-06-26] rebuild | 발데마르 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_111.json",
+      "char_count": 508
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:112",
+      "section": "[2026-06-26] rebuild | 메테우스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_112.json",
+      "char_count": 468
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:113",
+      "section": "[2026-06-26] rebuild | 랄 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_113.json",
+      "char_count": 473
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:114",
+      "section": "[2026-06-26] rebuild | 케르베로스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_114.json",
+      "char_count": 478
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:115",
+      "section": "[2026-06-26] rebuild | 캘리번 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_115.json",
+      "char_count": 461
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:116",
+      "section": "[2026-06-26] rebuild | 로렌초 카발리에리 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_116.json",
+      "char_count": 492
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:117",
+      "section": "[2026-06-26] rebuild | 아백 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_117.json",
+      "char_count": 455
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:118",
+      "section": "[2026-06-26] rebuild | 가인 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_118.json",
+      "char_count": 443
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:119",
+      "section": "[2026-06-26] rebuild | 파우스트 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_119.json",
+      "char_count": 458
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:120",
+      "section": "[2026-06-26] rebuild | 엘피스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_120.json",
+      "char_count": 430
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:121",
+      "section": "[2026-06-26] rebuild | 유리디스 도리안 드 발루아 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_121.json",
+      "char_count": 494
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:122",
+      "section": "[2026-06-26] rebuild | 설리반 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_122.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:123",
+      "section": "[2026-06-26] rebuild | 마텔다 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_123.json",
+      "char_count": 440
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:124",
+      "section": "[2026-06-26] rebuild | 마이더스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_124.json",
+      "char_count": 386
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:125",
+      "section": "[2026-06-26] rebuild | 제페토 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_125.json",
+      "char_count": 375
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:126",
+      "section": "[2026-06-26] rebuild | 판도라 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_126.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:127",
+      "section": "[2026-06-26] rebuild | 프로스페로 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_127.json",
+      "char_count": 404
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:128",
+      "section": "[2026-06-26] rebuild | 모방의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_128.json",
+      "char_count": 420
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:129",
+      "section": "[2026-06-26] rebuild | 기만의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_129.json",
+      "char_count": 403
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:130",
+      "section": "[2026-06-26] rebuild | 속박의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_130.json",
+      "char_count": 394
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:131",
+      "section": "[2026-06-26] rebuild | 정적의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_131.json",
+      "char_count": 371
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:132",
+      "section": "[2026-06-26] rebuild | 침식의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_132.json",
+      "char_count": 355
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:133",
+      "section": "[2026-06-26] rebuild | 역병의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_133.json",
+      "char_count": 370
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:134",
+      "section": "[2026-06-26] rebuild | 정복의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_134.json",
+      "char_count": 361
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:135",
+      "section": "[2026-06-26] rebuild | 기근의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_135.json",
+      "char_count": 359
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:136",
+      "section": "[2026-06-26] rebuild | 배신의 펠시온 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_136.json",
+      "char_count": 380
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:137",
+      "section": "[2026-06-26] rebuild | 니그리스 알비우스 시트리노 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_137.json",
+      "char_count": 424
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:138",
+      "section": "[2026-06-26] rebuild | 생태 항목 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_138.json",
+      "char_count": 305
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:139",
+      "section": "[2026-06-26] rebuild | 판타즈마 주제 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_139.json",
+      "char_count": 315
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:140",
+      "section": "[2026-06-26] rebuild | 길티어 패키지 분해",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_140.json",
+      "char_count": 395
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:141",
+      "section": "[2026-06-26] rebuild | 메인 파티 총론 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_141.json",
+      "char_count": 286
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:142",
+      "section": "[2026-06-26] maintenance | 트리네아드 외형 support 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_142.json",
+      "char_count": 573
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:143",
+      "section": "[2026-06-26] rebuild | 에르고 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_143.json",
+      "char_count": 312
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:144",
+      "section": "[2026-06-26] rebuild | 라케시스 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_144.json",
+      "char_count": 315
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:145",
+      "section": "[2026-06-26] rebuild | 감독 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_145.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:146",
+      "section": "[2026-06-26] rebuild | 레이어드 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_146.json",
+      "char_count": 332
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:147",
+      "section": "[2026-06-26] rebuild | 알렉시아 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_147.json",
+      "char_count": 340
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:148",
+      "section": "[2026-06-26] rebuild | 에레모스 외지 권역 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_148.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:149",
+      "section": "[2026-06-26] rebuild | 염한 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_149.json",
+      "char_count": 384
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:150",
+      "section": "[2026-06-26] maintenance | 국가 폴더 잔여 문체 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_150.json",
+      "char_count": 362
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:151",
+      "section": "[2026-06-26] rebuild | 사건 폴더 메타 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_151.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:152",
+      "section": "[2026-06-26] rebuild | 트리네아드 총론 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_152.json",
+      "char_count": 317
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:153",
+      "section": "[2026-06-26] rebuild | 마사오트 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_153.json",
+      "char_count": 318
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:154",
+      "section": "[2026-06-26] rebuild | 오아시스 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_154.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:155",
+      "section": "[2026-06-26] rebuild | 파라디소 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_155.json",
+      "char_count": 335
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:156",
+      "section": "[2026-06-26] rebuild | 플라센티아 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_156.json",
+      "char_count": 336
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:157",
+      "section": "[2026-06-26] rebuild | 우니오네 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_157.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:158",
+      "section": "[2026-06-26] rename | 특이점 사건 항목명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_158.json",
+      "char_count": 325
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:159",
+      "section": "[2026-06-26] rebuild | 올림피아 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_159.json",
+      "char_count": 310
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:160",
+      "section": "[2026-06-26] merge | 구세주 후보 항목 병합",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_160.json",
+      "char_count": 407
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:161",
+      "section": "[2026-06-26] rename | 등급 판타즈마 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_161.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:162",
+      "section": "[2026-06-26] rename | 하급 생물과 생태 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_162.json",
+      "char_count": 461
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:163",
+      "section": "[2026-06-26] cleanup | repo-local schema residue 제거",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_163.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:164",
+      "section": "[2026-06-26] rename | 아홉 나라의 시대 경로 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_164.json",
+      "char_count": 357
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:165",
+      "section": "[2026-06-26] merge | 우주와 세계 구조 항목 병합",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_165.json",
+      "char_count": 303
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:166",
+      "section": "[2026-06-26] rebuild | 우주와 세계 구조 진입점 리빌드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_166.json",
+      "char_count": 293
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:167",
+      "section": "[2026-06-26] rebuild | 오리진 정본형 리빌드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_167.json",
+      "char_count": 337
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:168",
+      "section": "[2026-06-26] rebuild | 하위신 정본형 리빌드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_168.json",
+      "char_count": 306
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:169",
+      "section": "[2026-06-26] rebuild | 세 에너지 정본형 리빌드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_169.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:170",
+      "section": "[2026-06-26] rebuild | 삼위일체 우주 정본형 리빌드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_170.json",
+      "char_count": 320
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:171",
+      "section": "[2026-06-26] restructure | universe term entries and evidence surface cleanup",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_171.json",
+      "char_count": 559
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:172",
+      "section": "[2026-06-26] maintenance | 아인 셔츠색 잠금 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_172.json",
+      "char_count": 267
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:173",
+      "section": "[2026-06-26] maintenance | 아인 1층위 장비선 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_173.json",
+      "char_count": 349
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:174",
+      "section": "[2026-06-26] maintenance | fellsion card heading cleanup",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_174.json",
+      "char_count": 301
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:175",
+      "section": "[2026-06-26] maintenance | relation queue closeout",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_175.json",
+      "char_count": 355
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:176",
+      "section": "[2026-06-26] review | premature page proposals 분해",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_176.json",
+      "char_count": 363
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:177",
+      "section": "[2026-06-26] maintenance | character card residue 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_177.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:178",
+      "section": "[2026-06-26] maintenance | nation summary 문장 복구",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_178.json",
+      "char_count": 331
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:179",
+      "section": "[2026-06-26] maintenance | appearance support heading 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_179.json",
+      "char_count": 293
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:180",
+      "section": "[2026-06-26] maintenance | character support type/order 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_180.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:181",
+      "section": "[2026-06-26] maintenance | 판단 요청 표면 단일화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_181.json",
+      "char_count": 320
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:182",
+      "section": "[2026-06-26] restructure | 캐릭터 외형 잠금 support 분리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_182.json",
+      "char_count": 391
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:183",
+      "section": "[2026-06-26] decision | WIKI 구조와 표기 잠금 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_183.json",
+      "char_count": 505
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:184",
+      "section": "[2026-06-26] restructure | WIKI 소유권 트리 전환 1차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_184.json",
+      "char_count": 710
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:185",
+      "section": "[2026-06-25] canon candidate | REMAIN 핸드오프 WIKI 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_185.json",
+      "char_count": 801
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:186",
+      "section": "[2026-05-25] setup | Initial wiki shell",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_186.json",
+      "char_count": 93
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:187",
+      "section": "[2026-05-25] ingest | LIVE CANON 전체 미러",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_187.json",
+      "char_count": 344
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:188",
+      "section": "[2026-05-25] build | 독자용 통합 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_188.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:189",
+      "section": "[2026-05-26] build | 독자용 통합 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_189.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:190",
+      "section": "[2026-05-27] apply | share ingest 20260527_195405_염한",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_190.json",
+      "char_count": 308
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:191",
+      "section": "[2026-05-27] maintenance | 독자용 문서 수동 운영 고정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_191.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:192",
+      "section": "[2026-05-27] feature | 검수 대시보드와 관계 보강 모드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_192.json",
+      "char_count": 395
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:193",
+      "section": "[2026-05-28] maintenance | 염한 구 share ingest 큐 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_193.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:194",
+      "section": "[2026-05-31] ingest | LIVE CANON 전체 미러",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_194.json",
+      "char_count": 344
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:195",
+      "section": "[2026-05-31] maintenance | WIKI-first 운영 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_195.json",
+      "char_count": 493
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:196",
+      "section": "[2026-06-14] capture | 캐릭터 음악 키워드 / 명사 물성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_196.json",
+      "char_count": 336
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:197",
+      "section": "[2026-06-14] review | 캐릭터 외형 잠금 정본 대조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_197.json",
+      "char_count": 381
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:198",
+      "section": "[2026-06-14] review | 캐릭터 전문 대조 재검수",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_198.json",
+      "char_count": 585
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:199",
+      "section": "[2026-06-23] canon update | 단테 핵심 해석 갱신",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_199.json",
+      "char_count": 493
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:200",
+      "section": "[2026-06-23] canon update | 단테 동기와 물성 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_200.json",
+      "char_count": 548
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:201",
+      "section": "[2026-06-23] review | 인물 외형 잠금 공백 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_201.json",
+      "char_count": 350
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:202",
+      "section": "[2026-06-23] visual update | 아인 외형 방향 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_202.json",
+      "char_count": 302
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:203",
+      "section": "[2026-06-23] visual update | 아인 여행자 코트와 프롬프트 변환 주의",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_203.json",
+      "char_count": 342
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:204",
+      "section": "[2026-06-23] music update | 단테 Suno 방향 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_204.json",
+      "char_count": 536
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:205",
+      "section": "[2026-06-23] visual update | 옌 여행 스목 기준 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_205.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:206",
+      "section": "[2026-06-23] visual update | 옌 2층위 하의 연속성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_206.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:207",
+      "section": "[2026-06-23] visual update | 옌 2층위 상의 길이 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_207.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:208",
+      "section": "[2026-06-23] visual update | 옌 2층위 신발과 손끝 안료 기준 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_208.json",
+      "char_count": 343
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:209",
+      "section": "[2026-06-24] visual lock | 옌 1·2층위 소품/하의/케이프렛 기준 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_209.json",
+      "char_count": 408
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:210",
+      "section": "[2026-06-24] maintenance | 옌 외형 잠금 단일화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_210.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:211",
+      "section": "[2026-06-24] visual lock | 옌 체구 표현 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_211.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:212",
+      "section": "[2026-06-24] visual lock | 옌 3층위 덧칠된 무지개 선택본 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_212.json",
+      "char_count": 340
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:213",
+      "section": "[2026-06-24] maintenance | live mirror / raw snapshot 구조 제거",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_213.json",
+      "char_count": 402
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:214",
+      "section": "[2026-06-25] visual lock | 아인 curated 시각 앵커 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_214.json",
+      "char_count": 329
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:215",
+      "section": "[2026-06-26] canon ingest | 01_CANON 명명과 세계 규칙 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_215.json",
+      "char_count": 997
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:216",
+      "section": "[2026-06-26] visual lock | 아인 1층위 손소품과 전신 비율 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_216.json",
+      "char_count": 352
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:217",
+      "section": "[2026-06-26] visual lock | 아인 1층위 흰 배경 앵커 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_217.json",
+      "char_count": 291
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:218",
+      "section": "[2026-06-26] visual lock | 아인 3층위 목 바코드와 손목 은폐 기준 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_218.json",
+      "char_count": 385
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:219",
+      "section": "[2026-06-26] rebuild | 오르딜리아 국가 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_219.json",
+      "char_count": 328
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:220",
+      "section": "[2026-06-26] rebuild | 단테 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_220.json",
+      "char_count": 503
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:221",
+      "section": "[2026-06-26] maintenance | 우주 진입점과 빈 raw 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_221.json",
+      "char_count": 549
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:222",
+      "section": "[2026-06-26] rebuild | 아인 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_222.json",
+      "char_count": 497
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:223",
+      "section": "[2026-06-26] rebuild | 진 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_223.json",
+      "char_count": 437
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:224",
+      "section": "[2026-06-26] merge | 우주 진입점 삼위일체 우주 병합",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_224.json",
+      "char_count": 312
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:225",
+      "section": "[2026-06-26] rebuild | 블랑 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_225.json",
+      "char_count": 469
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:226",
+      "section": "[2026-06-26] rebuild | 스칼렛 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_226.json",
+      "char_count": 482
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:227",
+      "section": "[2026-06-26] rebuild | 엘리자베스 공용 몸 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_227.json",
+      "char_count": 435
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:228",
+      "section": "[2026-06-26] rebuild | 세레나 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_228.json",
+      "char_count": 454
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:229",
+      "section": "[2026-06-26] rebuild | 옌 캐릭터 패키지 분기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_229.json",
+      "char_count": 477
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:230",
+      "section": "[2026-06-26] rebuild | 라돈 판타즈마 주제 섹션 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_230.json",
+      "char_count": 176
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:231",
+      "section": "[2026-06-26] cleanup | support 요약과 관계 색인 문체 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_231.json",
+      "char_count": 419
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:232",
+      "section": "[2026-06-26] rebuild | 펠시온 색인 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_232.json",
+      "char_count": 438
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:233",
+      "section": "[2026-06-26] rebuild | 엑시온 색인 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_233.json",
+      "char_count": 426
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:234",
+      "section": "[2026-06-26] rebuild | 페르소나 색인 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_234.json",
+      "char_count": 424
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:235",
+      "section": "[2026-06-26] rebuild | 메인 파티 진입 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_235.json",
+      "char_count": 430
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:236",
+      "section": "[2026-06-26] rebuild | 아홉 나라와 균형계 하위 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_236.json",
+      "char_count": 548
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:237",
+      "section": "[2026-06-26] rebuild | 특이점 사건군 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_237.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:238",
+      "section": "[2026-06-26] rebuild | 아홉 나라의 시대 상위 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_238.json",
+      "char_count": 382
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:239",
+      "section": "[2026-06-26] rebuild | 세계사 사건 흐름 항목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_239.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:240",
+      "section": "[2026-06-26] rebuild | 삼위일체 우주 하위 조회 축 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_240.json",
+      "char_count": 406
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:241",
+      "section": "[2026-06-26] rebuild | 존재 영역 상위 항목 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_241.json",
+      "char_count": 380
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:242",
+      "section": "[2026-06-26] rebuild | 인물 상위 항목과 색인 문체 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_242.json",
+      "char_count": 496
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:243",
+      "section": "[2026-06-26] rename | 마사오트 조우 실패와 알렉시아 기록 추적",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_243.json",
+      "char_count": 401
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:244",
+      "section": "[2026-06-26] rebuild | 캐릭터 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_244.json",
+      "char_count": 370
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:245",
+      "section": "[2026-06-26] rebuild | 캐릭터 support heading 표준화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_245.json",
+      "char_count": 347
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:246",
+      "section": "[2026-06-26] rebuild | 하위 항목 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_246.json",
+      "char_count": 338
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:247",
+      "section": "[2026-06-26] rebuild | 아홉 용 장면 기능 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_247.json",
+      "char_count": 247
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:248",
+      "section": "[2026-06-26] rebuild | 메인 파티와 구세주 후보 하위 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_248.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:249",
+      "section": "[2026-06-26] style | 독자용 소유권 문장 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_249.json",
+      "char_count": 306
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:250",
+      "section": "[2026-06-26] style | 하급 생태 정의 문장 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_250.json",
+      "char_count": 285
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:251",
+      "section": "[2026-06-26] relations | 초반 사건 관련 문서 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_251.json",
+      "char_count": 387
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:252",
+      "section": "[2026-06-26] relations | 국가 관련 문서 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_252.json",
+      "char_count": 345
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:253",
+      "section": "[2026-06-26] relations | 메인 파티 관련 문서 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_253.json",
+      "char_count": 384
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:254",
+      "section": "[2026-06-26] relations | 메인 파티 support 관련 문서 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_254.json",
+      "char_count": 323
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:255",
+      "section": "[2026-06-26] relations | 앙상블과 펠시온 관련 문서 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_255.json",
+      "char_count": 333
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:256",
+      "section": "[2026-06-26] style | 트리네아드 외형 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_256.json",
+      "char_count": 281
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:257",
+      "section": "[2026-06-26] style | 엑시온 외형 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_257.json",
+      "char_count": 320
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:258",
+      "section": "[2026-06-26] style | 페르소나 외형 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_258.json",
+      "char_count": 349
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:259",
+      "section": "[2026-06-26] style | 구세주 후보 외형 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_259.json",
+      "char_count": 354
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:260",
+      "section": "[2026-06-26] style | 앙상블과 펠시온 외형 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_260.json",
+      "char_count": 315
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:261",
+      "section": "[2026-06-26] style | 메인 파티 support 기준형 표현 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_261.json",
+      "char_count": 300
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:262",
+      "section": "[2026-06-26] maintenance | 링크 기반 관계 인덱스 전환",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_262.json",
+      "char_count": 262
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:263",
+      "section": "[2026-06-26] maintenance | review 판단 큐와 legacy alias 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_263.json",
+      "char_count": 374
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:264",
+      "section": "[2026-06-26] maintenance | template gap 기록 축소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_264.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:265",
+      "section": "[2026-06-26] rebuild | 특이점 사건 문서 구조 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_265.json",
+      "char_count": 253
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:266",
+      "section": "[2026-06-26] rebuild | 대문 메타 문구 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_266.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:267",
+      "section": "[2026-06-26] rebuild | 프롤로그 사건 문서 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_267.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:268",
+      "section": "[2026-06-26] rebuild | 국가별 판타즈마군 구조 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_268.json",
+      "char_count": 394
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:269",
+      "section": "[2026-06-26] rebuild | 지역 생태와 원생 생물 구조 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_269.json",
+      "char_count": 322
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:270",
+      "section": "[2026-06-26] relations | 계열 링크 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_270.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:271",
+      "section": "[2026-06-26] style | 상위 항목 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_271.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:272",
+      "section": "[2026-06-26] style | 사건 정보상자 라벨 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_272.json",
+      "char_count": 173
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:273",
+      "section": "[2026-06-26] style | 세계법칙과 국가 정보상자 라벨 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_273.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:274",
+      "section": "[2026-06-26] style | 존재 정보상자 라벨 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_274.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:275",
+      "section": "[2026-06-26] style | 메인 파티·페르소나·트리네아드 정보상자 라벨 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_275.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:276",
+      "section": "[2026-06-26] style | 엑시온·구세주 후보·펠시온 정보상자 라벨 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_276.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:277",
+      "section": "[2026-06-26] style | review 표면명 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_277.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:278",
+      "section": "[2026-06-26] style | review 정책 문장 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_278.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:279",
+      "section": "[2026-06-26] cleanup | alias self-reference 제거",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_279.json",
+      "char_count": 149
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:280",
+      "section": "[2026-06-26] style | review 항목 용어 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_280.json",
+      "char_count": 137
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:281",
+      "section": "[2026-06-26] style | 주인공 집단 관계 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_281.json",
+      "char_count": 164
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:282",
+      "section": "[2026-06-26] style | 주인공 지원 항목 관계 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_282.json",
+      "char_count": 133
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:283",
+      "section": "[2026-06-26] style | 외형 지원 항목 부모 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_283.json",
+      "char_count": 120
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:284",
+      "section": "[2026-06-26] style | 지원 항목 부모 설명 잔여 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_284.json",
+      "char_count": 100
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:285",
+      "section": "[2026-06-26] style | 국가 항목 관계 설명 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_285.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:286",
+      "section": "[2026-06-26] style | 짧은 관계 설명 잔여 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_286.json",
+      "char_count": 124
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:287",
+      "section": "[2026-06-26] cleanup | 미사용 토론 CLI 제거",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_287.json",
+      "char_count": 128
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:288",
+      "section": "[2026-06-26] style | 독자 표면 메타어 축소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_288.json",
+      "char_count": 117
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:289",
+      "section": "[2026-06-26] style | review 정책 메타어 축소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_289.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:290",
+      "section": "[2026-06-26] style | 웹 UI 항목 용어 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_290.json",
+      "char_count": 98
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:291",
+      "section": "[2026-06-26] style | 색인 선언문 정본화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_291.json",
+      "char_count": 123
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:292",
+      "section": "[2026-06-26] style | 외형 지원 표제 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_292.json",
+      "char_count": 206
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:293",
+      "section": "[2026-06-26] maintenance | README와 잠금 문구 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_293.json",
+      "char_count": 136
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:294",
+      "section": "[2026-06-26] style | 장면 표제 운영어 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_294.json",
+      "char_count": 166
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:295",
+      "section": "[2026-06-26] style | 위키식 표제 잔여 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_295.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:296",
+      "section": "[2026-06-26] style | 국가 항목 시간 대비문 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_296.json",
+      "char_count": 183
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:297",
+      "section": "[2026-06-26] style | 오아시스 인물 표제 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_297.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:298",
+      "section": "[2026-06-26] rebuild | 사건 색인 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_298.json",
+      "char_count": 133
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:299",
+      "section": "[2026-06-26] rebuild | 1부 초반 사건 항목 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_299.json",
+      "char_count": 291
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:300",
+      "section": "[2026-06-26] maintenance | 우주 구조 alias 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_300.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:301",
+      "section": "[2026-06-26] style | 우주 법칙 항목 운영어 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_301.json",
+      "char_count": 223
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:302",
+      "section": "[2026-06-26] style | 사건과 파티 항목 조회어 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_302.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:303",
+      "section": "[2026-06-26] style | 메인 파티 support 관계 문장 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_303.json",
+      "char_count": 175
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:304",
+      "section": "[2026-06-26] style | 엑시온 support 관계 문장 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_304.json",
+      "char_count": 146
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:305",
+      "section": "[2026-06-26] style | 펠시온과 앙상블 support 관계 문장 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_305.json",
+      "char_count": 155
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:306",
+      "section": "[2026-06-26] style | 기준점 표현 잔여 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_306.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:307",
+      "section": "[2026-06-26] rebuild | 존재 축 상위 항목 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_307.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:308",
+      "section": "[2026-06-26] rebuild | 인물 축 상위 항목 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_308.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:309",
+      "section": "[2026-06-26] rebuild | 하위신 인물군 정보표와 경계 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_309.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:310",
+      "section": "[2026-06-26] merge | 트리네아드 중복 항목 병합",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_310.json",
+      "char_count": 306
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:311",
+      "section": "[2026-06-26] style | 분류어 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_311.json",
+      "char_count": 420
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:312",
+      "section": "[2026-06-26] rebuild | 사건 시대 항목 정보표 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_312.json",
+      "char_count": 261
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:313",
+      "section": "[2026-06-26] style | 외형 support 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_313.json",
+      "char_count": 1023
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:314",
+      "section": "[2026-06-27] style | 사건과 국가 항목 제목 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_314.json",
+      "char_count": 894
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:315",
+      "section": "[2026-06-27] style | 아홉 나라의 시대 visible title 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_315.json",
+      "char_count": 432
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:316",
+      "section": "[2026-06-27] style | 하급 생물 문서 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_316.json",
+      "char_count": 511
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:317",
+      "section": "[2026-06-27] style | 판타즈마 문서 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_317.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:318",
+      "section": "[2026-06-27] structure | 삼위일체 우주 경계 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_318.json",
+      "char_count": 181
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:319",
+      "section": "[2026-06-27] style | 사건 문서 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_319.json",
+      "char_count": 157
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:320",
+      "section": "[2026-06-27] structure | 트리네아드 그룹 support 병합",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_320.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:321",
+      "section": "[2026-06-27] link | 트리네아드 개별 외형 support 연결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_321.json",
+      "char_count": 212
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:322",
+      "section": "[2026-06-27] review | 잔여 핸드오프 원문 보관",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_322.json",
+      "char_count": 135
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:323",
+      "section": "[2026-06-27] review | 잔여 Markdown 핸드오프 원문 추가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_323.json",
+      "char_count": 146
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:324",
+      "section": "[2026-06-27] ingest | 하위신 체계 핸드오프 1차 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_324.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:325",
+      "section": "[2026-06-27] ingest | 페르소나 1부 퇴장 기준 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_325.json",
+      "char_count": 158
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:326",
+      "section": "[2026-06-27] ingest | 아홉 나라 원샷 양식 슬롯화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_326.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:327",
+      "section": "[2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 구축",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_327.json",
+      "char_count": 186
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:328",
+      "section": "[2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 1차 채움",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_328.json",
+      "char_count": 270
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:329",
+      "section": "[2026-06-27] style | 교체명과 별칭 표면 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_329.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:330",
+      "section": "[2026-06-27] structure | 국가 원샷 슬롯 본문 승격",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_330.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:331",
+      "section": "[2026-06-27] review | 잔여 핸드오프 ingest 큐 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_331.json",
+      "char_count": 281
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:332",
+      "section": "[2026-06-27] ingest | 아포라투스 제어핵 구조 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_332.json",
+      "char_count": 260
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:333",
+      "section": "[2026-06-27] ingest | 아홉 나라 명명 층위 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_333.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:334",
+      "section": "[2026-06-27] ingest | 염한 추가 해석 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_334.json",
+      "char_count": 288
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:335",
+      "section": "[2026-06-27] ingest | 가인 외형 시기별 기준 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_335.json",
+      "char_count": 223
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:336",
+      "section": "[2026-06-27] ingest | 주인공 파티 키워드 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_336.json",
+      "char_count": 334
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:337",
+      "section": "[2026-06-27] ingest | 혼돈-현재와 아홉 영웅 핸드오프 반영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_337.json",
+      "char_count": 548
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:338",
+      "section": "[2026-06-27] structure | 염한 기준 국가 슬롯 정렬",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_338.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:339",
+      "section": "[2026-06-27] ingest | 디아도코이와 알레인의 동화책 신설",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_339.json",
+      "char_count": 311
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:340",
+      "section": "[2026-06-27] naming | 기능조직 정본명과 디아도코이 분류 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_340.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:341",
+      "section": "[2026-06-27] ingest | 균형계 조직 독립 문서화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_341.json",
+      "char_count": 408
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:342",
+      "section": "[2026-06-28] ingest | 전대 엑시온 처리 경계 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_342.json",
+      "char_count": 279
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:343",
+      "section": "[2026-06-28] ingest | 4등급 판타즈마 임계 조건 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_343.json",
+      "char_count": 373
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:344",
+      "section": "[2026-06-28] naming | 파라디소 상부 내핵명 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_344.json",
+      "char_count": 252
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:345",
+      "section": "[2026-06-28] review | 보류 잠금 항목 active TODO 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_345.json",
+      "char_count": 225
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:346",
+      "section": "[2026-06-28] worldlaw | 세계법칙 연결 순서 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_346.json",
+      "char_count": 274
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:347",
+      "section": "[2026-06-28] worldlaw | 삼위일체 우주 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_347.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:348",
+      "section": "[2026-06-28] worldlaw | 세 에너지 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_348.json",
+      "char_count": 186
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:349",
+      "section": "[2026-06-28] worldlaw | 오리진 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_349.json",
+      "char_count": 177
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:350",
+      "section": "[2026-06-28] worldlaw | 하위신 승격체 경계 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_350.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:351",
+      "section": "[2026-06-28] worldlaw | 필로시온 양산형 경계 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_351.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:352",
+      "section": "[2026-06-28] trinead | 자연의 트리네아드 LIVE WC 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_352.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:353",
+      "section": "[2026-06-28] worldhistory | 세계사 프리퀄 인과 재구성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_353.json",
+      "char_count": 500
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:354",
+      "section": "[2026-06-29] worldhistory | 세계사 1/2/3시대 분할 상세화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_354.json",
+      "char_count": 493
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:355",
+      "section": "[2026-06-29] worldhistory | 세계사 시대 문체 조정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_355.json",
+      "char_count": 366
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:356",
+      "section": "[2026-06-29] worldhistory | 최초의 삼위 누미노스 잔류 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_356.json",
+      "char_count": 608
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:357",
+      "section": "[2026-06-29] worldhistory | 1시대 연결 문서 설명력 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_357.json",
+      "char_count": 660
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:358",
+      "section": "[2026-06-29] worldhistory | 2시대 아홉 영웅과 칼시네이션 보강",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_358.json",
+      "char_count": 344
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:359",
+      "section": "[2026-06-29] worldhistory | 2시대 풀림과 아홉 아타노르 보정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_359.json",
+      "char_count": 418
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:360",
+      "section": "2026-06-29",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_360.json",
+      "char_count": 1610
+    },
+    {
+      "id": "doc_8f6d6b5b89ab84b1:361",
+      "section": "2026-06-30",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_361.json",
+      "char_count": 589
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:263",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | review 판단 큐와 legacy alias 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_263.json",
+  "text": "## [2026-06-26] maintenance | review 판단 큐와 legacy alias 정리\n\nreview 표면에서 완료된 판단 큐와 분해 기록을 실제 운영 상태에 맞췄다.\n\n- 아홉 나라 문서에 남아 있던 `needs_decision` 상태를 `draft`로 낮추고, 판단 요청 큐를 빈 큐로 정리했다.\n- 명명 체계, 하위신 체계, 혼돈에서 현재까지의 구조 legacy alias를 review 기록이 아니라 최종 소유 문서로 라우팅했다.\n- review index와 분해 처리 기록의 표면 문구에서 완료된 제안 큐처럼 보이는 표현을 줄였다.\n- 메인 파티 보이스 support와 구세주 후보 index에서 잘못된 상대 링크를 실제 대상 문서로 맞췄다.",
+  "metadata": {
+    "char_count": 374,
+    "sha256": "1f7f150c774faf2778e0bcc85cd26d1147d7e61b794c96b648785ae41f140f29"
+  }
+}

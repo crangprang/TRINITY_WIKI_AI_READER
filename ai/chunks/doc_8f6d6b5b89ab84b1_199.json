@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:199",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] canon update | 단테 핵심 해석 갱신",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_199.json",
+  "text": "## [2026-06-23] canon update | 단테 핵심 해석 갱신\n\n사용자 판단에 따라 단테의 핵심을 `자기 자신의 지옥을 걷는 순례자`로 갱신하고, 별=루시아=시선, 별을 찾는 일이 유일한 속죄 방식이라는 축을 LIVE 정본과 WIKI 독자용 문서에 반영했다.\n\n- 반영: [단테](characters/main_party/단테/index.md), [P07 단테 / 음악 키워드와 명사 물성](characters/main_party/단테/support/music.md)\n- LIVE CANON 반영: `P07_CORE`, `P07_FACT_DETAIL`, `P07_REFERENCE`, `P07_VOICE_SAMPLE`\n- 주요 판단: 패배하면 별의 시선을 잃고 속죄의 길이 닫힌다고 믿기 때문에 계속 승리하려 하지만, 다수의 시선은 저주 `주목`과 함께 단테를 약하게 만든다. 1:1 구도는 단순 전투 조건이 아니라 단테가 자기 시련으로 받아들이고 검을 뽑는 순간이다.",
+  "metadata": {
+    "char_count": 493,
+    "sha256": "53c7b4f00891e1c8564556e183ca5fc68f24afe07867636c686cd54a5ecb8734"
+  }
+}

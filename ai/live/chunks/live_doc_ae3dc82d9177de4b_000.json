@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_ae3dc82d9177de4b:000",
+  "document_id": "live_doc_ae3dc82d9177de4b",
+  "path": "02_LORE/L08_PEACE/L08_BRANCH_IDEA.txt",
+  "title": "L08_파라디소 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "L08_파라디소 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L08_PEACE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_ae3dc82d9177de4b_000.json",
+  "text": "L08_파라디소 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `L08_CORE.txt`, `L08_FACT_DETAIL.txt`, 혹은 live surface로 승격한다.\n- 작업 경과와 병목은 이 파일이 아니라 별도 process note나 평가 기록에 둔다.\n\n1. 확장 후보\n\n- 아르카르타의 제한 기항일에만 열리는 접현 갑판과 검역 절차를 장면 단위로 더 세밀하게 잡는 방향.\n- 오멜라스에서 시민이 구조의 진실을 배우고도 파라디소에 남기로 결심하는 교육 장면을 확장하는 방향.\n- 미세리코의 임시 병동, 차양 수선, 검은 비 정리 노동을 공동체 리듬 중심으로 더 보여 주는 방향.\n- 파라디소의 백색 축제와 오멜라스의 검은 비 봉직이 같은 날 서로 다른 얼굴로 겹치는 연출을 다듬는 방향.\n\n2. 미감 확장\n\n- 백색 회랑, 무지개 조명, 관제 유리벽, 검은 차양, 빗물 고인 판자길이 한 시야 안에서 이어지는 대비.\n- 성가와 재난 방송, 진창 위 발소리, 비닐 차양 두드리는 검은 비 소리가 겹치는 음향층.\n- 위 항목들은 장면 밀도를 높일 수 있지만 현재는 branch 확장안으로만 유지한다.",
+  "metadata": {
+    "char_count": 690,
+    "sha256": "200d50925ef9e17c84bc1a4d32fdd908ac49e46d52d16ce19bc9807e8bb857aa"
+  }
+}

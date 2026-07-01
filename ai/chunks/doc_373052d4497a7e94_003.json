@@ -1,0 +1,24 @@
+{
+  "id": "doc_373052d4497a7e94:003",
+  "document_id": "doc_373052d4497a7e94",
+  "path": "wiki/characters/axions/설리반/support/appearance.md",
+  "wiki_path": "characters/axions/설리반/support/appearance.md",
+  "title": "설리반 외형",
+  "section": "격납 돔 가면",
+  "summary": "설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_003.json",
+  "text": "## 격납 돔 가면\n\n가면은 전면 helmet-mask다. 둥근 격납 돔 같은 흰 외피, 넓고 차가운 투명 또는 반투명 바이저, 검은 비가 흘러내리는 배수 홈을 가진다.\n\n목 둘레에는 오염 제거용 실링이 붙고, 작은 선량계와 경고 패널 같은 디테일이 보인다. 입가리개나 의료 마스크 수준의 얼굴가림은 설리반의 통제자 압력을 약하게 만든다.",
+  "metadata": {
+    "char_count": 189,
+    "sha256": "71205a92d7af62476390c6c22ce47b9e2e18025301ca2f094ad95dff588762cd"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_1cb7b10f79781e8f",
+  "path": "02_LORE/L00_OLYMPIA/L00_BRANCH_IDEA.txt",
+  "title": "L00_올림피아 / BRANCH_IDEA",
+  "summary": "L00_올림피아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L00_OLYMPIA",
+  "suffix": ".txt",
+  "sha256": "c340d2a02718ebff45f2b0a7774b18eec1d99f8bdd61d1905357f9474b27c555",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_1cb7b10f79781e8f.json",
+  "chunks": [
+    {
+      "id": "live_doc_1cb7b10f79781e8f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1cb7b10f79781e8f_000.json",
+      "char_count": 661
+    }
+  ]
+}

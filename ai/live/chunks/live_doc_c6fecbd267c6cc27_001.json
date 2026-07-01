@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_c6fecbd267c6cc27:001",
+  "document_id": "live_doc_c6fecbd267c6cc27",
+  "path": "02_LORE/README.md",
+  "title": "02_LORE",
+  "section": "Live Contract",
+  "summary": "`02_LORE` is the live lore surface.",
+  "root": "02_LORE",
+  "category": "02_LORE:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c6fecbd267c6cc27_001.json",
+  "text": "## Live Contract\n\n- Nation lore packages now live directly under `02_LORE/`.\n- Until a lore unit is migrated, its current single live `.txt` file remains active.\n- Migrated nation lore units use coded package directories such as `L06_TRUTH/`.\n- Current migrated examples:\n  - `L00_OLYMPIA/`\n  - `L06_TRUTH/`\n  - `L10_EREMOS/`\n- Current package template:\n  - `L##_CORE.txt`\n  - `L##_FACT_DETAIL.txt`\n  - `L##_BRANCH_IDEA.txt`\n  - `L##_REFERENCE.txt`\n- `L##_CORE.txt` keeps the shortest live core of the lore unit.\n- `L##_FACT_DETAIL.txt` keeps stable detail at the same truth rank.\n- Live lore prose stays near the `WC00_TIMELINE`~`WC01_DETAILS` band: direct expository blocks, concrete world nouns before abstract framing, and usually one to two short paragraphs per unit.\n- `L##_BRANCH_IDEA.txt` keeps non-fact expansion and alternate-direction notes.\n- `L##_REFERENCE.txt` keeps support anchors, recall prompts, and scene reference below truth.\n- Lore packages do not create `VOICE_SAMPLE` equivalents.\n- Root/package indexes remain navigation-only and may list both single live files and migrated package directories.\n- Load-bearing apparatus-core truth belongs in package `L##_CORE.txt` / `L##_FACT_DETAIL.txt`: system identity, components, control, operation, fuel, side effects, failure signs, and stop-cost move there when they shape the country's live surface.\n- Load-bearing proto-origin truth also belongs in package `L##_CORE.txt` / `L##_FACT_DETAIL.txt`: original role, corruption direction, and residual national habit move there when they shape the country's live surface.\n- Named persona acting notes and counterpart pressure belong in `04_MAIN_CHARACTER`, not in the nation lore package.",
+  "metadata": {
+    "char_count": 1703,
+    "sha256": "a3dc4bc00c9cee46332dbf8a72742293a4265b3858b34d00054ec57a887588f8"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:015",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "자신의 지옥을 걷는 순례자",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_015.json",
+  "text": "### 자신의 지옥을 걷는 순례자\n\n단테의 가장 깊은 곳에는 별을 쫓던 견습기사가 남아 있다. 이 층은 평소의 앞면으로 오래 머물지 않는다. 진흙, 얼음, 불을 지나 끝에 닿는 순간에만 잔광처럼 드러난다.\n\n순례자는 단테의 최종 정체다. 그는 루시아라는 별에 닿기 위해, 자기 죄가 만든 지옥을 계속 걷는다. 그 길은 아름다운 회복으로 닫히지 않고 끝내 답해야 하는 질문으로 이어진다.",
+  "metadata": {
+    "char_count": 215,
+    "sha256": "3ec87c41ce35a09a2296217923358d71a16f48a9d7b6c5a9a70a7d11af2314a1"
+  }
+}

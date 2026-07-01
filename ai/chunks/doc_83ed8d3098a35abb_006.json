@@ -1,0 +1,24 @@
+{
+  "id": "doc_83ed8d3098a35abb:006",
+  "document_id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "section": "관련 문서",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_006.json",
+  "text": "## 관련 문서\n\n- [케르베로스](../index.md) - 레이어드의 구세주 후보이자 마이더스 전속 용병.\n- [레이어드](../../../../universe/realms/balance/nations/레이어드.md) - 케르베로스의 계약 감각이 만들어진 거래의 나라.\n- [마이더스](../../../axions/마이더스/index.md) - 케르베로스의 고용주인 레이어드의 엑시온.\n- [카론](../../../personas/카론/index.md) - 케르베로스에게 헤라클레스 조건을 건 페르소나.",
+  "metadata": {
+    "char_count": 283,
+    "sha256": "6b29a01d2e64976204e23f5ef27f9549e5b012197540b0dd219fb6dcd6465228"
+  }
+}

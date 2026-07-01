@@ -1,0 +1,23 @@
+{
+  "id": "doc_fba08e6c9eb03cf9:006",
+  "document_id": "doc_fba08e6c9eb03cf9",
+  "path": "wiki/events/singularities/몽환포영.md",
+  "wiki_path": "events/singularities/몽환포영.md",
+  "title": "몽환포영",
+  "section": "관련 문서",
+  "summary": "엘리자베스의 정체성 혼란과 두 엑시온의 독백이 겹치며, 무대와 현실의 경계가 흐려지는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_006.json",
+  "text": "## 관련 문서\n\n- [우니오네](../../universe/realms/balance/nations/우니오네.md) - 몽환포영이 뒤집는 예술의 나라.\n- [엘리자베스](../../characters/main_party/엘리자베스/index.md) - 꿈과 현실의 경계에서 정체성 압력을 받는 인물.\n- [빈센트](../../characters/personas/빈센트/index.md) - 아름다운 출구와 꿈 무대를 관리하는 우니오네 페르소나.\n- [파티](../../characters/main_party/파티/index.md) - 해피엔딩의 약속을 의심하게 되는 주인공 집단.",
+  "metadata": {
+    "char_count": 325,
+    "sha256": "7c7ed4ee9298b86689b7abd38ae2938074371bc4ea1ebe27a0cc23ca121bdcd9"
+  }
+}

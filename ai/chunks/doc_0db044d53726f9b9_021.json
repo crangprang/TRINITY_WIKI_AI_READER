@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:021",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "그림자와 이름",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_021.json",
+  "text": "### 그림자와 이름\n\n옌의 이름이 입에서 꼬일 때, 진이 피 묻은 채 웃을 때, 아인을 과거 오판에 겹쳐 볼 때, 지금 이름을 다시 확인할 때, 여섯 이름이 겹쳐 들릴 때 그림자를 보는 자가 열린다.",
+  "metadata": {
+    "char_count": 112,
+    "sha256": "e137f66c0207ddd160e636225a76451058785d2d9f0040cd14c9ea51b515c22d"
+  }
+}

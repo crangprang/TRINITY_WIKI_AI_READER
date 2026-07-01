@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:020",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "트랙 구조",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_020.json",
+  "text": "### 트랙 구조\n\n워크맨은 총 9트랙으로 구성된다. A면은 6트랙, B면은 3트랙이다. 심부 트랙은 `재생 -> 동기화 -> 견인`의 3단계를 가진다. 견인은 바깥 상황 일치, 진 안쪽 노출, 제동 실패가 겹칠 때 열린다.\n\n트랙명은 워크맨의 음악 성격을 드러내는 보조 이름으로 둔다.\n\n- Boiler Yard Shuffle\n- Scrap Ledger Swing\n- Long Haul Road Rock\n- Aftershift Tape Hiss\n- Wrong Parade March\n- Ghost Receipt Refrain\n- Crazy Disco\n- Rainy Ballad Blues\n- Metronome Industrial",
+  "metadata": {
+    "char_count": 352,
+    "sha256": "08d7a9387b057f1fe9211ab9fbdaaa5406cf7640c2a9e085472deeda732fdeb7"
+  }
+}

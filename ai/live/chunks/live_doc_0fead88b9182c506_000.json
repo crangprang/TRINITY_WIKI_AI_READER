@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_0fead88b9182c506:000",
+  "document_id": "live_doc_0fead88b9182c506",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/06_THALES/PER06_CORE.txt",
+  "title": "탈레스 / CORE",
+  "section": "body",
+  "summary": "탈레스 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0fead88b9182c506_000.json",
+  "text": "탈레스 / CORE\n\n1. 식별\n탈레스은 알렉시아의 아포라투스 `오르가논`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 알렉시아 / 오르가논\n- 전면: 현자, 질문당의 음성, 촛불 옆의 조용한 지도자\n- 압력: 질문에 답해야 한다는 사명으로 인간과 도시를 연산 자원처럼 보게 되는 의식\n- 관계: 판도라의 죄책감, 엘피스의 유예, 금지 질문과 연결\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 373,
+    "sha256": "7f9932ea27096c387549b6aae48a352d6d59be2f852553eec804db2d796b8ca1"
+  }
+}

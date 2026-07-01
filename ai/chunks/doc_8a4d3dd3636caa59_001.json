@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:001",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "외형 기준",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이/비율 | 17~18세. 성인형 머리-몸 비율과 손발 비율, 긴 사지, 또렷한 콧대와 턱선 |\n| 실루엣 | 위는 흰 겹옷으로 넓고 아래는 가늘게 정리되는 `흰 구름 같은 여행자` |\n| 머리 | 목 근처에서 끝나는 진주빛 흰 웨이브 단발 |\n| 눈 | 오팔/진주빛 흰 눈. 살아 있는 동공과 옅은 오팔빛 경계 |\n| 1층 의상 | 흰 여행 스목/짧은 망토형 겹옷, 검은 고딕 하이넥 이너, 검은 레이스 커프, 갈색 대각선 크로스백, 얇고 넓은 스케치북 |\n| 공용 하의 | 밝은 흰색/회백색 테이퍼드 바지, 검은 세로 옆선, 별도 검은 단추열, 하단 다이아몬드 포인트 |\n| 신발 | 1·2층은 흑회색/차콜 여행용 앵클부츠, 3층은 맨발 |\n| 소품 | 투박한 색연필, 천에 감싼 목탄, 작은 고체 안료, 짧게 부러진 무광 파스텔 스틱 |\n| 팔레트 | 바깥은 진주/구름, 깊은 층위는 흑진주/먹구름, 3층은 흰색 아래에서 새어 나오는 무지개 |",
+  "metadata": {
+    "char_count": 529,
+    "sha256": "2268f4c739b3488d893f1aed0353dfdab3821aa3c44cc069cbb0c42456d5a753"
+  }
+}

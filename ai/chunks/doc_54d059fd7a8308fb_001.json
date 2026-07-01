@@ -1,0 +1,22 @@
+{
+  "id": "doc_54d059fd7a8308fb:001",
+  "document_id": "doc_54d059fd7a8308fb",
+  "path": "wiki/review/index.md",
+  "wiki_path": "review/index.md",
+  "title": "검토와 결정 요청",
+  "section": "검토 항목",
+  "summary": "WIKI 운영 중 필요한 판단 요청, 충돌, 항목 소유권 잠금, 본문 보강 대상 진입점.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_54d059fd7a8308fb_001.json",
+  "text": "## 검토 항목\n\n- [판단 요청](decision_requests/index.md)\n- [충돌 기록](contradictions.md)\n- [항목 소유권 잠금](ownership_locks.md)\n- [본문 보강 대상](template_gaps.md)\n- [세계관 개발 TODO](worldbuilding_development_todo.md)\n- [사용자 잠금](user_locks.md)",
+  "metadata": {
+    "char_count": 218,
+    "sha256": "2f0d1e17a0d8dcf8d4de71d919b56fff5d6be9bdd1cdcd119c4ae8c9bdd27b13"
+  }
+}

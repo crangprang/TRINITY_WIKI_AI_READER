@@ -1,0 +1,23 @@
+{
+  "id": "doc_ffab697840829384:006",
+  "document_id": "doc_ffab697840829384",
+  "path": "wiki/characters/main_party/스칼렛/index.md",
+  "wiki_path": "characters/main_party/스칼렛/index.md",
+  "title": "스칼렛",
+  "section": "빈센트와 거울",
+  "summary": "스칼렛은 같은 몸 안에서 더러운 역할과 시선의 무게를 먼저 떠안는 배우이자 탐정이다. 위험한 웃음과 무대성은 블랑에게 향하는 시선을 자기 쪽으로 돌리는 생존 장치이며, 엘리자베스라는 이름 밑에서 지워지지 않으려는 사람의 버팀이 함께 남는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_006.json",
+  "text": "### 빈센트와 거울\n\n블랑을 끝낸 뒤 스칼렛은 아틀리에로 돌아온 빈센트를 기습해 그가 쓰던 방식으로 죽였다. 거울 속에는 웃고 있는 피투성이 살인마가 서 있었다. 스칼렛은 그 얼굴에서 빈센트와 같은 것이 된 자신을 보았고, 자기 머리에 방아쇠를 당겼다.\n\n이 장면은 스칼렛 안에 `내가 무엇이 되어 버렸는가`라는 질문을 남겼다. 블랑을 지키려던 손이 빈센트와 같은 피를 뒤집어쓴 순간, 스칼렛의 보호는 실패와 죄책감과 한 몸이 되었다.",
+  "metadata": {
+    "char_count": 244,
+    "sha256": "5b75a09d9ab7fe6667aac23bf799b0f3b2ceb8619b15742b072e36881d53043e"
+  }
+}

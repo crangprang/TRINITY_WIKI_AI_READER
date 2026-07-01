@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:025",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 침식 정체 표현 충돌 판단 요청",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_025.json",
+  "text": "## [2026-06-28] review | 침식 정체 표현 충돌 판단 요청\n\n[침식의 펠시온](characters/fellsions/침식의_펠시온/index.md)을 LIVE WC와 하위신 개발 핸드오프에 대조하던 중, LIVE WC의 `무녀` 표현과 현재 WIKI의 `죄수` 축 및 남성 대명사 중심 서술이 충돌하는 점을 확인했다.\n\n침식 본문과 [침식의 펠시온 외형](characters/fellsions/침식의_펠시온/support/appearance.md)은 사용자 결정 전까지 `needs_decision`으로 두고, 충돌은 [FEL-001](review/contradictions.md#fel-001-침식의-펠시온-정체-표현) 판단 요청으로 기록했다. 송장벌레 백골 가면, 수라 얼굴, 봉인문신 claim은 결정 뒤 같은 항목에서 이어 반영한다.",
+  "metadata": {
+    "char_count": 424,
+    "sha256": "1b1678b9cf74e97d150506d13d1ccbbc86105cc12055d026f2e8faa6b7dc792d"
+  }
+}

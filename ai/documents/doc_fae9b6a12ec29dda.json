@@ -1,0 +1,394 @@
+{
+  "id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "세레나"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "붉은 달의 참극"
+    },
+    {
+      "level": 3,
+      "title": "순례와 기록"
+    },
+    {
+      "level": 2,
+      "title": "세계와 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "검 너머의 달"
+    },
+    {
+      "level": 3,
+      "title": "다시 뜨는 붉은 달"
+    },
+    {
+      "level": 3,
+      "title": "쓸 수 없는 이름"
+    },
+    {
+      "level": 3,
+      "title": "나는 명예롭게 싸우다 죽고 싶다"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "청색의 순례자"
+    },
+    {
+      "level": 3,
+      "title": "무덤을 찾는 망령"
+    },
+    {
+      "level": 3,
+      "title": "달빛 중독자"
+    },
+    {
+      "level": 3,
+      "title": "푸른 달의 이야기"
+    },
+    {
+      "level": 3,
+      "title": "붉은 달의 전사"
+    },
+    {
+      "level": 2,
+      "title": "능력과 달"
+    },
+    {
+      "level": 3,
+      "title": "검술"
+    },
+    {
+      "level": 3,
+      "title": "용투"
+    },
+    {
+      "level": 3,
+      "title": "월광"
+    },
+    {
+      "level": 3,
+      "title": "월광검"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "단테"
+    },
+    {
+      "level": 3,
+      "title": "아인"
+    },
+    {
+      "level": 3,
+      "title": "가인"
+    },
+    {
+      "level": 3,
+      "title": "아백"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "세레나 보이스",
+      "target": "wiki/characters/main_party/세레나/support/voice.md"
+    },
+    {
+      "label": "세레나 외형",
+      "target": "wiki/characters/main_party/세레나/support/appearance.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "세레나 외형",
+      "target": "wiki/characters/main_party/세레나/support/appearance.md"
+    },
+    {
+      "label": "세레나 보이스",
+      "target": "wiki/characters/main_party/세레나/support/voice.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    }
+  ],
+  "sha256": "7373fc33c107c751709daa7b883b38bc22439ea34d4695955459b2e3ecc5cd72",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fae9b6a12ec29dda.json",
+  "chunks": [
+    {
+      "id": "doc_fae9b6a12ec29dda:000",
+      "section": "세레나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_000.json",
+      "char_count": 199
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_001.json",
+      "char_count": 464
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:003",
+      "section": "붉은 달의 참극",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_003.json",
+      "char_count": 416
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:004",
+      "section": "순례와 기록",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_004.json",
+      "char_count": 295
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:005",
+      "section": "세계와 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_005.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:006",
+      "section": "검 너머의 달",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_006.json",
+      "char_count": 180
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:007",
+      "section": "다시 뜨는 붉은 달",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_007.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:008",
+      "section": "쓸 수 없는 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_008.json",
+      "char_count": 162
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:009",
+      "section": "나는 명예롭게 싸우다 죽고 싶다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_009.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:010",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_010.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:011",
+      "section": "청색의 순례자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_011.json",
+      "char_count": 140
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:012",
+      "section": "무덤을 찾는 망령",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_012.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:013",
+      "section": "달빛 중독자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_013.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:014",
+      "section": "푸른 달의 이야기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_014.json",
+      "char_count": 163
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:015",
+      "section": "붉은 달의 전사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_015.json",
+      "char_count": 136
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:016",
+      "section": "능력과 달",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_016.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:017",
+      "section": "검술",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_017.json",
+      "char_count": 126
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:018",
+      "section": "용투",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_018.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:019",
+      "section": "월광",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_019.json",
+      "char_count": 277
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:020",
+      "section": "월광검",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_020.json",
+      "char_count": 413
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:021",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_021.json",
+      "char_count": 371
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:022",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_022.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:023",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_023.json",
+      "char_count": 206
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:024",
+      "section": "단테",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_024.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:025",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_025.json",
+      "char_count": 126
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:026",
+      "section": "가인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_026.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:027",
+      "section": "아백",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_027.json",
+      "char_count": 149
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:028",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_028.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_fae9b6a12ec29dda:029",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_029.json",
+      "char_count": 524
+    }
+  ]
+}

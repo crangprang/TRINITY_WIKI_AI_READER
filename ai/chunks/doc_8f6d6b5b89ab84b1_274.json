@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:274",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 존재 정보상자 라벨 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_274.json",
+  "text": "## [2026-06-26] style | 존재 정보상자 라벨 정리\n\n존재 영역 상단 표의 `문서 유형` 라벨을 `분류`로 바꿨다.\n\n- 범위: 존재, 판타즈마, 하급 생태, 아홉 용, 국가별 판타즈마와 생태 항목.\n- 유지: 존재/존재군 분류값, 항목명, 관련 문서 연결은 그대로 둔다.",
+  "metadata": {
+    "char_count": 161,
+    "sha256": "d3791d7d3394c6d996f270ae8a7e05e9d24f7b2cdc1016b622d6dfd47296f07b"
+  }
+}

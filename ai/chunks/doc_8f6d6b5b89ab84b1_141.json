@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:141",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 메인 파티 총론 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_141.json",
+  "text": "## [2026-06-26] rebuild | 메인 파티 총론 정리\n\n[파티](characters/main_party/파티/index.md)의 중복 기본 정보 블록과 번호형 하위 제목을 정리하고, 메인 파티 색인의 요약 문장을 본문 기준으로 맞췄다.\n\n- 정리: 개요, 배신의 공통 문법, 구성원별 문법, 블랑과 스칼렛, 파티의 추진력으로 본문 소유권을 재배치했다.\n- 색인: [메인 파티 색인](characters/main_party/index.md)의 각 인물 요약에서 비교 부정형과 지시형 표현을 제거했다.",
+  "metadata": {
+    "char_count": 286,
+    "sha256": "df7bdfba82e83ec7a4da534a7040c14c3f0acd06b9bbe3d4569c7f81d7cb87bd"
+  }
+}

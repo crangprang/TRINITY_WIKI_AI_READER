@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:012",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "단테",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_012.json",
+  "text": "### 단테\n\n[단테](../../단테/index.md) 앞에서는 처음에 가장 순하고 무해하게 맞춰 준다. 상대가 스스로 더 말하게 둔 뒤, 중간에 짧은 질문 하나로 흐름을 틀어 버린다.",
+  "metadata": {
+    "char_count": 104,
+    "sha256": "2c38053861b8f3bed2292d21f0f3e40a2f575bb9ce10978cc72e699d69fd6a3e"
+  }
+}

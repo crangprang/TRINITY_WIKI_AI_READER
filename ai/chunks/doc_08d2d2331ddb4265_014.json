@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:014",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "코큐토스의 개",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_014.json",
+  "text": "### 코큐토스의 개\n\n`코큐토스의 개`는 단테가 별의 시선을 잃을 위기에서 드러내는 이름이다. 자신을 개 취급하던 눈, 차가운 경멸, 루시아의 시선, 패배 공포가 겹치면 얼음 속에 눌린 분노가 터진다.\n\n이 층의 단테는 깨끗해지지 않는다. 필요하면 다시 더럽게 이기고, 물러서야 할 자리에서도 이빨을 드러낸다. 그 거칠음의 바닥에는 별을 향한 강박과 속죄를 잃는 공포가 함께 놓여 있다.",
+  "metadata": {
+    "char_count": 217,
+    "sha256": "575dad302a00bd383dcef4f2b6ec2d4e072c237459ce9af022e7af648603dafa"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:236",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 아홉 나라와 균형계 하위 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_236.json",
+  "text": "## [2026-06-26] rebuild | 아홉 나라와 균형계 하위 항목 정리\n\n[아홉 나라](universe/realms/balance/nations/index.md)를 국가 문서 목록에서 균형계 국가 질서, 중앙 성역, 외지 권역을 설명하는 세계 항목으로 확장했다.\n\n- 정리: 아홉 나라의 보물, 아포라투스, 엑시온, 페르소나, 부정 이데아 구조와 올림피아/에레모스의 경계 역할을 본문에 추가했다.\n- 하위 항목: 레이어드, 마사오트, 알렉시아, 염한, 오르딜리아, 오아시스, 우니오네, 파라디소, 플라센티아, 올림피아, 에레모스를 `## 하위 항목` 표로 정리했다.\n- 제목: `균형계/문화`, `균형계/언어` 표시 제목을 [균형계 문화](universe/realms/balance/culture/index.md), [균형계 언어](universe/realms/balance/language/index.md)로 바꾸고 본문 첫 문장을 위키 항목형으로 정리했다.\n- 링크: 균형계, 삼위일체 우주, 하위신, 아홉 나라의 시대 관련 문서 설명에서 `색인` 문체를 제거했다.",
+  "metadata": {
+    "char_count": 548,
+    "sha256": "b26ff25f89e3b05f041a0271d7fecd8396dc3984e4d479b91d251f21b41cdbd9"
+  }
+}

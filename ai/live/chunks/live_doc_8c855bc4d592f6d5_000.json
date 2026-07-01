@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_8c855bc4d592f6d5:000",
+  "document_id": "live_doc_8c855bc4d592f6d5",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_FACT_DETAIL.txt",
+  "title": "황 노인 / FACT_DETAIL",
+  "section": "body",
+  "summary": "황 노인 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_8c855bc4d592f6d5_000.json",
+  "text": "황 노인 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER01_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 천명, 비극의 자격, 바둑판, 밤의 숙제.\n- 상처를 정당성으로 바꾸는 재판 같은 얼굴.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 265,
+    "sha256": "eb102496d8bbfe8391f0a7e0d8346a684b352daaa19cbc6f271fb6d536dae404"
+  }
+}

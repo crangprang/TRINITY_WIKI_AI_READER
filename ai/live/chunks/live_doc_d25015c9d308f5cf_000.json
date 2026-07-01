@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_d25015c9d308f5cf:000",
+  "document_id": "live_doc_d25015c9d308f5cf",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_CORE.txt",
+  "title": "메피스토 / CORE",
+  "section": "body",
+  "summary": "메피스토 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d25015c9d308f5cf_000.json",
+  "text": "메피스토 / CORE\n\n1. 식별\n메피스토은 오아시스의 아포라투스 `피라미디온`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 오아시스 / 피라미디온\n- 전면: 떠돌이 설화 수집가, 시스템의 음성 안내, 세 번째 해답의 목소리\n- 압력: 영원을 구원처럼 보이게 하며 변화 대신 정교한 정지를 권하는 유혹자\n- 관계: 파우스트의 사랑, 가짜 그레트헨, 너무 편리한 현재와 연결\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 387,
+    "sha256": "e2985e4016c8549d4cfa5a5aadfc97f54fe8f3ac5676a32c61990764c49d0e39"
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "id": "doc_0a200e2c67ab5c43",
+  "path": "wiki/universe/realms/balance/nations/오르딜리아.md",
+  "wiki_path": "universe/realms/balance/nations/오르딜리아.md",
+  "title": "오르딜리아",
+  "summary": "오르딜리아는 얼음 돔 아래에서 반지와 고백, 결투 재판, 자기감시로 질서를 세우는 정의의 나라다. 낙원 1과 푸르가토리오 7탑, 코큐토스의 얼음 판정핵, 프라우돌렌티 8노선이 위와 아래를 정반처럼 맞물리고, 시민은 정의를 말하기 전에 먼저 스스로를 절제하고 감시하도록 배운다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "오르딜리아"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 3,
+      "title": "언어권과 판결 언어"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "낙원 1과 푸르가토리오 7탑"
+    },
+    {
+      "level": 3,
+      "title": "코큐토스"
+    },
+    {
+      "level": 3,
+      "title": "프라우돌렌티 8노선"
+    },
+    {
+      "level": 3,
+      "title": "말레볼지아선"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "별을 쫓는 기사"
+    },
+    {
+      "level": 3,
+      "title": "반지"
+    },
+    {
+      "level": 3,
+      "title": "분노"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "건국기"
+    },
+    {
+      "level": 3,
+      "title": "대동결"
+    },
+    {
+      "level": 3,
+      "title": "상부와 하부의 공존"
+    },
+    {
+      "level": 2,
+      "title": "조직과 집단"
+    },
+    {
+      "level": 3,
+      "title": "아웃로"
+    },
+    {
+      "level": 2,
+      "title": "장치와 공간"
+    },
+    {
+      "level": 3,
+      "title": "페리페테이아와 파놉티콘"
+    },
+    {
+      "level": 3,
+      "title": "완벽의 보물"
+    },
+    {
+      "level": 3,
+      "title": "우라니아와 컴퍼스"
+    },
+    {
+      "level": 3,
+      "title": "티어드롭"
+    },
+    {
+      "level": 2,
+      "title": "생활과 문화"
+    },
+    {
+      "level": 3,
+      "title": "반지의 맹세"
+    },
+    {
+      "level": 3,
+      "title": "결투 재판"
+    },
+    {
+      "level": 3,
+      "title": "고백과 밀고"
+    },
+    {
+      "level": 3,
+      "title": "절제의 탑과 덕목 교육"
+    },
+    {
+      "level": 3,
+      "title": "프라우돌렌티의 노선 생활"
+    },
+    {
+      "level": 3,
+      "title": "코큐토스 재판의 현장 절차"
+    },
+    {
+      "level": 2,
+      "title": "주요 인물"
+    },
+    {
+      "level": 3,
+      "title": "마텔다"
+    },
+    {
+      "level": 3,
+      "title": "미노스"
+    },
+    {
+      "level": 3,
+      "title": "안나와 단테"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "정의와 통제"
+    },
+    {
+      "level": 3,
+      "title": "고백과 침묵"
+    },
+    {
+      "level": 3,
+      "title": "완벽과 균열"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 3,
+      "title": "이름층과 성상"
+    },
+    {
+      "level": 3,
+      "title": "관련 작품 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "안나",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "분노의 판타즈마",
+      "target": "wiki/beings/phantasmas/분노의_판타즈마.md"
+    },
+    {
+      "label": "생사불문",
+      "target": "wiki/events/singularities/생사불문.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    }
+  ],
+  "sha256": "0f7521f7f0bf620a36f35f1da5dd830d190660995dda4298865cf6ea4c2fe668",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0a200e2c67ab5c43.json",
+  "chunks": [
+    {
+      "id": "doc_0a200e2c67ab5c43:000",
+      "section": "오르딜리아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_000.json",
+      "char_count": 625
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_001.json",
+      "char_count": 493
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:002",
+      "section": "언어권과 판결 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_002.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:003",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_003.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:004",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_004.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:005",
+      "section": "낙원 1과 푸르가토리오 7탑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_005.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:006",
+      "section": "코큐토스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_006.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:007",
+      "section": "프라우돌렌티 8노선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_007.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:008",
+      "section": "말레볼지아선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_008.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:009",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_009.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:010",
+      "section": "별을 쫓는 기사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_010.json",
+      "char_count": 162
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:011",
+      "section": "반지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_011.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:012",
+      "section": "분노",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_012.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:013",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_013.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:014",
+      "section": "건국기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_014.json",
+      "char_count": 322
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:015",
+      "section": "대동결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_015.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:016",
+      "section": "상부와 하부의 공존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_016.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:017",
+      "section": "조직과 집단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:018",
+      "section": "아웃로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_018.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:019",
+      "section": "장치와 공간",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_019.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:020",
+      "section": "페리페테이아와 파놉티콘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_020.json",
+      "char_count": 273
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:021",
+      "section": "완벽의 보물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_021.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:022",
+      "section": "우라니아와 컴퍼스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_022.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:023",
+      "section": "티어드롭",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_023.json",
+      "char_count": 153
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:024",
+      "section": "생활과 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_024.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:025",
+      "section": "반지의 맹세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_025.json",
+      "char_count": 105
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:026",
+      "section": "결투 재판",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_026.json",
+      "char_count": 109
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:027",
+      "section": "고백과 밀고",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_027.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:028",
+      "section": "절제의 탑과 덕목 교육",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_028.json",
+      "char_count": 186
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:029",
+      "section": "프라우돌렌티의 노선 생활",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_029.json",
+      "char_count": 109
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:030",
+      "section": "코큐토스 재판의 현장 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_030.json",
+      "char_count": 261
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:031",
+      "section": "주요 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_031.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:032",
+      "section": "마텔다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_032.json",
+      "char_count": 115
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:033",
+      "section": "미노스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_033.json",
+      "char_count": 98
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:034",
+      "section": "안나와 단테",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_034.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:035",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_035.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:036",
+      "section": "정의와 통제",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_036.json",
+      "char_count": 125
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:037",
+      "section": "고백과 침묵",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_037.json",
+      "char_count": 126
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:038",
+      "section": "완벽과 균열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_038.json",
+      "char_count": 117
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:039",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_039.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:040",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_040.json",
+      "char_count": 212
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:041",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_041.json",
+      "char_count": 137
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:042",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_042.json",
+      "char_count": 154
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:043",
+      "section": "이름층과 성상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_043.json",
+      "char_count": 300
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:044",
+      "section": "관련 작품 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_044.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_0a200e2c67ab5c43:045",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a200e2c67ab5c43_045.json",
+      "char_count": 818
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:018",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "반사면과 빈칸",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_018.json",
+  "text": "### 반사면과 빈칸\n\n반사면, 피 묻은 손, 설명되지 않는 결과가 닿으면 블랑의 말은 느려지고 좁아진다. `방금 봤어`, `내 기억과 맞지 않아`, `거울은 치워 줘`처럼 자기 이해의 균열을 바로 붙든다.",
+  "metadata": {
+    "char_count": 115,
+    "sha256": "c31ba2156c8bf18e5016ba941c8a593c37a5bdbb3c4fd3a8613072a23d47f6bd"
+  }
+}

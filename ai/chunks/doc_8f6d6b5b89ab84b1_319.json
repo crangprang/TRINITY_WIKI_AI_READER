@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:319",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] style | 사건 문서 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_319.json",
+  "text": "## [2026-06-27] style | 사건 문서 표면 정리\n\n사건 대문과 `삼위의 군상/1부/아홉 나라의 시대` 표면의 `작품 진행` 분류를 `서사 진행`과 `서사 시대` 중심으로 고쳤다. 개별 특이점 문서의 정보표는 `분류: 특이점`과 상위 시대 링크를 드러내도록 정리했다.",
+  "metadata": {
+    "char_count": 157,
+    "sha256": "0e5e494accb7ab775ca89c900d91a29427964c4af21f75230a481f1abb92b2f4"
+  }
+}

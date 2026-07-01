@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_83e8dadd5e2865bc",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/01_CHAPTER/EP00_PROLOGUE.txt",
+  "title": "EP00_PROLOGUE",
+  "summary": "EP00_PROLOGUE",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "suffix": ".txt",
+  "sha256": "3d2dbd22b1ecae88ea24bed1526b56b09a34e2243e26e272bf35ab3c06d99a6c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_83e8dadd5e2865bc.json",
+  "chunks": [
+    {
+      "id": "live_doc_83e8dadd5e2865bc:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83e8dadd5e2865bc_000.json",
+      "char_count": 1823
+    }
+  ]
+}

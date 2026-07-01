@@ -1,0 +1,23 @@
+{
+  "id": "doc_5a90950680f4798e:006",
+  "document_id": "doc_5a90950680f4798e",
+  "path": "wiki/characters/axions/파우스트/index.md",
+  "wiki_path": "characters/axions/파우스트/index.md",
+  "title": "파우스트",
+  "section": "메피스토",
+  "summary": "파우스트는 오아시스의 왕이자 자유 성좌의 엑시온으로, 그레트헨의 상실 때문에 나라 전체를 반복되는 현재에 묶은 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5a90950680f4798e_006.json",
+  "text": "## 메피스토\n\n[메피스토](../../personas/메피스토/index.md)는 파우스트에게 세 번째 길을 말한다. 그는 끝난 것을 계속 현재에 남길 수 있다는 가능성을 제시하고, 진짜 그레트헨이 사라진 자리에는 마더 그레트헨과 매끈한 행정 언어를 세운다.\n\n파우스트는 상실을 돌려 말하고, 메피스토는 그 빈칸을 대안으로 채운다. 둘이 마주 서면 철학처럼 들리는 자기기만이 점점 계약으로 굳어진다. 메피스토의 유혹은 파우스트의 책임감과 사랑을 빌려 오아시스 전체의 정지를 구원의 서사로 포장한다.",
+  "metadata": {
+    "char_count": 279,
+    "sha256": "ce5501a365f477b59a4d26719ecf13de563abbcac63ea46af9d056dd99e3cc30"
+  }
+}

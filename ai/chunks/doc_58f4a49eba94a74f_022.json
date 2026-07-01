@@ -1,0 +1,23 @@
+{
+  "id": "doc_58f4a49eba94a74f:022",
+  "document_id": "doc_58f4a49eba94a74f",
+  "path": "wiki/characters/main_party/엘리자베스/index.md",
+  "wiki_path": "characters/main_party/엘리자베스/index.md",
+  "title": "엘리자베스",
+  "section": "빈센트",
+  "summary": "엘리자베스는 마고리아가 하나의 꿈과 세 시신으로 재구성한 공용 몸이다. 블랑과 스칼렛은 그 몸 안에서 서로 다른 전면으로 서며, 몸의 상처와 피로는 이어지고 시선과 말투와 의지는 교체된다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_58f4a49eba94a74f_022.json",
+  "text": "### 빈센트\n\n[빈센트](../../personas/빈센트/index.md)는 아틀리에의 고통과 `재연`의 축이다. 그의 악의는 엘리자베스 안에서 직접 인격으로 전면에 서지 않고, 편집과 각본과 연출의 압력으로 남는다.",
+  "metadata": {
+    "char_count": 123,
+    "sha256": "1f1f86dde479483b6e2664306161b357a967cceb7540b1d4a1309e049213f346"
+  }
+}

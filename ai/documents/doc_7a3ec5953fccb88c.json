@@ -1,0 +1,151 @@
+{
+  "id": "doc_7a3ec5953fccb88c",
+  "path": "wiki/universe/structure/아조트.md",
+  "wiki_path": "universe/structure/아조트.md",
+  "title": "아조트",
+  "summary": "아조트는 용왕의 허물에서 나온 오리진 그릇이며, 니그리스의 검과 라케시스의 바늘로 시대를 잇는 오리진 계열 유물이다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "structure",
+    "origin",
+    "artifact"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아조트"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "기원과 그릇"
+    },
+    {
+      "level": 2,
+      "title": "니그리스의 검"
+    },
+    {
+      "level": 2,
+      "title": "부러진 아조트와 오피온"
+    },
+    {
+      "level": 2,
+      "title": "라케시스의 바늘"
+    },
+    {
+      "level": 2,
+      "title": "경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "용왕",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    }
+  ],
+  "sha256": "1ed5c323e55c9a6ec8d7d63a16e5c4b93dc27666d7a9fa19ad3e76c70731c3dd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7a3ec5953fccb88c.json",
+  "chunks": [
+    {
+      "id": "doc_7a3ec5953fccb88c:000",
+      "section": "아조트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_000.json",
+      "char_count": 196
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_001.json",
+      "char_count": 477
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:002",
+      "section": "기원과 그릇",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_002.json",
+      "char_count": 301
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:003",
+      "section": "니그리스의 검",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_003.json",
+      "char_count": 391
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:004",
+      "section": "부러진 아조트와 오피온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_004.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:005",
+      "section": "라케시스의 바늘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_005.json",
+      "char_count": 277
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:006",
+      "section": "경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_006.json",
+      "char_count": 224
+    },
+    {
+      "id": "doc_7a3ec5953fccb88c:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a3ec5953fccb88c_007.json",
+      "char_count": 473
+    }
+  ]
+}

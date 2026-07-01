@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:215",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] canon ingest | 01_CANON 명명과 세계 규칙 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_215.json",
+  "text": "## [2026-06-26] canon ingest | 01_CANON 명명과 세계 규칙 반영\n\nREMAIN 정본 핸드오프와 `01_CANON.txt`, `WC01_DETAILS`를 대조해 WIKI 문서 안에 통합했다. 새 `.md` 문서는 만들지 않았고, 국가·존재 후보 문서는 마사오트 기준으로 이동/수정했다.\n\n- 반영: [아홉 나라 명명 체계](review/ownership_locks.md), [마사오트](universe/realms/balance/nations/마사오트.md), [올림피아](universe/realms/balance/nations/올림피아.md), [혼돈에서 현재까지의 구조](review/ownership_locks.md), [하위신 체계](review/ownership_locks.md), 각 나라 문서의 아포라투스·매질·부정 이데아·나라의 힘·재난/현현·상징 소품 표기.\n- 주요 판단: `01_CANON.txt`를 아포라투스명과 언어권의 최신 기준으로 두고, 탐험의 나라명은 마사오트로 정리했다. 탈락한 아포라투스명은 일반 본문 기준에서 내리고, 오아시스는 페리아크토이, 레이어드는 카타바시스, 알렉시아는 아나그노리시스, 오르딜리아는 페리페테이아로 맞췄다.\n- 문화/금기: 올림피아에 공적 가면과 이름 맹세의 경계를 추가하고, 각 나라 문서에는 올림피아식 공적 가면이 로컬 표식으로 번역되는 방식을 짧게 통합했다.\n- 세계 규칙: 세 에너지와 축복·저주·비술·기적의 기준, 오리진·누미노스·역 누미노스 운용 기준을 기존 서사 구조 문서에 흡수했다.\n- 판타즈마: 전 판타즈마 공통으로 핵, 약점, 부정 이데아, 지역 생태 조건을 다뤄야 하며, 살점만 파괴하면 끝나는 일반 몬스터로 쓰지 않는다는 기준을 [하위신 체계](review/ownership_locks.md)에 추가했다.\n- 후속 보류: 세 에너지, 오리진, 공적 가면, 아홉 나라 원샷 표는 이후 별도 문서나 표로 분리할 수 있지만, 새 `.md` 신설은 사전 제안과 승인 뒤 진행한다.",
+  "metadata": {
+    "char_count": 997,
+    "sha256": "937d1b1ad7c72f8bd46f820657d66a5d26f68e13ee48359dbf3e81b99406da8c"
+  }
+}

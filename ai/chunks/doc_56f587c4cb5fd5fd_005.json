@@ -1,0 +1,23 @@
+{
+  "id": "doc_56f587c4cb5fd5fd:005",
+  "document_id": "doc_56f587c4cb5fd5fd",
+  "path": "wiki/characters/ensemble/index.md",
+  "wiki_path": "characters/ensemble/index.md",
+  "title": "앙상블",
+  "section": "하위 항목",
+  "summary": "앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "ensemble",
+    "character_group"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_005.json",
+  "text": "## 하위 항목\n\n| 항목 | 위치 | 역할 |\n|---|---|---|\n| [니그리스 알비우스 시트리노](니그리스_알비우스_시트리노/index.md) | 세계사 증인 / 스트레인저 | 용살자 니그리스, 중재자 알비우스, 불지기 시트리노로 이어지는 장수한 이데아 영체. 두 번의 세계 단절을 기억하며 저주받은 자들을 거두고 신 추방을 준비한다. |\n| [소피아](소피아/index.md) | 최초의 삼위 / 기억의 잔류 | 니그리스의 기억에 이성으로 남아 이해의 보물과 지혜의 트리네아드 기원이 되는 인물. |\n| [오피온](오피온/index.md) | 최초의 삼위 / 아조트의 잔류 | 용왕의 의지가 흰 뱀으로 남은 존재. 에마나치온 이후 부러진 아조트에 본능과 의지로 깃든다. |\n| [배신의 펠시온](배신의_펠시온/index.md) | 파괴계 탈주자 / 에르고의 참모 | 공허 군단의 무명에서 붕괴의 참모, 죽음의 낙인, 균형계 탈주자로 이어진 파괴계 인물. 결과만을 증명으로 삼으며 에르고에게 새 이름을 요구한다. |",
+  "metadata": {
+    "char_count": 517,
+    "sha256": "c2546a5e44579987f99900cf0d3889ce83ad7fc405aa1a8ed9ad1e83f2e0d510"
+  }
+}

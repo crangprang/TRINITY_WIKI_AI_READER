@@ -1,0 +1,24 @@
+{
+  "id": "doc_8766a59d928813e3:002",
+  "document_id": "doc_8766a59d928813e3",
+  "path": "wiki/universe/realms/balance/organizations/index.md",
+  "wiki_path": "universe/realms/balance/organizations/index.md",
+  "title": "균형계 조직",
+  "section": "상위 체계",
+  "summary": "균형계 조직은 삼위정교, 공인 조직, 기능조직, 이레귤러 헌터, 외지 공동체, 이단 세력이 세계 압력을 실무와 신앙 권력으로 바꾸는 조직 색인이다.",
+  "status": "draft",
+  "type": "organization_index",
+  "tags": [
+    "universe",
+    "balance",
+    "organizations",
+    "index"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_002.json",
+  "text": "## 상위 체계\n\n| 항목 | 핵심 기능 |\n|---|---|\n| [삼위정교](삼위정교.md) | 태초의 불꽃, 삼위신, 고요한 종말 교리를 통해 아홉 나라의 공포와 생존 계약을 공좌, 공의회, 면허 체계로 묶는다. |\n\n삼위정교는 균형계의 모든 조직을 직접 지휘하는 단일 관청이 아니다. 대신 어떤 조직이 공적 현장에 들어갈 수 있는지, 어떤 기록이 대륙 공통 기록으로 남는지, 어떤 사람이 구조 대상인지 격리 대상인지, 어떤 전승이 이단으로 불리는지를 정하는 권한을 쥔다.",
+  "metadata": {
+    "char_count": 266,
+    "sha256": "2e425f02d6c5c24d20ddfd404e2e51c0f01032448e165d9ccf9629e42f3fbc6e"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_37dd68363fc1d45d:000",
+  "document_id": "live_doc_37dd68363fc1d45d",
+  "path": "AGENTS.md",
+  "title": "TRINITY_LIVE Agent Notes",
+  "section": "TRINITY_LIVE Agent Notes",
+  "summary": "This repo is live canon. Read as needed, but edit only when the user explicitly asks.",
+  "root": "AGENTS.md",
+  "category": "AGENTS.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_37dd68363fc1d45d_000.json",
+  "text": "# TRINITY_LIVE Agent Notes\n\nThis repo is live canon. Read as needed, but edit only when the user explicitly asks.\n\nKeep only canon-facing material here. Drafts, review notes, generated outputs, experiments, backups, and unclear historical material belong under `../projects_archive/TRINITY_LIVE/` or workspace `RUN/TRINITY_LIVE/`.\n\nWhen unsure whether something is canon, do not move or rewrite it.",
+  "metadata": {
+    "char_count": 398,
+    "sha256": "f7072e8517da92edc0e0a34e3f2cfb79d976a332f36db8fd3e13814c1edf0aa1"
+  }
+}

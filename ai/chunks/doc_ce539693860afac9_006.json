@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce539693860afac9:006",
+  "document_id": "doc_ce539693860afac9",
+  "path": "wiki/characters/axions/엘피스/support/appearance.md",
+  "wiki_path": "characters/axions/엘피스/support/appearance.md",
+  "title": "엘피스 외형",
+  "section": "관련 문서",
+  "summary": "엘피스의 청색 머리와 회색 눈, 피로한 관리자 실루엣, 작은 촛불과 질문 기록, 푸른 제어광을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_006.json",
+  "text": "## 관련 문서\n\n- [엘피스](../index.md) - 알렉시아의 하루를 유예로 버티게 만드는 계승자.\n- [알렉시아](../../../../universe/realms/balance/nations/알렉시아.md) - 엘피스의 외형 배경이 되는 지하 기록도시.\n- [판도라 외형](../../판도라/support/appearance.md) - 검은 석판과 최초의 질문이 엘피스의 계승 흔적으로 이어지는 선대 엑시온 외형 항목.",
+  "metadata": {
+    "char_count": 240,
+    "sha256": "42ab90fbee70e95babaadbd21fcd0a48851912f3cbe90e441a823394a17d2c4c"
+  }
+}

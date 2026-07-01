@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_56ef5b09a7bc4450",
+  "path": "03_WORLD/04_CREATURE/C09_HARMONY/01_NONSAPI/04_PROTIST/C09_PROTIST_BRANCH_IDEA.txt",
+  "title": "C09_HARMONY / PROTIST_BRANCH_IDEA",
+  "summary": "C09_HARMONY / PROTIST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "4f80d0b4b0ab895f97ae58c75a993952fd2430f4abb7b36587c2af642370072d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_56ef5b09a7bc4450.json",
+  "chunks": [
+    {
+      "id": "live_doc_56ef5b09a7bc4450:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_56ef5b09a7bc4450_000.json",
+      "char_count": 448
+    }
+  ]
+}

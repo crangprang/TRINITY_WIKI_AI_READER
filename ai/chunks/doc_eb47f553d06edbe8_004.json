@@ -1,0 +1,25 @@
+{
+  "id": "doc_eb47f553d06edbe8:004",
+  "document_id": "doc_eb47f553d06edbe8",
+  "path": "wiki/universe/realms/balance/organizations/드래그니즘.md",
+  "wiki_path": "universe/realms/balance/organizations/드래그니즘.md",
+  "title": "드래그니즘",
+  "section": "관련 문서",
+  "summary": "드래그니즘은 용인 공동체의 전통, 역사, 신앙, 생존 기술을 묶는 이단 축으로, 염한의 박해와 에레모스의 잔존 공동체를 통해 이어진다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy",
+    "dragonkin"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_eb47f553d06edbe8_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 드래그니즘이 놓이는 조직 색인.\n- [염한](../nations/염한.md) - 드래그니즘 박해가 국가 질서로 굳은 주요 배경.\n- [에레모스](../nations/에레모스.md) - 용인 공동체와 드래그니즘 잔존 전통이 이어지는 외지 권역.\n- [아백](../../../../characters/savior_candidates/아백/index.md) - 용인 병사의 명예와 정교 공인 표면이 겹치는 구세주 후보.\n- [세레나](../../../../characters/main_party/세레나/index.md) - 염한의 용인 박해와 생존 기억을 품은 주역.",
+  "metadata": {
+    "char_count": 347,
+    "sha256": "53a150629e359866d688d87dd8c64fa19703edb61aecd717a8414e36bf0176fa"
+  }
+}

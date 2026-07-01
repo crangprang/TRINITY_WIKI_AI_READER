@@ -1,0 +1,111 @@
+{
+  "id": "doc_8307212d3ffab2a7",
+  "path": "wiki/universe/realms/balance/organizations/디아도코이.md",
+  "wiki_path": "universe/realms/balance/organizations/디아도코이.md",
+  "title": "디아도코이",
+  "summary": "디아도코이는 사라질 비술을 한 사람의 생애 형상으로 보고, 그 이름과 발동 조건과 실패 기록을 스승과 제자 사이로 이어 가는 이단 세력이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organizations",
+    "diadochoi"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "디아도코이"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "비술을 보는 방식"
+    },
+    {
+      "level": 2,
+      "title": "정교와의 충돌"
+    },
+    {
+      "level": 2,
+      "title": "퍼시스 사건 이후"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    }
+  ],
+  "sha256": "f0db70f675986f5c9436a2030bd113323273a92330d53b8eb50f9e8bab72df7f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8307212d3ffab2a7.json",
+  "chunks": [
+    {
+      "id": "doc_8307212d3ffab2a7:000",
+      "section": "디아도코이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_000.json",
+      "char_count": 224
+    },
+    {
+      "id": "doc_8307212d3ffab2a7:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_001.json",
+      "char_count": 291
+    },
+    {
+      "id": "doc_8307212d3ffab2a7:002",
+      "section": "비술을 보는 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_002.json",
+      "char_count": 326
+    },
+    {
+      "id": "doc_8307212d3ffab2a7:003",
+      "section": "정교와의 충돌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_003.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_8307212d3ffab2a7:004",
+      "section": "퍼시스 사건 이후",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_004.json",
+      "char_count": 298
+    },
+    {
+      "id": "doc_8307212d3ffab2a7:005",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_005.json",
+      "char_count": 346
+    }
+  ]
+}

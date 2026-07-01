@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:006",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "새장 바깥의 세계",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_006.json",
+  "text": "### 새장 바깥의 세계\n\n천성이 새는 순간 블랑의 말에는 작은 호기심과 생활감이 올라온다. 왕실과 저주와 치료의 무게를 잠깐 내려놓고, 바깥을 보고 싶어 했던 사람이 드러난다.\n\n이 층의 말은 `계속 보고만 있으면 더 궁금해져`, `이런 이름은 누가 붙였을까`, `나도 한 번 해 보고 싶어`처럼 작고 맑다. 오래 이어지기 전에 다시 품위와 조심성이 돌아온다.",
+  "metadata": {
+    "char_count": 202,
+    "sha256": "610d3ad37230d6efcfc75f4d60172d0a8852abac5030d142c3d0626d65e6896c"
+  }
+}

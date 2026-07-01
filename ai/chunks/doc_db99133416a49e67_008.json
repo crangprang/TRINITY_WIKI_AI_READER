@@ -1,0 +1,23 @@
+{
+  "id": "doc_db99133416a49e67:008",
+  "document_id": "doc_db99133416a49e67",
+  "path": "wiki/characters/savior_candidates/랄/index.md",
+  "wiki_path": "characters/savior_candidates/랄/index.md",
+  "title": "랄",
+  "section": "관련 문서",
+  "summary": "자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db99133416a49e67_008.json",
+  "text": "## 관련 문서\n\n- [구세주 후보](../index.md) - 올림피아에 공표되는 후보명, 가면, 국가 시험의 공통 구조.\n- [랄 외형](support/appearance.md) - 코랄 머리, 흰 눈, 기록 태그와 `1위를 유지하라` 메모가 망각 저주를 버티는 연구소장을 고정하는 외형 항목.\n- [오아시스](../../../universe/realms/balance/nations/오아시스.md) - 랄이 내부 스코어링과 연구소를 통해 움직이는 자유의 나라.\n- [아인](../../main_party/아인/index.md) - 랄이 1위를 넘겨 준 실험소 동료이자 기억의 트리거.\n- [메피스토](../../personas/메피스토/index.md) - 랄에게 기억 보관자의 얼굴로 작동하는 페르소나.\n- [파우스트](../../axions/파우스트/index.md) - 그레트헨 실험소와 랄의 생존 조건을 만든 엑시온.\n- [올림피아](../../../universe/realms/balance/nations/올림피아.md) - 랄이 구세주 후보로 공표되는 중앙 무대.",
+  "metadata": {
+    "char_count": 548,
+    "sha256": "4967ed216a59a8e278fc68a5daa449389a12a0599fdbf5e9dfc8c027d375086b"
+  }
+}

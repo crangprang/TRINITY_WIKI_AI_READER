@@ -1,0 +1,23 @@
+{
+  "id": "doc_d709f85ea1d2d146:000",
+  "document_id": "doc_d709f85ea1d2d146",
+  "path": "wiki/characters/savior_candidates/캘리번/index.md",
+  "wiki_path": "characters/savior_candidates/캘리번/index.md",
+  "title": "캘리번",
+  "section": "캘리번",
+  "summary": "마사오트의 구세주 후보이자 탐험가 길드 우니오네 지부장. 호탕하고 시끄러운 탐험가지만, 금지 심층과 프로스페로의 감시선에 걸린 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_000.json",
+  "text": "# 캘리번\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 캘리번 |\n| 성별/프레젠테이션 | 남성 |\n| 소속/지역 | 탐험의 나라 [마사오트](../../../universe/realms/balance/nations/마사오트.md), 예술의 나라 [우니오네](../../../universe/realms/balance/nations/우니오네.md) |\n| 직책/역할 | 탐험가 길드 우니오네 지부장 / 구세주 후보 |\n| 기능조직 | [탐험가 길드](../../../universe/realms/balance/organizations/탐험가_길드.md) |\n| 주요 관계 | [프로스페로](../../axions/프로스페로/index.md), 미란다 |",
+  "metadata": {
+    "char_count": 382,
+    "sha256": "c897322753e2fa8a64454ff3399e70716428979f3bf318c4e54db5f4d61af9a3"
+  }
+}

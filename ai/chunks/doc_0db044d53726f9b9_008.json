@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:008",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "관계별 호칭",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_008.json",
+  "text": "## 관계별 호칭\n\n파티 안에서는 이름 직호명이 기본이다. 아인은 평소 아인이고, 판단을 넘길 때 리더가 선다. 옌은 이름을 자주 부른다.\n\n진 앞에서는 야, 바보자식 같은 거친 호명이 빨리 붙는다. 블랑은 이름과 의사가 함께 가능하다. 세레나는 용인처럼 한 칸 떨어진 호명이 잘 어울린다. 스칼렛은 이름으로 부르되, 선을 넘길 때 호칭이 칼처럼 짧아진다.",
+  "metadata": {
+    "char_count": 199,
+    "sha256": "73cb9ca0c78f6cdc87828a6cf78f0026c63852507d6191e8314c625a693af781"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "doc_b2acc8e62f50d057",
+  "path": "wiki/characters/personas/카론/support/appearance.md",
+  "wiki_path": "characters/personas/카론/support/appearance.md",
+  "title": "카론 외형",
+  "summary": "카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "카론 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "전당포 채권자"
+    },
+    {
+      "level": 2,
+      "title": "전당표 봉인 가면"
+    },
+    {
+      "level": 2,
+      "title": "담보 불꽃과 장부"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    }
+  ],
+  "sha256": "2c0889fb1e8e3126e1a35933ba1e473a6e39009777a3f3a72d063aa4a5a76728",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b2acc8e62f50d057.json",
+  "chunks": [
+    {
+      "id": "doc_b2acc8e62f50d057:000",
+      "section": "카론 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_000.json",
+      "char_count": 96
+    },
+    {
+      "id": "doc_b2acc8e62f50d057:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_001.json",
+      "char_count": 414
+    },
+    {
+      "id": "doc_b2acc8e62f50d057:002",
+      "section": "전당포 채권자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_002.json",
+      "char_count": 223
+    },
+    {
+      "id": "doc_b2acc8e62f50d057:003",
+      "section": "전당표 봉인 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_003.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_b2acc8e62f50d057:004",
+      "section": "담보 불꽃과 장부",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_004.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_b2acc8e62f50d057:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_005.json",
+      "char_count": 170
+    },
+    {
+      "id": "doc_b2acc8e62f50d057:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_006.json",
+      "char_count": 304
+    }
+  ]
+}

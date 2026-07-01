@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:006",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "복수의 포커페이스",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_006.json",
+  "text": "### 복수의 포커페이스\n\n복수의 포커페이스는 장기전과 계산전에서 드러난다. 말은 차분하고, 상대의 목표와 약점을 이미 읽은 뒤 던지는 문장처럼 들린다. 이름을 건 맹세, 역할, 선택의 대가를 말할 때 위험해진다.\n\n이 층은 감정이 비어 있지 않다. 진짜 감정의 조각을 섞어 말하기 때문에 더 잘 먹히고, 더 쉽게 무너지지 않는다.",
+  "metadata": {
+    "char_count": 185,
+    "sha256": "634ebdd6088186fe1001094b7641af15beea8c2d4b412a1e46461c08d48b176a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_9fce2e34e4c1cd04:006",
+  "document_id": "doc_9fce2e34e4c1cd04",
+  "path": "wiki/characters/savior_candidates/메테우스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/메테우스/support/appearance.md",
+  "title": "메테우스 외형",
+  "section": "관련 문서",
+  "summary": "메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_006.json",
+  "text": "## 관련 문서\n\n- [메테우스](../index.md) - 알렉시아의 구세주 후보이자 인퀴지터 집행자.\n- [알렉시아](../../../../universe/realms/balance/nations/알렉시아.md) - 메테우스의 봉쇄 현장이 놓이는 진리의 나라.\n- [판도라](../../../axions/판도라/index.md) - 메테우스가 남긴 질문을 태우려는 건국기 엑시온.\n- [엘피스](../../../axions/엘피스/index.md) - 메테우스의 소각과 유예를 두고 충돌하는 알렉시아의 계승자.",
+  "metadata": {
+    "char_count": 287,
+    "sha256": "625b43aa2973edf8bd757f034372ad122576b4ed8c8274d1f37523ff4a18ff4b"
+  }
+}

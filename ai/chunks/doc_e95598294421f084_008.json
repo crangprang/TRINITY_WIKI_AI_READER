@@ -1,0 +1,24 @@
+{
+  "id": "doc_e95598294421f084:008",
+  "document_id": "doc_e95598294421f084",
+  "path": "wiki/characters/axions/index.md",
+  "wiki_path": "characters/axions/index.md",
+  "title": "엑시온",
+  "section": "관련 문서",
+  "summary": "엑시온은 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권, 통치, 역사로 번역하는 하위신급 통치 얼굴이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "axions",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_008.json",
+  "text": "## 관련 문서\n\n- [하위신](../../universe/laws/하위신.md) - 필로시온, 엑시온, 펠시온과 페르소나 파생이 놓이는 우주 법칙.\n- [아홉 보물](../../universe/structure/아홉_보물.md) - 엑시온을 선택하고 아포라투스 권능 호출권을 여는 보물 체계.\n- [아홉 나라](../../universe/realms/balance/nations/index.md) - 엑시온이 대표하는 국가와 이념의 세계 항목.\n- [페르소나](../personas/index.md) - 엑시온과 장치 사용권, 통치 논리, 심층 관리자 권한을 두고 충돌하는 장치 심층의 얼굴.\n- [구세주 후보](../savior_candidates/index.md) - 국가 이념이 현장 전문가와 국제 무대의 얼굴로 드러나는 올림피아 대표자.",
+  "metadata": {
+    "char_count": 417,
+    "sha256": "31551c1e880a493ef0de11a78151251393cad489869500f6887c412c043eb579"
+  }
+}

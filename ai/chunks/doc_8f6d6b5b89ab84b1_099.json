@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:099",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 균형계와 아홉 나라 상위 항목 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_099.json",
+  "text": "## [2026-06-26] rebuild | 균형계와 아홉 나라 상위 항목 보강\n\n[균형계](universe/realms/balance/index.md)와 [아홉 나라](universe/realms/balance/nations/index.md)에 안정 정보표를 추가하고 세계 압력과 사회, 국가와 주변 권역 설명을 보강했다. 균형계가 삼계 압력을 이름, 신앙, 제도, 아포라투스, 생태 재난으로 번역하는 중심 세계이며, 아홉 나라가 그 번역을 국가 질서와 사건 장치로 드러내는 구조를 본문에서 바로 읽을 수 있게 했다.",
+  "metadata": {
+    "char_count": 291,
+    "sha256": "a25dfbd1ef3eb65b940c757c7d8229843858da43ffa86bdabcb8b5749928df95"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_d286cf09133e2694:004",
+  "document_id": "doc_d286cf09133e2694",
+  "path": "wiki/characters/main_party/옌/support/music.md",
+  "wiki_path": "characters/main_party/옌/support/music.md",
+  "title": "옌 음악",
+  "section": "층위별 악기 탈락",
+  "summary": "옌의 흰 막, 색을 섞는 손, 덧칠된 무지개, 악기 탈락 문법을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_004.json",
+  "text": "## 층위별 악기 탈락\n\n`하얀 성녀` 층위는 정돈된 악기 배열을 가진다. 피아노, 얇은 스트링, 어쿠스틱 기타, 작은 리듬은 흰 막과 예쁘게 다듬어진 표정을 만든다. 이 층의 음악은 상대가 견딜 만큼만 색을 내보내는 옌의 사회어와 맞물린다.\n\n`빛을 섞는 화가` 층위에서는 장식이 줄고 손의 감각이 앞으로 나온다. 스트링과 넓은 공간감은 뒤로 물러나고, 기타와 마른 리듬, 낮은 피아노 타격이나 손끝 소리가 색을 포착하는 움직임을 만든다. 이 층의 음악은 예쁘게 다듬는 미학과 상대의 강렬한 색을 끌어내려는 욕망을 함께 가진다.\n\n`덧칠된 무지개` 층위는 어쿠스틱 기타 하나와 가까운 목소리로 좁힌다. 피아노, 스트링, 드럼, 합창이 빠지면서 흰 막과 화가의 장식이 떨어진다. 색은 많지만 소리는 적고, 무대는 넓어지지 않으며, 한 사람의 목소리가 줄 하나를 붙잡고 버틴다.\n\n악기가 하나씩 떨어져 나가는 구조는 옌의 층위 변화에서 핵심 사운드 이미지가 된다. 깊어질수록 곡이 커지는 대신 가려 둔 것이 사라지고, 마지막에는 갖고 싶다는 말과 손의 접촉만 남는다.",
+  "metadata": {
+    "char_count": 540,
+    "sha256": "af86a9c92af373b0148af76bdffe153aa4fe09bb62865cb93b597e0559a0116d"
+  }
+}

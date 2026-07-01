@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_177828c1ec4c8ebe:000",
+  "document_id": "live_doc_177828c1ec4c8ebe",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/09_TURCHINA/PER09_VOICE_SAMPLE.txt",
+  "title": "투르키나 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "투르키나 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_177828c1ec4c8ebe_000.json",
+  "text": "투르키나 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER09_CORE.txt`와 `PER09_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 175,
+    "sha256": "2d1edbb74b433de0895c4202ce8a289076b1db65ea16169060cff1eeeb722416"
+  }
+}

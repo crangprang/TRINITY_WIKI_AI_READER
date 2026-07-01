@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:229",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 옌 캐릭터 패키지 분기",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_229.json",
+  "text": "## [2026-06-26] rebuild | 옌 캐릭터 패키지 분기\n\n[옌](characters/main_party/옌/index.md)의 본문, 외형, 말투 지원 문서를 캐릭터 패키지 구조로 정리했다.\n\n- 정리: 본문은 하얀 성녀, 하얀 악마, 색이 먼저 오는 세계, 딸이라는 이름, 검은색 하마르티아, 내면 구조, 색깔·백색·파레트/조색, 관계를 담당하게 하고 말투와 지원 운용은 [옌 / 말투](characters/main_party/옌/support/voice.md), [옌 / 외형](characters/main_party/옌/support/appearance.md)으로 분기했다.\n- 문체: 번호형 하위 제목, 해석 메모, 장기 분기, 명칭 라벨 메모, 긴 외형 중복을 제거하고 선언형 위키 항목으로 바꿨다.\n- 관계: 아인, 블랑, 스칼렛, 진, 세레나, 단테, 길티어, 설리반을 옌의 색 인식, 사회어, 호기심, 이름 구조와 연결했다.",
+  "metadata": {
+    "char_count": 477,
+    "sha256": "9024c0bf1579d12548e21d615912e5ca0cc7ce222952b94f6432ef3c7748bec3"
+  }
+}

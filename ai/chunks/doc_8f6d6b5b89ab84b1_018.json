@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:018",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 마사오트 언어권과 탐험가 길드 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_018.json",
+  "text": "## [2026-06-28] nation | 마사오트 언어권과 탐험가 길드 보강\n\n[마사오트](universe/realms/balance/nations/마사오트.md)를 LIVE `L03_EXPLORER`, [균형계 언어](universe/realms/balance/language/index.md), [탐험가 길드](universe/realms/balance/organizations/탐험가_길드.md)와 대조했다. LIVE의 국가명·장치명 표기는 WIKI 정본명인 마사오트/엑소도스/키베르노스 구조로 정규화하고, 염한 외 국가의 2핵심기관+1제어기관 확정값은 새로 만들지 않았다.\n\n언어권은 히브리어 계열과 항로·편지 언어로 보강하고, 기능조직은 탐험가 길드로 연결했다. 나머지 6개 길드는 원천에서 열린 칸으로 둔 값이므로 이름과 직능을 만들지 않았고, 대응 펠시온과 예언도 직접 근거가 없어 새 본문값으로 만들지 않았다.",
+  "metadata": {
+    "char_count": 463,
+    "sha256": "180cebea5e8ea2046f61ff0e9c24e67023de8d6548b002d3897e74beda6a8cbc"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:027",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 정복 가면 모티프 충돌 보류",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_027.json",
+  "text": "## [2026-06-28] review | 정복 가면 모티프 충돌 보류\n\n[정복의 펠시온](characters/fellsions/정복의_펠시온/index.md)은 LIVE WC의 말벌 백골 가면과 하위신 개발 핸드오프의 장수풍뎅이 확정값이 충돌해 사용자 결정 전까지 보류한다. 현재 독자용 본문에는 어느 쪽도 확정 가면 모티프로 반영하지 않고, review TODO의 미해결 항목으로 남겼다.",
+  "metadata": {
+    "char_count": 220,
+    "sha256": "a40f0727d0ab18b74656db90041dfc9d32d083a82b7671dde57be95c30e9a3bc"
+  }
+}

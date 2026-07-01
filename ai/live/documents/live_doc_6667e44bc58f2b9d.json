@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6667e44bc58f2b9d",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/08_RADON.txt",
+  "title": "라돈",
+  "summary": "라돈",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "0a5c5e01b2d3abaaf14d94b90eb6f9f11f15f568d1b4b01dbb39fc9d71b72bce",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6667e44bc58f2b9d.json",
+  "chunks": [
+    {
+      "id": "live_doc_6667e44bc58f2b9d:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6667e44bc58f2b9d_000.json",
+      "char_count": 1080
+    }
+  ]
+}

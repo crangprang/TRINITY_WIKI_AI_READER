@@ -1,0 +1,149 @@
+{
+  "id": "doc_d6a2c0f1a14f3640",
+  "path": "wiki/beings/creatures/index.md",
+  "wiki_path": "beings/creatures/index.md",
+  "title": "하급 생물",
+  "summary": "하급 생물은 아홉 나라의 자연, 도시, 생활 환경이 낳은 원생 생물, 생활 생물, 직접 위협 생물이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "creatures"
+  ],
+  "updated": "2026-06-27",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "하급 생물"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "생활권의 감지층"
+    },
+    {
+      "level": 2,
+      "title": "작동 방식"
+    },
+    {
+      "level": 2,
+      "title": "전조와 사건 기능"
+    },
+    {
+      "level": 2,
+      "title": "생태 층위"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "레이어드 하층 생태",
+      "target": "wiki/beings/creatures/레이어드_하층_생태.md"
+    },
+    {
+      "label": "레이어드 원생 생물",
+      "target": "wiki/beings/creatures/레이어드_원생_생물.md"
+    },
+    {
+      "label": "마사오트 항해 생태",
+      "target": "wiki/beings/creatures/마사오트_항해_생태.md"
+    },
+    {
+      "label": "마사오트 원생 생물",
+      "target": "wiki/beings/creatures/마사오트_원생_생물.md"
+    },
+    {
+      "label": "알렉시아 동굴·서가 생태",
+      "target": "wiki/beings/creatures/알렉시아_동굴_서가_생태.md"
+    },
+    {
+      "label": "알렉시아 원생 생물",
+      "target": "wiki/beings/creatures/알렉시아_원생_생물.md"
+    },
+    {
+      "label": "플라센티아 숲 생태",
+      "target": "wiki/beings/creatures/플라센티아_숲_생태.md"
+    },
+    {
+      "label": "플라센티아 원생 생물",
+      "target": "wiki/beings/creatures/플라센티아_원생_생물.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    }
+  ],
+  "sha256": "cf03cace94cf39b86283f40166661149192586af28f90f748361f42ad58de1a6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d6a2c0f1a14f3640.json",
+  "chunks": [
+    {
+      "id": "doc_d6a2c0f1a14f3640:000",
+      "section": "하급 생물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_000.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_001.json",
+      "char_count": 383
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:002",
+      "section": "생활권의 감지층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_002.json",
+      "char_count": 385
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:003",
+      "section": "작동 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_003.json",
+      "char_count": 256
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:004",
+      "section": "전조와 사건 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_004.json",
+      "char_count": 325
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:005",
+      "section": "생태 층위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_005.json",
+      "char_count": 372
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:006",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_006.json",
+      "char_count": 731
+    },
+    {
+      "id": "doc_d6a2c0f1a14f3640:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_007.json",
+      "char_count": 205
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_5ebd5dd51acade03:001",
+  "document_id": "doc_5ebd5dd51acade03",
+  "path": "wiki/characters/savior_candidates/카스파르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/카스파르/support/appearance.md",
+  "title": "카스파르 외형",
+  "section": "외형 기준",
+  "summary": "카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 30대 초반 |\n| 실루엣 | 마스크맨 현 리더이자 계약 사냥단 운영자. 젊지만 사냥단을 실제로 운영하는 현장 지휘 압력이 보인다. |\n| 의상 | 역할 가면, 흙 묻은 야전 코트, 실전 사냥 장비, 장비 벨트, 계약 표식 |\n| 소품 | 역할 가면 세트, 추적 장비, 현장 지시서, 귀환 보고서, 피톤 사냥 실패의 흔적 |\n| 배경 | 플라센티아 사냥 현장, 야전 지휘 지점, 계약 사냥단의 출발 준비, 숲의 거짓 표식 |\n| 표정/자세 | 현장을 읽고 사냥단에 지시를 내리는 낮은 권위. 실패한 사냥의 흔적을 다음 계약 사냥으로 연결하는 사람. |",
+  "metadata": {
+    "char_count": 366,
+    "sha256": "6bbfc37ff71b0e1e0ede8101ebecb42d4a0b47633f7e9a6b13c6f01b9fdaf153"
+  }
+}

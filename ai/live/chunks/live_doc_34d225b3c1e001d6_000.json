@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_34d225b3c1e001d6:000",
+  "document_id": "live_doc_34d225b3c1e001d6",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_FACT_DETAIL.txt",
+  "title": "에어리얼 / FACT_DETAIL",
+  "section": "body",
+  "summary": "에어리얼 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_34d225b3c1e001d6_000.json",
+  "text": "에어리얼 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER03_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 방주, 항로, 폭풍, 편지, 브리지, 종착점.\n- 전진하는 척하는 도주를 꿰뚫어 보는 안내인.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 268,
+    "sha256": "26ce88dcaeb791686842f3bc0ac86e8c3e132f27e4c5f7a1a70b23fca4057e10"
+  }
+}

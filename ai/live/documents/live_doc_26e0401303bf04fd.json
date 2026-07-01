@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_26e0401303bf04fd",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/07_MINOS/PER07_FACT_DETAIL.txt",
+  "title": "미노스 / FACT_DETAIL",
+  "summary": "미노스 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "0d8b051865f638026697927c1c305024bf2c147a8c92cfdffe05f8a89c34339d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_26e0401303bf04fd.json",
+  "chunks": [
+    {
+      "id": "live_doc_26e0401303bf04fd:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_26e0401303bf04fd_000.json",
+      "char_count": 281
+    }
+  ]
+}

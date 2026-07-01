@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:005",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "시각 경계",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_005.json",
+  "text": "## 시각 경계\n\n옌의 바깥 컬러질감은 진주와 구름이고, 깊은 층위는 흑진주와 먹구름이다. 1층은 흰 구름 같은 여행자, 2층은 검은 안쪽 레이어와 오팔 경계를 드러낸 색의 화가, 3층은 흰 스목 위에 마른 색이 덧칠되고 한쪽 눈에 컬러휠이 열린 사람으로 읽힌다.\n\n사람에게 손을 뻗기 전에 물건과 색면을 먼저 만지는 버릇이 옌의 인상을 만든다. 차 표면, 젖은 천, 잉크 자국, 반짝이는 돌, 벽에 남은 색의 잔향 같은 작은 자극에 오래 붙들린다.",
+  "metadata": {
+    "char_count": 251,
+    "sha256": "e851b2ec3d1b9581fb3f548f8154e06a76eb78804baf6254a9c5ff75212ccdb5"
+  }
+}

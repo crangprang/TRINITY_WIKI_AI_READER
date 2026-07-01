@@ -1,0 +1,23 @@
+{
+  "id": "doc_5a1c5946c02bcfe8:000",
+  "document_id": "doc_5a1c5946c02bcfe8",
+  "path": "wiki/characters/fellsions/역병의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/역병의_펠시온/index.md",
+  "title": "역병의 펠시온",
+  "section": "역병의 펠시온",
+  "summary": "역병의 펠시온은 생명을 질병으로 해석하고 부패를 죽음의 안식으로 돌려보내는 의식으로 믿는 죽음 군단의 대주교다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5a1c5946c02bcfe8_000.json",
+  "text": "# 역병의 펠시온\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 역병의 펠시온 |\n| 계열 | 죽음 군단 |\n| 이름 판결 | 죽음의 트리네아드가 내린 역병 낙인 |\n| 침투 상태 | 죽음의 균형계 침략 계획으로 진입, 대붕괴 뒤 부패 복음 성전으로 단독 재난화 |\n| 역할 | 대주교 / 부패의 복음 전파자 |\n| 특이 형질 | 만물 부패균 |\n| 상징 | 균사, 포자, 부패, 죽음의 안식 |\n| 가면/소품 | 동충하초 백골 부리 가면, 포자향, 균사 성물 |\n| 균형계 상처 | 살아 있는 땅과 몸을 병든 신도로 해석하고 부패 성전으로 바꾼다 |",
+  "metadata": {
+    "char_count": 324,
+    "sha256": "f8f064cbdf393f293d2e50bd19fbfd661e28a87bd7a9a2972fec92921e7ebf2e"
+  }
+}

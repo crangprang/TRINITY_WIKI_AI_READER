@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:277",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | review 표면명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_277.json",
+  "text": "## [2026-06-26] style | review 표면명 정리\n\n대문과 review 진입점에서 `작업 표면`, `분해 처리 기록`, `문서 양식 공백 기록`처럼 과정 중심으로 보이던 표시명을 협업 관리 항목, 항목 소유권 잠금, 본문 보강 대상으로 바꿨다.\n\n- 유지: review 파일 경로와 기존 링크 대상은 그대로 둔다.\n- 목적: review 영역도 실제 운영 역할이 드러나는 항목명으로 보이게 한다.",
+  "metadata": {
+    "char_count": 231,
+    "sha256": "bc0db7afae78056a7cf84976e3751e4afd3533dd90fcb24496590fe5cd8fa4b5"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "doc_e44d414ae905153b",
+  "path": "wiki/beings/phantasmas/증오의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/증오의_판타즈마.md",
+  "title": "증오의 판타즈마",
+  "summary": "증오가 전장의 잔철과 바다의 소금을 뒤집어쓴 채 끝없이 씹어 삼키는 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "증오의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    }
+  ],
+  "sha256": "a1ab22a8b92c67042f5acff3c5d7f7f20db7db49c91cf15b1734abef37259b20",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e44d414ae905153b.json",
+  "chunks": [
+    {
+      "id": "doc_e44d414ae905153b:000",
+      "section": "증오의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_000.json",
+      "char_count": 184
+    },
+    {
+      "id": "doc_e44d414ae905153b:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_001.json",
+      "char_count": 50
+    },
+    {
+      "id": "doc_e44d414ae905153b:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_002.json",
+      "char_count": 530
+    },
+    {
+      "id": "doc_e44d414ae905153b:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_003.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_e44d414ae905153b:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_004.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_e44d414ae905153b:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_005.json",
+      "char_count": 138
+    },
+    {
+      "id": "doc_e44d414ae905153b:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_006.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_e44d414ae905153b:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e44d414ae905153b_007.json",
+      "char_count": 145
+    }
+  ]
+}

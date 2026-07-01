@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_769bf5d18899b89f",
+  "path": "02_LORE/L08_PEACE/L08_CORE.txt",
+  "title": "L08_파라디소 / CORE",
+  "summary": "L08_파라디소 / CORE",
+  "root": "02_LORE",
+  "category": "02_LORE:L08_PEACE",
+  "suffix": ".txt",
+  "sha256": "e71c147cdc262ffb5b9e8545ce9a6b80eee40e8c898b849f4d1c8e8440aa2418",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_769bf5d18899b89f.json",
+  "chunks": [
+    {
+      "id": "live_doc_769bf5d18899b89f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_769bf5d18899b89f_000.json",
+      "char_count": 2402
+    }
+  ]
+}

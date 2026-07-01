@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_128741a22c985655",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/04_HYDRA.txt",
+  "title": "히드라",
+  "summary": "히드라",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "d96f584ac1539d29d4517ace45428294304ef0276db0fb09a5ae05e4fabee534",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_128741a22c985655.json",
+  "chunks": [
+    {
+      "id": "live_doc_128741a22c985655:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_128741a22c985655_000.json",
+      "char_count": 1038
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "doc_fcbc929a66142766",
+  "path": "wiki/characters/historical/index.md",
+  "wiki_path": "characters/historical/index.md",
+  "title": "역사적 행위자",
+  "summary": "역사적 행위자는 본편 이전 세계사의 큰 구조를 움직인 창조주, 태고 행위자, 시대 전환의 주체를 모으는 인물 하위 항목이다.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "characters",
+    "historical"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:historical",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "역사적 행위자"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아난케",
+      "target": "wiki/characters/historical/아난케.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    }
+  ],
+  "sha256": "da96e35d808db474714b4bac5f8b7cdeb0cfdf080ccb508fb43d842c2e965f97",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fcbc929a66142766.json",
+  "chunks": [
+    {
+      "id": "doc_fcbc929a66142766:000",
+      "section": "역사적 행위자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fcbc929a66142766_000.json",
+      "char_count": 108
+    },
+    {
+      "id": "doc_fcbc929a66142766:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fcbc929a66142766_001.json",
+      "char_count": 131
+    },
+    {
+      "id": "doc_fcbc929a66142766:002",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fcbc929a66142766_002.json",
+      "char_count": 91
+    },
+    {
+      "id": "doc_fcbc929a66142766:003",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fcbc929a66142766_003.json",
+      "char_count": 169
+    }
+  ]
+}

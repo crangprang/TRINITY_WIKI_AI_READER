@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:014",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "전투",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_014.json",
+  "text": "### 전투\n\n아인과 연결된 전투에서는 색을 말해도 되는 예외 구간이 열린다. 일상 발화에 비해 말이 조금 빨라지고, `방향 + 색 + 개수`가 먼저 나온다. 감상은 거의 붙지 않고 전달이 우선한다.",
+  "metadata": {
+    "char_count": 111,
+    "sha256": "4bb11c9e047bd93cd1699043f3a7a73848309323bc7e407291db88ac0d2142e7"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:007",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-26 염한 후속 셰어 표면 결정",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_007.json",
+  "text": "## 2026-06-26 염한 후속 셰어 표면 결정\n\n- 염한의 필로시온은 `대지의 필로시온, 탈리아`로 유지한다.\n- 플라센티아의 필로시온은 `육신의 필로시온, 테르프시코레`로 유지한다.\n- 알렉시아의 필로시온명은 `클리오`로 정리한다.\n- 염한의 전체 아포라투스 `아곤`과 제어기관 `시지기`는 다른 층위로 분리한다.\n- 헬리오스/셀레네는 잔재명, 일륜/월륜은 기능기관명으로 둔다.\n- 가인의 첫인상은 패군을 우선한다. 개혁자 해석은 첫인상 설명의 전면에 두지 않는다.\n- `아백`으로 통일한다.\n- `서린`은 세레나의 작중 유효 전통명이다. 공통어 이름은 `세레나`, 염한어/한국어·한자어계 이름은 `서린`으로 둔다. `서린`은 별도 인물 항목으로 분리하지 않는다.",
+  "metadata": {
+    "char_count": 375,
+    "sha256": "d1049368da3a661ed2ee626091e56867f40d3ddf9348b4c992997742036b8182"
+  }
+}

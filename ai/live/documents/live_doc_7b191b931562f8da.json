@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_7b191b931562f8da",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_06_LIFES.txt",
+  "title": "6. 생명체",
+  "summary": "6. 생명체",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "2f68f50b4c372d6fd317223d08feab5d43c0d84c9c0d4240e984416d5f23f52e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_7b191b931562f8da.json",
+  "chunks": [
+    {
+      "id": "live_doc_7b191b931562f8da:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7b191b931562f8da_000.json",
+      "char_count": 7561
+    }
+  ]
+}

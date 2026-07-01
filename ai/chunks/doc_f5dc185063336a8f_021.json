@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:021",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "무덤을 찾는 망령",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_021.json",
+  "text": "### 무덤을 찾는 망령\n\n- `[속죄를 밀어붙일 때]` `내가 선다. 이 자리는 내 죄가 닿는 곳이다.`\n- `[자격 없음을 말할 때]` `그 이름을 입에 올릴 자격은 아직 없다.`\n- `[위험한 자리를 자처할 때]` `물러서라. 이 끝은 내가 받아야 한다.`\n- `[블랑이 물러서지 않을 때]` `의사, 네 판정은 들었다. 그래도 길은 내가 막는다.`\n- `[가인 이름 앞에서]` `그 이름을 쉽게 부르지 마라. 아직 내 입에서도 무겁다.`\n- `[서린이 걸릴 때]` `그 이름은... 아직 내 것으로 부를 수 없다.`\n- `[죄를 자기 몫으로 잡을 때]` `살아남은 죄는 남에게 넘기지 않는다.`",
+  "metadata": {
+    "char_count": 336,
+    "sha256": "ce12b21073bcb5162f53ff725782dc4421f5ea58786cf137a16dd0df690832f2"
+  }
+}

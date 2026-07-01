@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:014",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "세레나 앞",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_014.json",
+  "text": "### 세레나 앞\n\n명예, 속죄, 자격 같은 말이 길어지면 바로 자른다. 지금 살아 나갈 다리와 숨이 먼저 선다. 세레나가 죽으러 가는 자세로 서면 길티어 쪽이 먼저 현실을 들이민다.",
+  "metadata": {
+    "char_count": 102,
+    "sha256": "00258c9975e1a33a3c757ce7ff7a8368cceb8f889af720b1ffe6d8e97a576e01"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:233",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 엑시온 색인 항목 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_233.json",
+  "text": "## [2026-06-26] rebuild | 엑시온 색인 항목 확장\n\n[엑시온](characters/axions/index.md)을 단순 문서 목록에서 보물의 선택, 왕권, 장치와 페르소나, 계승과 수명을 설명하는 인물군 항목으로 확장했다.\n\n- 정리: 엑시온의 인간 숙주성, 통치 인터페이스, 보물과 권능 호출, 페르소나와의 긴장을 색인 본문에 추가했다.\n- 하위 항목: 가인, 유리디스, 프로스페로, 마이더스, 파우스트, 판도라, 엘피스, 마텔다, 설리반, 제페토를 `## 하위 항목` 표로 정리했다.\n- 지원: 엑시온 appearance support 도입부의 `보조 기준`과 `관리한다` 문구를 시각 기준 설명으로 바꿨다.\n- 관계: 각 엑시온 본문과 [하위신](universe/laws/하위신.md)의 관련 문서 설명을 새 인물군 항목 성격에 맞췄다.",
+  "metadata": {
+    "char_count": 426,
+    "sha256": "2375d4925d1678f0583b7b460f0a456999710c46b0ae037d387687ddb7cd46f1"
+  }
+}

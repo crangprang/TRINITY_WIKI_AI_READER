@@ -1,0 +1,22 @@
+{
+  "id": "doc_95c91b0f1eb11ba7:003",
+  "document_id": "doc_95c91b0f1eb11ba7",
+  "path": "wiki/index.md",
+  "wiki_path": "index.md",
+  "title": "삼위일체 우주 대문",
+  "section": "인물과 존재",
+  "summary": "삼위일체 우주의 세계법칙, 국가, 사건, 인물, 존재를 한곳에서 여는 대문.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "index",
+    "navigation"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_003.json",
+  "text": "## 인물과 존재\n\n- [인물](characters/index.md) - 주인공, 조연, 트리네아드, 엑시온, 페르소나, 펠시온, 구세주 후보가 놓이는 행위자 범주.\n- [앙상블](characters/ensemble/index.md) - 니그리스, 소피아, 오피온, 배신의 펠시온처럼 파티 바깥에서 세계사의 오래된 원인을 현재 사건으로 가져오는 인물.\n- [역사적 행위자](characters/historical/index.md) - 아난케처럼 본편 이전 세계사의 창조와 시대 전환을 움직인 행위자.\n- [존재](beings/index.md) - 종족, 생물, 판타즈마, 괴생태, 비인격 존재가 놓이는 생명·현상 범주.\n- [용 계열](beings/dragonkin/index.md) - 용왕, 아홉 용, 용인처럼 환상과 마니아, 용 혈통에 닿은 존재 축.\n- [트리네아드](characters/trineads/index.md) - 세 세계의 상위 신격과 세계 압력이 인격으로 드러나는 층위.\n- [엑시온](characters/axions/index.md) - 보물이 선택한 인간 숙주와 왕권 계승의 통치 얼굴.\n- [페르소나](characters/personas/index.md) - 아포라투스 심층 관리자 의식과 표층 대변자.\n- [펠시온](characters/fellsions/index.md) - 파괴계 이름 판결을 받은 인간형 하위신 계열.\n- [판타즈마](beings/phantasmas/index.md) - 부정 이데아와 이름이 괴생태로 굳은 존재.",
+  "metadata": {
+    "char_count": 762,
+    "sha256": "799add0182dc11c79f889a6a59e420ed51f20815f62a363fbed5574d21c8d3ec"
+  }
+}

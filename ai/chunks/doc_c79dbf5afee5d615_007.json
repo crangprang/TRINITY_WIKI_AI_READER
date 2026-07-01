@@ -1,0 +1,23 @@
+{
+  "id": "doc_c79dbf5afee5d615:007",
+  "document_id": "doc_c79dbf5afee5d615",
+  "path": "wiki/characters/fellsions/기만의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/기만의_펠시온/index.md",
+  "title": "기만의 펠시온",
+  "section": "훔친 기술",
+  "summary": "기만의 펠시온은 공허 출신의 덫 사냥꾼이며, 변환자재 마니아를 실, 정신 독, 안개, 경화 무기로 바꾸어 강자의 정신 에너지와 경험을 사냥한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c79dbf5afee5d615_007.json",
+  "text": "## 훔친 기술\n\n기만은 다른 펠시온의 기술을 자기 생존 방식으로 재구성한다.\n\n[모방의 펠시온](../모방의_펠시온/index.md)의 위장술은 기만에게 안전한 은신 기술로 변한다. 모방이 관찰과 학습을 위해 위장을 사용한다면, 기만은 사냥꾼의 위치를 숨기고 리스크를 낮추기 위해 위장을 사용한다.\n\n[배신의 펠시온](../../ensemble/배신의_펠시온/index.md)의 전략적 사고와 약점 공략은 덫 설계 기술로 변한다. 기만은 거미줄 배치, 독 주입 대상, 사건 발생 시점, 진실 조각의 노출 순서를 계산해 집단을 가장 효율적으로 무너뜨린다.",
+  "metadata": {
+    "char_count": 310,
+    "sha256": "a26ebe3fa8221c642124edb83f31872db6ed63dd56cb49f0d37efa3e9af980ac"
+  }
+}

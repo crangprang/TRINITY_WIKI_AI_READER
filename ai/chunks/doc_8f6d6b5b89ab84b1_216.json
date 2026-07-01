@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:216",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] visual lock | 아인 1층위 손소품과 전신 비율 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_216.json",
+  "text": "## [2026-06-26] visual lock | 아인 1층위 손소품과 전신 비율 보정\n\n아인 1층위 손소품을 손바닥 안에서 굴리는 작은 황동 기어-너트/밸브 토큰으로 정리했다. 전신 비율은 170cm 전후, 약 6.6등신 안팎으로 맞췄다.\n\n- 반영: [아인](characters/main_party/아인/index.md)\n- 주요 판단: 토큰은 손에 높이 들어 보여 주는 피젯스피너가 아니라, 허리 근처의 느슨한 손바닥 안에서 엄지와 검지/중지가 건드리는 수로 정비 부품 같은 습관 소품이다. 키와 비율은 긴 외투 때문에 커 보이기 쉬우므로 긴 다리와 늘어난 허리/종아리를 줄여 compact한 170cm 인상으로 맞춘다.",
+  "metadata": {
+    "char_count": 352,
+    "sha256": "04102dd887badd0955292b37ee38b3ccf5a1ce3d4c24e848d6fb99d8542862fc"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f:002",
+  "document_id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "section": "장면 QA",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_002.json",
+  "text": "## 장면 QA\n\n- 장면은 누가 무엇을 원하고, 무엇을 숨기며, 어떤 비용을 치르는지 드러나야 한다.\n- 갈등은 선언보다 선택, 회피, 침묵, 물건의 사용, 공간 배치로 확인되게 쓴다.\n- 어둡거나 비극적인 장면도 상승감, 유혹, 광휘, 생활감 중 무엇이 전면에 있는지 확인한다.\n- 본편 플롯 세부를 새로 잠그지 않는다. 사용자 지시 전에는 장면 후보와 확정 사건을 구분한다.",
+  "metadata": {
+    "char_count": 212,
+    "sha256": "81dcc556d215126323c1cb76537a3de323162d80897c1c5b6c57dad904d0da0c"
+  }
+}

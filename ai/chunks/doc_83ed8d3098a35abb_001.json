@@ -1,0 +1,24 @@
+{
+  "id": "doc_83ed8d3098a35abb:001",
+  "document_id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "section": "외형 기준",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 실루엣 | 사람. 세 방향 감시가 느껴지는 프로페셔널 용병. |\n| 의상 | 절제된 용병 장비 |\n| 가면 | 삼두견 콜사인을 암시하는 세 방향 감시 이미지 |\n| 소품 | 서로 다른 세 개의 무기 |\n| 배경 | 느와르 풍 도시, 젖은 골목, 계약 현장 |\n| 표정/자세 | 실전 용병의 균형, 즉시 대응 가능한 경계 자세 |",
+  "metadata": {
+    "char_count": 236,
+    "sha256": "7e9a51b67c00aeb1c2f812f49735989ae11d763bda5c5d7ebeafab42e4005e7a"
+  }
+}

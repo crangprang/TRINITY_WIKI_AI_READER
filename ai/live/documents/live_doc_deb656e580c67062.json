@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_deb656e580c67062",
+  "path": "03_WORLD/04_CREATURE/C03_EXPLORER/02_FANTASMA/02_GRADE_2/C03_GRADE_2_FANTASMA_BRANCH_IDEA.txt",
+  "title": "C03_EXPLORER / GRADE_2_FANTASMA_BRANCH_IDEA",
+  "summary": "C03_EXPLORER / GRADE_2_FANTASMA_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "2b439cff1cd65441c38f6ee28e00bffe680277be40e043c30ea0abd4bb2f0fb4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_deb656e580c67062.json",
+  "chunks": [
+    {
+      "id": "live_doc_deb656e580c67062:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_deb656e580c67062_000.json",
+      "char_count": 506
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:252",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] relations | 국가 관련 문서 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_252.json",
+  "text": "## [2026-06-26] relations | 국가 관련 문서 설명 보강\n\n국가 문서 일부의 관련 문서 설명에서 `인물`, `국가`, `존재` 같은 단순 라벨을 제거하고 국가 내부 관계를 적었다.\n\n- 염한: 가인, 아백, 세레나, 황 노인, 올림피아, 리바이어던, 에레모스의 관계 설명을 염한의 천명, 용인 박해, 증오 축과 연결했다.\n- 오르딜리아: 마텔다, 미노스, 단테, 파프니르, 트리네아드, 우니오네의 관계 설명을 정의, 절제, 재판, 분노 축과 연결했다.\n- 에레모스와 레이어드: 중앙 질서, 불지기, 유령 의뢰, 스틱스, 히드라, 케르베로스 등 국가별 주변 항목의 기능을 관련 문서 설명에 반영했다.",
+  "metadata": {
+    "char_count": 345,
+    "sha256": "20649bf60b73985b498762fe46551841a3e644b1aabd6ae42a3137aaefc93b39"
+  }
+}

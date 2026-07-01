@@ -1,0 +1,24 @@
+{
+  "id": "doc_db6afd7ec56ea94e:002",
+  "document_id": "doc_db6afd7ec56ea94e",
+  "path": "wiki/universe/realms/balance/organizations/마스크맨.md",
+  "wiki_path": "universe/realms/balance/organizations/마스크맨.md",
+  "title": "마스크맨",
+  "section": "역할 가면과 사냥 절차",
+  "summary": "마스크맨은 플라센티아 기반의 기능조직으로, 역할 가면과 사냥 절차를 통해 판타즈마와 위험 생태를 대륙 실무로 사냥한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_002.json",
+  "text": "## 역할 가면과 사냥 절차\n\n마스크맨의 가면은 얼굴을 감추는 장식보다 현장 역할을 표시하는 장비다. 추적, 유인, 방어, 보고, 회수 같은 분업이 가면과 장비에 드러나고, 숲의 냄새 표식과 매듭 암호, 귀환 검역은 계약 품질의 일부가 된다.\n\n고가 계약, 사전 위험 평가, 장비 검역, 사후 보고는 마스크맨을 전설보다 실무 조직으로 만든다. 사냥이 실패하면 흔적과 유품, 손실 보고가 다음 의뢰의 조건으로 남고, 성공하면 플라센티아의 사냥 문명이 대륙의 신뢰로 바뀐다.",
+  "metadata": {
+    "char_count": 263,
+    "sha256": "bb07d938ce10cac97a7c0ebc730aee7dfd24c972b01c63dbe348a05a1911bfaf"
+  }
+}

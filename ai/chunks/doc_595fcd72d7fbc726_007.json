@@ -1,0 +1,23 @@
+{
+  "id": "doc_595fcd72d7fbc726:007",
+  "document_id": "doc_595fcd72d7fbc726",
+  "path": "wiki/characters/axions/제페토/index.md",
+  "wiki_path": "characters/axions/제페토/index.md",
+  "title": "제페토",
+  "section": "투르키나",
+  "summary": "제페토는 플라센티아의 사냥 규율을 세운 엑시온이자 사냥꾼들의 스승이며, 죽은 아들 카를로를 되살리려는 집착으로 피노키오 계획과 고치 순환을 연 장로다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_007.json",
+  "text": "## 투르키나\n\n[투르키나](../../personas/투르키나/index.md)는 제페토의 부성애를 다정하게 밀어 넣는 페르소나다. 그녀는 아이를 살리고 싶다는 마음을 계속 되풀이하고, 한 번만 더 희생하면 된다는 말로 제페토의 규율을 고치 쪽으로 끌어당긴다.\n\n제페토와 투르키나가 마주서면 애도는 설계도로 바뀌고, 위로는 다음 사냥 명령으로 바뀐다. 제페토는 규율과 책임을 말하고, 투르키나는 생존과 가능성을 말한다.",
+  "metadata": {
+    "char_count": 235,
+    "sha256": "e791e10df0039f6889345a44856604820f4a61b5006fd5c75ae8029d5b9c34a2"
+  }
+}

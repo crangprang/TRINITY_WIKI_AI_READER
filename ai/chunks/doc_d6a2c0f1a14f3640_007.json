@@ -1,0 +1,22 @@
+{
+  "id": "doc_d6a2c0f1a14f3640:007",
+  "document_id": "doc_d6a2c0f1a14f3640",
+  "path": "wiki/beings/creatures/index.md",
+  "wiki_path": "beings/creatures/index.md",
+  "title": "하급 생물",
+  "section": "관련 문서",
+  "summary": "하급 생물은 아홉 나라의 자연, 도시, 생활 환경이 낳은 원생 생물, 생활 생물, 직접 위협 생물이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "creatures"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_007.json",
+  "text": "## 관련 문서\n\n- [존재](../index.md) - 하급 생물과 판타즈마가 함께 놓이는 상위 존재 항목.\n- [판타즈마](../phantasmas/index.md) - 부정 이데아와 생태 조건이 괴생태로 굳은 존재.\n- [아홉 나라](../../universe/realms/balance/nations/index.md) - 각 생태가 자리한 국가별 환경과 장치.",
+  "metadata": {
+    "char_count": 205,
+    "sha256": "a32d2c56103345c9b14b7ca105cb700e5ef2bce6100b53ec8aea6e05e7239bee"
+  }
+}

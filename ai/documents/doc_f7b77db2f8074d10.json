@@ -1,0 +1,119 @@
+{
+  "id": "doc_f7b77db2f8074d10",
+  "path": "wiki/characters/main_party/단테/support/music.md",
+  "wiki_path": "characters/main_party/단테/support/music.md",
+  "title": "단테 음악",
+  "summary": "단테의 진흙, 얼음, 별, 죄, 결투재판, 광견성을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "단테 음악"
+    },
+    {
+      "level": 2,
+      "title": "음악 콘셉트"
+    },
+    {
+      "level": 2,
+      "title": "음악 키워드"
+    },
+    {
+      "level": 2,
+      "title": "명사 물성"
+    },
+    {
+      "level": 2,
+      "title": "악기와 스타일"
+    },
+    {
+      "level": 2,
+      "title": "가사 모티프"
+    },
+    {
+      "level": 2,
+      "title": "곡 진행"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "단테 외형",
+      "target": "wiki/characters/main_party/단테/support/appearance.md"
+    },
+    {
+      "label": "단테 보이스",
+      "target": "wiki/characters/main_party/단테/support/voice.md"
+    }
+  ],
+  "sha256": "dd9b4659a151d6266e4a12633656ce8eefffef245713cf302b043f047255c3ff",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f7b77db2f8074d10.json",
+  "chunks": [
+    {
+      "id": "doc_f7b77db2f8074d10:000",
+      "section": "단테 음악",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_000.json",
+      "char_count": 7
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:001",
+      "section": "음악 콘셉트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_001.json",
+      "char_count": 412
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:002",
+      "section": "음악 키워드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_002.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:003",
+      "section": "명사 물성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_003.json",
+      "char_count": 1679
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:004",
+      "section": "악기와 스타일",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_004.json",
+      "char_count": 523
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:005",
+      "section": "가사 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_005.json",
+      "char_count": 499
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:006",
+      "section": "곡 진행",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_006.json",
+      "char_count": 373
+    },
+    {
+      "id": "doc_f7b77db2f8074d10:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f7b77db2f8074d10_007.json",
+      "char_count": 222
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_354313d4f2acf424:001",
+  "document_id": "doc_354313d4f2acf424",
+  "path": "wiki/characters/axions/마텔다/index.md",
+  "wiki_path": "characters/axions/마텔다/index.md",
+  "title": "마텔다",
+  "section": "개요",
+  "summary": "마텔다는 오르딜리아의 엑시온이자 심판관으로, 무법의 공포를 막기 위해 반지와 결투 재판과 감시를 법으로 세우고 자기 자신까지 얼린 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_001.json",
+  "text": "## 개요\n\n마텔다는 오르딜리아의 엑시온이자 심판관이다. 그녀는 모든 것을 잃은 뒤 최소한의 규칙만은 남기겠다는 의지로 법, 결투 재판, 반지, 감시를 한 몸처럼 들고 다닌다.\n\n마텔다의 정의는 차갑고 완고하다. 그녀가 법을 붙드는 이유는 혼돈의 재현을 두려워하는 공포다. 법을 느슨하게 두는 순간 잃어버린 모든 것이 반복된다는 확신이 그녀를 자기 자신부터 얼리는 통치자로 만든다.",
+  "metadata": {
+    "char_count": 213,
+    "sha256": "b9931707299e47916061e8095725c78d5272c423fc7d2601412a1c46bbb53d12"
+  }
+}

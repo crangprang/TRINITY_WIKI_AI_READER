@@ -1,0 +1,24 @@
+{
+  "id": "doc_c25a914bd95fbb65:005",
+  "document_id": "doc_c25a914bd95fbb65",
+  "path": "wiki/characters/axions/파우스트/support/appearance.md",
+  "wiki_path": "characters/axions/파우스트/support/appearance.md",
+  "title": "파우스트 외형",
+  "section": "시각 경계",
+  "summary": "파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_005.json",
+  "text": "## 시각 경계\n\n- 동자형 희생귀족 실루엣을 피한다.\n- 계약서, 인장, 갈라진 그림자는 중심 소품으로 두지 않는다.\n- 동양 왕 또는 중동 왕의 일반 클리셰는 배경으로 물리고, 오아시스의 출력 문명과 공학 질서를 앞세운다.\n- 열린 왕관은 파우스트의 시간 정지와 현재 출력 구조를 함께 보여 주는 장치다.",
+  "metadata": {
+    "char_count": 172,
+    "sha256": "b561168da1fba2e2bcdc758ae4e3ad5fd793d3cc5228143abec4f2d84d6af332"
+  }
+}

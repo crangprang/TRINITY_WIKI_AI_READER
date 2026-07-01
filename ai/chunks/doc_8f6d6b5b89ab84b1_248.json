@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:248",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 메인 파티와 구세주 후보 하위 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_248.json",
+  "text": "## [2026-06-26] rebuild | 메인 파티와 구세주 후보 하위 표면 정리\n\n인물군 상위 항목의 목록형 heading을 WIKI 하위 항목과 관련 문서 역할에 맞췄다.\n\n- 메인 파티: `파티 항목`을 `배신 문법`으로 바꾸고, `관련 항목` heading을 `관련 문서`로 정리했다.\n- 구세주 후보: `type`을 인물군 항목으로 맞추고, `후보 목록`을 국가 이념과 기능조직이 보이는 `하위 항목` 표로 바꿨다.\n- 문체: 독자에게 사용법을 설명하는 문장을 구세주 후보와 기능조직의 정본 작동 서술로 바꿨다.",
+  "metadata": {
+    "char_count": 294,
+    "sha256": "d24104400ceeb6aff3cb587d63b7fc121484043e00427eac5d1ad64111e153d7"
+  }
+}

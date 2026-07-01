@@ -1,0 +1,147 @@
+{
+  "id": "doc_f796f218b466ef9a",
+  "path": "wiki/universe/laws/필로시온.md",
+  "wiki_path": "universe/laws/필로시온.md",
+  "title": "필로시온",
+  "summary": "필로시온은 창조계 오리진 조각의 설계도와 에테르로 생산되는 인공 신격체이며, 아홉 프로토타입은 균형계에서 아포라투스와 페르소나의 심층 기반이 되었다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "하위신",
+    "philosion"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "필로시온"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "제작과 계열"
+    },
+    {
+      "level": 2,
+      "title": "프로토타입과 양산형의 차이"
+    },
+    {
+      "level": 2,
+      "title": "프로토타입과 아포라투스"
+    },
+    {
+      "level": 2,
+      "title": "국가별 프로토타입 흔적"
+    },
+    {
+      "level": 2,
+      "title": "이름과 권한 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    }
+  ],
+  "sha256": "c1a829fb82504e2e4f356f9472c5047cb7c2c96ad8b8cd11299214e281d75051",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f796f218b466ef9a.json",
+  "chunks": [
+    {
+      "id": "doc_f796f218b466ef9a:000",
+      "section": "필로시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_000.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_f796f218b466ef9a:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_001.json",
+      "char_count": 630
+    },
+    {
+      "id": "doc_f796f218b466ef9a:002",
+      "section": "제작과 계열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_002.json",
+      "char_count": 991
+    },
+    {
+      "id": "doc_f796f218b466ef9a:003",
+      "section": "프로토타입과 양산형의 차이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_003.json",
+      "char_count": 511
+    },
+    {
+      "id": "doc_f796f218b466ef9a:004",
+      "section": "프로토타입과 아포라투스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_004.json",
+      "char_count": 617
+    },
+    {
+      "id": "doc_f796f218b466ef9a:005",
+      "section": "국가별 프로토타입 흔적",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_005.json",
+      "char_count": 812
+    },
+    {
+      "id": "doc_f796f218b466ef9a:006",
+      "section": "이름과 권한 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_006.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_f796f218b466ef9a:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f796f218b466ef9a_007.json",
+      "char_count": 439
+    }
+  ]
+}

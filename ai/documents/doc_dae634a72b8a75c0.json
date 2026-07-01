@@ -1,0 +1,100 @@
+{
+  "id": "doc_dae634a72b8a75c0",
+  "path": "wiki/beings/phantasmas/플라센티아_2등급_판타즈마.md",
+  "wiki_path": "beings/phantasmas/플라센티아_2등급_판타즈마.md",
+  "title": "플라센티아 2등급 판타즈마",
+  "summary": "오보, 매듭, 미끼, 허물, 귀환, 허언을 중심으로 구성된 플라센티아의 2등급 판타즈마군.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "플라센티아 2등급 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    }
+  ],
+  "sha256": "5a03e7939777bf94e224e6017a8c2818a59b4eb3531e117b934575916132cd7e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dae634a72b8a75c0.json",
+  "chunks": [
+    {
+      "id": "doc_dae634a72b8a75c0:000",
+      "section": "플라센티아 2등급 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_000.json",
+      "char_count": 96
+    },
+    {
+      "id": "doc_dae634a72b8a75c0:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_001.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_dae634a72b8a75c0:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_002.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_dae634a72b8a75c0:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_003.json",
+      "char_count": 339
+    },
+    {
+      "id": "doc_dae634a72b8a75c0:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_004.json",
+      "char_count": 298
+    },
+    {
+      "id": "doc_dae634a72b8a75c0:005",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_005.json",
+      "char_count": 125
+    },
+    {
+      "id": "doc_dae634a72b8a75c0:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dae634a72b8a75c0_006.json",
+      "char_count": 118
+    }
+  ]
+}

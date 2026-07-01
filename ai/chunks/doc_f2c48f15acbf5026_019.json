@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:019",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "헌티드",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_019.json",
+  "text": "### 헌티드\n\n비술 `헌티드`는 워크맨에서 흘러나오는 음악의 리듬과 분위기에 몸을 맞춰 싸움 방식과 버프를 바꾼다. 핵심은 박자 전환과 동기화에 있다. 진은 자기 감정과 상대 템포와 현장의 압력을 하나의 리듬으로 엮어 싸운다.\n\n헌티드는 몸이 먼저 박자에 적응하는 마니아 출력이고, 워크맨에 묶인 약속과 감정의 이데아가 그 방향을 민다. 트랙은 스스로 고를 수 없다. 장르와 분위기에 따라 버프와 디버프가 동시에 걸리며, 싫어하는 음악일수록 다루기 더 힘들다.",
+  "metadata": {
+    "char_count": 258,
+    "sha256": "fc5ba63b32db653368dbf36822b18714d64cee6b2e12fb0224cb7deadeebf7b2"
+  }
+}

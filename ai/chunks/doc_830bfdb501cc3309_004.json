@@ -1,0 +1,23 @@
+{
+  "id": "doc_830bfdb501cc3309:004",
+  "document_id": "doc_830bfdb501cc3309",
+  "path": "wiki/characters/savior_candidates/index.md",
+  "wiki_path": "characters/savior_candidates/index.md",
+  "title": "구세주 후보",
+  "section": "올림피아 제도",
+  "summary": "아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "savior_candidates",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_004.json",
+  "text": "## 올림피아 제도\n\n[올림피아](../../universe/realms/balance/nations/올림피아.md)는 후보를 `구세주`로 공표하고, 후보의 가면, 문장, 서약을 국가 명예와 국제 통행증처럼 다룬다. 후보의 성과는 국가 위신, 면허, 지원, 패널티, 유물 접근권, 구호 인력 배정 같은 실제 자원 흐름에 영향을 준다.\n\n후보가 올림피아에 서는 이유는 인물마다 다르다. 공식 목적, 숨은 목적, 지도층이 제공하는 보상, 후보가 감추는 목적이 서로 다른 방향으로 당길 수 있고, 그 긴장이 각 후보의 장면을 만든다.",
+  "metadata": {
+    "char_count": 295,
+    "sha256": "c6bd0d92a4e0927ea265f91f9d3ac8abc9e0a4a6917dfc5e6b53da79ac9c35a6"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:262",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 링크 기반 관계 인덱스 전환",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_262.json",
+  "text": "## [2026-06-26] maintenance | 링크 기반 관계 인덱스 전환\n\n관계 그래프와 역링크 API가 별도 관계 JSON을 읽지 않고 현재 위키 문서의 마크다운 링크에서 관계를 구성하도록 바꿨다.\n\n- `_relations.json`을 삭제하고 `/api/relations`를 독자용 위키 표면의 로컬 문서 링크 기반으로 재구성했다.\n- 삭제된 관계 JSON을 가리키던 과거 별칭을 제거하고, 브라우저의 역링크·관계 그래프 문구를 링크 수 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 262,
+    "sha256": "ff772d59e2a5e3d4b65e2efae6f79a358a6c7acd0acff8f639592fd4aac16aab"
+  }
+}

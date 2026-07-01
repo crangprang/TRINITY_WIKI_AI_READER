@@ -1,0 +1,23 @@
+{
+  "id": "doc_b58aee9254f51d0c:034",
+  "document_id": "doc_b58aee9254f51d0c",
+  "path": "wiki/characters/trineads/라케시스/index.md",
+  "wiki_path": "characters/trineads/라케시스/index.md",
+  "title": "라케시스",
+  "section": "관련 문서",
+  "summary": "라케시스는 이해의 보물에서 태어난 지혜의 트리네아드다. 그녀는 인격을 유지한 관찰자이며, 아조트와 세 가면, 조작된 역사, 구세주예언을 통해 풀림을 넘어설 초인을 찾으려 한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_034.json",
+  "text": "## 관련 문서\n\n- [트리네아드](../index.md) - 지혜가 속한 균형계 트리네아드의 공통 구조.\n- [라케시스 외형](support/appearance.md) - 소피아 계승 얼굴, 흰빛 인상, 가면별 외형 기준.\n- [소피아](../../ensemble/소피아/index.md) - 라케시스의 기원이 되는 니그리스의 기억 속 이성.\n- [오피온](../../ensemble/오피온/index.md) - 라케시스에게 아조트와 니그리스 생존의 실마리를 남긴 잔류 의지.\n- [신격과 신적 권위](../../../universe/laws/신격과_신적_권위.md) - 태초의 불꽃, 고요한 종말, 아난케 참칭과 실제 신격 계열을 구분하는 기준.\n- [태초의 불꽃](../../../universe/laws/태초의_불꽃.md) - 라케시스가 창조계와 삼위정교에 운용한 거짓 신명의 층위.\n- [고요한 종말](../../../universe/laws/고요한_종말.md) - 라케시스가 파괴계와 삼위정교에 운용한 거짓 신명의 층위.\n- [파티](../../main_party/파티/index.md) - 라케시스가 유령 의뢰로 움직여 관찰하는 저주받은 변수들이 모인 이동 집단.",
+  "metadata": {
+    "char_count": 602,
+    "sha256": "7313665110d66590b5504ad58d8264ba445fe676025cd58146a9ef4b038c0dbf"
+  }
+}

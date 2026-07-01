@@ -1,0 +1,24 @@
+{
+  "id": "doc_7163bad6c5786817:015",
+  "document_id": "doc_7163bad6c5786817",
+  "path": "wiki/characters/trineads/생명의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/생명의_트리네아드/index.md",
+  "title": "생명의 트리네아드",
+  "section": "관련 문서",
+  "summary": "생명의 트리네아드는 창조계에서 생체, 식생, 키메라, 4등급 판타즈마의 생명 계통을 붙드는 크리에이터다. 그녀의 판단 중심은 치유보다 창조에 있으며, 책임과 윤리보다 죽음을 넘어 살아 움직이는 성취에 먼저 반응한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7163bad6c5786817_015.json",
+  "text": "## 관련 문서\n\n- [트리네아드](../index.md) - 생명이 속한 창조계 트리네아드의 공통 기원과 계통.\n- [감독](../감독/index.md) - 생명이 보좌하는 창조계 총책임자와 그랜드 디자인의 설계자.\n- [자연의 트리네아드](../자연의_트리네아드/index.md) - 생명의 창조물이 살아갈 환경과 순환을 맡는 자매.\n- [하위신](../../../universe/laws/하위신.md) - 프로토타입 필로시온, 페르소나, 아포라투스가 생명 계통과 맞물리는 존재 층위.\n- [판타즈마](../../../beings/phantasmas/index.md) - 생명의 창조성이 괴생태와 재난의 몸으로 굳는 존재 축.",
+  "metadata": {
+    "char_count": 352,
+    "sha256": "4c01e90abaa8e711a60dbb69bae00f727c71f321cfa93726d40f1146ab278851"
+  }
+}

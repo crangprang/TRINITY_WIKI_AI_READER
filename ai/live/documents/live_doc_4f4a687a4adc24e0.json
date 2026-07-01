@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_4f4a687a4adc24e0",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX04_MIDAS.txt",
+  "title": "마이더스",
+  "summary": "마이더스",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "bb564be0ebae64334dbda112bf6c44d583c7a9dc2b6bf64691c08f9c64ce0c23",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_4f4a687a4adc24e0.json",
+  "chunks": [
+    {
+      "id": "live_doc_4f4a687a4adc24e0:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4f4a687a4adc24e0_000.json",
+      "char_count": 1904
+    }
+  ]
+}

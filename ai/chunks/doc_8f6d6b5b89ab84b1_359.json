@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:359",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 2시대 풀림과 아홉 아타노르 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_359.json",
+  "text": "## [2026-06-29] worldhistory | 2시대 풀림과 아홉 아타노르 보정\n\n[세계사/2시대](events/world_history/2시대_아홉_영웅과_칼시네이션.md)에 아홉 영웅 시대 풀림의 원인을 끄트머리 우주의 장력 약화, 너무 이른 오리진 완성, 에마나치온·메아리 전쟁·고요한 종말 신앙의 누적 압력으로 보강했다. 아타노르는 자연 기능을 대신한 아홉 구조물군으로 정리하고, 헬리오스와 셀레네, 오르페우스, 아이올로스, 아테나, 유피테르, 가이아, 아이기스와 프로메테우스, 우라노스, 크로노스의 기능 표를 추가했다. 알레인이 아홉 아타노르명을 붙였다는 연결은 [알레인의 동화책](events/world_history/알레인의_동화책.md)에 반영하고, 의식 전야의 리그레드-알레인 문답을 2시대 본문에 대화 블록으로 삽입했다.",
+  "metadata": {
+    "char_count": 418,
+    "sha256": "8ae147e3bde83f0bbb7344aac1b357b09fed22ff65ecad1b233056d4f344c5f2"
+  }
+}

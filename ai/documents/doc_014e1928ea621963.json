@@ -1,0 +1,292 @@
+{
+  "id": "doc_014e1928ea621963",
+  "path": "wiki/characters/ensemble/배신의_펠시온/index.md",
+  "wiki_path": "characters/ensemble/배신의_펠시온/index.md",
+  "title": "배신의 펠시온",
+  "summary": "공허 군단의 무명에서 붕괴의 참모, 죽음의 낙인, 균형계 탈주자로 이어진 파괴계 인물. 결과만을 증명으로 삼으며 에르고에게 새 이름을 요구한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:ensemble",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "배신의 펠시온"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 이름"
+    },
+    {
+      "level": 2,
+      "title": "세 번의 배신"
+    },
+    {
+      "level": 3,
+      "title": "공허에서 붕괴로"
+    },
+    {
+      "level": 3,
+      "title": "붕괴에서 죽음으로"
+    },
+    {
+      "level": 3,
+      "title": "죽음에서 균형계로"
+    },
+    {
+      "level": 2,
+      "title": "에르고와 이름의 약속"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "냉정한 책사"
+    },
+    {
+      "level": 3,
+      "title": "결과주의 구도자"
+    },
+    {
+      "level": 3,
+      "title": "파괴계 족속"
+    },
+    {
+      "level": 3,
+      "title": "진짜 이름을 갈망하는 존재"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "침투와 판짜기"
+    },
+    {
+      "level": 3,
+      "title": "배신의 수단화"
+    },
+    {
+      "level": 3,
+      "title": "보상과 혐오"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "에르고"
+    },
+    {
+      "level": 3,
+      "title": "죽음"
+    },
+    {
+      "level": 3,
+      "title": "공허"
+    },
+    {
+      "level": 3,
+      "title": "기만과 모방"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "배신의 펠시온 외형",
+      "target": "wiki/characters/ensemble/배신의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    }
+  ],
+  "sha256": "3eb0008303107e29d999284768d01b1b17fb26644b744a92da22eae0213e7dd1",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_014e1928ea621963.json",
+  "chunks": [
+    {
+      "id": "doc_014e1928ea621963:000",
+      "section": "배신의 펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_000.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_014e1928ea621963:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_001.json",
+      "char_count": 261
+    },
+    {
+      "id": "doc_014e1928ea621963:002",
+      "section": "정체와 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_002.json",
+      "char_count": 677
+    },
+    {
+      "id": "doc_014e1928ea621963:003",
+      "section": "세 번의 배신",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_003.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_014e1928ea621963:004",
+      "section": "공허에서 붕괴로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_004.json",
+      "char_count": 438
+    },
+    {
+      "id": "doc_014e1928ea621963:005",
+      "section": "붕괴에서 죽음으로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_005.json",
+      "char_count": 309
+    },
+    {
+      "id": "doc_014e1928ea621963:006",
+      "section": "죽음에서 균형계로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_006.json",
+      "char_count": 204
+    },
+    {
+      "id": "doc_014e1928ea621963:007",
+      "section": "에르고와 이름의 약속",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_007.json",
+      "char_count": 415
+    },
+    {
+      "id": "doc_014e1928ea621963:008",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_008.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_014e1928ea621963:009",
+      "section": "냉정한 책사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_009.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_014e1928ea621963:010",
+      "section": "결과주의 구도자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_010.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_014e1928ea621963:011",
+      "section": "파괴계 족속",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_011.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_014e1928ea621963:012",
+      "section": "진짜 이름을 갈망하는 존재",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_012.json",
+      "char_count": 128
+    },
+    {
+      "id": "doc_014e1928ea621963:013",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_013.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_014e1928ea621963:014",
+      "section": "침투와 판짜기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_014.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_014e1928ea621963:015",
+      "section": "배신의 수단화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_015.json",
+      "char_count": 294
+    },
+    {
+      "id": "doc_014e1928ea621963:016",
+      "section": "보상과 혐오",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_016.json",
+      "char_count": 133
+    },
+    {
+      "id": "doc_014e1928ea621963:017",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_017.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_014e1928ea621963:018",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_018.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_014e1928ea621963:019",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_019.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_014e1928ea621963:020",
+      "section": "에르고",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_020.json",
+      "char_count": 196
+    },
+    {
+      "id": "doc_014e1928ea621963:021",
+      "section": "죽음",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_021.json",
+      "char_count": 136
+    },
+    {
+      "id": "doc_014e1928ea621963:022",
+      "section": "공허",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_022.json",
+      "char_count": 146
+    },
+    {
+      "id": "doc_014e1928ea621963:023",
+      "section": "기만과 모방",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_023.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_014e1928ea621963:024",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_024.json",
+      "char_count": 336
+    }
+  ]
+}

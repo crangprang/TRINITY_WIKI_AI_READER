@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:019",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "리볼버를 꺼낼 때",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_019.json",
+  "text": "### 리볼버를 꺼낼 때\n\n리볼버가 나오는 장면에서 블랑은 큰 위협을 하지 않는다. `쏠게`, `죽이진 않아`, `움직이면 더 다쳐`, `여기서 끝내죠`처럼 낮고 정확한 말이 맞다.",
+  "metadata": {
+    "char_count": 101,
+    "sha256": "1f25e4f10838ab24b0f3185abd92251399eccf0e8fad05f67bf7fca5f12194de"
+  }
+}

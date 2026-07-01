@@ -1,0 +1,22 @@
+{
+  "id": "doc_95c91b0f1eb11ba7:004",
+  "document_id": "doc_95c91b0f1eb11ba7",
+  "path": "wiki/index.md",
+  "wiki_path": "index.md",
+  "title": "삼위일체 우주 대문",
+  "section": "사건과 기록",
+  "summary": "삼위일체 우주의 세계법칙, 국가, 사건, 인물, 존재를 한곳에서 여는 대문.",
+  "status": "draft",
+  "type": "overview",
+  "tags": [
+    "index",
+    "navigation"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_95c91b0f1eb11ba7_004.json",
+  "text": "## 사건과 기록\n\n- [사건](events/index.md) - 세계사, 시대, 이야기 진행, 국가별 전환점을 잇는 이야기 기록.\n- [세계사](events/world_history/index.md) - 아난케의 장력 딜레마부터 삼위정교와 스트레인저 성립까지 이어지는 프리퀄 인과.\n- [세계사/1시대](events/world_history/1시대_태초에서_에마나치온까지.md) - 끄트머리 우주, 용과 인간의 시대, 최초의 삼위, 에마나치온을 잇는 첫 시대.\n- [세계사/2시대](events/world_history/2시대_아홉_영웅과_칼시네이션.md) - 메아리 전쟁, 아홉 영웅, 아홉 아타노르, 아홉 보물, 칼시네이션을 잇는 두 번째 시대.\n- [세계사/3시대](events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md) - 재창조, 지혜와 감독, 혼돈의 시대, 대공명, 삼위정교, 대붕괴를 잇는 세 번째 시대.\n- [알레인의 동화책](events/world_history/알레인의_동화책.md) - 아홉 아타노르의 이름과 아홉 나라의 오독으로 이어지는 핵심 서사 물건.\n- [삼위의 군상/1부/아홉 나라의 시대](events/삼위의_군상/1부/아홉_나라의_시대/index.md) - 파티 초반 사건과 아홉 나라 비극 구조가 펼쳐지는 시대.\n- [삼위의 군상/2부/신들의 시대/줄거리](events/삼위의_군상/2부/신들의_시대/줄거리.md) - 신격과 계승자들이 오리진의 완성을 두고 충돌하는 큰 줄거리.\n- [삼위의 군상/3부/초인의 시대/줄거리](events/삼위의_군상/3부/초인의_시대/줄거리.md) - 완성 이후의 선택과 책임을 다루는 큰 줄거리.\n- [특이점](events/singularities/index.md) - 각 나라의 장치, 이념, 인물이 임계점에서 뒤집히는 전환 사건.",
+  "metadata": {
+    "char_count": 913,
+    "sha256": "76d5c24e5833514b315914dd8021cc1cfee10db6359565b9f2cf572e0418f276"
+  }
+}

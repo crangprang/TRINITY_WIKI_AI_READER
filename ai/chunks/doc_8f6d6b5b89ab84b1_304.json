@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:304",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 엑시온 support 관계 문장 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_304.json",
+  "text": "## [2026-06-26] style | 엑시온 support 관계 문장 정리\n\n엑시온 appearance support 관련 문서 설명에서 `외형의 기준점` 반복을 제거하고, 각 엑시온의 국가 권한, 가면, 장치 압력이 외형에서 이루는 성격을 직접 서술했다.",
+  "metadata": {
+    "char_count": 146,
+    "sha256": "161602b00fd7e94529c70b56845dd777931ccd6eb3e7c494908e26eb248e8f5a"
+  }
+}

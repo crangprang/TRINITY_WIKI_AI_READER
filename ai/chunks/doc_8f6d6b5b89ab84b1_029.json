@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:029",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] fellsion | 속박 침투와 업연 결박 기준 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_029.json",
+  "text": "## [2026-06-28] fellsion | 속박 침투와 업연 결박 기준 보강\n\n[속박의 펠시온](characters/fellsions/속박의_펠시온/index.md)을 펠시온 총론, 에르고, 죽음의 트리네아드, 역병의 펠시온, LIVE WC 펠시온·가면·대붕괴 claim과 대조했다. 에르고가 장인의 재능을 군단 전력으로 인정하며 내린 속박 이름 낙인, 죽음의 침략 계획으로 균형계에 진입한 뒤 대붕괴 후 업연과 아름다운 무덤을 따라 단독 행동하는 침투 상태를 본문에 보강했다.\n\n속박이 죽은 것의 원한과 기억을 사슬·인형줄·피의 탯줄로 묶어 관계를 상호 감옥으로 바꾸는 균형계 상처와, 지네 백골 가면·업연·피사슬의 가면/소품 기준을 정리했다. [속박의 펠시온 외형](characters/fellsions/속박의_펠시온/support/appearance.md)은 지네 음각 백색 외골격 가면과 업연을 잇는 피사슬 기준으로 보강했다.",
+  "metadata": {
+    "char_count": 469,
+    "sha256": "da6eca3c7a167b763af21113bf8b5802a292262aa286b89826e38cdaf0a6215c"
+  }
+}

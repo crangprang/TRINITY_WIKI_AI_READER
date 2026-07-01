@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:185",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-25] canon candidate | REMAIN 핸드오프 WIKI 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_185.json",
+  "text": "## [2026-06-25] canon candidate | REMAIN 핸드오프 WIKI 반영\n\nOneDrive REMAIN 원문 10개를 repo-local raw가 아니라 RUN 작업 증거로 보존하고, 확정성이 높은 CANON 변경을 WIKI-first 문서에 반영했다.\n\n- RUN 근거: `RUN/TRINITY_WIKI/20260625/handoff_remain_canon_ingest`\n- 반영: [염한](universe/realms/balance/nations/염한.md), [가인](characters/axions/가인/index.md), [아백](characters/savior_candidates/아백/index.md), [황 노인](characters/personas/황_노인/index.md)\n- 명명 갱신: [아홉 나라 명명 체계](review/ownership_locks.md)와 국가별 아포라투스 표기, 오르딜리아 엑시온 [마텔다](characters/axions/마텔다/index.md)\n- 연결 갱신: 변경된 아포라투스명에 맞춰 엑시온·페르소나 인물 문서의 연결 아포라투스 표기를 함께 보정했다.\n- 구조 문서: [하위신 체계](review/ownership_locks.md), [혼돈에서 현재까지의 구조](review/ownership_locks.md)\n- 주요 판단: 염한 보물의 실제 무구명은 `원한검`으로 둔다. 가인의 현재 가면은 `굴레의 가면`, 아백은 `이무기 용기사 가면`, 황 노인은 `바둑판 프레임 + 칼 모양 거친 균열`로 반영했다.\n- LIVE CANON 원문은 수정하지 않았다.",
+  "metadata": {
+    "char_count": 801,
+    "sha256": "ad602c4319d32d24e1662f58ccd55ab69002e6bdbf657ec5e3b3d35a2d9ab8e9"
+  }
+}

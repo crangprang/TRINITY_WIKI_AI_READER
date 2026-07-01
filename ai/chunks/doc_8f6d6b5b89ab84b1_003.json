@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:003",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] law | 신격과 신적 권위 명명과 USER_LOCKS 재구성",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_003.json",
+  "text": "## [2026-06-29] law | 신격과 신적 권위 명명과 USER_LOCKS 재구성\n\n[신격과 신적 권위](universe/laws/신격과_신적_권위.md)의 문서명과 본문 표면을 reader-facing 표제어로 정리했다. 관련 링크와 색인도 새 제목으로 맞추고, [사용자 잠금](review/user_locks.md)은 정본 잠금과 창작 철학 메모를 함께 보관하는 review 문서로 재구성했다.",
+  "metadata": {
+    "char_count": 227,
+    "sha256": "70e0ce2c628db153ff0acbbfcf94527a039fc7c62f11f5297c8567c260c39093"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:029",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "발데마르, 마텔다, 미노스",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_029.json",
+  "text": "### 발데마르, 마텔다, 미노스\n\n[발데마르](../../savior_candidates/발데마르/index.md)는 루시아를 살리려 탄원했지만 저주를 남긴 아버지다. [마텔다](../../axions/마텔다/index.md)는 사건을 법의 언어로 판결하며 닫은 얼굴이다. [미노스](../../personas/미노스/index.md)는 단테가 그 사건을 다른 언어로 다시 보게 만드는 질문을 남긴다.\n\n이 셋이 함께 놓이면 단테의 개인 비극은 [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md)의 법, 체면, 판결 구조와 맞물린다.",
+  "metadata": {
+    "char_count": 329,
+    "sha256": "3bd6dec6b9d073c0addc3b1d3d453c446d0038113626ab1c9e25cf2fce1dbca4"
+  }
+}

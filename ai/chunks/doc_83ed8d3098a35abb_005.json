@@ -1,0 +1,24 @@
+{
+  "id": "doc_83ed8d3098a35abb:005",
+  "document_id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "section": "시각 경계",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_005.json",
+  "text": "## 시각 경계\n\n- 삼두견을 실제 머리 세 개나 군견 갑옷으로 만들지 않는다.\n- 현대 직업복, 사이버 경찰, 특수부대 제복 중심으로 읽히지 않게 한다.\n- 세 무기와 세 방향 감시 이미지를 핵심으로 둔다.\n- 황금 신용 이미지보다 느와르 거래 현장의 압력을 앞세운다.",
+  "metadata": {
+    "char_count": 151,
+    "sha256": "cac4a8d93291be9771564d5d1388a91a54d062b4afb214a5f65d657829cd1cf6"
+  }
+}

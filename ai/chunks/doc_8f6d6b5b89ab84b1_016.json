@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:016",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 오르딜리아 언어권과 아웃로 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_016.json",
+  "text": "## [2026-06-28] nation | 오르딜리아 언어권과 아웃로 보강\n\n[오르딜리아](universe/realms/balance/nations/오르딜리아.md)를 LIVE `L07_JUSTICE`, [균형계 언어](universe/realms/balance/language/index.md), [아웃로](universe/realms/balance/organizations/아웃로.md), [기만의 펠시온](characters/fellsions/기만의_펠시온/index.md)과 대조했다. LIVE의 통치자명·장치 계층 표기는 WIKI 정본명인 마텔다/페리페테이아/파놉티콘/우라니아 구조로 정규화하고, 염한 외 국가의 2핵심기관+1제어기관 확정값은 새로 만들지 않았다.\n\n언어권은 독일어/노르드어 계열과 판결 언어로 보강하고, 기능조직은 아웃로로 연결했다. 기만의 펠시온은 안나 위장으로 오르딜리아 판정 질서를 흔드는 직접 대응으로 연결했으며, 로컬 성상은 아스트레아/아스트라이아 전례와 판결문 수사 기능까지 확장했다. 푸르가토리오 7탑 개별 고유명과 낙원 1 최종 고유명은 원천에서 열린 칸으로 둔 값이므로 새 본문값으로 만들지 않았다.",
+  "metadata": {
+    "char_count": 584,
+    "sha256": "38f5626c71ea25c9e6b7f97d2bdfb304b9848725b40cfec517ccb7073e3d8496"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_5d3b816f33e7f321",
+  "path": "02_LORE/00_02_LORE_index.json",
+  "title": "{",
+  "summary": "\"index_version\": \"2.4\",",
+  "root": "02_LORE",
+  "category": "02_LORE:00_02_LORE_index.json",
+  "suffix": ".json",
+  "sha256": "ec2fa75f8110376b3f7a9f2062548ab890b36caa514c709ccceaee3db65f4025",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_5d3b816f33e7f321.json",
+  "chunks": [
+    {
+      "id": "live_doc_5d3b816f33e7f321:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_5d3b816f33e7f321_000.json",
+      "char_count": 548
+    }
+  ]
+}

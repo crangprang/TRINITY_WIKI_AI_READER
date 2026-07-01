@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:305",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 펠시온과 앙상블 support 관계 문장 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_305.json",
+  "text": "## [2026-06-26] style | 펠시온과 앙상블 support 관계 문장 정리\n\n펠시온과 앙상블 appearance support 관련 문서 설명에서 `외형의 기준점` 반복을 제거하고, 각 인물의 이름 판결, 가면, 권능 압력이 외형에서 이루는 성격을 직접 서술했다.",
+  "metadata": {
+    "char_count": 155,
+    "sha256": "7d1c1b81320873ac685b3626c7290e13d810b10bc33966a305a377a8acdb7c8c"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:012",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "잔여 핸드오프 ingest: 주인공 파티 키워드",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_012.json",
+  "text": "### 잔여 핸드오프 ingest: 주인공 파티 키워드\n\n- [x] `키워드.txt`의 아인 키워드는 [아인 음악](../characters/main_party/아인/support/music.md)에 이미 반영된 것으로 대조했다.\n- [x] `키워드.txt`의 단테 키워드는 [단테 음악](../characters/main_party/단테/support/music.md)에 이미 반영된 것으로 대조했다.\n- [x] 길티어의 여섯 그림자, 살아 있는 사람 수를 세는 습관, 마지막 묘비 감각을 [길티어](../characters/main_party/길티어/index.md)에 보강했다.\n- [x] 진의 워크맨, 장르 변주, 빌려 피운 번갯불, 오늘과 내일의 약속을 [진 음악](../characters/main_party/진/support/music.md)으로 분리했다.\n- [x] 세레나의 미각 심상을 [세레나](../characters/main_party/세레나/index.md)에 보강했다.\n- [x] 옌의 흰 막, 색, 무지개, 악기 탈락 문법을 [옌 음악](../characters/main_party/옌/support/music.md)으로 분리했다.\n- [x] 블랑, 스칼렛, 엘리자베스의 음악·감각 키워드는 메인 캐릭터 support 보류로 분류했다. 새 원천이나 사용자 지시가 있을 때 각 캐릭터 `support/music`으로 분리하고, CORE 해석에도 붙는 내용만 개별 본문에 반영한다.",
+  "metadata": {
+    "char_count": 730,
+    "sha256": "401a0fa2bd6335e6364aabf497ee53ccd34b86024dee7198c588324f987acfac"
+  }
+}

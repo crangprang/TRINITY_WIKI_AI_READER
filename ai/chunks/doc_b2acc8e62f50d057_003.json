@@ -1,0 +1,24 @@
+{
+  "id": "doc_b2acc8e62f50d057:003",
+  "document_id": "doc_b2acc8e62f50d057",
+  "path": "wiki/characters/personas/카론/support/appearance.md",
+  "wiki_path": "characters/personas/카론/support/appearance.md",
+  "title": "카론 외형",
+  "section": "전당표 봉인 가면",
+  "summary": "카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_003.json",
+  "text": "## 전당표 봉인 가면\n\n가면은 검은 법랑 또는 젖은 흑금속 전면 가면이다. 얼굴 중앙에는 전당표나 담보표처럼 생긴 길쭉한 흰 봉인표가 붙고, 눈 위치에는 작은 동전이나 저울추 같은 금속 원판 두 개가 놓인다. 입 위치에는 얇은 금빛 수평 틈이 남는다.\n\n민낯은 가면 뒤에 잠긴다. 카론의 표정은 금빛 입 틈, 고개 각도, 장갑 낀 손의 속도로만 읽힌다.",
+  "metadata": {
+    "char_count": 198,
+    "sha256": "961df86f26afc8b840b6ef1fc7569fb69504b972a7a3561cc2a684cbb8589b97"
+  }
+}

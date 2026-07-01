@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:067",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 2026-05-23 세션 보류 항목 분리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_067.json",
+  "text": "## [2026-06-28] review | 2026-05-23 세션 보류 항목 분리\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md`의 §18 보류 항목을 현재 WIKI 상태와 대조했다. 파티원별 저주 질문문, 퍼시스 비술의 정확한 현상, 디아도코이 내부 금기 세부, 기적의 개인차 세부 등급은 원문이 잠그지 않은 값이므로 독자용 본문에 올리지 않았다.\n\n신적 존재별 권능, 하마르티아, 현현 세부 분류는 이미 잠긴 인간 출력과 하위신급 출력의 용어 경계를 유지하면서 후속 세계법칙 상세화 과제로 남겼다.",
+  "metadata": {
+    "char_count": 296,
+    "sha256": "160f1c90d1c8c575f5dd0a4b7b40d2d8833905fd0bc69b939a40906d54bf5b5c"
+  }
+}

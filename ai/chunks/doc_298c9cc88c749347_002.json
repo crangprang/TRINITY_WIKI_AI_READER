@@ -1,0 +1,24 @@
+{
+  "id": "doc_298c9cc88c749347:002",
+  "document_id": "doc_298c9cc88c749347",
+  "path": "wiki/characters/personas/에어리얼/support/appearance.md",
+  "wiki_path": "characters/personas/에어리얼/support/appearance.md",
+  "title": "에어리얼 외형",
+  "section": "바람 안내자",
+  "summary": "에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_002.json",
+  "text": "## 바람 안내자\n\n에어리얼은 바람으로 읽히는 안내자의 실루엣을 가진다. 옷자락과 머리카락, 장식 끈은 구름 항로와 갑판 바람을 따라 움직인다. 그녀의 몸은 가벼워 보이지만, 자세에는 오래 항로를 견딘 무게가 남는다.\n\n의상은 탐험가와 정령성을 함께 품는다. 선원복의 기능성, 가벼운 망토, 바람을 타는 천, 항로 표식이 붙고, 화려한 무대 의상보다 브리지와 방주 갑판에서 움직일 수 있는 형태를 따른다.",
+  "metadata": {
+    "char_count": 226,
+    "sha256": "1ff64ae9a27116019401d6e1eb0b8df9a9005e64eb5bbc241c3a5bcd0ba0a79f"
+  }
+}

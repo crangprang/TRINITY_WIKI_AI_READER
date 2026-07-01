@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:042",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] axion | 유리디스 계승과 꿈의 보물 선택 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_042.json",
+  "text": "## [2026-06-28] axion | 유리디스 계승과 꿈의 보물 선택 보강\n\n[유리디스 도리안 드 발루아](characters/axions/유리디스_도리안_드_발루아/index.md)를 우니오네, 사이프러스 단검, 아홉 보물, 엑시온 LIVE WC claim과 대조했다. 문서 제목은 현재 WIKI명으로 유지하고, LIVE의 축약명 유리디스는 관계명 수준으로만 참고했다.\n\n유리디스의 계승은 선대 제거 사건이 아니라 스푸마토 왕실의 이름, 후원 명부, 공연 허가, 꿈 접근권을 관리하는 방식으로 정리했다. 꿈의 보물 선택 조건은 꿈의 독성을 알면서도 침몰하는 현실을 견딜 만한 장면으로 꾸미려는 외면과 상실에 두고, 사이프러스 단검과 데칼코마니 무도회 가면, 붉은 수면과 젖은 초대장이 왕권 상징으로 작동하는 관계를 보강했다.",
+  "metadata": {
+    "char_count": 409,
+    "sha256": "2fb52b0d4bc473fd98e5193fd12dc77db79f0b57d6ab0d59542b8d3f6b4860f0"
+  }
+}

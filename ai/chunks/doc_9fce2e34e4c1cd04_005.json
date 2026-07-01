@@ -1,0 +1,24 @@
+{
+  "id": "doc_9fce2e34e4c1cd04:005",
+  "document_id": "doc_9fce2e34e4c1cd04",
+  "path": "wiki/characters/savior_candidates/메테우스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/메테우스/support/appearance.md",
+  "title": "메테우스 외형",
+  "section": "시각 경계",
+  "summary": "메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_005.json",
+  "text": "## 시각 경계\n\n- 보라 불빛은 조명으로 사용하고, 중심은 재난 봉인 버너와 집행자 장비에 둔다.\n- 화려한 마법 화염보다 봉쇄와 소각 절차의 무게를 앞세운다.\n- 지식 검열자의 표면보다 재난 현장 집행자의 표면을 먼저 보이게 한다.\n- 사람을 대피시킨 뒤 기록을 태우는 장면 구조를 유지한다.",
+  "metadata": {
+    "char_count": 165,
+    "sha256": "fcfeab2108dc4883adef0ff5392cfefa3a68fb3a167f1889a7ed1128bc9e0bc4"
+  }
+}

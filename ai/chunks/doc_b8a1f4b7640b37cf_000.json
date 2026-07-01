@@ -1,0 +1,24 @@
+{
+  "id": "doc_b8a1f4b7640b37cf:000",
+  "document_id": "doc_b8a1f4b7640b37cf",
+  "path": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md",
+  "wiki_path": "universe/realms/balance/organizations/그레트헨_연구소.md",
+  "title": "그레트헨 연구소",
+  "section": "그레트헨 연구소",
+  "summary": "그레트헨 연구소는 오아시스 기반의 기능조직으로, 기술고문, 유물 감정, 고대 기술 해석, 비술 흔적 판독을 대륙 실무로 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_000.json",
+  "text": "# 그레트헨 연구소\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 기능조직 |\n| 기반 국가 | [오아시스](../nations/오아시스.md) |\n| 주요 업무 | 기술고문 / 유물 감정 / 고대 기술 해석 / 비술 흔적 판독 |\n| 정교 관계 | 삼위정교 면허를 받은 국가 기반 위탁 조직 |\n| 대표 구세주 후보 | [랄](../../../../characters/savior_candidates/랄/index.md) |\n| 관련 엑시온 | [파우스트](../../../../characters/axions/파우스트/index.md) |",
+  "metadata": {
+    "char_count": 307,
+    "sha256": "d62f82975e227da2e294c5c6dc9027ce2a51737b017886eda9f7c105e37929f6"
+  }
+}

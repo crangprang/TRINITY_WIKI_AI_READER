@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:075",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | ChatGPT 프로젝트 핸드오프 2건 회수",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_075.json",
+  "text": "## [2026-06-27] ingest | ChatGPT 프로젝트 핸드오프 2건 회수\n\n인앱 브라우저로 ChatGPT 프로젝트 `삼위의 군상`의 `삼위의 군상 이야기` 검색 결과에서 핸드오프 2건을 회수했다. 거시설정 핸드오프는 `RUN/TRINITY_WIKI/20260627/project_ingests/chatgpt_project_samwiyi_gunsang_story_macro_worldbuilding/`, 니그리스·라케시스·감독·에르고 축 핸드오프는 `RUN/TRINITY_WIKI/20260627/project_ingests/chatgpt_project_samwiyi_gunsang_story_nigris_lachesis_director/`에 `source.json`, `capture.json`, `conversation_raw.md`, `handoff_extract.md`, `analysis.md`, `claim_routing.json`, `handoff.md` 형태로 저장했다. 본편 2부·3부 플롯성 내용은 사용자 지시 전까지 정본 본문 적용을 보류한다.",
+  "metadata": {
+    "char_count": 546,
+    "sha256": "404819bc0a67d5d4c337f8058c3ebff070878021721ad32b7e0420b60907e6c3"
+  }
+}

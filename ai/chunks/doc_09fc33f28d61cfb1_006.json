@@ -1,0 +1,24 @@
+{
+  "id": "doc_09fc33f28d61cfb1:006",
+  "document_id": "doc_09fc33f28d61cfb1",
+  "path": "wiki/characters/fellsions/index.md",
+  "wiki_path": "characters/fellsions/index.md",
+  "title": "펠시온",
+  "section": "관련 문서",
+  "summary": "펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이며, 균형계에 침투해 각 나라의 상처와 혼란을 파괴계 언어로 벌리는 존재다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "fellsions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_006.json",
+  "text": "## 관련 문서\n\n- [하위신](../../universe/laws/하위신.md) - 펠시온, 엑시온, 페르소나가 놓이는 우주 법칙.\n- [트리네아드](../trineads/index.md) - 펠시온 이름의 상위 판결을 만드는 파괴계 트리네아드 계열.\n- [배신의 펠시온](../ensemble/배신의_펠시온/index.md) - 죽음의 균형계 침략 계획을 설계한 펠시온.\n- [판타즈마](../../beings/phantasmas/index.md) - 균형계가 펠시온 이름을 괴생태로 오독해 낳는 동명 재앙 계열.",
+  "metadata": {
+    "char_count": 289,
+    "sha256": "11da9d23ef34de2f9b58aaa4dfb35d959d066255acb18a84a99a5321fd189545"
+  }
+}

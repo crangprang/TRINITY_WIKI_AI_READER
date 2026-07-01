@@ -1,0 +1,322 @@
+{
+  "id": "doc_31942f7facef1758",
+  "path": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md",
+  "wiki_path": "characters/ensemble/니그리스_알비우스_시트리노/index.md",
+  "title": "니그리스 알비우스 시트리노",
+  "summary": "용살자 니그리스, 중재자 알비우스, 불지기 시트리노로 이어지는 장수한 이데아 영체. 두 번의 세계 단절을 기억하며 저주받은 자들을 거두고 신 추방을 준비한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:ensemble",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "니그리스 알비우스 시트리노"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 2,
+      "title": "이름과 시대"
+    },
+    {
+      "level": 3,
+      "title": "니그리스"
+    },
+    {
+      "level": 3,
+      "title": "알비우스"
+    },
+    {
+      "level": 3,
+      "title": "시트리노"
+    },
+    {
+      "level": 2,
+      "title": "스트레인저와 불지기"
+    },
+    {
+      "level": 2,
+      "title": "세속 생존 윤리"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "불지기"
+    },
+    {
+      "level": 3,
+      "title": "속죄하는 영웅"
+    },
+    {
+      "level": 3,
+      "title": "고독한 혁명가"
+    },
+    {
+      "level": 3,
+      "title": "사람을 살리고 싶었던 인간"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "소피아와 지혜"
+    },
+    {
+      "level": 3,
+      "title": "오피온과 아조트"
+    },
+    {
+      "level": 3,
+      "title": "리그레드와 알레인"
+    },
+    {
+      "level": 3,
+      "title": "감독"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노 외형",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    }
+  ],
+  "sha256": "e089066a8623194a36b075264613088ac758306ccfe789451a474653f9c3f399",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_31942f7facef1758.json",
+  "chunks": [
+    {
+      "id": "doc_31942f7facef1758:000",
+      "section": "니그리스 알비우스 시트리노",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_000.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_31942f7facef1758:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_001.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_31942f7facef1758:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_002.json",
+      "char_count": 710
+    },
+    {
+      "id": "doc_31942f7facef1758:003",
+      "section": "이름과 시대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_003.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_31942f7facef1758:004",
+      "section": "니그리스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_004.json",
+      "char_count": 765
+    },
+    {
+      "id": "doc_31942f7facef1758:005",
+      "section": "알비우스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_005.json",
+      "char_count": 801
+    },
+    {
+      "id": "doc_31942f7facef1758:006",
+      "section": "시트리노",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_006.json",
+      "char_count": 451
+    },
+    {
+      "id": "doc_31942f7facef1758:007",
+      "section": "스트레인저와 불지기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_007.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_31942f7facef1758:008",
+      "section": "세속 생존 윤리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_008.json",
+      "char_count": 381
+    },
+    {
+      "id": "doc_31942f7facef1758:009",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_009.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_31942f7facef1758:010",
+      "section": "불지기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_010.json",
+      "char_count": 92
+    },
+    {
+      "id": "doc_31942f7facef1758:011",
+      "section": "속죄하는 영웅",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_011.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_31942f7facef1758:012",
+      "section": "고독한 혁명가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_012.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_31942f7facef1758:013",
+      "section": "사람을 살리고 싶었던 인간",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_013.json",
+      "char_count": 143
+    },
+    {
+      "id": "doc_31942f7facef1758:014",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_014.json",
+      "char_count": 431
+    },
+    {
+      "id": "doc_31942f7facef1758:015",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_015.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_31942f7facef1758:016",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_016.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_31942f7facef1758:017",
+      "section": "소피아와 지혜",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_017.json",
+      "char_count": 348
+    },
+    {
+      "id": "doc_31942f7facef1758:018",
+      "section": "오피온과 아조트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_018.json",
+      "char_count": 163
+    },
+    {
+      "id": "doc_31942f7facef1758:019",
+      "section": "리그레드와 알레인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_019.json",
+      "char_count": 145
+    },
+    {
+      "id": "doc_31942f7facef1758:020",
+      "section": "감독",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_020.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_31942f7facef1758:021",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_31942f7facef1758_021.json",
+      "char_count": 1090
+    }
+  ]
+}

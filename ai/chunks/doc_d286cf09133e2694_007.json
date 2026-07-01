@@ -1,0 +1,24 @@
+{
+  "id": "doc_d286cf09133e2694:007",
+  "document_id": "doc_d286cf09133e2694",
+  "path": "wiki/characters/main_party/옌/support/music.md",
+  "wiki_path": "characters/main_party/옌/support/music.md",
+  "title": "옌 음악",
+  "section": "곡 진행",
+  "summary": "옌의 흰 막, 색을 섞는 손, 덧칠된 무지개, 악기 탈락 문법을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_007.json",
+  "text": "## 곡 진행\n\n도입은 작고 마른 어쿠스틱 기타나 흰 막의 얇은 화성으로 연다. 색은 큰 조명보다 손에 남은 가루, 물자국, 창가의 흔들림으로 들어온다.\n\n벌스는 하얀 성녀의 사회어가 남아 있는 층이다. 보컬은 가깝지만 조심스럽고, 가사는 짧은 파편보다 일정한 호흡의 문장으로 움직인다.\n\n리프레인은 숨겨 둔 색을 들키는 층이다. 악기는 더 늘어나지 않고, 같은 기타 펄스 위에서 말끝과 쉼이 조금씩 불안해진다.\n\n후렴은 욕망이 입 밖으로 길게 새어 나오는 층이다. 보컬은 소리치지 않고, 목이 메이는 가까운 호흡으로 열린다. 기타는 넓게 스트럼해도 밴드처럼 부풀지 않는다.\n\n브리지는 가면의 안쪽을 보여 주는 층이다. 문장은 더 사적이고, 손가락, 눈, 입, 목, 이름 같은 신체와 호명으로 좁아진다. 마지막 후렴은 같은 욕망을 더 크게 외치는 대신, 더 적은 소리로 붙든다.",
+  "metadata": {
+    "char_count": 435,
+    "sha256": "e3ca45f78b00974dfd539a4a5cf9a26e7e1bd8bbae895a0c1a33e718f92ecba6"
+  }
+}

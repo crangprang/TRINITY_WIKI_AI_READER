@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_37ec8c1960f0688c:000",
+  "document_id": "live_doc_37ec8c1960f0688c",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/06_THALES/PER06_FACT_DETAIL.txt",
+  "title": "탈레스 / FACT_DETAIL",
+  "section": "body",
+  "summary": "탈레스 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_37ec8c1960f0688c_000.json",
+  "text": "탈레스 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER06_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 질문, 촛불, 검은 석판, 연산, 금서, 진리.\n- 한 번 더 물으면 살릴 수 있다는 종류의 압력.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 270,
+    "sha256": "9ec0a62b6ba9818a51d3ab4c0b430800327485a68afb5e717a4da880d0ac4661"
+  }
+}

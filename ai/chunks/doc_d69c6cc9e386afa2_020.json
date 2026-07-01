@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:020",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "관련 문서",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_020.json",
+  "text": "## 관련 문서\n\n- [아인](../index.md) - 양보받은 시간, 복수, 인간성이 리더의 말투와 판단을 이루는 인물.\n- [아인 외형](appearance.md) - 작은 체구, 손목시계, 토큰, 끝칸의 죽은 말 표식이 발화의 압력으로 이어지는 외형 항목.\n- [아인 음악](music.md) - 짧은 지시와 통증을 시계 박자와 복수의 진행으로 옮기는 음악 항목.",
+  "metadata": {
+    "char_count": 207,
+    "sha256": "3cefef57b7f959284bf85c65aac3737b898bcf508c8c7724d089fd3ac6749ab1"
+  }
+}

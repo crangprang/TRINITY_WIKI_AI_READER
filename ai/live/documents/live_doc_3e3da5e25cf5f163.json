@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_3e3da5e25cf5f163",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS06_BINDING.txt",
+  "title": "속박의 펠시온",
+  "summary": "속박의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "cb48ee99ee5ef9619d3f535d4c9508a02a78297be303c301a36190931f25a5cd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_3e3da5e25cf5f163.json",
+  "chunks": [
+    {
+      "id": "live_doc_3e3da5e25cf5f163:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_3e3da5e25cf5f163_000.json",
+      "char_count": 2171
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:004",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "ChatGPT 프로젝트 핸드오프 ingest",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_004.json",
+  "text": "### ChatGPT 프로젝트 핸드오프 ingest\n\n- [x] 인앱 브라우저로 ChatGPT 프로젝트 `삼위의 군상`의 `삼위의 군상 이야기` 핸드오프 2건을 회수해 RUN ingest 패킷으로 저장한다.\n- [x] 회수 핸드오프 2건은 `RUN/TRINITY_WIKI/20260627/project_ingests/handoff_wiki_application_first_pass.md`에서 사용자 잠금, WIKI 보강 후보, 플롯 잠금 보류, 충돌점, 사용자 판단점으로 1차 분류한다.\n- [x] `RUN/TRINITY_WIKI/20260627/project_ingests/chatgpt_project_samwiyi_gunsang_story_macro_worldbuilding/` 패킷은 세계법칙, 아홉 나라, 엑시온, 아홉 보물, 페르소나, 아포라투스, 올림피아, 예언, 기능조직, 삼계 기원 claim으로 분해해 기존 WIKI 소유자와 대조하고 정본 본문에 흡수했다.\n- [x] `RUN/TRINITY_WIKI/20260627/project_ingests/chatgpt_project_samwiyi_gunsang_story_nigris_lachesis_director/` 패킷은 사용자 지시에 따라 2부·3부 큰 윤곽과 비플롯 인물 해석을 정본 본문에 반영했다. 에피소드 단위 플롯과 관계도 확장은 계속 보류한다.\n- [x] 니그리스·라케시스·감독·에르고 축 핸드오프에서 플롯 장면을 제외한 인물 본질 해석은 각 인물 문서에 반영했다.\n- [x] 퍼시스 사망 방식은 [충돌 기록](contradictions.md)의 `PER-001`을 기준으로 라케시스 직접 살해를 정본으로 두고, 염한의 동귀어진 표기는 공적 선전과 왜곡된 기억으로 재맥락화했다.",
+  "metadata": {
+    "char_count": 869,
+    "sha256": "1e9e27bb7748df0374e688ef211069db020a83d00c0e24f098c1949104c11f36"
+  }
+}

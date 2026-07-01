@@ -1,0 +1,24 @@
+{
+  "id": "doc_3ef789818633e3db:005",
+  "document_id": "doc_3ef789818633e3db",
+  "path": "wiki/characters/main_party/아인/support/appearance.md",
+  "wiki_path": "characters/main_party/아인/support/appearance.md",
+  "title": "아인 외형",
+  "section": "배경과 장면",
+  "summary": "아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_005.json",
+  "text": "## 배경과 장면\n\n기본 캐릭터 앵커는 완전한 흰 배경에서 분리한다. 얼굴, 비율, 외투, 가방, 손목시계, 토큰이 배경 없이 읽혀야 한다.\n\n장면 컷에서는 자유의 나라의 흰 수로, 낮은 물길, 물탱크와 배관, 차양 천, 건조한 산지, 거울석과 결정, 유지보수 중인 수로 구조가 주변 물성으로 들어간다. 배경을 쓰지 않는 규격에서도 이 물성은 옷의 먼지와 햇빛 자국으로 남는다.\n\n행사나 검문 장면의 보조 이미지는 소년 군주 초상가면이다. 검은 왕관, 손목시계, 너무 일찍 어른 역할을 맡은 얼굴이 한 장면에 들어간다.",
+  "metadata": {
+    "char_count": 290,
+    "sha256": "91c7b7e6044a2c45b037f644b069333af739967a972876f72acbda62d96cc88e"
+  }
+}

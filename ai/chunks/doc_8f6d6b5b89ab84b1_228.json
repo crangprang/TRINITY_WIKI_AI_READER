@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:228",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 세레나 캐릭터 패키지 분기",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_228.json",
+  "text": "## [2026-06-26] rebuild | 세레나 캐릭터 패키지 분기\n\n[세레나](characters/main_party/세레나/index.md)의 본문, 외형, 말투 지원 문서를 캐릭터 패키지 구조로 정리했다.\n\n- 정리: 본문은 붉은 달의 참극, 순례와 기록, 하마르티아, 내면 구조, 용투·월광·월광검, 관계를 담당하게 하고 말투와 지원 운용은 [세레나 / 말투](characters/main_party/세레나/support/voice.md), [세레나 / 외형](characters/main_party/세레나/support/appearance.md)으로 분기했다.\n- 문체: 번호형 하위 제목, 해석 메모, 장기 분기, 검문용 가면, 실험안 표면을 제거하고 선언형 위키 항목으로 바꿨다.\n- 관계: 블랑, 단테, 아인, 가인, 아백, 염한을 세레나의 투쟁, 푸른 달, 이야기, 기록자 구조와 연결했다.",
+  "metadata": {
+    "char_count": 454,
+    "sha256": "95a277afc3580de88fe2f97a11563934dcaaf140464b8870244a2d08a32da711"
+  }
+}

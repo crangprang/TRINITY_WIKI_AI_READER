@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:016",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "마지막 질문",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_016.json",
+  "text": "### 마지막 질문\n\n단테의 미련은 루시아가 남긴 질문, 기사검의 이름, 별의 시선이 한 자리에 남아 있다는 뜻이다. `우리가 찾던 별은 대체 무엇이었을까?`라는 질문은 단테의 삶에서 닫히지 않는다.\n\n그래서 단테는 별을 말할 때마다 과거의 사랑만 떠올리는 사람으로 닫히지 않는다. 그는 별을 통해 자기 죄, 맹세, 기사라는 꿈, 속죄의 가능성을 동시에 부른다.",
+  "metadata": {
+    "char_count": 202,
+    "sha256": "7b8d7e7cedaa0d3489da7d1fd794d07b0bcb4a6e430bcccf4260ac8d95fc6993"
+  }
+}

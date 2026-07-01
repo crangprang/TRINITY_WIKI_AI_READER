@@ -1,0 +1,109 @@
+{
+  "id": "doc_e38cf4f3fc61468f",
+  "path": "wiki/characters/main_party/진/support/music.md",
+  "wiki_path": "characters/main_party/진/support/music.md",
+  "title": "진 음악",
+  "summary": "진의 워크맨, 빌려 피운 번갯불, 약속, 오늘과 내일, 장르 변주를 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "진 음악"
+    },
+    {
+      "level": 2,
+      "title": "음악 콘셉트"
+    },
+    {
+      "level": 2,
+      "title": "음악 키워드"
+    },
+    {
+      "level": 2,
+      "title": "명사 물성"
+    },
+    {
+      "level": 2,
+      "title": "장르와 트랙 운용"
+    },
+    {
+      "level": 2,
+      "title": "곡 진행"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "진 외형",
+      "target": "wiki/characters/main_party/진/support/appearance.md"
+    },
+    {
+      "label": "진 보이스",
+      "target": "wiki/characters/main_party/진/support/voice.md"
+    }
+  ],
+  "sha256": "8fa1c28090bd807917e47555be0a2b8ec80ae9b5286b8ff108aa24503a0b2b11",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e38cf4f3fc61468f.json",
+  "chunks": [
+    {
+      "id": "doc_e38cf4f3fc61468f:000",
+      "section": "진 음악",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_000.json",
+      "char_count": 6
+    },
+    {
+      "id": "doc_e38cf4f3fc61468f:001",
+      "section": "음악 콘셉트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_001.json",
+      "char_count": 502
+    },
+    {
+      "id": "doc_e38cf4f3fc61468f:002",
+      "section": "음악 키워드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_002.json",
+      "char_count": 75
+    },
+    {
+      "id": "doc_e38cf4f3fc61468f:003",
+      "section": "명사 물성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_003.json",
+      "char_count": 939
+    },
+    {
+      "id": "doc_e38cf4f3fc61468f:004",
+      "section": "장르와 트랙 운용",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_004.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_e38cf4f3fc61468f:005",
+      "section": "곡 진행",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_005.json",
+      "char_count": 472
+    },
+    {
+      "id": "doc_e38cf4f3fc61468f:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_006.json",
+      "char_count": 219
+    }
+  ]
+}

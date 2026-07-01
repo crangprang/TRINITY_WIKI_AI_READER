@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:001",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "외형 기준",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 17~18세 |\n| 키/체형 | 162~163cm, 작게 읽히지 않는 곧은 허리와 수직적인 선 |\n| 머리 | 코발트블루 하이 포니테일. 이동 중에는 검은 외피와 감긴 천 아래 눌려 채도와 높이가 죽는다. |\n| 눈 | 붉은 눈, 수직 동공 |\n| 용인 표지 | 흑요석, 오래된 뼈, 짧은 가지를 닮은 유기적 뿔. 가까이서야 읽히는 얕은 목덜미 비늘. |\n| 의상 | 검은 순례자 망토, 머리와 입가를 감싸는 천, 먹청색 교차 여밈 옷, 검집걸이 벨트, 긴 이동용 장화, 전완 보호대 |\n| 소품 | 큰 검, 감긴 검집, 숫돌, 기름, 천, 작은 기록 노트, 두루마리 |\n| 팔레트 | 먹빛 검정, 거의 검게 잠긴 군청, 달빛 아래 살아나는 코발트블루, 흑요석, 핏빛 루비 적안 |\n| 표정 | 무심한 점검, 결의, 위험한 환희 |",
+  "metadata": {
+    "char_count": 467,
+    "sha256": "dddaa0b02d42d9280217857feb86aabfd64de2c0eeb0d7a694ff3d73cfdff146"
+  }
+}

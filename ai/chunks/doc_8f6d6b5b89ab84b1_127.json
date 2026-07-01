@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:127",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 프로스페로 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_127.json",
+  "text": "## [2026-06-26] rebuild | 프로스페로 항목 정리\n\n[프로스페로](characters/axions/프로스페로/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리했다.\n\n- 정리: 마사오트의 선장, 복수와 도주, 길드망과 숨은 목적, 권능과 장치, 에어리얼, 미란다와 다음 세대, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [프로스페로 외형](characters/axions/프로스페로/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 40대 선장 실루엣, 찢어진 돛 가면, 항로 소품 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 프로스페로 요약을 본문 기준으로 맞추고 설리반 요약의 비교 표현을 정리했다.",
+  "metadata": {
+    "char_count": 404,
+    "sha256": "735d8a1ec75657bd6c0733c5e2d0eaa5d259e70d26077b9a7dcba0b517657533"
+  }
+}

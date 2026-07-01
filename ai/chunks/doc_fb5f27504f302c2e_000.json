@@ -1,0 +1,23 @@
+{
+  "id": "doc_fb5f27504f302c2e:000",
+  "document_id": "doc_fb5f27504f302c2e",
+  "path": "wiki/characters/savior_candidates/발데마르/index.md",
+  "wiki_path": "characters/savior_candidates/발데마르/index.md",
+  "title": "발데마르",
+  "section": "발데마르",
+  "summary": "발데마르는 오르딜리아의 구세주 후보이자 추방된 중앙기사로, 루시아 사건과 단테에게 남긴 저주를 사과로 짊어지는 낡은 기사다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_000.json",
+  "text": "# 발데마르\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 발데마르 |\n| 성별/프레젠테이션 | 남성 |\n| 소속/지역 | 정의의 나라 [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) |\n| 직책/역할 | 구세주 후보 / 추방된 중앙기사 |\n| 기능조직 | [아웃로](../../../universe/realms/balance/organizations/아웃로.md) |\n| 주요 관계 | [단테](../../main_party/단테/index.md), [마텔다](../../axions/마텔다/index.md), 루시아 |",
+  "metadata": {
+    "char_count": 340,
+    "sha256": "7f2e2a3c441b3ca7c3ceb1e0b808e401e7be0835c5630d86cec410d5842770a5"
+  }
+}

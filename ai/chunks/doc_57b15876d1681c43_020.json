@@ -1,0 +1,23 @@
+{
+  "id": "doc_57b15876d1681c43:020",
+  "document_id": "doc_57b15876d1681c43",
+  "path": "wiki/universe/realms/balance/apparatus/index.md",
+  "wiki_path": "universe/realms/balance/apparatus/index.md",
+  "title": "아포라투스",
+  "section": "관련 문서",
+  "summary": "아포라투스는 아홉 아타노르 잔재, 빈 아홉 보물, 프로토타입 필로시온, 국가 환경과 부정 이데아가 대공명에서 결합해 발아한 균형계 국가 장치다.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "apparatus"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_020.json",
+  "text": "## 관련 문서\n\n- [균형계](../index.md) - 아포라투스가 자리한 중심 세계.\n- [아홉 나라](../nations/index.md) - 아포라투스가 국가 질서와 사건 장치로 드러나는 표면.\n- [아홉 보물](../../../structure/아홉_보물.md) - 아포라투스 씨앗에 들어간 빈 그릇과 엑시온 호출권의 근원.\n- [필로시온](../../../laws/필로시온.md) - 아포라투스 심층 관리자 의식의 원재료가 된 프로토타입 인공 신격체.\n- [페르소나](../../../../characters/personas/index.md) - 아포라투스 심층 관리자 의식과 표층 대변자.\n- [엑시온](../../../../characters/axions/index.md) - 보물과 왕권을 통해 아포라투스 권능을 호출하는 인간 숙주.",
+  "metadata": {
+    "char_count": 420,
+    "sha256": "063a2cb34de87579d7d9de3b19131094e6af9371658200e4f99944547f301d8f"
+  }
+}

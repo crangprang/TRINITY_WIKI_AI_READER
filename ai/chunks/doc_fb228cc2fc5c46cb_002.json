@@ -1,0 +1,24 @@
+{
+  "id": "doc_fb228cc2fc5c46cb:002",
+  "document_id": "doc_fb228cc2fc5c46cb",
+  "path": "wiki/characters/main_party/파티/support/visual_grammar.md",
+  "wiki_path": "characters/main_party/파티/support/visual_grammar.md",
+  "title": "파티 시각 문법",
+  "section": "운용 원칙",
+  "summary": "파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "visual_grammar"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_002.json",
+  "text": "## 운용 원칙\n\n파티 가면은 설명을 들어야 겨우 이해되는 상징 과밀 장식으로 만들지 않는다. 동물, 색, 상처, 렌즈, 낡은 도구, 금속 프레임, 찢어진 천처럼 즉시 읽히는 표지를 우선한다. 다만 가까이 볼수록 각 인물의 배신 문법, 저주, 마지막 보루가 묻어나야 한다.\n\n가면은 정체를 감추는 장치이면서, 동시에 감출 수 없는 것을 드러내는 장치다. 파티 구성원은 공적 신분을 위조하거나 숨기기 위해 가면을 쓰지만, 그 가면의 형태는 오히려 그 사람이 끝까지 버리지 못하는 표지를 남긴다.\n\n3층위로 내려갈수록 가면은 화려한 사회적 역할보다 개인의 핵심 표지에 가까워진다. 고급 장식, 조직 표식, 직위 상징은 떨어져 나가고, 얼굴과 시선, 손, 흉터, 숨, 낡은 물건의 실루엣이 남는다.",
+  "metadata": {
+    "char_count": 387,
+    "sha256": "9e6b06bc74148d4e3663280918a2e3eeb43127f0593a0a5c4450080d29511c4b"
+  }
+}

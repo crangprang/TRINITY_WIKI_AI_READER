@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:011",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-27 퍼시스 사건 충돌 해결",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_011.json",
+  "text": "## 2026-06-27 퍼시스 사건 충돌 해결\n\n- 퍼시스 사건의 정본은 라케시스가 아조트로 퍼시스를 직접 살해하고 기억을 편집한 흐름이다.\n- 니그리스와 시트리노의 죄는 퍼시스의 도움 요청을 알면서도 외면한 부작위로 기록한다.\n- 염한의 초대 투쟁 엑시온 동귀어진 서사는 정본 사건이 아니라, 후대 염한과 공적 질서가 받아들인 선전 또는 왜곡된 기억으로 재맥락화한다.",
+  "metadata": {
+    "char_count": 207,
+    "sha256": "e4d1f2aa8944c5ba884f25bafca58f5e89736d6c5fa751a2913bbbf4a80e2488"
+  }
+}

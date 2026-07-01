@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:341",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 균형계 조직 독립 문서화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_341.json",
+  "text": "## [2026-06-27] ingest | 균형계 조직 독립 문서화\n\n[균형계 조직](universe/realms/balance/organizations/index.md)을 기능조직, 삼위정교 공인 조직, 이레귤러 헌터, 이단 세력 축의 허브로 확장했다. 글로벌 코텍스, 그레트헨 연구소, 탐험가 길드, 유랑 서커스, 마스크맨, 아웃로, 필그림즈, 염객방, 인퀴지터를 기능조직 독립 항목으로 신설하고, 구세주 후보 대문과 개별 후보 정보표를 새 조직 항목으로 연결했다.\n\n구세군, 파르마콘, 크로니클은 삼위정교 공인 조직으로, 이레귤러 헌터는 정교 현장 제도로 신설했다. 흉조, 매니악, 에이티스트, 스트레인저, 드래그니즘을 이단 세력 독립 항목으로 만들고, 디아도코이를 포함한 여섯 축을 조직 색인에서 비교 가능하게 정리했다.",
+  "metadata": {
+    "char_count": 408,
+    "sha256": "dcbb4504b157f519d1d712a51db1e43bb9b2cf35f7aa98ab5d1bc2cecec41b89"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_6c1b4be6614275d9:004",
+  "document_id": "doc_6c1b4be6614275d9",
+  "path": "wiki/characters/personas/메피스토/index.md",
+  "wiki_path": "characters/personas/메피스토/index.md",
+  "title": "메피스토",
+  "section": "파우스트와 마더 그레트헨",
+  "summary": "메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6c1b4be6614275d9_004.json",
+  "text": "## 파우스트와 마더 그레트헨\n\n[파우스트](../../axions/파우스트/index.md)는 그레트헨의 상실을 견디지 못한 왕이다. 메피스토는 그 상실의 빈칸에 세 번째 소원의 논리를 넣고, 피라미디온이 만들어 낸 `마더 그레트헨`을 왕비의 귀환처럼 보이게 만든다.\n\n마더 그레트헨은 기억과 감정과 말투를 복제한 관리 시스템이다. 그녀는 의뢰, 점수, 배급, 권리, 일상의 위로를 처리하며 현재가 정상이라고 말한다. 메피스토는 이 목소리에 설화의 온도를 입히고, 파우스트가 나라 전체를 애도의 방으로 바꾸는 일을 낙원의 유지로 읽게 만든다.",
+  "metadata": {
+    "char_count": 304,
+    "sha256": "5028b38083088f9f09d22e83b84c7e897735bdf2e511945e1e1c56053b561828"
+  }
+}

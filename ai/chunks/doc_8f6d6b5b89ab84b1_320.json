@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:320",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 트리네아드 그룹 support 병합",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_320.json",
+  "text": "## [2026-06-27] structure | 트리네아드 그룹 support 병합\n\n그룹 바로 아래 있던 `characters/trineads/support/appearance.md`는 캐릭터 패키지 support 규칙에 맞지 않아 [트리네아드](characters/trineads/index.md) 본문의 `외형 원리` 절로 병합했다. 개별 트리네아드 외형은 각 캐릭터 패키지의 `support/appearance.md`가 계속 소유한다.",
+  "metadata": {
+    "char_count": 248,
+    "sha256": "2d9e188d7944cfcb5807bad9469a05f0cf4f1978e3bbad8f368a94658a8b0990"
+  }
+}

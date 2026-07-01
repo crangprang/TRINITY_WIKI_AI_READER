@@ -1,0 +1,113 @@
+{
+  "id": "doc_ce539693860afac9",
+  "path": "wiki/characters/axions/엘피스/support/appearance.md",
+  "wiki_path": "characters/axions/엘피스/support/appearance.md",
+  "title": "엘피스 외형",
+  "summary": "엘피스의 청색 머리와 회색 눈, 피로한 관리자 실루엣, 작은 촛불과 질문 기록, 푸른 제어광을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "엘피스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "피로한 관리자"
+    },
+    {
+      "level": 2,
+      "title": "촛불과 질문 기록"
+    },
+    {
+      "level": 2,
+      "title": "지하 기록도시"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "판도라 외형",
+      "target": "wiki/characters/axions/판도라/support/appearance.md"
+    }
+  ],
+  "sha256": "e7b7a523f1787d8950f1704ccab34f74114810f84c1b509ec364a75fec7f0165",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce539693860afac9.json",
+  "chunks": [
+    {
+      "id": "doc_ce539693860afac9:000",
+      "section": "엘피스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_000.json",
+      "char_count": 101
+    },
+    {
+      "id": "doc_ce539693860afac9:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_001.json",
+      "char_count": 308
+    },
+    {
+      "id": "doc_ce539693860afac9:002",
+      "section": "피로한 관리자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_002.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_ce539693860afac9:003",
+      "section": "촛불과 질문 기록",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_003.json",
+      "char_count": 238
+    },
+    {
+      "id": "doc_ce539693860afac9:004",
+      "section": "지하 기록도시",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_004.json",
+      "char_count": 202
+    },
+    {
+      "id": "doc_ce539693860afac9:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_005.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_ce539693860afac9:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_006.json",
+      "char_count": 240
+    }
+  ]
+}

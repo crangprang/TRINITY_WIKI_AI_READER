@@ -1,0 +1,24 @@
+{
+  "id": "doc_13351a3343adfca7:004",
+  "document_id": "doc_13351a3343adfca7",
+  "path": "wiki/characters/personas/미노스/support/appearance.md",
+  "wiki_path": "characters/personas/미노스/support/appearance.md",
+  "title": "미노스 외형",
+  "section": "스노우볼 속 별",
+  "summary": "미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_004.json",
+  "text": "## 스노우볼 속 별\n\n마스터 링 위의 스노우볼 보석은 미노스의 핵심 시각 중심이다. 보석 안에는 가짜 하늘과 별, 얼어붙은 도시, 고리처럼 배열된 법정이 축소되어 보인다. 이 작은 세계는 오르딜리아가 바깥에서 조정되는 재판장임을 드러낸다.\n\n스노우볼은 관리되는 도시의 축소판이다. 보석 속 별은 단테의 별과 겹치는 감각을 만들 수 있지만, 미노스에게 그 별은 배치 가능한 무대 조명이다.",
+  "metadata": {
+    "char_count": 217,
+    "sha256": "6ee47ad4270acfef14c883070ffa7b6f5c7121ff19db583ef4a5967662bf84d5"
+  }
+}

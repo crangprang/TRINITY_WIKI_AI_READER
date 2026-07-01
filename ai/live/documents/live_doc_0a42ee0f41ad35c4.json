@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0a42ee0f41ad35c4",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TR03_TEMPERANCE.txt",
+  "title": "절제의 트리네아드",
+  "summary": "절제의 트리네아드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "4d4887fb7fd1a18e569db3aedcb6b51cb0e98e19b3fef2d70bbab1c3c56aa203",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0a42ee0f41ad35c4.json",
+  "chunks": [
+    {
+      "id": "live_doc_0a42ee0f41ad35c4:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0a42ee0f41ad35c4_000.json",
+      "char_count": 701
+    }
+  ]
+}

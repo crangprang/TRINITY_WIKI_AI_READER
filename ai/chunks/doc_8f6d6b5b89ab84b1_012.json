@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:012",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 정복 가면 판단 큐 연결",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_012.json",
+  "text": "## [2026-06-28] review | 정복 가면 판단 큐 연결\n\n[정복의 펠시온](characters/fellsions/정복의_펠시온/index.md)의 가면 모티프 충돌을 [FEL-002](review/contradictions.md#fel-002-정복의-펠시온-가면-모티프)로 올리고, [판단 요청](review/decision_requests/index.md#활성-판단)에 연결했다. 본문과 외형 support는 곤충 가면을 확정하지 않은 현재 백골 갑주/투구 기준을 유지하되, 사용자 결정 전까지 `needs_decision`으로 둔다.",
+  "metadata": {
+    "char_count": 308,
+    "sha256": "15308405873cfbc3267807bfd2cd7b2b1fdfbfd45bf2b1a29fc7f2377117bb27"
+  }
+}

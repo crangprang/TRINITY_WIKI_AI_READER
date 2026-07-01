@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:283",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 외형 지원 항목 부모 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_283.json",
+  "text": "## [2026-06-26] style | 외형 지원 항목 부모 설명 보강\n\n엑시온, 펠시온, 앙상블 외형 지원 항목의 부모 링크를 각 인물의 외형 기준점이 되는 상징, 국가, 존재 방식을 드러내는 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 120,
+    "sha256": "909c68870b12f3a48d7e26c791b1d92619aa56c20dfb7d9db353acdf1f20819a"
+  }
+}

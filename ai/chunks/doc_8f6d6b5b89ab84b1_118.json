@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:118",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 가인 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_118.json",
+  "text": "## [2026-06-26] rebuild | 가인 항목 정리\n\n[가인](characters/axions/가인/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리하고 [염한](universe/realms/balance/nations/염한.md)의 천명, 아곤, 원한검, 용인 정책 구조에 맞췄다.\n\n- 정리: 패도의 여제, 천명과 통치, 아곤과 원한검, 아백, 세레나와 용인 정책, 황 노인, 압력이 새는 황제, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [가인 외형](characters/axions/가인/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 굴레의 가면, 원한검, 시기별 여제 외형, 특이점 외형 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 가인 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 443,
+    "sha256": "8ceceb864233f0fae13809b3f11e93795db96f9aee310d68e6e1fd144987fb84"
+  }
+}

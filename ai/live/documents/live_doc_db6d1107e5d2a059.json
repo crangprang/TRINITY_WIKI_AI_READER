@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_db6d1107e5d2a059",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/06_THALES/PER06_VOICE_SAMPLE.txt",
+  "title": "탈레스 / VOICE_SAMPLE",
+  "summary": "탈레스 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "2df7f039ecbabeaa83d0f5b7ce05d831817d968586692944652d46ab78ec1ef1",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_db6d1107e5d2a059.json",
+  "chunks": [
+    {
+      "id": "live_doc_db6d1107e5d2a059:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_db6d1107e5d2a059_000.json",
+      "char_count": 174
+    }
+  ]
+}

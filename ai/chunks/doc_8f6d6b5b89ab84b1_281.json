@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:281",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 주인공 집단 관계 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_281.json",
+  "text": "## [2026-06-26] style | 주인공 집단 관계 설명 보강\n\n주인공 집단과 주요 구성원 항목의 관련 목록에서 `주인공 집단`, `파티원`, `관계 대상`, `소속 집단`처럼 색인 라벨로 보이는 설명을 각 인물의 파티 내 기능, 충돌, 국가·존재 연결이 드러나는 관계 서술로 바꿨다.",
+  "metadata": {
+    "char_count": 164,
+    "sha256": "9cd7483e2a6fa100ef66057f1d8a0e334afd41abc96586fa3aed17a11e41e8bf"
+  }
+}

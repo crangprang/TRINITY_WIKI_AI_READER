@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:021",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "비 오는 오후",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_021.json",
+  "text": "### 비 오는 오후\n\n- `[비 오는 창가]` `비는 싫지 않아. 시끄럽지 않아서.`\n- `[조용한 오후]` `지금은 좀 덜 시끄럽네. 괜찮아.`\n- `[책장 넘기는 소리]` `그 소리, 이상하게 사람을 안심시켜.`\n- `[잠깐 눕고 싶을 때]` `조금만. 아주 조금만 쉬자.`",
+  "metadata": {
+    "char_count": 156,
+    "sha256": "a5e026a31c1c7120315c911e1606550045ae0375b009009f9f8f425bba2e0ba8"
+  }
+}

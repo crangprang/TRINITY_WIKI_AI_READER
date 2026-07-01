@@ -1,0 +1,24 @@
+{
+  "id": "doc_682ebab80cc6f6e1:004",
+  "document_id": "doc_682ebab80cc6f6e1",
+  "path": "wiki/characters/main_party/아인/support/music.md",
+  "wiki_path": "characters/main_party/아인/support/music.md",
+  "title": "아인 음악",
+  "section": "악기와 스타일",
+  "summary": "아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_004.json",
+  "text": "## 악기와 스타일\n\n아인의 곡은 빠른 템포와 차가운 반복을 가진다. ticking percussion, tight electronic pulse, dry piano, muted strings, restrained rock drums, narrow synth bass가 잘 맞는다. 리듬은 초침처럼 작게 쪼개지고, 코러스에서는 운명, 저주, 증명이 한꺼번에 올라오는 선언으로 열린다.\n\n보컬은 낮게 닫힌 청년 남성 보컬이 맞다. 감정을 크게 터뜨리는 열혈 톤을 줄이고, 결론을 먼저 놓는 목소리와 통증을 억누르는 호흡을 함께 둔다.",
+  "metadata": {
+    "char_count": 297,
+    "sha256": "989e5e3d9857b45204a9357b90c2bec0370fc67de13c998ce7699143fe44e3be"
+  }
+}

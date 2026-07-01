@@ -1,0 +1,24 @@
+{
+  "id": "doc_dc263951b5df53e4:002",
+  "document_id": "doc_dc263951b5df53e4",
+  "path": "wiki/universe/realms/balance/organizations/파르마콘.md",
+  "wiki_path": "universe/realms/balance/organizations/파르마콘.md",
+  "title": "파르마콘",
+  "section": "판정과 관리",
+  "summary": "파르마콘은 삼위정교 공인 조직으로, 절제의 이름 아래 연구, 의료, 검역, 보건, 저주와 감염과 이레귤러 상태 판정을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_002.json",
+  "text": "## 판정과 관리\n\n파르마콘은 현장의 몸과 상태를 분류한다. 저주 보유자, 감염자, 원생물성 이상, 이레귤러 징후, 판타즈마 재난의 생체 후유증은 파르마콘의 기록과 검사 절차를 거쳐 공적 상태가 된다.\n\n이 판정은 치료와 구호를 가능하게 만든다. 동시에 누가 사람으로 남는지, 누가 격리되어야 하는지, 누가 이레귤러 헌터 제도로 밀려날 수 있는지 결정하는 권한도 발생한다.\n\n파르마콘의 기록은 의학적이면서 종교적이다. 검사표와 처치 기록은 몸의 상태를 적지만, 그 결과는 정교의 이단 판정, 구세군의 현장 투입, 크로니클의 공표 언어와 연결된다. 치료는 기록으로 남고, 기록은 곧 통행과 권리를 바꾸는 문턱이 된다.",
+  "metadata": {
+    "char_count": 344,
+    "sha256": "c2b9197a8f44b7f1862297c91c92702bb67e17a67da201cc4e8d8a43933d78d3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_a5b6aa5d1eba255c",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/02_SINGULARITY_EPISODE/00_02_SINGULARITY_EPISODE_index.json",
+  "title": "{",
+  "summary": "\"index_version\": \"2.1\",",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "suffix": ".json",
+  "sha256": "e74ee86e64329290fa20008cc985ee8d301844ee2a3cfd1e2677af6be7bc2770",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_a5b6aa5d1eba255c.json",
+  "chunks": [
+    {
+      "id": "live_doc_a5b6aa5d1eba255c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_a5b6aa5d1eba255c_000.json",
+      "char_count": 708
+    }
+  ]
+}

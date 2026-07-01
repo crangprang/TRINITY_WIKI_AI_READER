@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b4a118c822b3fd80",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TR00_NATURE.txt",
+  "title": "자연의 트리네아드",
+  "summary": "자연의 트리네아드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "78dcdac756adf56086a66b0e9ecfe05764de0c3b483dcbc95fad19808f70baf9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b4a118c822b3fd80.json",
+  "chunks": [
+    {
+      "id": "live_doc_b4a118c822b3fd80:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b4a118c822b3fd80_000.json",
+      "char_count": 972
+    }
+  ]
+}

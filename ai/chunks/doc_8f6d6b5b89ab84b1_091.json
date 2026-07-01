@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:091",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] rename | 줄거리 항목명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_091.json",
+  "text": "## [2026-06-27] rename | 줄거리 항목명 정리\n\n[삼위의 군상/1부/아홉 나라의 시대/줄거리](events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md)의 표시 제목과 관련 링크 라벨을 story record 계열명으로 맞췄다.",
+  "metadata": {
+    "char_count": 139,
+    "sha256": "583d41504b499fdac8ebcfd1d35469acfaf14cb5bf431901443f3746bb6c0a54"
+  }
+}

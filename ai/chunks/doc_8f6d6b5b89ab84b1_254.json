@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:254",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] relations | 메인 파티 support 관련 문서 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_254.json",
+  "text": "## [2026-06-26] relations | 메인 파티 support 관련 문서 설명 보강\n\n메인 파티 support 항목의 관련 문서 설명에서 `인물`, `시각 기준`, `보이스 기준` 같은 단순 라벨을 제거하고 본문, 외형, 보이스, 음악 사이의 하위 항목 관계를 적었다.\n\n- 진, 블랑, 단테, 아인의 appearance, voice, music support 링크 설명을 각 인물의 본문 축과 시각·발화·음악 운용 관계로 바꿨다.\n- 길티어 본문과 외형 support의 관련 문서 설명을 마스크맨 잔재, 사냥용 장총, 짧은 현장 지시, 위험 판정의 연결로 풀었다.",
+  "metadata": {
+    "char_count": 323,
+    "sha256": "6987fd31a88dffbb6dc92cbc12681ef1afb8ecc64bdc14c58a877f4fea8c83ea"
+  }
+}

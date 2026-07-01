@@ -1,0 +1,167 @@
+{
+  "id": "doc_7610e3feb05faa0c",
+  "path": "wiki/characters/main_party/스칼렛/support/appearance.md",
+  "wiki_path": "characters/main_party/스칼렛/support/appearance.md",
+  "title": "스칼렛 외형",
+  "summary": "스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "스칼렛 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "공용 몸과 스칼렛의 차이"
+    },
+    {
+      "level": 2,
+      "title": "머리"
+    },
+    {
+      "level": 2,
+      "title": "의상"
+    },
+    {
+      "level": 2,
+      "title": "표정과 자세"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "이미지 생성 기준"
+    },
+    {
+      "level": 3,
+      "title": "핵심 프롬프트"
+    },
+    {
+      "level": 3,
+      "title": "배제 프롬프트"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "스칼렛 보이스",
+      "target": "wiki/characters/main_party/스칼렛/support/voice.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    }
+  ],
+  "sha256": "32800842e57ed8acc1d905f38c8ddab14646c3601b92202c48bbf23da1c533fc",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7610e3feb05faa0c.json",
+  "chunks": [
+    {
+      "id": "doc_7610e3feb05faa0c:000",
+      "section": "스칼렛 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_000.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_001.json",
+      "char_count": 606
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:002",
+      "section": "공용 몸과 스칼렛의 차이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_002.json",
+      "char_count": 373
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:003",
+      "section": "머리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_003.json",
+      "char_count": 409
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:004",
+      "section": "의상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_004.json",
+      "char_count": 628
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:005",
+      "section": "표정과 자세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_005.json",
+      "char_count": 361
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:006",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_006.json",
+      "char_count": 338
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:007",
+      "section": "이미지 생성 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_007.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:008",
+      "section": "핵심 프롬프트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_008.json",
+      "char_count": 866
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:009",
+      "section": "배제 프롬프트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_009.json",
+      "char_count": 970
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:010",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_010.json",
+      "char_count": 496
+    },
+    {
+      "id": "doc_7610e3feb05faa0c:011",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_011.json",
+      "char_count": 276
+    }
+  ]
+}

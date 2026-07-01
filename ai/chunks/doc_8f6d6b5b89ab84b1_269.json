@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:269",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 지역 생태와 원생 생물 구조 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_269.json",
+  "text": "## [2026-06-26] rebuild | 지역 생태와 원생 생물 구조 보강\n\n하급 생물과 원생 생물 문서를 생활 기능과 현장 대응이 보이는 군집형 존재 항목으로 보강했다.\n\n- 레이어드, 마사오트, 알렉시아, 플라센티아의 지역 생태/원생 생물 8개 문서에 생활 기능 또는 생활 기능과 현장 대응 섹션을 추가했다.\n- 관련 문서 설명을 단순 `국가`, `존재` 라벨에서 각 국가 환경, 장치 조건, 대형 판타즈마와의 관계 설명으로 바꿨다.\n- 지역 생태와 원생 생물의 양식 공백이 해소되어 review의 template gap 기록을 활성 보강 대상 없음 상태로 정리했다.",
+  "metadata": {
+    "char_count": 322,
+    "sha256": "1973c39ea2797fc6de2bcc0a3a7a8ce1212cdb5378e8953fb314ef99e271ef85"
+  }
+}

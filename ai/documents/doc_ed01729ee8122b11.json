@@ -1,0 +1,160 @@
+{
+  "id": "doc_ed01729ee8122b11",
+  "path": "wiki/events/singularities/더_나은_내일.md",
+  "wiki_path": "events/singularities/더_나은_내일.md",
+  "title": "더 나은 내일",
+  "summary": "진과 사라, 구룡 CEO들의 하이스트, 마이더스의 황금 의수가 얽히며 레이어드가 신용의 도시에서 담보의 강가로 바뀌는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "더 나은 내일"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "탐욕의 판타즈마",
+      "target": "wiki/beings/phantasmas/탐욕의_판타즈마.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "탐욕의 판타즈마",
+      "target": "wiki/beings/phantasmas/탐욕의_판타즈마.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "c74702f8f33bbdbee455ec4cf979fe829584e29e6592edacd2ba4c87a766c558",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed01729ee8122b11.json",
+  "chunks": [
+    {
+      "id": "doc_ed01729ee8122b11:000",
+      "section": "더 나은 내일",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_000.json",
+      "char_count": 174
+    },
+    {
+      "id": "doc_ed01729ee8122b11:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_001.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_ed01729ee8122b11:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_002.json",
+      "char_count": 209
+    },
+    {
+      "id": "doc_ed01729ee8122b11:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_003.json",
+      "char_count": 636
+    },
+    {
+      "id": "doc_ed01729ee8122b11:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_004.json",
+      "char_count": 322
+    },
+    {
+      "id": "doc_ed01729ee8122b11:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_005.json",
+      "char_count": 571
+    },
+    {
+      "id": "doc_ed01729ee8122b11:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed01729ee8122b11_006.json",
+      "char_count": 579
+    }
+  ]
+}

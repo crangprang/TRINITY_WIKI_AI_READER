@@ -1,0 +1,23 @@
+{
+  "id": "doc_56f587c4cb5fd5fd:004",
+  "document_id": "doc_56f587c4cb5fd5fd",
+  "path": "wiki/characters/ensemble/index.md",
+  "wiki_path": "characters/ensemble/index.md",
+  "title": "앙상블",
+  "section": "파티 바깥의 인과",
+  "summary": "앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "ensemble",
+    "character_group"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_004.json",
+  "text": "## 파티 바깥의 인과\n\n앙상블은 파티와 별도의 장기 인과를 유지한다. 니그리스 알비우스 시트리노의 보호와 준비는 세계사의 책임을 현재 인물에게 넘기는 방식으로 작동하고, 배신의 펠시온의 탈주는 죽음의 계획을 흐트러뜨리며 파괴계 군단을 각자의 판단으로 밀어 넣는다.\n\n이 인과는 주인공 파티가 통과하는 현재 사건 뒤에 더 오래된 원인을 세운다. 파티는 눈앞의 나라와 사건을 통과하고, 앙상블은 그 사건 뒤에서 오래된 실패와 이름 판결, 세계사의 부채를 밀어 올린다. 그래서 앙상블 항목은 파티 바깥의 책임과 계획을 추적하는 진입점이다.",
+  "metadata": {
+    "char_count": 299,
+    "sha256": "13ae61a672783d8012de50d9ae6668db376008b6d462b0d459f70b961c4b1742"
+  }
+}

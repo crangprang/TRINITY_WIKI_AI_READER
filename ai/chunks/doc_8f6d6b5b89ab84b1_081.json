@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:081",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] update | 염한 원샷 1~8층 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_081.json",
+  "text": "## [2026-06-27] update | 염한 원샷 1~8층 보강\n\n[염한](universe/realms/balance/nations/염한.md)에 원샷 양식 1~8층 기준의 조회값을 통합했다. 정보표에는 투쟁의 나라 별칭, 대표 가치, 언어권, 기원 모티프, 로컬 종교 표면, 트리네아드 미덕, 시트리노의 초심, 보물 하마르티아, 엑시온, 구세주 후보, 페르소나, 대응 펠시온, 4등급 판타즈마를 추가했다. 본문에는 기원과 모티프, 삼위정교와 드래그니즘, 예언과 핵심 질문을 보강했고, 특이점 에피소드와 상세 사건명 확장은 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다.",
+  "metadata": {
+    "char_count": 357,
+    "sha256": "858b3ea4f48e339ad761ecf110cf2909c199fd3f29e5c32803a48ab728e8faf9"
+  }
+}

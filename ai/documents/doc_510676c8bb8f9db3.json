@@ -1,0 +1,184 @@
+{
+  "id": "doc_510676c8bb8f9db3",
+  "path": "wiki/universe/realms/balance/index.md",
+  "wiki_path": "universe/realms/balance/index.md",
+  "title": "균형계",
+  "summary": "인간 공동체와 아홉 나라가 자리하며 창조계와 파괴계의 압력을 이름, 신앙, 국가, 장치로 번역하는 중심 세계.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "균형계"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "세계 압력과 사회"
+    },
+    {
+      "level": 2,
+      "title": "아홉 나라"
+    },
+    {
+      "level": 2,
+      "title": "문화와 언어"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "구세군",
+      "target": "wiki/universe/realms/balance/organizations/구세군.md"
+    },
+    {
+      "label": "파르마콘",
+      "target": "wiki/universe/realms/balance/organizations/파르마콘.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "스트레인저",
+      "target": "wiki/universe/realms/balance/organizations/스트레인저.md"
+    },
+    {
+      "label": "드래그니즘",
+      "target": "wiki/universe/realms/balance/organizations/드래그니즘.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    }
+  ],
+  "sha256": "c9dc279868c470b497e723b230abda8eb57e6e6f811ac0409af10825b1f5befe",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_510676c8bb8f9db3.json",
+  "chunks": [
+    {
+      "id": "doc_510676c8bb8f9db3:000",
+      "section": "균형계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_000.json",
+      "char_count": 216
+    },
+    {
+      "id": "doc_510676c8bb8f9db3:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_001.json",
+      "char_count": 423
+    },
+    {
+      "id": "doc_510676c8bb8f9db3:002",
+      "section": "세계 압력과 사회",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_002.json",
+      "char_count": 822
+    },
+    {
+      "id": "doc_510676c8bb8f9db3:003",
+      "section": "아홉 나라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_003.json",
+      "char_count": 438
+    },
+    {
+      "id": "doc_510676c8bb8f9db3:004",
+      "section": "문화와 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_004.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_510676c8bb8f9db3:005",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_005.json",
+      "char_count": 309
+    },
+    {
+      "id": "doc_510676c8bb8f9db3:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_510676c8bb8f9db3_006.json",
+      "char_count": 265
+    }
+  ]
+}

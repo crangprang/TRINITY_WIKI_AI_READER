@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_dd16c3c0059ccb93",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_REFERENCE.txt",
+  "title": "황 노인 / REFERENCE",
+  "summary": "황 노인 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "de6de5c7ff520d44ed7a6692e34f00a953c7c1c4441f9551722bf22f33a75487",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_dd16c3c0059ccb93.json",
+  "chunks": [
+    {
+      "id": "live_doc_dd16c3c0059ccb93:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_dd16c3c0059ccb93_000.json",
+      "char_count": 151
+    }
+  ]
+}

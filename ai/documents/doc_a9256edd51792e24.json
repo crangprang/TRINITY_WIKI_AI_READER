@@ -1,0 +1,211 @@
+{
+  "id": "doc_a9256edd51792e24",
+  "path": "wiki/characters/trineads/자연의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/자연의_트리네아드/index.md",
+  "title": "자연의 트리네아드",
+  "summary": "자연의 트리네아드는 창조계에서 환경, 계절, 재해, 산출과 소모의 균형을 굴리는 시스템 관리자다. 그녀는 감독의 비극 무대가 오래 지속되도록 지형과 순환을 깔고, 4등급 판타즈마를 세계의 노폐물을 뒤집는 거대한 태풍처럼 읽는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "자연의 트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 3,
+      "title": "창조계 시스템 관리자"
+    },
+    {
+      "level": 3,
+      "title": "순환의 자애"
+    },
+    {
+      "level": 3,
+      "title": "그랜드 디자인의 환경층"
+    },
+    {
+      "level": 2,
+      "title": "외형과 표지"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "환경 조율"
+    },
+    {
+      "level": 3,
+      "title": "노폐물을 뒤집는 태풍"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "감독"
+    },
+    {
+      "level": 3,
+      "title": "생명의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "균형계의 인간"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    }
+  ],
+  "sha256": "ab51d3c6fdb588dbad506a83858cf206324e6923b55c05621a005a38e78e5944",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a9256edd51792e24.json",
+  "chunks": [
+    {
+      "id": "doc_a9256edd51792e24:000",
+      "section": "자연의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_000.json",
+      "char_count": 159
+    },
+    {
+      "id": "doc_a9256edd51792e24:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_001.json",
+      "char_count": 488
+    },
+    {
+      "id": "doc_a9256edd51792e24:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_a9256edd51792e24:003",
+      "section": "창조계 시스템 관리자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_003.json",
+      "char_count": 466
+    },
+    {
+      "id": "doc_a9256edd51792e24:004",
+      "section": "순환의 자애",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_004.json",
+      "char_count": 250
+    },
+    {
+      "id": "doc_a9256edd51792e24:005",
+      "section": "그랜드 디자인의 환경층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_005.json",
+      "char_count": 291
+    },
+    {
+      "id": "doc_a9256edd51792e24:006",
+      "section": "외형과 표지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_006.json",
+      "char_count": 250
+    },
+    {
+      "id": "doc_a9256edd51792e24:007",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_007.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_a9256edd51792e24:008",
+      "section": "환경 조율",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_008.json",
+      "char_count": 298
+    },
+    {
+      "id": "doc_a9256edd51792e24:009",
+      "section": "노폐물을 뒤집는 태풍",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_009.json",
+      "char_count": 263
+    },
+    {
+      "id": "doc_a9256edd51792e24:010",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_010.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_a9256edd51792e24:011",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_011.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_a9256edd51792e24:012",
+      "section": "감독",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_012.json",
+      "char_count": 276
+    },
+    {
+      "id": "doc_a9256edd51792e24:013",
+      "section": "생명의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_013.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_a9256edd51792e24:014",
+      "section": "균형계의 인간",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_014.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_a9256edd51792e24:015",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_015.json",
+      "char_count": 274
+    }
+  ]
+}

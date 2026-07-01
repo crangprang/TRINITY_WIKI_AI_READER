@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce20d090386715c3:001",
+  "document_id": "doc_ce20d090386715c3",
+  "path": "wiki/characters/personas/탈레스/support/appearance.md",
+  "wiki_path": "characters/personas/탈레스/support/appearance.md",
+  "title": "탈레스 외형",
+  "section": "외형 기준",
+  "summary": "탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 실루엣 | 사람 몸은 질문/검은 석판/촛불 압력이 빌린 매개체로 보인다. 추상 의지가 몸을 얻은 인상이 먼저 온다. |\n| 의상 | 의지가 형태를 가진 듯한 최소 장식. 학술 권위보다 질문의 기하와 촛불의 압력이 앞선다. |\n| 가면 | 작은 전면 얼굴판 또는 질문 기하가 응집한 얼굴가림. 인간 민낯은 전면에 서지 않는다. |\n| 소품 | 검은 석판, 촛불, 질문의 기하, 색인 고리 |\n| 배경 | 지하 기록도시, 질문 바퀴, 색인륜, 짧은 촛불빛 |\n| 표정/자세 | 정지한 질문 의지가 몸을 빌린 상태. 표정은 얼굴보다 석판, 촛불, 손끝의 기하로 읽힌다. |",
+  "metadata": {
+    "char_count": 370,
+    "sha256": "3f4a6f2e0e37a2a71bca42a7f7d4d6cfa72696352030215d7e39a0e30fffca5c"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_7193dc9e34ed2540:003",
+  "document_id": "doc_7193dc9e34ed2540",
+  "path": "wiki/review/ownership_locks.md",
+  "wiki_path": "review/ownership_locks.md",
+  "title": "항목 소유권 잠금",
+  "section": "신설하지 않은 항목",
+  "summary": "비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "decomposition",
+    "locks"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7193dc9e34ed2540_003.json",
+  "text": "## 신설하지 않은 항목\n\n- `용기의문`과 `절제의문`은 [삼위일체 우주](../universe/structure/삼위일체_우주.md)의 하위 절이 소유한다.\n- `혼돈에서 현재까지`는 독립 항목으로 만들지 않고 [세계사](../events/world_history/index.md), [삼위의 군상/1부/아홉 나라의 시대](../events/삼위의_군상/1부/아홉_나라의_시대/index.md), 우주 구조/법칙 항목에 분해해 반영한다.\n- 탈락한 아포라투스명과 이전 국가명은 reader-facing alias처럼 보존하지 않는다.",
+  "metadata": {
+    "char_count": 300,
+    "sha256": "8d7e57b318bee433d3e825305a4cb33912feaf990e66aba40dc7db263239145e"
+  }
+}

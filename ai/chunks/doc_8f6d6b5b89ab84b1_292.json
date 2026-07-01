@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:292",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 외형 지원 표제 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_292.json",
+  "text": "## [2026-06-26] style | 외형 지원 표제 정리\n\n전체 외형 지원 항목의 `외형 잠금`, `금지 및 드리프트 주의` 표제를 `외형 기준`, `시각 경계`로 통일하고, 메인 파티의 프롬프트 표제를 `이미지 생성 기준`, `핵심/배제 프롬프트`로 바꿨다. WIKI 감사 도구, 웹 대시보드, 사용자 잠금 기록, 외부 WIKI 계약도 새 표제 기준에 맞췄다.",
+  "metadata": {
+    "char_count": 206,
+    "sha256": "722ab7145ede0ed5b5506b66b849c49fc5eaf4be172876b3d6cd10929015dca7"
+  }
+}

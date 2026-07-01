@@ -1,0 +1,23 @@
+{
+  "id": "doc_770119ae93377230:019",
+  "document_id": "doc_770119ae93377230",
+  "path": "wiki/characters/main_party/옌/index.md",
+  "wiki_path": "characters/main_party/옌/index.md",
+  "title": "옌",
+  "section": "조색",
+  "summary": "옌은 감정과 분위기와 욕망의 움직임을 색으로 너무 빨리 읽는 아이다. 흰 성녀의 조용한 사회어는 생존용 막이며, 그 막이 깨지면 숨은 색을 끌어내고 싶어 하는 화가의 호기심이 전면으로 튄다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_019.json",
+  "text": "### 조색\n\n비술 `조색`은 타인의 감정에 색을 덧칠하거나, 저장한 색을 현실에 다시 꺼내는 식으로 작동한다. 옌은 감정과 욕망의 이데아를 색으로 붙잡고, 그 색을 다시 관계와 공간 위에 칠한다. 강렬한 색을 오래 붙들수록 옌 자신도 그 색에 잠식되기 쉽다.\n\n옌은 색을 사랑하기 때문에 색을 망칠 수 있다. 호기심은 타인의 색을 흔들고, 덧칠하고, 더 선명하게 만들려는 위험으로 이어진다.",
+  "metadata": {
+    "char_count": 219,
+    "sha256": "00544472fe269670a089ee712065913ca9e42d038e9d7c4d4e7600a86e64e016"
+  }
+}

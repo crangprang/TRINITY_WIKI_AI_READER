@@ -1,0 +1,24 @@
+{
+  "id": "doc_919b5792ba46d0d6:001",
+  "document_id": "doc_919b5792ba46d0d6",
+  "path": "wiki/characters/fellsions/정복의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/정복의_펠시온/support/appearance.md",
+  "title": "정복의 펠시온 외형",
+  "section": "외형 기준",
+  "summary": "정복의 펠시온의 거대한 대장군 실루엣, 백골 갑주, 장수풍뎅이형 백골 투구, 뼈 무기, 죽음 군단의 지휘 압력을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 실루엣 | 유난히 거대한 체구의 죽음 군단 대장군 |\n| 의상 | 피부 밖으로 돋아난 백골 갑주와 무거운 군장 |\n| 가면 | 장수풍뎅이형 백골 투구, 공성추처럼 앞으로 뻗는 뿔 |\n| 소품 | 뼈로 만든 창, 검, 방패, 깃발 |\n| 배경 | 점령지 명령 체계가 느껴지는 전장 또는 행군 압력 |\n| 팔레트/질감 | 뼈 흰색 중심, 부분 흑요석, 붉은 포인트 |\n| 표정/자세 | 힘과 지휘가 먼저 보이는 정면 압력 |",
+  "metadata": {
+    "char_count": 269,
+    "sha256": "fa714961460d1e036e3cdd19b0b3bfd7770ac6613fe66a157e92b77dc3519355"
+  }
+}

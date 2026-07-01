@@ -1,0 +1,23 @@
+{
+  "id": "doc_ed45f7097518fa4c:004",
+  "document_id": "doc_ed45f7097518fa4c",
+  "path": "wiki/beings/creatures/마사오트_항해_생태.md",
+  "wiki_path": "beings/creatures/마사오트_항해_생태.md",
+  "title": "마사오트 항해 생태",
+  "section": "생태 원리",
+  "summary": "구름쌀, 돛막균, 봉투돛새 등이 노틸러스호와 길드선 주변에서 이루는 마사오트 항해 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_004.json",
+  "text": "## 생태 원리\n\n- 마사오트 생물은 노틸러스호와 길드선이 끌고 다니는 바람, 습기, 먹이, 우편, 열, 밸러스트 수조에서 생긴다.\n- 구름쌀과 돛막균은 먹이사슬 바닥이다. 구름쌀은 바람길 미립 먹이, 돛막균은 돛천과 밧줄에 붙는 생물막이다.\n- 봉투돛새는 편지처럼 보이는 생물이다.\n- 항적어, 돛가오리, 기압고래는 바람길 먹이사슬의 세 단계다. 항적 기류, 중형 여과, 대형 스카이 웨일링 압력으로 구분한다.\n- 바람턱과 돛가름매는 선체 하부, 돛천, 밧줄, 신호 깃발, 우편 자루를 망가뜨리는 활극 장치다.\n- 내부 생태는 환풍관, 우편창, 밸러스트 수조, 기관 전실을 분리한다.",
+  "metadata": {
+    "char_count": 327,
+    "sha256": "d03461a9f844399777c2310f5dccbf1cf8f6cd7839ca54d6eda846fb1285b7a0"
+  }
+}

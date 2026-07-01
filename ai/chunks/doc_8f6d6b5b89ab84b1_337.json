@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:337",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 혼돈-현재와 아홉 영웅 핸드오프 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_337.json",
+  "text": "## [2026-06-27] ingest | 혼돈-현재와 아홉 영웅 핸드오프 반영\n\n`핸드오프_혼돈-현재_아홉영웅_동화책_아홉나라구도.md`를 대조해 문 구조를 용기의문과 절제의문, 용기·절제의 직접 희생, 라케시스의 부채로 정리했다. 라케시스의 세 가면, 아조트와 오피온, 대공명, 파괴계 각성, 초상계, 펠시온 기원, 배신의 처형 유예, 알비우스의 오피온 외면과 최종 독단을 각 소유 문서에 반영했다.\n\n아홉 나라의 3축 엔진은 [아홉 나라](universe/realms/balance/nations/index.md)와 [아홉 나라의 시대](events/삼위의_군상/1부/아홉_나라의_시대/index.md)에 반영했다. 알레인 동화책 단독 문서, 아홉 영웅 시대 세부 장면, 나라별 잃어버린 장면과 특이점 구조는 [세계관 개발 TODO](review/worldbuilding_development_todo.md)로 넘겼다. 국가 문서 형식은 [염한](universe/realms/balance/nations/염한.md)을 기준형으로 삼아 나머지를 끌어올리는 방향으로 고정했다.",
+  "metadata": {
+    "char_count": 548,
+    "sha256": "feeaf0ba864f61715e6a1c2a7e723f2763319d37c0b7610276edba2df9cea369"
+  }
+}

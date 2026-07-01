@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_1cb7b10f79781e8f:000",
+  "document_id": "live_doc_1cb7b10f79781e8f",
+  "path": "02_LORE/L00_OLYMPIA/L00_BRANCH_IDEA.txt",
+  "title": "L00_올림피아 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "L00_올림피아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L00_OLYMPIA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1cb7b10f79781e8f_000.json",
+  "text": "L00_올림피아 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `L00_CORE.txt`, `L00_FACT_DETAIL.txt`, 혹은 live surface로 승격한다.\n- 작업 경과와 병목은 이 파일이 아니라 별도 process note나 평가 기록에 둔다.\n\n1. 확장 후보\n\n- 제전 시즌마다 공좌구에 형성되는 임시 후원 거리와 응원 구역을 더 세밀하게 잡는 방향.\n- 패배한 후보의 추종자들이 남기는 비공식 성지, 기념품, 흉상, 가짜 성물 시장을 만드는 방향.\n- 기록 보관층 내부의 편집 실무, 공개 전 판정문 교정, 공표 연출 담당층을 장면 단위로 확장하는 방향.\n- 성역 외곽 순례선의 생활 리듬과 숙박업, 흥행 브로커, 도박꾼 경제를 더 세밀하게 보여 주는 방향.\n\n2. 미감 확장\n\n- 성가와 환호, 종소리, 경기장의 함성, 판정 직전의 정적이 교차하는 음향층.\n- 흰 대리석과 금박, 향, 초, 햇빛, 피와 먼지가 한 장면 안에서 겹치는 물성층.\n- 위 항목들은 장면 밀도를 높일 수 있지만 현재는 branch 확장안으로만 유지한다.",
+  "metadata": {
+    "char_count": 661,
+    "sha256": "cfbcd5e475639405a082ebcb746ae08a7e49f88414aac07fd802b5571aafd529"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_db99133416a49e67:004",
+  "document_id": "doc_db99133416a49e67",
+  "path": "wiki/characters/savior_candidates/랄/index.md",
+  "wiki_path": "characters/savior_candidates/랄/index.md",
+  "title": "랄",
+  "section": "아인과 1위",
+  "summary": "자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db99133416a49e67_004.json",
+  "text": "## 아인과 1위\n\n마지막 테스트에서 랄은 자신이 떨어져도 죽지 않을 가능성을 계산했고, 동시에 아인이 더 밖으로 나가고 싶어 한다는 사실을 알아보았다. 그래서 랄은 1위를 아인에게 넘겼다.\n\n랄의 `1위를 유지하라`는 문장은 자유의 나라 내부 시스템 스코어링 1위를 가리킨다. 이 문장은 랄이 자기 자신에게 남긴 우회 전략이다. 시스템 최고점에 남아 있으면 언젠가 아인이 찾아올 가능성이 남는다.",
+  "metadata": {
+    "char_count": 222,
+    "sha256": "bc65b0b7f4609ff9d9313d2a027cdac6ca74affc3214b85e8fdc31f4e9561629"
+  }
+}

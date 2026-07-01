@@ -1,0 +1,105 @@
+{
+  "id": "doc_943db507f37a3cf5",
+  "path": "wiki/characters/axions/유리디스_도리안_드_발루아/support/appearance.md",
+  "wiki_path": "characters/axions/유리디스_도리안_드_발루아/support/appearance.md",
+  "title": "유리디스 도리안 드 발루아 외형",
+  "summary": "유리디스 도리안 드 발루아의 우아한 30~40대 여왕 실루엣, 금색 머리와 녹색 눈, 데칼코마니 무도회 가면, 붉은 수면과 젖은 소품을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "유리디스 도리안 드 발루아 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "여왕 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "데칼코마니 가면"
+    },
+    {
+      "level": 2,
+      "title": "붉은 수면과 소품"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    }
+  ],
+  "sha256": "4471ea5d20d9fa1d14c42169a02694f1baff3eab2171d5ac33f3af7889b1d8ea",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_943db507f37a3cf5.json",
+  "chunks": [
+    {
+      "id": "doc_943db507f37a3cf5:000",
+      "section": "유리디스 도리안 드 발루아 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_000.json",
+      "char_count": 148
+    },
+    {
+      "id": "doc_943db507f37a3cf5:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_001.json",
+      "char_count": 318
+    },
+    {
+      "id": "doc_943db507f37a3cf5:002",
+      "section": "여왕 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_002.json",
+      "char_count": 155
+    },
+    {
+      "id": "doc_943db507f37a3cf5:003",
+      "section": "데칼코마니 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_003.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_943db507f37a3cf5:004",
+      "section": "붉은 수면과 소품",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_004.json",
+      "char_count": 167
+    },
+    {
+      "id": "doc_943db507f37a3cf5:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_005.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_943db507f37a3cf5:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_943db507f37a3cf5_006.json",
+      "char_count": 95
+    }
+  ]
+}

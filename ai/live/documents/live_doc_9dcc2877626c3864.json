@@ -1,0 +1,43 @@
+{
+  "id": "live_doc_9dcc2877626c3864",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/PART1_README.txt",
+  "title": "PART1_NINE_NATIONS_ERA",
+  "summary": "This part is the active plot scaffold for the Nine Nations era.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "suffix": ".txt",
+  "sha256": "3a6e8bc5fa498053b835523e2bd736b11923c37a8b1e5973e093658701d7cc0c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_9dcc2877626c3864.json",
+  "chunks": [
+    {
+      "id": "live_doc_9dcc2877626c3864:000",
+      "section": "PART1_NINE_NATIONS_ERA",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_000.json",
+      "char_count": 89
+    },
+    {
+      "id": "live_doc_9dcc2877626c3864:001",
+      "section": "Part Contract",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_001.json",
+      "char_count": 287
+    },
+    {
+      "id": "live_doc_9dcc2877626c3864:002",
+      "section": "Active Shape",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_002.json",
+      "char_count": 304
+    },
+    {
+      "id": "live_doc_9dcc2877626c3864:003",
+      "section": "Guide Compression",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_003.json",
+      "char_count": 518
+    },
+    {
+      "id": "live_doc_9dcc2877626c3864:004",
+      "section": "Current Phase Note",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_004.json",
+      "char_count": 236
+    }
+  ]
+}

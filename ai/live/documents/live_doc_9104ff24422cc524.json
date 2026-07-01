@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_9104ff24422cc524",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P06_SERENA/P06_BRANCH_IDEA.txt",
+  "title": "P06_세레나 / BRANCH_IDEA",
+  "summary": "P06_세레나 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "5f23c5971a7eee11723c2ab88e5aaf2a8c8a10dea9a3168f73f33235310b0e5d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_9104ff24422cc524.json",
+  "chunks": [
+    {
+      "id": "live_doc_9104ff24422cc524:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9104ff24422cc524_000.json",
+      "char_count": 1158
+    }
+  ]
+}

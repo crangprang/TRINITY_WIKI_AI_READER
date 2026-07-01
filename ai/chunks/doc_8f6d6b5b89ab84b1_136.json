@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:136",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 배신의 펠시온 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_136.json",
+  "text": "## [2026-06-26] rebuild | 배신의 펠시온 항목 정리\n\n[배신의 펠시온](characters/ensemble/배신의_펠시온/index.md)의 번호형 대형 본문과 원문 노트형 능력 서술을 인물 기사 구조로 정리했다.\n\n- 정리: 정체와 이름, 세 번의 배신, 에르고와 이름의 약속, 내면 구조, 능력과 제약, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 외형: [배신의 펠시온 외형](characters/ensemble/배신의_펠시온/support/appearance.md)의 관리 문구와 번호형 항목을 제거하고 후드 로브, 전갈 백골 가면, 맨얼굴, 가위 비수 중심으로 다시 세웠다.\n- 색인: 앙상블 색인의 배신의 펠시온 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 380,
+    "sha256": "f31864334658a9004eeb1b0bfd166baa82dff903fa41a9f1850b2a8026972489"
+  }
+}

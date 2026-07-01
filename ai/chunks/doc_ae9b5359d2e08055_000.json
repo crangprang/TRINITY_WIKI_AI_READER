@@ -1,0 +1,23 @@
+{
+  "id": "doc_ae9b5359d2e08055:000",
+  "document_id": "doc_ae9b5359d2e08055",
+  "path": "wiki/characters/main_party/파티/index.md",
+  "wiki_path": "characters/main_party/파티/index.md",
+  "title": "파티",
+  "section": "파티",
+  "summary": "파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae9b5359d2e08055_000.json",
+  "text": "# 파티\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 동행 구조 |\n| 이름 | 파티 |\n| 구성 | 아인, 옌, 길티어, 진, 블랑, 스칼렛, 세레나, 단테 |\n| 공통 문법 | 배신당한 것 / 배신한 것 / 배신하고 싶지 않은 것 |\n| 3층위 시각 문법 | 3층위 복장 / 3층위 가면 / [파티 시각 문법](support/visual_grammar.md) |",
+  "metadata": {
+    "char_count": 209,
+    "sha256": "39ec2ef4d9640fa907ab8713470de742ab8f2f391b71f5ca6f6f16032eb41176"
+  }
+}

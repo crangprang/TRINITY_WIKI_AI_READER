@@ -1,0 +1,24 @@
+{
+  "id": "doc_a0be947aa6fa706f:001",
+  "document_id": "doc_a0be947aa6fa706f",
+  "path": "wiki/characters/axions/제페토/support/appearance.md",
+  "wiki_path": "characters/axions/제페토/support/appearance.md",
+  "title": "제페토 외형",
+  "section": "외형 기준",
+  "summary": "제페토의 60대 사냥 장로 실루엣, 우락부락한 몸, 목각인형 전면 가면, 수지와 고치와 사냥 도구를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 패기가 살아 있는 60대 |\n| 실루엣 | 우락부락한 사냥 장로 |\n| 의상 | 사냥꾼들의 스승, 숲의 규칙을 오래 지켜 온 장로, 위험한 창조를 숨긴 제작자 통치자 |\n| 가면 | 오래된 사냥 마스크가 목각인형 얼굴처럼 보이는 전면 얼굴가림 |\n| 소품 | 수지 도구, 사냥 도구, 고치 흔적, 목재 절단선, 갈비뼈 숲의 규칙 표식 |\n| 표정/자세 | 부성적 돌봄과 위험한 창조가 함께 읽히는 장로 자세 |",
+  "metadata": {
+    "char_count": 287,
+    "sha256": "a934a9f9beee11fea3c682d3e7ef94d1b76f25ac3dd1ecb2b26e13907c6745e4"
+  }
+}

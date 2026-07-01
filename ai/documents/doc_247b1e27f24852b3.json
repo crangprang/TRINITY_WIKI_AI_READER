@@ -1,0 +1,134 @@
+{
+  "id": "doc_247b1e27f24852b3",
+  "path": "wiki/beings/index.md",
+  "wiki_path": "beings/index.md",
+  "title": "존재",
+  "summary": "존재는 하급 생물, 지역 생태, 용 계열, 판타즈마처럼 생명, 괴생태, 현상체의 작동으로 읽히는 대상이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:index.md",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "존재"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "생태와 현현"
+    },
+    {
+      "level": 2,
+      "title": "범위와 경계"
+    },
+    {
+      "level": 2,
+      "title": "작동 구조"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하급 생물",
+      "target": "wiki/beings/creatures/index.md"
+    },
+    {
+      "label": "용 계열",
+      "target": "wiki/beings/dragonkin/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    }
+  ],
+  "sha256": "4c66682bc630c98c52cc8ed77d9c7cbd42716015299556fca45ef1c53b8e3323",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_247b1e27f24852b3.json",
+  "chunks": [
+    {
+      "id": "doc_247b1e27f24852b3:000",
+      "section": "존재",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_000.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_247b1e27f24852b3:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_001.json",
+      "char_count": 517
+    },
+    {
+      "id": "doc_247b1e27f24852b3:002",
+      "section": "생태와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_002.json",
+      "char_count": 320
+    },
+    {
+      "id": "doc_247b1e27f24852b3:003",
+      "section": "범위와 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_003.json",
+      "char_count": 351
+    },
+    {
+      "id": "doc_247b1e27f24852b3:004",
+      "section": "작동 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_004.json",
+      "char_count": 334
+    },
+    {
+      "id": "doc_247b1e27f24852b3:005",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_005.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_247b1e27f24852b3:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_006.json",
+      "char_count": 392
+    }
+  ]
+}

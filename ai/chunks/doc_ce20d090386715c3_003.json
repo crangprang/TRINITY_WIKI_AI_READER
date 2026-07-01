@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce20d090386715c3:003",
+  "document_id": "doc_ce20d090386715c3",
+  "path": "wiki/characters/personas/탈레스/support/appearance.md",
+  "wiki_path": "characters/personas/탈레스/support/appearance.md",
+  "title": "탈레스 외형",
+  "section": "얼굴판과 질문 기하",
+  "summary": "탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_003.json",
+  "text": "## 얼굴판과 질문 기하\n\n가면은 작은 전면 얼굴판 또는 질문 기하가 응집한 얼굴가림이다. 큰 가면, 시계 얼굴, 현대 로봇 얼굴은 쓰지 않는다. 얼굴판은 말하는 입보다 입력을 기다리는 빈 표면처럼 보인다.\n\n질문 기하는 얼굴판, 손끝, 석판 주변에 짧게 떠오른다. 기하가 장식으로 번지면 탈레스의 정지한 압력이 약해진다. 중심은 질문이 몸을 빌린 느낌과 촛불 옆의 조용한 목소리에 둔다.",
+  "metadata": {
+    "char_count": 217,
+    "sha256": "c885e97d4b12f6ff8fc2de2f22757d2d7a34a00bbe1225614e2efaca7caa4568"
+  }
+}

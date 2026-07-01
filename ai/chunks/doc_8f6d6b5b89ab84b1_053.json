@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:053",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 세계법칙 LIVE WC 상세화 상위 TODO 종료",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_053.json",
+  "text": "## [2026-06-28] review | 세계법칙 LIVE WC 상세화 상위 TODO 종료\n\n세계법칙 LIVE WC 상세화 상위 TODO를 점검했다. 삼위일체 우주, 세 에너지, 오리진, 하위신, 아홉 보물, 필로시온, 아포라투스, 트리네아드 계열은 이미 개별 완료 항목과 로그가 소유하므로 상위 항목을 완료로 닫았다.\n\n남은 나라별 페르소나, 엑시온, 펠시온 세부는 세계법칙 상위 작업이 아니라 다음 하위신 체계 섹션의 개별 문서 점검으로 유지한다.",
+  "metadata": {
+    "char_count": 254,
+    "sha256": "8c52a870b8c228f8ada438388de3c2b25969872267662ae280c1d52f3a874dc5"
+  }
+}

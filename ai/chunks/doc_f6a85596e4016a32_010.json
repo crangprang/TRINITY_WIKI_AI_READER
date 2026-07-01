@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:010",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "깨끗한 수만으로는 닿지 못한다",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_010.json",
+  "text": "### 깨끗한 수만으로는 닿지 못한다\n\n아인의 핵심 오답은 `깨끗한 수만으로는 닿지 못한다`는 자기 명령이다. 그 명령은 본래의 비인간성에서 나오지 않는다. 자기 목숨과 남의 시간이 모두 빌린 것처럼 느껴지기 때문에, 끝칸에 닿기 위해 사람을 배치하고 더러운 수까지 고르는 응급 규칙을 붙든다.\n\n인간적인 망설임은 아인에게 받은 시간을 배신하는 행동처럼 느껴진다. 그래서 그는 마음이 멈추려는 순간 가장 이기는 수를 찾는 쪽으로 자신을 몰아간다. 이 오답은 냉혈함의 선언으로 닫히지 않고 인간적인 망설임을 억누르기 위한 자기 처벌로 남는다.",
+  "metadata": {
+    "char_count": 302,
+    "sha256": "459eea80f98e1b1736e90a25032189e1e0bd540f5b7d3a8ba984b2b5d457ddee"
+  }
+}

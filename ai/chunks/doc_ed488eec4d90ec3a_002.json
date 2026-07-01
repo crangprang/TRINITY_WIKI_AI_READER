@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed488eec4d90ec3a:002",
+  "document_id": "doc_ed488eec4d90ec3a",
+  "path": "wiki/characters/trineads/index.md",
+  "wiki_path": "characters/trineads/index.md",
+  "title": "트리네아드",
+  "section": "외형 원리",
+  "summary": "트리네아드는 세 세계의 상위 신격과 미덕, 왕권이 이름과 사건으로 드러나는 존재 층위다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "trineads",
+    "character_group"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_002.json",
+  "text": "## 외형 원리\n\n트리네아드는 자신이 태어난 보물의 원래 주인이던 아홉 영웅 원형을 기본 얼굴로 삼는다. 그 위에 보물의 성질, 태어난 계의 왜곡, 신격이 쓰는 가면, 담당 역할의 압력이 겹친다.\n\n| 보물 | 영웅 원형 |\n|---|---|\n| 이상 | 리그레드 |\n| 완벽 | 알레인 |\n| 이해 | 알비우스 |\n| 순수 | 세리엔 |\n| 꿈 | 누아 |\n| 진화 | 라하임 |\n| 무한 | 네오르가논 |\n| 영원 | 모르텐 |\n| 불멸 | 라스카르 |\n\n지혜의 트리네아드는 니그리스의 기억에 남은 [소피아](../ensemble/소피아/index.md)의 이성과 사상을 이어받았다. 그래서 외형도 소피아 기억의 계승을 우선한다. 라케시스의 흰빛, 차가운 정돈감, 구조를 먼저 보는 시선은 이 예외에서 나온다.\n\n창조계 트리네아드는 보물 원형 위에 관리자, 크리에이터, 장기 설계자의 인상을 얹는다. 현실은 무대 연출과 행정 권위, 자연은 순환과 계절, 생명은 기워 붙인 창조물과 살아 있는 징후를 전면에 둔다.\n\n균형계 트리네아드는 미덕과 법칙의 흔적을 외형에 품는다. 지혜는 소피아 기억의 계승과 여러 가면의 분산성, 용기는 방벽과 불굴의 자세, 절제는 억제와 균형의 냉정한 선으로 읽힌다.\n\n파괴계 트리네아드는 왕권, 생존전쟁, 이름과 낙인의 압력을 드러낸다. 죽음은 판결과 절대 서열, 붕괴는 불가능을 깨는 흑사자 왕권, 공허는 이름을 피하는 나태와 자유의 공백으로 나타난다.",
+  "metadata": {
+    "char_count": 720,
+    "sha256": "96736f1af4b565e35cedbafd26cadd199120383cba3dae47fd06cfc7880fc3dc"
+  }
+}

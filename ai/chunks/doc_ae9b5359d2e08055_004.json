@@ -1,0 +1,23 @@
+{
+  "id": "doc_ae9b5359d2e08055:004",
+  "document_id": "doc_ae9b5359d2e08055",
+  "path": "wiki/characters/main_party/파티/index.md",
+  "wiki_path": "characters/main_party/파티/index.md",
+  "title": "파티",
+  "section": "구성원별 문법",
+  "summary": "파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae9b5359d2e08055_004.json",
+  "text": "## 구성원별 문법\n\n| 인물 | 배신당한 것 | 배신한 것 | 배신하고 싶지 않은 것 |\n|---|---|---|---|\n| 아인 | 자유 | 인간성 | 시간 |\n| 옌 | 평화 | 색 | 이름 |\n| 길티어 | 방향 | 여섯 | 불빛 |\n| 진 | 거래 | 약속 | 내일 |\n| 블랑 | 예술 | 친구 | 삶 |\n| 스칼렛 | 각본 | 진실 | 블랑 |\n| 세레나 | 투쟁 | 푸른 달 | 이야기 |\n| 단테 | 정의 | 기사도 | 별 |",
+  "metadata": {
+    "char_count": 247,
+    "sha256": "38a91c40c7a655f5ad66f1de4dc9d76f058faf592924c921282f34006844fd34"
+  }
+}

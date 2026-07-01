@@ -1,0 +1,23 @@
+{
+  "id": "doc_ed45f7097518fa4c:007",
+  "document_id": "doc_ed45f7097518fa4c",
+  "path": "wiki/beings/creatures/마사오트_항해_생태.md",
+  "wiki_path": "beings/creatures/마사오트_항해_생태.md",
+  "title": "마사오트 항해 생태",
+  "section": "관련 문서",
+  "summary": "구름쌀, 돛막균, 봉투돛새 등이 노틸러스호와 길드선 주변에서 이루는 마사오트 항해 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed45f7097518fa4c_007.json",
+  "text": "## 관련 문서\n\n- [마사오트](../../universe/realms/balance/nations/마사오트.md) - 하늘 항로, 길드선, 우편, 밸러스트 수조가 항해 생태를 만드는 탐험의 나라.",
+  "metadata": {
+    "char_count": 111,
+    "sha256": "cd771cf2676d431252dc7452f637a62ea1a284bcc3feac68ae137d9a6ae2491a"
+  }
+}

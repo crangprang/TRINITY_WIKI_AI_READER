@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_987c9d15fc64c2b7",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC06_METEUS.txt",
+  "title": "메테우스",
+  "summary": "메테우스",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "39202abb1071e8c08dc85ec1c67a51326f29e4078da270572c6840a4fd0ac940",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_987c9d15fc64c2b7.json",
+  "chunks": [
+    {
+      "id": "live_doc_987c9d15fc64c2b7:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_987c9d15fc64c2b7_000.json",
+      "char_count": 983
+    }
+  ]
+}

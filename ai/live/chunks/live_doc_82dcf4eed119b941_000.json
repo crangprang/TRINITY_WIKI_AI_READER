@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_82dcf4eed119b941:000",
+  "document_id": "live_doc_82dcf4eed119b941",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P03_GUILTIER/P03_BRANCH_IDEA.txt",
+  "title": "P03_길티어 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "P03_길티어 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_82dcf4eed119b941_000.json",
+  "text": "P03_길티어 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `P03_CORE.txt`, `P03_FACT_DETAIL.txt`, `P03_VOICE_SAMPLE.txt`, 혹은 live surface로 승격한다.\n- 작업 경과, 병목, 사용자 취향 누적은 이 파일이 아니라 live repo 밖의 `RUN/TRINITY_LIVE/`, `RUN/handoff/TRINITY_LIVE/`, 또는 `../projects_archive/TRINITY_LIVE/` 지원 노트에 둔다.\n\n1. 후보 분기\n\n- 성장 종점에서 여섯 그림자를 받아들이고 자기 안에 새 팀을 세우는 장기 분기.\n- 가면 비술 이후 현재 파티원을 옛 팀으로 덮어보는 오인 장면의 수위와 배치 실험안.\n- 장총 운용 습관, 장전 리듬, 사격 거리감, 활 휴대 방식과 같은 전투 세부 운용안.\n- 세레나=용인, 스칼렛=짐승, 진=바보자식, 아인은 필요할 때만 리더가 뜨는 식의 전체 호칭 체계를 어디까지 표준화할지에 대한 실험안.\n\n2. 2026-04-27 시트 라벨 후보\n\n- 이 블록은 사용자 시트에서 들어온 라벨의 반영 상태를 보관한다.\n- `1층위 가시 망루`, `천성 한 모닥불 아래`, `미련 여섯의 밤`은 현재 CORE/FACT_DETAIL에 반영된 정본이다.\n- `2층위 그림자를 보는 자`, `3층위 고장난 나침반`은 live와 일치하므로 유지한다.",
+  "metadata": {
+    "char_count": 813,
+    "sha256": "f0814c0df4b61e1b848d9ff85ceaac90360df6ed0da8b9ee2087673ddbe855d3"
+  }
+}

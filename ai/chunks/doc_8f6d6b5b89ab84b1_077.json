@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:077",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] review | 염한 상세 서술 재확장 TODO",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_077.json",
+  "text": "## [2026-06-27] review | 염한 상세 서술 재확장 TODO\n\n[염한](universe/realms/balance/nations/염한.md)은 원샷 구조와 핵심값은 갖췄지만 WIKI 본문 밀도는 아직 요약형에 가깝다는 사용자 판단을 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 남겼다. 원본 ingest나 LIVE 관련 원천을 찾은 뒤 항목별 상세 서술로 재확장한다.",
+  "metadata": {
+    "char_count": 246,
+    "sha256": "e74df12fd4d41c5c039baa69a42810adfffd5a0c2173be43ef91eeac6260c0e0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:013",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "전면 등판",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_013.json",
+  "text": "### 전면 등판\n\n전면에 나설 때 스칼렛은 공포의 방향을 먼저 고른다. 말은 도발, 판정, 진단, 짧은 보호 신호가 섞인다. 협조적인 전술가처럼 깔끔하게 맞춰 주는 방식 대신, 더 위험한 쪽이 되어 시선을 빼앗는다.",
+  "metadata": {
+    "char_count": 121,
+    "sha256": "921e8fe0d5f34babb6982eb9b3ec0f6a61c6ba446e103c0909607ae0d1a24310"
+  }
+}

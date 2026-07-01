@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0fead88b9182c506",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/06_THALES/PER06_CORE.txt",
+  "title": "탈레스 / CORE",
+  "summary": "탈레스 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "acdca01591600d4c08270cbdd65477c7a804fa63132db3640fe0549d43f5101f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0fead88b9182c506.json",
+  "chunks": [
+    {
+      "id": "live_doc_0fead88b9182c506:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0fead88b9182c506_000.json",
+      "char_count": 373
+    }
+  ]
+}

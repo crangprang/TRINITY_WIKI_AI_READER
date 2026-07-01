@@ -1,0 +1,245 @@
+{
+  "id": "doc_d257dd9c8dd1303c",
+  "path": "wiki/characters/trineads/공허의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/공허의_트리네아드/index.md",
+  "title": "공허의 트리네아드",
+  "summary": "공허의 트리네아드는 꿈의 보물에서 태어난 파괴계의 나태한 왕이다. 그는 파괴와 감정의 축에서 이름과 지배를 피하려는 자유, 아무것도 하지 않는 방치, 약자가 살아남기 위해 익힌 생존기술의 원천을 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "공허의 트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 3,
+      "title": "나태의 왕"
+    },
+    {
+      "level": 3,
+      "title": "이름 없는 자유"
+    },
+    {
+      "level": 3,
+      "title": "공허 군단의 생존기술"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "생존 전쟁과 항복"
+    },
+    {
+      "level": 3,
+      "title": "정적의 감옥"
+    },
+    {
+      "level": 3,
+      "title": "배신에게 이름을 주지 않은 일"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "공백"
+    },
+    {
+      "level": 3,
+      "title": "나태의 지혜"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "죽음의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "에르고"
+    },
+    {
+      "level": 3,
+      "title": "배신의 펠시온"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    }
+  ],
+  "sha256": "108d237c29bbaaf7a43a3859d18f4a6e58c44e34b1d086f6fb20e2473cc1b568",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d257dd9c8dd1303c.json",
+  "chunks": [
+    {
+      "id": "doc_d257dd9c8dd1303c:000",
+      "section": "공허의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_000.json",
+      "char_count": 209
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_001.json",
+      "char_count": 457
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:003",
+      "section": "나태의 왕",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_003.json",
+      "char_count": 256
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:004",
+      "section": "이름 없는 자유",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_004.json",
+      "char_count": 457
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:005",
+      "section": "공허 군단의 생존기술",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_005.json",
+      "char_count": 312
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:006",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_006.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:007",
+      "section": "생존 전쟁과 항복",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_007.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:008",
+      "section": "정적의 감옥",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_008.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:009",
+      "section": "배신에게 이름을 주지 않은 일",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_009.json",
+      "char_count": 358
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:010",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_010.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:011",
+      "section": "공백",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_011.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:012",
+      "section": "나태의 지혜",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_012.json",
+      "char_count": 205
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:013",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_013.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:014",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_014.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:015",
+      "section": "죽음의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_015.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:016",
+      "section": "에르고",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_016.json",
+      "char_count": 132
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:017",
+      "section": "배신의 펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_017.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_d257dd9c8dd1303c:018",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d257dd9c8dd1303c_018.json",
+      "char_count": 351
+    }
+  ]
+}

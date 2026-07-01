@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:109",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 카스파르 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_109.json",
+  "text": "## [2026-06-26] rebuild | 카스파르 항목 정리\n\n[카스파르](characters/savior_candidates/카스파르/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [플라센티아](universe/realms/balance/nations/플라센티아.md)의 마스크맨, 사냥 실무, 피톤 사냥 실패, 길티어 유산 구조에 맞췄다.\n\n- 정리: 마스크맨 현 리더, 역할 가면과 계약 사냥단, 플라센티아의 사냥 실무, 길티어의 실패와 피톤, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [카스파르 외형](characters/savior_candidates/카스파르/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 카스파르 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 506,
+    "sha256": "7235da7424fba33b4e90f4b577c4bc721b562bab57d6aee5c8f66a2577545775"
+  }
+}

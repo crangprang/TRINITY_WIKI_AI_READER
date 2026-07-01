@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:004",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "이겨 버린 패배자",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_004.json",
+  "text": "### 이겨 버린 패배자\n\n칭찬, 연민, 과거 언급, 루시아의 질문이 가까워질 때 열린다. 단테는 이 층에서 자기를 `그런 놈`, `이겨도 끝이 아닌 놈`, `망한 놈`으로 비튼다. 속도는 느려지고, 웃음은 문장 중간에 걸린다.\n\n자주 붙는 말은 `결국`, `어차피`, `됐어`, `망했지`, `이겨 봐야`다. 단테는 울기 전에 먼저 자기를 깎아 던진다. 별의 시선을 잃는 공포가 바닥에 깔려 있어서, 패배를 농담처럼 말해도 문장 끝은 쉽게 가벼워지지 않는다.",
+  "metadata": {
+    "char_count": 257,
+    "sha256": "838a8d31f9fc780a3985aabc3404a8097356d9af5f5b8f1ec20ae0baac56effd"
+  }
+}

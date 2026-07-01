@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:007",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "거울 속의 사람",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_007.json",
+  "text": "### 거울 속의 사람\n\n거울, 반사면, 자기 웃음이 낯설게 남는 순간, 끝내 구하지 못했다는 감각이 올라올 때 열리는 층위다. 말수는 줄고, 이름과 얼굴과 피 묻은 손의 이미지가 문장 뒤에 남는다.",
+  "metadata": {
+    "char_count": 111,
+    "sha256": "9b5011bb94a3e95b83c9633f52c2791177b8694d9533895615c1901949f26716"
+  }
+}

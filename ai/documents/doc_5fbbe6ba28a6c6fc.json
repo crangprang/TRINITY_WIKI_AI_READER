@@ -1,0 +1,277 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "스칼렛 보이스"
+    },
+    {
+      "level": 2,
+      "title": "기본 톤"
+    },
+    {
+      "level": 2,
+      "title": "층위별 발화"
+    },
+    {
+      "level": 3,
+      "title": "커튼콜의 괴물"
+    },
+    {
+      "level": 3,
+      "title": "주홍글씨"
+    },
+    {
+      "level": 3,
+      "title": "지워진 자화상"
+    },
+    {
+      "level": 3,
+      "title": "비 오는 오후"
+    },
+    {
+      "level": 3,
+      "title": "거울 속의 사람"
+    },
+    {
+      "level": 2,
+      "title": "관계별 어조"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "외부인"
+    },
+    {
+      "level": 3,
+      "title": "엘리자베스라는 이름"
+    },
+    {
+      "level": 2,
+      "title": "상황별 발화"
+    },
+    {
+      "level": 3,
+      "title": "전면 등판"
+    },
+    {
+      "level": 3,
+      "title": "추적과 수습"
+    },
+    {
+      "level": 3,
+      "title": "후퇴"
+    },
+    {
+      "level": 3,
+      "title": "위기"
+    },
+    {
+      "level": 2,
+      "title": "발화 샘플"
+    },
+    {
+      "level": 3,
+      "title": "커튼콜의 괴물"
+    },
+    {
+      "level": 3,
+      "title": "주홍글씨"
+    },
+    {
+      "level": 3,
+      "title": "지워진 자화상"
+    },
+    {
+      "level": 3,
+      "title": "비 오는 오후"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    }
+  ],
+  "sha256": "aea4a9f4a1cae94e346cd009befeacbe5bcf8f81da10f77a526be90237f3574e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5fbbe6ba28a6c6fc.json",
+  "chunks": [
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:000",
+      "section": "스칼렛 보이스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_000.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:001",
+      "section": "기본 톤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_001.json",
+      "char_count": 361
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:002",
+      "section": "층위별 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:003",
+      "section": "커튼콜의 괴물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_003.json",
+      "char_count": 387
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:004",
+      "section": "주홍글씨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_004.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:005",
+      "section": "지워진 자화상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_005.json",
+      "char_count": 227
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:006",
+      "section": "비 오는 오후",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_006.json",
+      "char_count": 128
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:007",
+      "section": "거울 속의 사람",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_007.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:008",
+      "section": "관계별 어조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_008.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:009",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_009.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:010",
+      "section": "외부인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_010.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:011",
+      "section": "엘리자베스라는 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_011.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:012",
+      "section": "상황별 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_012.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:013",
+      "section": "전면 등판",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_013.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:014",
+      "section": "추적과 수습",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_014.json",
+      "char_count": 120
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:015",
+      "section": "후퇴",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_015.json",
+      "char_count": 103
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:016",
+      "section": "위기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_016.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:017",
+      "section": "발화 샘플",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_017.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:018",
+      "section": "커튼콜의 괴물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_018.json",
+      "char_count": 319
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:019",
+      "section": "주홍글씨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_019.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:020",
+      "section": "지워진 자화상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_020.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:021",
+      "section": "비 오는 오후",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_021.json",
+      "char_count": 156
+    },
+    {
+      "id": "doc_5fbbe6ba28a6c6fc:022",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_022.json",
+      "char_count": 269
+    }
+  ]
+}

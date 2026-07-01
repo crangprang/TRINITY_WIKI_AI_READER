@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:267",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 프롤로그 사건 문서 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_267.json",
+  "text": "## [2026-06-26] rebuild | 프롤로그 사건 문서 확장\n\n프롤로그를 아홉 나라 비극 구조의 선행 사건으로 읽을 수 있게 사건 기사 구조로 확장했다.\n\n- 배경, 결과와 영향, 관련 인물 및 세력 섹션을 추가하고, 노인과 아홉 장면의 역할을 본문 안에서 분리했다.\n- 관련 문서에 세계사와 파티 연결을 추가해 프롤로그가 1부 사건 흐름으로 내려가는 관계를 보강했다.\n- 프롤로그의 양식 공백이 해소되어 review의 template gap 기록에서 해당 항목을 제거했다.",
+  "metadata": {
+    "char_count": 271,
+    "sha256": "c1330b38f9186012f3d19b423f1de888c98b3d15d1aebe23f3a9d52a313ea414"
+  }
+}

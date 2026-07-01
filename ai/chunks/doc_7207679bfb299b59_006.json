@@ -1,0 +1,24 @@
+{
+  "id": "doc_7207679bfb299b59:006",
+  "document_id": "doc_7207679bfb299b59",
+  "path": "wiki/characters/main_party/블랑/support/appearance.md",
+  "wiki_path": "characters/main_party/블랑/support/appearance.md",
+  "title": "블랑 외형",
+  "section": "이미지 생성 기준",
+  "summary": "블랑의 공용 몸, 녹안, 검은 조끼, 닫힌 레이어드 스커트, 의료가방, 리볼버, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7207679bfb299b59_006.json",
+  "text": "## 이미지 생성 기준\n\n프롬프트는 보이는 요소를 주어로 둔다. `엘리자베스 블랑`, `녹색 눈`, `차분한 크림슨 적발`, `느슨한 로우 포니테일`, `비대칭 커튼형 앞머리`, `흰 카라 블라우스`, `단정히 채운 검은 조끼`, `검은 시어 겉치마 중심의 레이어드 스커트`, `낮은 검은 메리제인 구두`, `녹색 보석 드롭 귀걸이`, `낡은 가죽 의료가방`, `붕대와 접힌 천`, `낮게 숨은 리볼버`를 직접 쓴다.\n\n블랑의 얼굴 운용은 녹안, 조용한 위눈꺼풀 압력, 작은 따뜻한 미소, 살짝 비껴 보는 시선, 낮은 혈색으로 만든다. 표정은 활짝 웃음, 무표정한 봉인, 차가운 의사 얼굴로 밀지 않는다.",
+  "metadata": {
+    "char_count": 338,
+    "sha256": "989dd3997155423c902625c0ee22d8123951660deacb3cf688cedb1594a2e48d"
+  }
+}

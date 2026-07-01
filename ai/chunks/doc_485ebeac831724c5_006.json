@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:006",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "관련 문서",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_006.json",
+  "text": "## 관련 문서\n\n- [메피스토](../index.md) - 오아시스의 반복되는 현재를 구원의 이야기로 포장하는 페르소나.\n- [오아시스](../../../../universe/realms/balance/nations/오아시스.md) - 메피스토의 피라미디온과 페리아크토이가 놓이는 자유의 나라.\n- [파우스트](../../../axions/파우스트/index.md) - 메피스토의 세 번째 길을 받아들이는 자유 성좌의 엑시온.\n- [랄](../../../savior_candidates/랄/index.md) - 메피스토에게 기억 보관자의 얼굴을 보는 구세주 후보.",
+  "metadata": {
+    "char_count": 316,
+    "sha256": "90c9f1c59cd2a90f50b42f2fe20737edcfaf43ef7a4b43e2090948f0d0b59c3a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_83ed8d3098a35abb:003",
+  "document_id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "section": "세 무기",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_003.json",
+  "text": "## 세 무기\n\n케르베로스의 중심 소품은 서로 다른 세 개의 무기다. 무기는 세 개의 머리처럼 각기 다른 거리와 상황을 담당한다. 근접, 중거리, 긴급 대응이 한 몸에 붙어 있고, 어떤 방향에서 거래가 깨져도 바로 대응할 수 있는 프로 용병의 균형을 보여 준다.\n\n의상은 절제된 용병 장비다. 현대 직업복, 경찰식 제복, 과장된 군견 갑옷의 인상은 피하고, 계약 현장에서 바로 전투로 넘어갈 수 있는 실전성을 남긴다.",
+  "metadata": {
+    "char_count": 233,
+    "sha256": "2a3b67b50c93e680112d529681ab4ae99ab8f4e2f6d4b866bf77c48cea9a9891"
+  }
+}

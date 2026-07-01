@@ -1,0 +1,24 @@
+{
+  "id": "doc_13351a3343adfca7:006",
+  "document_id": "doc_13351a3343adfca7",
+  "path": "wiki/characters/personas/미노스/support/appearance.md",
+  "wiki_path": "characters/personas/미노스/support/appearance.md",
+  "title": "미노스 외형",
+  "section": "관련 문서",
+  "summary": "미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_006.json",
+  "text": "## 관련 문서\n\n- [미노스](../index.md) - 오르딜리아의 재판 연출자 페르소나.\n- [오르딜리아](../../../../universe/realms/balance/nations/오르딜리아.md) - 미노스의 파놉티콘과 재판 무대가 놓이는 정의의 나라.\n- [마텔다](../../../axions/마텔다/index.md) - 미노스가 완벽의 보석으로 유혹하는 엑시온.\n- [단테](../../../main_party/단테/index.md) - 미노스의 스노우볼 속 별과 결투 재판의 질문이 닿는 순례자.",
+  "metadata": {
+    "char_count": 288,
+    "sha256": "640125057f7b0b7939ee448c7667cf8ca9e4561723f07e922dd29bbe88f4ff4b"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:037",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] axion | 엘피스 계승과 유예 왕권 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_037.json",
+  "text": "## [2026-06-28] axion | 엘피스 계승과 유예 왕권 보강\n\n[엘피스](characters/axions/엘피스/index.md)를 알렉시아, 검은 석판, 아홉 보물, 엑시온 LIVE WC claim과 대조했다. 계승자 엑시온 상태와 빛 권능, 판도라가 남긴 질문과 메테우스의 소각 사이에서 도시의 하루를 유예하려는 보물 선택 조건을 본문에 보강했다.\n\n엘피스의 계승은 검은 석판의 질문을 새로 여는 사건보다 이미 열린 질문의 순서와 닫는 시점을 조정하는 권한을 이어받는 구조로 정리했다. 판도라를 인간 선대 학장으로 곁에 두는 선대 처리와, 작은 촛불·질문 기록·봉쇄 서가 열쇠·푸른 정전이 왕권 상징으로 작동하는 관계를 보강했다.",
+  "metadata": {
+    "char_count": 361,
+    "sha256": "562040813f9c48cfeb4c003ee90fa57184f7a36bebfebcc9cfb74742d96578b7"
+  }
+}

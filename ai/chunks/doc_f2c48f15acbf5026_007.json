@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:007",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "외상달린 영수증",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_007.json",
+  "text": "### 외상달린 영수증\n\n진이 보는 세상에는 누가 무엇을 빌렸고, 무엇을 아직 갚지 못했는지가 남는다. 그는 부당한 자리 앞에서 누가 손해를 떠안는지 먼저 읽고, 그 감각을 의리와 약속의 얼굴로 밖에 낸다.\n\n`외상달린 영수증`은 사라와 헤어진 과거를 예쁘게 슬퍼하는 방식으로 쓰이지 않는다. 진이 끝내 값도 미래도 다 내지 못하고 돌아섰다는 감각, 누군가를 자기 몫까지 떠안게 했다는 실패의 기억이다.",
+  "metadata": {
+    "char_count": 225,
+    "sha256": "f3c8850915a6cae1ec7106f58bb71451b108dad8f792acdd9b51efc51ba71d16"
+  }
+}

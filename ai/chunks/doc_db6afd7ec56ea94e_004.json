@@ -1,0 +1,24 @@
+{
+  "id": "doc_db6afd7ec56ea94e:004",
+  "document_id": "doc_db6afd7ec56ea94e",
+  "path": "wiki/universe/realms/balance/organizations/마스크맨.md",
+  "wiki_path": "universe/realms/balance/organizations/마스크맨.md",
+  "title": "마스크맨",
+  "section": "관련 문서",
+  "summary": "마스크맨은 플라센티아 기반의 기능조직으로, 역할 가면과 사냥 절차를 통해 판타즈마와 위험 생태를 대륙 실무로 사냥한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 마스크맨이 놓이는 조직 색인.\n- [플라센티아](../nations/플라센티아.md) - 마스크맨의 기반 국가.\n- [카스파르](../../../../characters/savior_candidates/카스파르/index.md) - 마스크맨 현 리더.\n- [길티어](../../../../characters/main_party/길티어/index.md) - 마스크맨 전설과 실패의 중심 인물.\n- [제페토](../../../../characters/axions/제페토/index.md) - 플라센티아 사냥 규율의 원류.",
+  "metadata": {
+    "char_count": 322,
+    "sha256": "50ff9445235f22c4a7b50874e5a23540c5e59345e42079a8323afc016f1399e6"
+  }
+}

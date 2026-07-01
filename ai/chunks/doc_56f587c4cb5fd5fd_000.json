@@ -1,0 +1,23 @@
+{
+  "id": "doc_56f587c4cb5fd5fd:000",
+  "document_id": "doc_56f587c4cb5fd5fd",
+  "path": "wiki/characters/ensemble/index.md",
+  "wiki_path": "characters/ensemble/index.md",
+  "title": "앙상블",
+  "section": "앙상블",
+  "summary": "앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "ensemble",
+    "character_group"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_000.json",
+  "text": "# 앙상블\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 핵심 행위자 |\n| 이름 | 앙상블 |\n| 구성 | 장기 생존자 / 파괴계 탈주자 / 주인공 집단 바깥의 핵심 행위자 |\n| 주요 연결 | 세계사 / 스트레인저 / 파괴계 / 트리네아드 / 펠시온 |\n| 중심 작동 | 증언 / 보호 / 탈주 / 이름 요구 / 장기 계획 |",
+  "metadata": {
+    "char_count": 188,
+    "sha256": "7b5caa428b9605355c4a05c7ba8f0484d195a0098acd467c7f49b6d2f8fd29b3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_4933f878a0a0efbd:006",
+  "document_id": "doc_4933f878a0a0efbd",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md",
+  "title": "삼위의 군상 프롤로그",
+  "section": "관련 인물 및 세력",
+  "summary": "삼위의 군상 프롤로그는 아홉 나라의 비극 구조를 먼저 선언하는 도입 사건이다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_006.json",
+  "text": "## 관련 인물 및 세력\n\n- 노인은 비에 젖은 골목에서 신의 부재를 묻고, 아홉 나라의 붕괴 장면을 환시처럼 본다.\n- [아홉 나라](../../../../universe/realms/balance/nations/index.md)는 바다, 전장, 전쟁터, 지하도시, 사막도시, 서가, 백색 도시, 탑 도시, 숲의 이미지로 압축된다.\n- [파티](../../../../characters/main_party/파티/index.md)는 이후 백색 폐허와 유령 의뢰를 거쳐 이 비극 구조 안으로 들어간다.",
+  "metadata": {
+    "char_count": 279,
+    "sha256": "3d90accbf8a62e82ad5fb79f059aebeb36e01ad0d0c752b285ddbc5db083556e"
+  }
+}

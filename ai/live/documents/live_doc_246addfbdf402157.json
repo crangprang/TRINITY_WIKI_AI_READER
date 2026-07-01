@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_246addfbdf402157",
+  "path": "02_LORE/L02_ART/L02_REFERENCE.txt",
+  "title": "L02_우니오네 / REFERENCE",
+  "summary": "L02_우니오네 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L02_ART",
+  "suffix": ".txt",
+  "sha256": "27abe29450897f113e47af16a57f1cb919a9084390f7b5bf554d803406ec30b7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_246addfbdf402157.json",
+  "chunks": [
+    {
+      "id": "live_doc_246addfbdf402157:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_246addfbdf402157_000.json",
+      "char_count": 927
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_2ae5e680b05faa3b:002",
+  "document_id": "live_doc_2ae5e680b05faa3b",
+  "path": "04_MAIN_CHARACTER/README.md",
+  "title": "04_MAIN_CHARACTER",
+  "section": "Read Order",
+  "summary": "`04_MAIN_CHARACTER` is the live character surface.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_002.json",
+  "text": "## Read Order\n\n1. `GOAL.txt`\n2. matching `01_CANON` / `02_LORE` if the character depends on world-state confirmation\n3. the target live character package `CORE` and `FACT_DETAIL`, or current single live file\n4. `VOICE_SAMPLE` when phrasing or dialogue texture matters\n5. `BRANCH_IDEA` when expansion paths are needed\n6. `REFERENCE` when support anchors are needed\n7. matching approved handoff support only when an actual external path is present\n8. the `legacy archive` only as candidate support after handoff review",
+  "metadata": {
+    "char_count": 516,
+    "sha256": "713f181ef51a5738a836dc4d945739446c5b942851720ae63b14c0c63016ef97"
+  }
+}

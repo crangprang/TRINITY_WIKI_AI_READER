@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:085",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] rename | 트리네아드 중요 캐릭터 대표명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_085.json",
+  "text": "## [2026-06-27] rename | 트리네아드 중요 캐릭터 대표명 정리\n\n[감독](characters/trineads/감독/index.md), [라케시스](characters/trineads/라케시스/index.md), [에르고](characters/trineads/에르고/index.md)의 대표 패키지명과 visible title을 한 이름으로 정리했다. 기존 조합형 제목과 칭호형 검색어는 `_aliases.json`에서 각 대표 항목으로 redirect한다.\n\n- 정리: `현실의 트리네아드`, `클로토`, `지혜`, `지혜의 트리네아드`, `붕괴`, `붕괴의 트리네아드` 검색어를 대표 항목으로 연결했다.\n- 잠금: [사용자 잠금](review/user_locks.md)과 [항목 소유권 잠금](review/ownership_locks.md)에 중요 캐릭터 제목에는 여러 이름과 호칭을 섞지 않는 규칙을 남겼다.",
+  "metadata": {
+    "char_count": 464,
+    "sha256": "cfec116803d188c9e6dd4fe3d7db265031d53e1e3a0a64197eccb9a583619240"
+  }
+}

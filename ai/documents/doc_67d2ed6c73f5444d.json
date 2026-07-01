@@ -1,0 +1,166 @@
+{
+  "id": "doc_67d2ed6c73f5444d",
+  "path": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md",
+  "wiki_path": "characters/savior_candidates/로렌초_카발리에리/index.md",
+  "title": "로렌초 카발리에리",
+  "summary": "로렌초 카발리에리는 우니오네의 구세주 후보이자 유랑 서커스 단장으로, 꿈과 공연을 빌려 주고 관객을 현실로 돌려보내는 책임을 진다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:savior_candidates",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "로렌초 카발리에리"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "유랑 서커스 단장"
+    },
+    {
+      "level": 2,
+      "title": "꿈과 귀환"
+    },
+    {
+      "level": 2,
+      "title": "유리디스"
+    },
+    {
+      "level": 2,
+      "title": "빈센트와 모방"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "로렌초 카발리에리 외형",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/support/appearance.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    }
+  ],
+  "sha256": "ad725ca938a85daa74ca8b76883234d1edec6f2d6adbf3fe84e205c067fa47be",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_67d2ed6c73f5444d.json",
+  "chunks": [
+    {
+      "id": "doc_67d2ed6c73f5444d:000",
+      "section": "로렌초 카발리에리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_000.json",
+      "char_count": 372
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_001.json",
+      "char_count": 303
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:002",
+      "section": "유랑 서커스 단장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_002.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:003",
+      "section": "꿈과 귀환",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_003.json",
+      "char_count": 293
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:004",
+      "section": "유리디스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_004.json",
+      "char_count": 327
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:005",
+      "section": "빈센트와 모방",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_005.json",
+      "char_count": 314
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:006",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_006.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_67d2ed6c73f5444d:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_67d2ed6c73f5444d_007.json",
+      "char_count": 551
+    }
+  ]
+}

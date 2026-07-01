@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_bcab7114b5909a21",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_04_NARRATIVE_DEVICES.txt",
+  "title": "4.서사장치",
+  "summary": "4.서사장치",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "69cbfd4cc91b098101a52217626c797695ec8817771f32b53e492ae48fa0cdbd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_bcab7114b5909a21.json",
+  "chunks": [
+    {
+      "id": "live_doc_bcab7114b5909a21:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_bcab7114b5909a21_000.json",
+      "char_count": 11300
+    }
+  ]
+}

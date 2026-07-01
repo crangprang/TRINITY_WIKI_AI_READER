@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:197",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-14] review | 캐릭터 외형 잠금 정본 대조",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_197.json",
+  "text": "## [2026-06-14] review | 캐릭터 외형 잠금 정본 대조\n\n길티어와 캐릭터 외형 잠금 48개를 LIVE CANON 정본과 대조해, 다른 캐릭터/국가 이미지가 섞인 항목과 임시 프롬프트 잔재를 독자용 잠금에서 정리했다.\n\n- 길티어: 정의도시/긴 지팡이/영어 프롬프트 잔재를 제거하고 조화의 나라 사냥꾼, 마스크맨 잔재, 천이 감긴 사냥용 장총 중심으로 수정했다.\n- 함께 수정: 아인, 옌, 진, 블랑, 스칼렛, 단테, 파우스트, 엘피스, 마이더스, 메피스토, 제페토, 마텔다, 프로스페로, 케르베로스, 기근의 펠시온, 기만의 펠시온, 속박의 펠시온, 역병의 펠시온, 정복의 펠시온, 정적의 펠시온, 탈레스, 판도라.\n- LIVE CANON 원문은 수정하지 않았다.",
+  "metadata": {
+    "char_count": 381,
+    "sha256": "0ef054a6f6e449d5cbea06fc6cd385ab4d305113a80f0fbde8b7bc63b84f968b"
+  }
+}

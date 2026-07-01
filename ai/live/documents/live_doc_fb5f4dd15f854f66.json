@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_fb5f4dd15f854f66",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/06_THALES/PER06_BRANCH_IDEA.txt",
+  "title": "탈레스 / BRANCH_IDEA",
+  "summary": "탈레스 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "6e4c3a3237f3522832e380e2ee8813724b00ed368e64abdca7db9343b2b04ce7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_fb5f4dd15f854f66.json",
+  "chunks": [
+    {
+      "id": "live_doc_fb5f4dd15f854f66:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_fb5f4dd15f854f66_000.json",
+      "char_count": 104
+    }
+  ]
+}

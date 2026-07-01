@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:005",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] structure | 대응표 계열 분리와 4등급 판타즈마 명칭 정정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_005.json",
+  "text": "## [2026-06-29] structure | 대응표 계열 분리와 4등급 판타즈마 명칭 정정\n\n[삼위일체 우주 대응표](universe/structure/삼위일체_우주_대응표.md)에서 최상위 구조의 중심 압력, 세 에너지 표의 아포라투스·4등급 판타즈마 연결 칼럼, 오리진과 시대 구성의 대공명·빈 위상그릇·페르소나 연결을 제거했다. 트리네아드, 하위신, 판타즈마는 별개 계열로 분리하고, 국가별 인물 표는 현 엑시온 기준으로 낮춰 판도라를 제외했다. 4등급 판타즈마 문서명은 증오의 판타즈마, 외면의 판타즈마, 운명의 판타즈마, 망상의 판타즈마, 탐욕의 판타즈마, 부패의 판타즈마, 분노의 판타즈마, 위선의 판타즈마, 오만의 판타즈마로 정리하고 원본 아홉 용명은 각 문서의 원본 용 값으로 분리했다.",
+  "metadata": {
+    "char_count": 395,
+    "sha256": "c0677e42440e3696ee1ea2ebc55b8355252478220d492837ea5507f2be15c667"
+  }
+}

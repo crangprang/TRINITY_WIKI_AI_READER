@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:113",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 랄 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_113.json",
+  "text": "## [2026-06-26] rebuild | 랄 항목 정리\n\n[랄](characters/savior_candidates/랄/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [오아시스](universe/realms/balance/nations/오아시스.md)의 그레트헨 연구소, 내부 스코어링, 망각과 기록 구조에 맞췄다.\n\n- 정리: 그레트헨 연구소장, 생각의 축복과 망각, 아인과 1위, 파우스트와 메피스토, 현장 기능, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [랄 외형](characters/savior_candidates/랄/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 코랄 머리, 흰 눈, 기록 태그, `1위를 유지하라` 메모, 체스 습관 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 랄 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 473,
+    "sha256": "eb96672a083bf8154861c411e6d0875bd6ee6a1356b9fdc6ba3f159edfa35610"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:327",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 구축",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_327.json",
+  "text": "## [2026-06-27] structure | 핵심 국가 문서 원샷 슬롯 구축\n\n레이어드, 마사오트, 알렉시아, 염한, 오르딜리아, 오아시스, 우니오네, 파라디소, 플라센티아 문서에 원샷 1~8층 리뉴얼 슬롯을 숨김 주석으로 구축했다. 미확정 국가값은 본문에 빈 섹션으로 노출하지 않고, 이후 확정값부터 슬롯 기준으로 갈아끼운다.",
+  "metadata": {
+    "char_count": 186,
+    "sha256": "6b57abd20b9227ccdacfb1e0797d58bfd5590f85536f997c65ba3509de18f561"
+  }
+}

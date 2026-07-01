@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_859bb18636afe87b:002",
+  "document_id": "live_doc_859bb18636afe87b",
+  "path": "03_WORLD/04_CREATURE/00_CREATURE_README.txt",
+  "title": "04_CREATURE",
+  "section": "Folder Contract",
+  "summary": "`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_002.json",
+  "text": "## Folder Contract\n\nEach country package uses this structure:\n\n- `01_NONSAPI/01_BEAST`\n- `01_NONSAPI/02_PHERAD`\n- `01_NONSAPI/03_SPIRIT`\n- `01_NONSAPI/04_PROTIST`\n- `02_FANTASMA/01_GRADE_1`\n- `02_FANTASMA/02_GRADE_2`\n- `02_FANTASMA/03_GRADE_3`\n\nThe nine dragon 4급 dossiers stay together in `99_NINE_DRAGONS` instead of being split into country packages.",
+  "metadata": {
+    "char_count": 353,
+    "sha256": "c4a23f46b23ccad163432cb9e0dda5bfd5d749fd40384cb18f51228992a0394e"
+  }
+}

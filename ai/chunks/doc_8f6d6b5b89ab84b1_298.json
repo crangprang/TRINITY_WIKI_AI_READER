@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:298",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 사건 색인 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_298.json",
+  "text": "## [2026-06-26] rebuild | 사건 색인 보강\n\n[사건](events/index.md)에 안정 필드 표, 사건 분류의 조회 역할, 세계 내부 연표와 작품 진행 기록의 구분, 하위 항목 역할 표, 관련 문서 연결을 추가했다.",
+  "metadata": {
+    "char_count": 133,
+    "sha256": "06c911f30f25c9ca6f7de03da3021946e34d11c95a0b27f2f96a2611175d7721"
+  }
+}

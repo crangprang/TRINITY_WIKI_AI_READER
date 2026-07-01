@@ -1,0 +1,24 @@
+{
+  "id": "doc_a0165c9c3ce03a5e:000",
+  "document_id": "doc_a0165c9c3ce03a5e",
+  "path": "wiki/universe/realms/balance/organizations/필그림즈.md",
+  "wiki_path": "universe/realms/balance/organizations/필그림즈.md",
+  "title": "필그림즈",
+  "section": "필그림즈",
+  "summary": "필그림즈는 파라디소 기반의 기능조직으로, 오멜라스의 구조를 아는 이들과 외부 봉사자가 나라 밖 재난 현장에 나서는 순례망이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_000.json",
+  "text": "# 필그림즈\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 기능조직 |\n| 기반 국가 | [파라디소](../nations/파라디소.md) |\n| 주요 업무 | 재난 현장 봉사 / 구호 / 현장 순례 / 취약자 보호 |\n| 정교 관계 | 삼위정교 면허를 받은 국가 기반 위탁 조직 |\n| 대표 구세주 후보 | [루시리엘](../../../../characters/savior_candidates/루시리엘/index.md) |\n| 관련 엑시온 | [설리반](../../../../characters/axions/설리반/index.md) |",
+  "metadata": {
+    "char_count": 303,
+    "sha256": "d158418aca80756cdeb1f5340c1b36e2dddae6d4b1efd49152ca8d8fac444538"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:311",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 분류어 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_311.json",
+  "text": "## [2026-06-26] style | 분류어 표면 정리\n\n[구세주 후보](characters/savior_candidates/index.md), [앙상블](characters/ensemble/index.md), [존재](beings/index.md), [하급 생물과 생태](beings/creatures/index.md), [판타즈마](beings/phantasmas/index.md), [사건](events/index.md), [특이점](events/singularities/index.md)의 상단 분류와 관련 문서 설명을 역할어 중심으로 고쳤다. 독자 표면의 `인물군`, `존재군`, `사건군`, `후보군`식 관리 분류어를 통치 얼굴, 표층 대변자, 올림피아 대표자, 괴생태 존재, 이야기 기록, 전환 사건 같은 항목 성격 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 420,
+    "sha256": "98273ff4d425d66a978dae5f7c8612d89518ed8603be4e3ef77bf31602c5dbb7"
+  }
+}

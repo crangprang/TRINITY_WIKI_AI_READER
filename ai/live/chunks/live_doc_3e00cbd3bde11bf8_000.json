@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_3e00cbd3bde11bf8:000",
+  "document_id": "live_doc_3e00cbd3bde11bf8",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_CORE.txt",
+  "title": "황 노인 / CORE",
+  "section": "body",
+  "summary": "황 노인 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_3e00cbd3bde11bf8_000.json",
+  "text": "황 노인 / CORE\n\n1. 식별\n황 노인은 염한의 아포라투스 `시지기`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 염한 / 시지기\n- 전면: 황실의 조용한 정적, 바둑 상대, 밤의 조언자\n- 압력: 고통을 천명의 자격으로 바꾸려 드는 판정자\n- 관계: 가인과 아패이의 형제적 유대가 핵심 대립축\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 345,
+    "sha256": "ff2bf6be4f964c1b644da665616774856880f03cba4e04f35c5912b41bb16167"
+  }
+}

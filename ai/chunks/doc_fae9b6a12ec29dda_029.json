@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:029",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "관련 문서",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_029.json",
+  "text": "## 관련 문서\n\n- [블랑](../블랑/index.md) - 세레나의 고결함 뒤에 숨은 자멸 논리를 멈춰 세우는 시선.\n- [단테](../단테/index.md) - 긍지와 자멸을 농담으로 건드리고 막판에는 함께 빠져나오는 악우.\n- [아인](../아인/index.md) - 파티의 방향을 잡고 자기 몸을 담보로 전진할 때 세레나의 날을 세우는 리더.\n- [가인](../../axions/가인/index.md) - 푸른 달 참극과 염한 통치의 이름으로 세레나의 원망과 분노를 깨우는 엑시온.\n- [아백](../../savior_candidates/아백/index.md) - 서린이라는 이름, 그리움, 수치가 세레나 안에서 함께 열리는 후보.\n- [파티](../파티/index.md) - 세레나의 긍지, 자멸성, 순례자 윤리가 동료의 견제와 충돌 속에서 드러나는 이동 집단.\n- [염한](../../../universe/realms/balance/nations/염한.md) - 세레나의 푸른 달 참극과 순례자 윤리가 뿌리내린 투쟁의 나라.",
+  "metadata": {
+    "char_count": 524,
+    "sha256": "9a36f207d709042e3b6e9dfbd169eb5c345d8f86c9f7136bf9d48c056df97100"
+  }
+}

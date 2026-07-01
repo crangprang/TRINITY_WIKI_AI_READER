@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_4c8ccf30230e0b11",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_01_BLANC/P05_01_BLANC_BRANCH_IDEA.txt",
+  "title": "P05_01_BLANC / BRANCH_IDEA",
+  "summary": "P05_01_BLANC / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "8be2fdc997ddd64fc108008c5f221df51ea4a6fdb60cf315dbd1e0c0df243583",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_4c8ccf30230e0b11.json",
+  "chunks": [
+    {
+      "id": "live_doc_4c8ccf30230e0b11:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4c8ccf30230e0b11_000.json",
+      "char_count": 893
+    }
+  ]
+}

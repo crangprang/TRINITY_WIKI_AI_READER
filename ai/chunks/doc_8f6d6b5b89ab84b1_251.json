@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:251",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] relations | 초반 사건 관련 문서 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_251.json",
+  "text": "## [2026-06-26] relations | 초반 사건 관련 문서 설명 보강\n\n초반 사건 문서의 관련 문서 설명에서 `인물`, `국가`, `지역` 같은 단순 라벨을 제거하고 사건 내 역할을 적었다.\n\n- [백색 폐허와 유령 의뢰](events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md): 아인, 파티, 세레나, 블랑, 단테, 진, 길티어, 옌, 엘리자베스의 사건 내 역할을 관련 문서 설명에 반영하고 라케시스를 연결했다.\n- [마사오트 조우 실패와 알렉시아 기록 추적](events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md): 파티, 아인, 마사오트, 에레모스, 블랑, 알렉시아의 관계 설명을 보강하고 라케시스를 연결했다.",
+  "metadata": {
+    "char_count": 387,
+    "sha256": "54be53a07ee44ae5e51bdabbc516d03293479133532e88b3765eb6dbe1ec9472"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:334",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 염한 추가 해석 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_334.json",
+  "text": "## [2026-06-27] ingest | 염한 추가 해석 보강\n\n`염한 추가.txt`를 대조해 용기·유대·이상 삼각과 가면 기준은 기존 염한·인물·외형 문서에 반영된 것으로 확인했다. 추가로 형제의 잔 현재 상태를 [염한](universe/realms/balance/nations/염한.md)에 보강하고, [가인](characters/axions/가인/index.md)과 [세레나](characters/main_party/세레나/index.md)의 관계 문장에 유대가 굴레와 보존 물증으로 남는 흐름을 연결했다.",
+  "metadata": {
+    "char_count": 288,
+    "sha256": "f3fd51d63e8de5688dc6cb7b5552e2184153cd4a716fdd7512d21838edddd852"
+  }
+}

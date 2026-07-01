@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_15f6ab75297253d5",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P03_GUILTIER/P03_VOICE_SAMPLE.txt",
+  "title": "P03_길티어 / VOICE_SAMPLE",
+  "summary": "P03_길티어 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "0aac60167bc1e585da557f6a80ee136f33165cf23cfa8e83c2776d1f26fb65a6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_15f6ab75297253d5.json",
+  "chunks": [
+    {
+      "id": "live_doc_15f6ab75297253d5:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_15f6ab75297253d5_000.json",
+      "char_count": 4264
+    }
+  ]
+}

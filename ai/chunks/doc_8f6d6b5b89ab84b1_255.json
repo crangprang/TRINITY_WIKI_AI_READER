@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:255",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] relations | 앙상블과 펠시온 관련 문서 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_255.json",
+  "text": "## [2026-06-26] relations | 앙상블과 펠시온 관련 문서 설명 보강\n\n앙상블과 펠시온 개별 항목의 관련 문서 설명에서 `인물`, `시각 기준` 같은 단순 라벨을 제거하고 이름 도용, 외형 하위 항목, 계열 관계의 작동 방식을 적었다.\n\n- 니그리스 알비우스 시트리노: 외형 항목과 후대 페르소나 링크를 시대별 이름, 불지기 인상, 시트리노가 남긴 세속 생존 윤리의 도용 흔적으로 연결했다.\n- 배신의 펠시온과 여섯 펠시온: 외형 링크 설명을 후드와 전갈 가면, 봉인 문신, 피 사슬, 귀마개 검, 가뭄과 농장, 골화 갑주, 역병 의사 껍데기 등 각 인물의 시각 핵으로 바꿨다.",
+  "metadata": {
+    "char_count": 333,
+    "sha256": "6735ef493549a56bc0908566888365a0089d58fdef01bd2ea7bb8735d0578bd5"
+  }
+}

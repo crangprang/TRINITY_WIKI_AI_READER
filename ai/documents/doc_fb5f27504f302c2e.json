@@ -1,0 +1,156 @@
+{
+  "id": "doc_fb5f27504f302c2e",
+  "path": "wiki/characters/savior_candidates/발데마르/index.md",
+  "wiki_path": "characters/savior_candidates/발데마르/index.md",
+  "title": "발데마르",
+  "summary": "발데마르는 오르딜리아의 구세주 후보이자 추방된 중앙기사로, 루시아 사건과 단테에게 남긴 저주를 사과로 짊어지는 낡은 기사다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:savior_candidates",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "발데마르"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "추방된 중앙기사"
+    },
+    {
+      "level": 2,
+      "title": "후보가 된 이유"
+    },
+    {
+      "level": 2,
+      "title": "지하와 아웃로"
+    },
+    {
+      "level": 2,
+      "title": "단테와 루시아"
+    },
+    {
+      "level": 2,
+      "title": "오르딜리아의 낡은 명예"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "아웃로",
+      "target": "wiki/universe/realms/balance/organizations/아웃로.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "발데마르 외형",
+      "target": "wiki/characters/savior_candidates/발데마르/support/appearance.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    }
+  ],
+  "sha256": "c451b1dae2bee2a53420134d5ef126e96fd6fddce48e5dd27944bbb36cb1e52b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb5f27504f302c2e.json",
+  "chunks": [
+    {
+      "id": "doc_fb5f27504f302c2e:000",
+      "section": "발데마르",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_000.json",
+      "char_count": 340
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_001.json",
+      "char_count": 247
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:002",
+      "section": "추방된 중앙기사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_002.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:003",
+      "section": "후보가 된 이유",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_003.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:004",
+      "section": "지하와 아웃로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_004.json",
+      "char_count": 288
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:005",
+      "section": "단테와 루시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_005.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:006",
+      "section": "오르딜리아의 낡은 명예",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_006.json",
+      "char_count": 257
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:007",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_007.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_fb5f27504f302c2e:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb5f27504f302c2e_008.json",
+      "char_count": 450
+    }
+  ]
+}

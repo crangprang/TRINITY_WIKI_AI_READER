@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b44091655a3605be",
+  "path": "02_LORE/L04_TRADE/L04_BRANCH_IDEA.txt",
+  "title": "L04_레이어드 / BRANCH_IDEA",
+  "summary": "L04_레이어드 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L04_TRADE",
+  "suffix": ".txt",
+  "sha256": "c13019694f2bb0cecb95d784c69263a3a51f77601b357e1432ed11b4ebf09849",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b44091655a3605be.json",
+  "chunks": [
+    {
+      "id": "live_doc_b44091655a3605be:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b44091655a3605be_000.json",
+      "char_count": 1168
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_b8a1f4b7640b37cf:002",
+  "document_id": "doc_b8a1f4b7640b37cf",
+  "path": "wiki/universe/realms/balance/organizations/그레트헨_연구소.md",
+  "wiki_path": "universe/realms/balance/organizations/그레트헨_연구소.md",
+  "title": "그레트헨 연구소",
+  "section": "업무와 위험",
+  "summary": "그레트헨 연구소는 오아시스 기반의 기능조직으로, 기술고문, 유물 감정, 고대 기술 해석, 비술 흔적 판독을 대륙 실무로 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b8a1f4b7640b37cf_002.json",
+  "text": "## 업무와 위험\n\n그레트헨 연구소의 업무는 해석에서 끝나지 않는다. 어떤 유물이 위험한지, 어떤 문서가 실제 작동 조건을 품는지, 어떤 비술 흔적이 지금도 반복 가능한지 판단하는 순간, 연구소는 그 지식을 누가 가질지까지 다루게 된다.\n\n이 과정에서 연구소는 지적 자산을 지키는 기관이자 빼돌리는 기관이 될 수 있다. 정교 면허는 공식 의뢰를 열어 주지만, 오아시스식 스코어링과 기억 관리, 연구소 내부의 성과 압력은 지식의 보존과 독점을 계속 충돌시킨다.",
+  "metadata": {
+    "char_count": 256,
+    "sha256": "228b2aabf1aa89b9c926ff4531134b05817b65f614e58915add7be14c19c18d8"
+  }
+}

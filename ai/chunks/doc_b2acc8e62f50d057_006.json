@@ -1,0 +1,24 @@
+{
+  "id": "doc_b2acc8e62f50d057:006",
+  "document_id": "doc_b2acc8e62f50d057",
+  "path": "wiki/characters/personas/카론/support/appearance.md",
+  "wiki_path": "characters/personas/카론/support/appearance.md",
+  "title": "카론 외형",
+  "section": "관련 문서",
+  "summary": "카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_006.json",
+  "text": "## 관련 문서\n\n- [카론](../index.md) - 레이어드의 영혼의 전당포 주인.\n- [레이어드](../../../../universe/realms/balance/nations/레이어드.md) - 카론의 스틱스와 카타바시스가 놓이는 거래의 나라.\n- [마이더스](../../../axions/마이더스/index.md) - 카론의 거래로 황금 의수와 담보 체계에 묶이는 엑시온.\n- [케르베로스](../../../savior_candidates/케르베로스/index.md) - 카론의 조건과 마이더스의 계약 사이에서 움직이는 구세주 후보.",
+  "metadata": {
+    "char_count": 304,
+    "sha256": "3c2c7f266a048c4e45332b1a6d06a10b9094d32084c27a441532aa817309cf94"
+  }
+}

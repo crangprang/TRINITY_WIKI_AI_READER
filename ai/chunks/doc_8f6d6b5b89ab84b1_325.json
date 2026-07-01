@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:325",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 페르소나 1부 퇴장 기준 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_325.json",
+  "text": "## [2026-06-27] ingest | 페르소나 1부 퇴장 기준 보정\n\n사용자 잠금에 따라 페르소나 결착 설명을 [삼위의 군상/1부/아홉 나라의 시대/줄거리](events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md)로 모으고, reference 문서의 반복 서술을 줄였다.",
+  "metadata": {
+    "char_count": 158,
+    "sha256": "e91681e3a7ea61a92ffeddf978005349780804173f7ddcf59a04fe169f7f6c55"
+  }
+}

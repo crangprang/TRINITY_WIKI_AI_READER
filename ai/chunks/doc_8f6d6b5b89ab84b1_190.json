@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:190",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-05-27] apply | share ingest 20260527_195405_염한",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_190.json",
+  "text": "## [2026-05-27] apply | share ingest 20260527_195405_염한\n\n공개 share 후속 개발 내용을 승인 적용하여 독자용 위키와 정본 후보 노트에 반영했다.\n\n- RUN 근거: `RUN/TRINITY_WIKI/20260527/share_ingests/20260527_195405_염한`\n- 주요 반영: 염한 필로시온 탈리아, 플라센티아 필로시온 테르프시코레, 알렉시아 클리오, 아곤/시지기 층위 분리, 가인 패군 표면, 아백 표기 갱신, 세레나의 염한어 전통명 서린.\n- LIVE CANON 원문은 수정하지 않았다.",
+  "metadata": {
+    "char_count": 308,
+    "sha256": "b1fb154e1f6cb0a5136d1b6f3316d05985f96d5a3d15a411f0c17dd2cbf084ff"
+  }
+}

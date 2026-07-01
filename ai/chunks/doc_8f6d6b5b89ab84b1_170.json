@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:170",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 삼위일체 우주 정본형 리빌드",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_170.json",
+  "text": "## [2026-06-26] rebuild | 삼위일체 우주 정본형 리빌드\n\n새 SOT DB 계약 기준에 맞춰 [삼위일체 우주](universe/structure/삼위일체_우주.md)를 상위 우주 구조 항목으로 다시 정리했다.\n\n- 정리: 설정 변경 이력, 폐기 표현, 임시 구조 언급, 비교 부정형 문장을 독자용 본문에서 제거했다.\n- 보강: 창조계, 균형계, 파괴계, 두 개의 문, 문을 아는 자, 대공명과 균열, 작중 적용을 선언형 정본 문체로 재구성했다.\n- 연결: 균형계, 세 에너지, 하위신, 오리진, 트리네아드, 세계사 링크를 실제 조회 흐름에 맞게 보강했다.",
+  "metadata": {
+    "char_count": 320,
+    "sha256": "a668de3d84199c06c15f2b1ea27a44843d7774438416df2f66570d88742c7f69"
+  }
+}

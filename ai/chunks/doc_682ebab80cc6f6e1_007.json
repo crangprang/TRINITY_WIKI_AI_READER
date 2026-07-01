@@ -1,0 +1,24 @@
+{
+  "id": "doc_682ebab80cc6f6e1:007",
+  "document_id": "doc_682ebab80cc6f6e1",
+  "path": "wiki/characters/main_party/아인/support/music.md",
+  "wiki_path": "characters/main_party/아인/support/music.md",
+  "title": "아인 음악",
+  "section": "관련 문서",
+  "summary": "아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_007.json",
+  "text": "## 관련 문서\n\n- [아인](../index.md) - 시계, 복수, 양보받은 시간, 인간성이 음악의 긴장과 박동으로 이어지는 인물.\n- [아인 외형](appearance.md) - 손목시계, 긴 외투, 작은 리더 실루엣이 음악의 카운트와 증명 압력으로 이어지는 외형 항목.\n- [아인 보이스](voice.md) - 말 끄는 기수와 검은 왕관의 발화가 음악의 판정형 보컬로 이어지는 보이스 항목.",
+  "metadata": {
+    "char_count": 222,
+    "sha256": "c59129ae60426f3ffe6e40015744de09d063da1d73c92ff8527de9b0e9907300"
+  }
+}

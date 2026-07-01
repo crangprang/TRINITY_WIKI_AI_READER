@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_859bb18636afe87b:003",
+  "document_id": "live_doc_859bb18636afe87b",
+  "path": "03_WORLD/04_CREATURE/00_CREATURE_README.txt",
+  "title": "04_CREATURE",
+  "section": "Reading Rule",
+  "summary": "`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_003.json",
+  "text": "## Reading Rule\n\n- Read `00_WC_LIFE_CLASSIFICATION.txt` before adding or moving creature files.\n- Read the matching country lore package under `02_LORE` before promoting a creature candidate.\n- Treat named creature dossiers as live world truth.\n- Treat empty folders as route scaffolds, not proof that a creature class has live content.",
+  "metadata": {
+    "char_count": 336,
+    "sha256": "3de1911d65ad4fbd5938a28ac3ba9a831d3796f46d400dea0aab773e1828f462"
+  }
+}

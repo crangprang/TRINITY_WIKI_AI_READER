@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_473f2ba3367e3075",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_BRANCH_IDEA.txt",
+  "title": "황 노인 / BRANCH_IDEA",
+  "summary": "황 노인 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "2fa907df9e6834e5b861bb4b47596df259e5815188e13d66aed95ebdbba4ec5a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_473f2ba3367e3075.json",
+  "chunks": [
+    {
+      "id": "live_doc_473f2ba3367e3075:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_473f2ba3367e3075_000.json",
+      "char_count": 94
+    }
+  ]
+}

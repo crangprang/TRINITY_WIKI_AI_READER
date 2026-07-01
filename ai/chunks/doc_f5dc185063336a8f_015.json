@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:015",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "전투",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_015.json",
+  "text": "### 전투\n\n전투 직전의 세레나는 말이 짧아지고, 거리와 자세와 타이밍을 먼저 본다. 품위는 사라지지 않고 더 차갑고 선명해진다. 누구를 지키겠다고 떠드는 방식을 버리고, 먼저 앞에 서서 자리를 정리하는 쪽이 맞다.",
+  "metadata": {
+    "char_count": 121,
+    "sha256": "ac7bdae2e9c54725187633ae25caebb1771b27cd2f5ab7ea03fca28c8bc41954"
+  }
+}

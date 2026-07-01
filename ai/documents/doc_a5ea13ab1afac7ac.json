@@ -1,0 +1,136 @@
+{
+  "id": "doc_a5ea13ab1afac7ac",
+  "path": "wiki/events/singularities/삼라만상.md",
+  "wiki_path": "events/singularities/삼라만상.md",
+  "title": "삼라만상",
+  "summary": "피노키오의 탄생과 피톤의 현현이 겹치며, 구원과 부패가 한몸이 되는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "삼라만상"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "e4c98851b04fcd00ff52b7c0f39e3e3eb3ad8da931865d90c9c709c877a2ea95",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a5ea13ab1afac7ac.json",
+  "chunks": [
+    {
+      "id": "doc_a5ea13ab1afac7ac:000",
+      "section": "삼라만상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_000.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_a5ea13ab1afac7ac:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_001.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_a5ea13ab1afac7ac:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_002.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_a5ea13ab1afac7ac:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_003.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_a5ea13ab1afac7ac:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_004.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_a5ea13ab1afac7ac:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_005.json",
+      "char_count": 327
+    },
+    {
+      "id": "doc_a5ea13ab1afac7ac:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a5ea13ab1afac7ac_006.json",
+      "char_count": 397
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:019",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "경계와 이동",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_019.json",
+  "text": "### 경계와 이동\n\n낯선 문 앞, 야영지 자리 고를 때, 후방 경계 세울 때, 후퇴선을 잡을 때는 위치, 속도, 다리, 추격선, 뒤처지는 사람을 먼저 말한다.",
+  "metadata": {
+    "char_count": 89,
+    "sha256": "995340fa4ccef2f32aed7ed0d07808d5b816f6726729641d0a1ac9206e2fbce6"
+  }
+}

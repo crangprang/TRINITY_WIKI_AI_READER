@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:005",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-28 아포라투스 기관 보류",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_005.json",
+  "text": "## 2026-06-28 아포라투스 기관 보류\n\n- 나라별 `2핵심기관+1제어기관` 확정은 염한만 현재 본문값으로 둔다. 염한 외 국가는 사용자 별도 지시 전까지 보류하며, 현재 WIKI에 있는 표면 기관, 핵심기관, 제어기관 설명을 평균내거나 재배치해 새 확정표로 만들지 않는다.",
+  "metadata": {
+    "char_count": 157,
+    "sha256": "b8b4444e896739b4dfc36caa4c72f2b2544e85f9f5e0eb2cbc515bcaf9997cdc"
+  }
+}

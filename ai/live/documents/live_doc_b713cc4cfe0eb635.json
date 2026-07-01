@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b713cc4cfe0eb635",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/03_ARIEL/PER03_CORE.txt",
+  "title": "에어리얼 / CORE",
+  "summary": "에어리얼 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "88cbda4cf31ee32f7c0e328d84a8303a6ea9020ef2e6a7377626bf16963dd33c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b713cc4cfe0eb635.json",
+  "chunks": [
+    {
+      "id": "live_doc_b713cc4cfe0eb635:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b713cc4cfe0eb635_000.json",
+      "char_count": 387
+    }
+  ]
+}

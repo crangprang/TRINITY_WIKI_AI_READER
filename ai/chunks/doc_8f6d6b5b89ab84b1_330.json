@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:330",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 국가 원샷 슬롯 본문 승격",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_330.json",
+  "text": "## [2026-06-27] structure | 국가 원샷 슬롯 본문 승격\n\n레이어드, 마사오트, 알렉시아, 염한, 오르딜리아, 오아시스, 우니오네, 파라디소, 플라센티아의 숨김 원샷 슬롯을 현재 본문과 대조해 제거했다. 확정값은 독자용 본문 상태로 남기고, 미확정 보강 항목은 [세계관 개발 TODO](review/worldbuilding_development_todo.md)가 소유하도록 정리했다. 염한의 번호식 원샷 헤딩은 독자용 섹션명으로 낮췄다.",
+  "metadata": {
+    "char_count": 255,
+    "sha256": "f5c603ee94523d0ee12001a0429a4f4023393ece0c6778bd8b642d515dac639d"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_56c6da211a6067ae:002",
+  "document_id": "doc_56c6da211a6067ae",
+  "path": "wiki/review/decision_requests/index.md",
+  "wiki_path": "review/decision_requests/index.md",
+  "title": "판단 요청",
+  "section": "해결된 판단",
+  "summary": "사용자 판단, 제안 승인, 상태 정리가 필요한 WIKI 항목 색인.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "decisions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56c6da211a6067ae_002.json",
+  "text": "## 해결된 판단\n\n- [FEL-002 정복의 펠시온 가면 모티프](../contradictions.md#fel-002-정복의-펠시온-가면-모티프): 하위신 개발 핸드오프의 장수풍뎅이 모티프를 정본으로 채택하고, 정복 본문과 외형 support를 `draft`로 되돌렸다.\n- [FEL-001 침식의 펠시온 정체 표현](../contradictions.md#fel-001-침식의-펠시온-정체-표현): 현재 WIKI의 죄수 축을 유지하고 송장벌레 백골 가면·봉인문신·검은 침식 claim만 반영한 뒤, 침식 본문과 외형 support를 `draft`로 되돌렸다.\n- [PER-001 퍼시스 사망 방식](../contradictions.md#per-001-퍼시스-사망-방식과-초대-투쟁-엑시온-동귀어진-표기): 라케시스 직접 살해를 정본으로 두고, 염한의 초대 투쟁 엑시온 동귀어진 표기를 공적 선전과 왜곡된 기억으로 재맥락화했다.",
+  "metadata": {
+    "char_count": 463,
+    "sha256": "60e23590087e72b28bc0d256eb086a064a37a2e31465a98fbbca96a1794987bd"
+  }
+}

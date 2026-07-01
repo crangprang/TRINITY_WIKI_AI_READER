@@ -1,0 +1,178 @@
+{
+  "id": "doc_21b88812e0f05aff",
+  "path": "wiki/characters/personas/헬렌/index.md",
+  "wiki_path": "characters/personas/헬렌/index.md",
+  "title": "헬렌",
+  "summary": "헬렌은 파라디소의 페르소나로, 카타르시스와 에우카리스에서 보이지 않는 고통을 아래로 배분해 평화로운 표면을 유지하는 하얀 성녀의 선별자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:personas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "헬렌"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "하얀 성녀의 선별"
+    },
+    {
+      "level": 2,
+      "title": "카타르시스와 에우카리스"
+    },
+    {
+      "level": 2,
+      "title": "심층 주도권과 순수의 배분"
+    },
+    {
+      "level": 2,
+      "title": "설리반의 공리주의"
+    },
+    {
+      "level": 2,
+      "title": "세리엔의 우의"
+    },
+    {
+      "level": 2,
+      "title": "루시리엘과 옌"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "헬렌 외형",
+      "target": "wiki/characters/personas/헬렌/support/appearance.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "루시리엘",
+      "target": "wiki/characters/savior_candidates/루시리엘/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    }
+  ],
+  "sha256": "1800d6bd075a6c9e553942b39743bed1d94fd2c0223f0c2ad539b7bfa526d8cd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_21b88812e0f05aff.json",
+  "chunks": [
+    {
+      "id": "doc_21b88812e0f05aff:000",
+      "section": "헬렌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_000.json",
+      "char_count": 477
+    },
+    {
+      "id": "doc_21b88812e0f05aff:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_001.json",
+      "char_count": 256
+    },
+    {
+      "id": "doc_21b88812e0f05aff:002",
+      "section": "하얀 성녀의 선별",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_002.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_21b88812e0f05aff:003",
+      "section": "카타르시스와 에우카리스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_003.json",
+      "char_count": 264
+    },
+    {
+      "id": "doc_21b88812e0f05aff:004",
+      "section": "심층 주도권과 순수의 배분",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_004.json",
+      "char_count": 418
+    },
+    {
+      "id": "doc_21b88812e0f05aff:005",
+      "section": "설리반의 공리주의",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_005.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_21b88812e0f05aff:006",
+      "section": "세리엔의 우의",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_006.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_21b88812e0f05aff:007",
+      "section": "루시리엘과 옌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_007.json",
+      "char_count": 352
+    },
+    {
+      "id": "doc_21b88812e0f05aff:008",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_008.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_21b88812e0f05aff:009",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_21b88812e0f05aff_009.json",
+      "char_count": 446
+    }
+  ]
+}

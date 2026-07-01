@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:019",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "자동 도구와 대시보드",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_019.json",
+  "text": "### 자동 도구와 대시보드\n\n- [x] 원샷 양식 커버리지 대시보드 후보를 검토했다. 현재 국가 문서 슬롯은 수동 리뉴얼 표와 [본문 보강 대상](template_gaps.md)이 소유하므로 새 대시보드를 만들지 않는다.\n- [x] frontmatter, link, review TODO 상태를 최소 감사하는 도구 확장 후보를 검토했다. reader frontmatter와 링크 검사는 기존 `tools/audit_reader_articles.py`가 담당하므로 새 도구를 만들지 않는다.\n- [x] 도구 확장은 반복 오류가 실제로 쌓이거나 사용자가 별도로 요청할 때 repo-level tooling으로 연다.",
+  "metadata": {
+    "char_count": 343,
+    "sha256": "e4a9d4ff53f910d4fb15a0acc19b370ec6e39432ec1e2698798abb7cc8f0e8b5"
+  }
+}

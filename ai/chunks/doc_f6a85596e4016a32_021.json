@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:021",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "기억 저항",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_021.json",
+  "text": "### 기억 저항\n\n아인은 기억이나 인지를 흐리는 개입에 강한 저항을 가진다. 그는 현재 시각, 장소, 상황을 자주 확인하고 붙드는 버릇이 있으며, 기억의 빈칸이 생겨도 무언가 빠졌다는 감각을 먼저 잡는다.\n\n이 저항은 적대적인 기억 조작, 인지 교란, 사고 유도에 강하게 작동한다. 그러나 스스로 동의해 연 회로로 들어온 감정과 기억에는 같은 방어가 걸리지 않는다.",
+  "metadata": {
+    "char_count": 205,
+    "sha256": "d4c2e50bc8d9bf8b6fe1d309c595a9fd130f311671a9ced9dde57e1ae0374d25"
+  }
+}

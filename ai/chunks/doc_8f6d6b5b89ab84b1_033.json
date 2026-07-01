@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:033",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 나라별 엑시온 보강 TODO 종료",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_033.json",
+  "text": "## [2026-06-28] review | 나라별 엑시온 보강 TODO 종료\n\n나라별 엑시온 보강 TODO를 닫았다. 가인, 유리디스 도리안 드 발루아, 프로스페로, 마이더스, 파우스트, 판도라, 엘피스, 마텔다, 설리반, 제페토를 각 국가 문서와 LIVE WC claim에 대조해 보물 선택 조건, 계승 구조, 선대 처리 또는 첫 왕권 형성, 왕권 상징을 개별 문서에 반영했다.\n\n염한 외 `2핵심기관+1제어기관` 확정과 플라센티아·파라디소 추가 리뉴얼은 기존 보류를 유지했다. 이번 종료는 엑시온 인물 문서의 왕권·보물·계승 claim 점검 범위만 닫는다.",
+  "metadata": {
+    "char_count": 314,
+    "sha256": "ed97caec759e2f8a2d3b5410f7ccecfa66bcaab4dbca83616b8c3b6b5fdfe7eb"
+  }
+}

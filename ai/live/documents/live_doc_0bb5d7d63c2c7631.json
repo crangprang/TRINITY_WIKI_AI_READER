@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0bb5d7d63c2c7631",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P02_YEN/P02_REFERENCE.txt",
+  "title": "P02_옌 / REFERENCE",
+  "summary": "P02_옌 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "0a0da2b9c295df50acb78598c28becca6cd3909bf1365c0200d9d507c8549e26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0bb5d7d63c2c7631.json",
+  "chunks": [
+    {
+      "id": "live_doc_0bb5d7d63c2c7631:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0bb5d7d63c2c7631_000.json",
+      "char_count": 1123
+    }
+  ]
+}

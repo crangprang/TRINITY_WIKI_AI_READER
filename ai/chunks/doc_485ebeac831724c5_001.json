@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:001",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "외형 기준",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성형 표면 / 마더 그레트헨 아바타 표면 |\n| 나이 | 특정 나잇대보다 위압감과 안내자의 거리감이 먼저 보이는 가면형 |\n| 실루엣 | 설계도-퀘스트형 몸을 본체로 두고, 램프-연기형 하단을 보조로 둔다. 발과 옷자락은 모래나 램프 연기처럼 흐려진다. |\n| 의상 | 낡은 이야기꾼과 설화 수집가의 여행복. 오래 접은 지도, 청사진, 퀘스트 태그가 얇게 겹친다. |\n| 가면 | 어두운 도자기 또는 금속의 전면 얼굴가림. 후드 그림자 안의 매끈한 얼굴판 위에 설계도 선과 작은 퀘스트 표식이 떠오른다. |\n| 소품 | 설계도, 모래 청사진 종이, 퀘스트 태그, 의뢰표, 작은 램프 |\n| 배경 | 오아시스와 피라미디온의 사막 출력 문명. 배경보다 몸, 가면, 설계도-퀘스트 표식, 발밑 연기 경계를 우선한다. |\n| 표정/자세 | 기울어진 설계도와 조용히 내미는 퀘스트 태그로 읽힌다. 다른 길을 제안하는 손짓이 현재를 접어 감옥으로 만드는 자세. |",
+  "metadata": {
+    "char_count": 524,
+    "sha256": "acd87ecb7625aa79632cb8840b327d2f18f345f04fc17f4738aa3be30fd96d5a"
+  }
+}

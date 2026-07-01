@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_2ae5e680b05faa3b:003",
+  "document_id": "live_doc_2ae5e680b05faa3b",
+  "path": "04_MAIN_CHARACTER/README.md",
+  "title": "04_MAIN_CHARACTER",
+  "section": "Writing Rule",
+  "summary": "`04_MAIN_CHARACTER` is the live character surface.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:README.md",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2ae5e680b05faa3b_003.json",
+  "text": "## Writing Rule\n\n- for rebuilt characters, lock `source priority -> approval/rejection list -> merged working draft -> package split -> voice extraction -> process note`\n- keep `VOICE` fully separate from canonical and fact/detail text\n- keep content QA and prose QA as separate passes\n- do not casually summarize or compact creative prose during package rebuild; if detail, rhythm, or sentence flavor may shift, preserve the fuller source and cut only after a loss check\n- write `1.8` after the earlier character sections are grounded; it should summarize usable triggers and leakage points, not introduce new unsupported machinery\n- keep relationship entries asymmetric when the character logic is asymmetric; do not flatten them into mutual comfort by default\n- provenance and archive descent paths do not belong in the live file\n- some files still carry legacy internal heading shapes; filename and live-surface status are already normalized, while internal structure can be refined in later passes",
+  "metadata": {
+    "char_count": 1002,
+    "sha256": "3094a675a0648c17af06b626602c104f72d3c6ad1afff9859d6fce5c2ff35e79"
+  }
+}

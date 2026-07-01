@@ -1,0 +1,24 @@
+{
+  "id": "doc_09fc33f28d61cfb1:003",
+  "document_id": "doc_09fc33f28d61cfb1",
+  "path": "wiki/characters/fellsions/index.md",
+  "wiki_path": "characters/fellsions/index.md",
+  "title": "펠시온",
+  "section": "균형계 침투",
+  "summary": "펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이며, 균형계에 침투해 각 나라의 상처와 혼란을 파괴계 언어로 벌리는 존재다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "fellsions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_003.json",
+  "text": "## 균형계 침투\n\n펠시온들은 [배신의 펠시온](../ensemble/배신의_펠시온/index.md)이 예측한 균열과 죽음의 침략 계획을 통해 균형계에 들어온다. 배신이 탈주한 뒤 거대한 계획은 산발적인 게릴라전으로 흩어지고, 각 펠시온은 자기 이름과 군단의 상처를 따라 독자적으로 움직인다.\n\n이 침투는 전투 보스 배치의 범위를 넘어 넓은 사건 압력으로 작동한다. 펠시온은 한 나라의 이미 있는 결핍, 불신, 굶주림, 질서, 소리, 감옥, 기술 집착을 파괴계 언어로 벌려 놓는다. 그래서 펠시온 사건은 나라의 내부 하위신 계열과 충돌하며, 구세주 후보와 엑시온과 페르소나의 판단을 시험하는 외부 압력이 된다.",
+  "metadata": {
+    "char_count": 341,
+    "sha256": "80afafb77b9e796e0081f3cf7288c5807fe44a7e0410fa6c31de4068cfe92728"
+  }
+}

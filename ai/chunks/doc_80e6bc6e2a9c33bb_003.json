@@ -1,0 +1,24 @@
+{
+  "id": "doc_80e6bc6e2a9c33bb:003",
+  "document_id": "doc_80e6bc6e2a9c33bb",
+  "path": "wiki/characters/main_party/엘리자베스/support/appearance.md",
+  "wiki_path": "characters/main_party/엘리자베스/support/appearance.md",
+  "title": "엘리자베스 외형",
+  "section": "블랑",
+  "summary": "엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_80e6bc6e2a9c33bb_003.json",
+  "text": "### 블랑\n\n블랑은 같은 조형 위에서 녹안, 절제된 품위, 젊은 의사의 결심, 닫힌 검은 겉치마, 검은 조끼, 진료가방과 리볼버의 긴장으로 선다. 시선은 살짝 비켜 보고, 눈꺼풀은 낮고 무겁지 않으며, 닫힌 미소와 단정한 자세가 남는다.\n\n자세한 외형과 시각 경계는 [블랑 외형](../../블랑/support/appearance.md)에서 다룬다.",
+  "metadata": {
+    "char_count": 196,
+    "sha256": "4e5a266e6987becf6196be1676abb83994e66576a0c0c3079747bb8869e55822"
+  }
+}

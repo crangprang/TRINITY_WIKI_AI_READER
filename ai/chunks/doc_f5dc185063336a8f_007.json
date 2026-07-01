@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:007",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "붉은 달의 전사",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_007.json",
+  "text": "### 붉은 달의 전사\n\n붉은 달 아래 남겨 둔 전사상과 닿을 때 열리는 층위다. 말은 애도와 자격 없음 사이에서 멈칫하고, `서린`이라는 이름이 가장 위험한 형태로 걸린다.",
+  "metadata": {
+    "char_count": 97,
+    "sha256": "e7760b17cfb3eab677cd66fb17b8509769f642f3efdfa4098d12eb61d61f700d"
+  }
+}

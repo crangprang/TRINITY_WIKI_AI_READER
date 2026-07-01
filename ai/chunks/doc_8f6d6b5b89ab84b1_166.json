@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:166",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 우주와 세계 구조 진입점 리빌드",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_166.json",
+  "text": "## [2026-06-26] rebuild | 우주와 세계 구조 진입점 리빌드\n\n새 SOT DB 계약 기준에 맞춰 우주 구조 진입 항목을 [삼위일체 우주](universe/structure/삼위일체_우주.md)로 다시 정리했다.\n\n- 정리: 삼위일체 우주, 균형계, 세 에너지, 오리진, 하위신의 역할을 문서 진입점 안에서 설명했다.\n- 보강: 세계 구조, 우주 법칙, 균형계 하위 항목, 관련 문서로 조회 흐름을 분리했다.\n- 연결: 균형계 문화, 균형계 언어, 아홉 나라, 세계사, 트리네아드로 이어지는 링크를 보강했다.",
+  "metadata": {
+    "char_count": 293,
+    "sha256": "e1a148be8da669d06ddcbdc6d7a60f630fb6b70c581054f09fe1812157814d9d"
+  }
+}

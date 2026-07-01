@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:250",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 하급 생태 정의 문장 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_250.json",
+  "text": "## [2026-06-26] style | 하급 생태 정의 문장 정리\n\n하급 생물과 생태 문서의 frontmatter summary와 첫 정의에서 편집 상태처럼 보이는 `정리된/정리되는` 표현을 제거했다.\n\n- 레이어드, 마사오트, 알렉시아, 플라센티아의 원생 생물 문서는 각 생물군이 어떤 환경 조건에서 미시 생태를 이루는지 직접 선언하도록 바꿨다.\n- 레이어드 하층 생태, 마사오트 항해 생태, 알렉시아 동굴·서가 생태, 플라센티아 숲 생태의 summary를 생활권과 서식 조건 중심의 생태 정의로 바꿨다.",
+  "metadata": {
+    "char_count": 285,
+    "sha256": "130a2752b2016b3ffe1c3f7aab48bb54044b7a9eae37059dd60e140e632c9cd8"
+  }
+}

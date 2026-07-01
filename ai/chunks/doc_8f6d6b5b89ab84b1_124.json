@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:124",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 마이더스 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_124.json",
+  "text": "## [2026-06-26] rebuild | 마이더스 항목 정리\n\n[마이더스](characters/axions/마이더스/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리했다.\n\n- 정리: 바벨의 창업 군주, 상승과 체면, 레이어드의 통치, 카타바시스와 황금 의수, 카론, 붕괴, 더 나은 내일, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [마이더스 외형](characters/axions/마이더스/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 50대 수트 실루엣, 금이 간 황금 사자 신용 가면, 황금 의수 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 마이더스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 386,
+    "sha256": "5fc791914d1bd5da36ba5bd441dc808a869868e648a879e8db42b4f18b88b10a"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "단테"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "지하의 책과 루시아"
+    },
+    {
+      "level": 3,
+      "title": "코큐토스 결투재판"
+    },
+    {
+      "level": 3,
+      "title": "마지막 질문"
+    },
+    {
+      "level": 2,
+      "title": "별과 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "별의 시선"
+    },
+    {
+      "level": 3,
+      "title": "얼어붙은 승리"
+    },
+    {
+      "level": 3,
+      "title": "맹세를 건 이름"
+    },
+    {
+      "level": 3,
+      "title": "주목과 결투"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "일확천금의 현지 가이드"
+    },
+    {
+      "level": 3,
+      "title": "이겨 버린 패배자"
+    },
+    {
+      "level": 3,
+      "title": "코큐토스의 개"
+    },
+    {
+      "level": 3,
+      "title": "자신의 지옥을 걷는 순례자"
+    },
+    {
+      "level": 3,
+      "title": "마지막 질문"
+    },
+    {
+      "level": 2,
+      "title": "능력과 장비"
+    },
+    {
+      "level": 3,
+      "title": "생존 기술"
+    },
+    {
+      "level": 3,
+      "title": "결투"
+    },
+    {
+      "level": 3,
+      "title": "주목"
+    },
+    {
+      "level": 3,
+      "title": "하이드"
+    },
+    {
+      "level": 3,
+      "title": "마지막 질문"
+    },
+    {
+      "level": 2,
+      "title": "말투와 장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "루시아"
+    },
+    {
+      "level": 3,
+      "title": "세레나"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "아인"
+    },
+    {
+      "level": 3,
+      "title": "발데마르, 마텔다, 미노스"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "단테 보이스",
+      "target": "wiki/characters/main_party/단테/support/voice.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "발데마르",
+      "target": "wiki/characters/savior_candidates/발데마르/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "단테 외형",
+      "target": "wiki/characters/main_party/단테/support/appearance.md"
+    },
+    {
+      "label": "단테 보이스",
+      "target": "wiki/characters/main_party/단테/support/voice.md"
+    },
+    {
+      "label": "단테 음악",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "발데마르",
+      "target": "wiki/characters/savior_candidates/발데마르/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    }
+  ],
+  "sha256": "78c33526ddb66662f83ecf92f58aeeb4536c722a8498d8da9340181e207509fb",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_08d2d2331ddb4265.json",
+  "chunks": [
+    {
+      "id": "doc_08d2d2331ddb4265:000",
+      "section": "단테",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_000.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_001.json",
+      "char_count": 465
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:003",
+      "section": "지하의 책과 루시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_003.json",
+      "char_count": 284
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:004",
+      "section": "코큐토스 결투재판",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_004.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:005",
+      "section": "마지막 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_005.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:006",
+      "section": "별과 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_006.json",
+      "char_count": 11
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:007",
+      "section": "별의 시선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_007.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:008",
+      "section": "얼어붙은 승리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_008.json",
+      "char_count": 237
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:009",
+      "section": "맹세를 건 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_009.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:010",
+      "section": "주목과 결투",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_010.json",
+      "char_count": 273
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:011",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_011.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:012",
+      "section": "일확천금의 현지 가이드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_012.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:013",
+      "section": "이겨 버린 패배자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_013.json",
+      "char_count": 218
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:014",
+      "section": "코큐토스의 개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_014.json",
+      "char_count": 217
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:015",
+      "section": "자신의 지옥을 걷는 순례자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_015.json",
+      "char_count": 215
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:016",
+      "section": "마지막 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_016.json",
+      "char_count": 202
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:017",
+      "section": "능력과 장비",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:018",
+      "section": "생존 기술",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_018.json",
+      "char_count": 154
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:019",
+      "section": "결투",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_019.json",
+      "char_count": 513
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:020",
+      "section": "주목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_020.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:021",
+      "section": "하이드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_021.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:022",
+      "section": "마지막 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_022.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:023",
+      "section": "말투와 장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_023.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:024",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_024.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:025",
+      "section": "루시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_025.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:026",
+      "section": "세레나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_026.json",
+      "char_count": 159
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:027",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_027.json",
+      "char_count": 123
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:028",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_028.json",
+      "char_count": 136
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:029",
+      "section": "발데마르, 마텔다, 미노스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_029.json",
+      "char_count": 329
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:030",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_030.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_08d2d2331ddb4265:031",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_031.json",
+      "char_count": 726
+    }
+  ]
+}

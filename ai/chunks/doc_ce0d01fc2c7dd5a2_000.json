@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce0d01fc2c7dd5a2:000",
+  "document_id": "doc_ce0d01fc2c7dd5a2",
+  "path": "wiki/universe/realms/balance/language/index.md",
+  "wiki_path": "universe/realms/balance/language/index.md",
+  "title": "균형계 언어",
+  "section": "균형계 언어",
+  "summary": "균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "language",
+    "naming"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce0d01fc2c7dd5a2_000.json",
+  "text": "# 균형계 언어\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 언어권과 명명 체계 |\n| 이름 | 균형계 언어 |\n| 소속 세계 | [균형계](../index.md) |\n| 상위명 | 아포라투스 |\n| 명명 범위 | 국가명 / 아포라투스명 / 기관명 / 기능조직명 / 절차명 |\n| 연동 항목 | [균형계 문화](../culture/index.md) |",
+  "metadata": {
+    "char_count": 201,
+    "sha256": "4bb508e186894897f743053c643f9c212d8d43cb86b3fd990cac79d4f9a187fd"
+  }
+}

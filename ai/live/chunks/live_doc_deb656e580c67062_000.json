@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_deb656e580c67062:000",
+  "document_id": "live_doc_deb656e580c67062",
+  "path": "03_WORLD/04_CREATURE/C03_EXPLORER/02_FANTASMA/02_GRADE_2/C03_GRADE_2_FANTASMA_BRANCH_IDEA.txt",
+  "title": "C03_EXPLORER / GRADE_2_FANTASMA_BRANCH_IDEA",
+  "section": "body",
+  "summary": "C03_EXPLORER / GRADE_2_FANTASMA_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_deb656e580c67062_000.json",
+  "text": "C03_EXPLORER / GRADE_2_FANTASMA_BRANCH_IDEA\n\n[이 문서 사용법]\n- 아르카르타의 1~2급 경계 판타즈마 후보 중, 사회적 공포 쪽으로 우선 배치한 항목을 둔다.\n- 1급으로 낮출 후보가 생기면 `01_GRADE_1`로 분리한다.\n\n1. 후보\n\n- 미착의 판타즈마 / 현장명 후보: 돌아온 편지떼\n- 접현의 판타즈마 / 현장명 후보: 빈갈고리\n- 추락의 판타즈마 / 현장명 후보: 아랫바람\n\n2. 적용 메모\n\n- 미착은 미전달 편지의 사회적 공포다. 봉투돛새와 다르며, 젖은 편지, 봉랍, 우편끈이 철새처럼 몰려드는 판타즈마로 둔다.\n- 접현은 접현 실패와 구조 실패의 공포다. 실제 밧줄과 판타즈마 갈고리가 섞여 항구 활극을 만든다.\n- 추락은 전투형 괴물보다 한 번의 실수를 크게 만드는 하강 기류 판타즈마다. 난간, 안전줄, 우편 자루, 하강 기류가 핵심 소품이다.\n- 파훼는 단순 격파보다 도착 선언, 줄/갈고리 식별, 기류 붕괴, 안전 절차 복구 쪽으로 잡는다.",
+  "metadata": {
+    "char_count": 506,
+    "sha256": "d14c1fdbdf97da8e186a5d293bf2e22b7391d6b208e652148547c22038473dfb"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_09b37b2397c017ce:002",
+  "document_id": "doc_09b37b2397c017ce",
+  "path": "wiki/characters/axions/마텔다/support/appearance.md",
+  "wiki_path": "characters/axions/마텔다/support/appearance.md",
+  "title": "마텔다 외형",
+  "section": "심판관 실루엣",
+  "summary": "마텔다의 20대 중반 심판관 실루엣, 금발과 푸른 눈, 법정복과 군복의 혼합, 서리 파프니르 기사 바이저를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09b37b2397c017ce_002.json",
+  "text": "## 심판관 실루엣\n\n마텔다는 판결 직전의 심판관으로 선다. 얼굴은 차갑고 흔들림이 적으며, 자세는 검을 뽑기 전의 정지감으로 잡힌다.\n\n의상은 법정복과 군복의 혼합이다. 법정, 군율, 감시를 집행하는 옷이며, 기사 갑주 중심의 전투 복식은 중심에서 빠진다.",
+  "metadata": {
+    "char_count": 144,
+    "sha256": "8b61abc861ec114b12f410ebe00e389468ffe5e769181a076253cb87dd75a71f"
+  }
+}

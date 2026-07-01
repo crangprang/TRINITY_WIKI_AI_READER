@@ -1,0 +1,23 @@
+{
+  "id": "doc_bb715ad1ad9d7128:001",
+  "document_id": "doc_bb715ad1ad9d7128",
+  "path": "wiki/review/template_gaps.md",
+  "wiki_path": "review/template_gaps.md",
+  "title": "본문 보강 대상",
+  "section": "운영 기준",
+  "summary": "독자용 WIKI 항목에서 빈 섹션을 만들지 않기 위해 남겨 둔 활성 보강 대상과 리뉴얼 슬롯.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "wiki",
+    "template-gaps"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_001.json",
+  "text": "## 운영 기준\n\n- 근거 있는 내용이 생긴 항목만 본문 섹션으로 올린다.\n- 빈 `배경`, `결과와 영향`, `위협 방식`, `파훼와 장면 기능` 섹션을 미리 만들지 않는다.\n- 보강할 수 없는 일반 미완성은 `draft` 상태로 둔다.\n- 사용자 판단이 필요한 공백은 [판단 요청](decision_requests/index.md)으로 분리한다.",
+  "metadata": {
+    "char_count": 195,
+    "sha256": "eadc9e385a1ca8ff903848a77f70e58aac9fd5e641d2589b42bd43b89a5d268e"
+  }
+}

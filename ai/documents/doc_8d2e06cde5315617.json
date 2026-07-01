@@ -1,0 +1,249 @@
+{
+  "id": "doc_8d2e06cde5315617",
+  "path": "wiki/characters/trineads/죽음의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/죽음의_트리네아드/index.md",
+  "title": "죽음의 트리네아드",
+  "summary": "죽음의 트리네아드는 영원의 보물에서 태어난 파괴계의 절대 왕이다. 그는 파괴와 이성의 축에서 고요한 종말의 신탁을 받드는 사도로 자신을 세우고, 생존 전쟁 끝에 죽음 군단과 파괴계의 서열을 정리한 뒤 균형계 침공을 준비한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "죽음의 트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 3,
+      "title": "파괴계의 절대 왕"
+    },
+    {
+      "level": 3,
+      "title": "고요한 종말의 사도"
+    },
+    {
+      "level": 3,
+      "title": "침공의 왕"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "생존 전쟁"
+    },
+    {
+      "level": 3,
+      "title": "정적의 감옥"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "이름 판결"
+    },
+    {
+      "level": 3,
+      "title": "절대 서열"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "에르고"
+    },
+    {
+      "level": 3,
+      "title": "공허의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "배신의 펠시온"
+    },
+    {
+      "level": 3,
+      "title": "고요한 종말"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    }
+  ],
+  "sha256": "aa931d7fff11fdc41c7af5400ef413079bae08a4d16c0043337a85107ab7bab5",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8d2e06cde5315617.json",
+  "chunks": [
+    {
+      "id": "doc_8d2e06cde5315617:000",
+      "section": "죽음의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_000.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_8d2e06cde5315617:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_001.json",
+      "char_count": 478
+    },
+    {
+      "id": "doc_8d2e06cde5315617:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8d2e06cde5315617:003",
+      "section": "파괴계의 절대 왕",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_003.json",
+      "char_count": 262
+    },
+    {
+      "id": "doc_8d2e06cde5315617:004",
+      "section": "고요한 종말의 사도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_004.json",
+      "char_count": 537
+    },
+    {
+      "id": "doc_8d2e06cde5315617:005",
+      "section": "침공의 왕",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_005.json",
+      "char_count": 264
+    },
+    {
+      "id": "doc_8d2e06cde5315617:006",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_006.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_8d2e06cde5315617:007",
+      "section": "생존 전쟁",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_007.json",
+      "char_count": 311
+    },
+    {
+      "id": "doc_8d2e06cde5315617:008",
+      "section": "정적의 감옥",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_008.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_8d2e06cde5315617:009",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_009.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_8d2e06cde5315617:010",
+      "section": "이름 판결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_010.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_8d2e06cde5315617:011",
+      "section": "절대 서열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_011.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_8d2e06cde5315617:012",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_012.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_8d2e06cde5315617:013",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_013.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_8d2e06cde5315617:014",
+      "section": "에르고",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_014.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_8d2e06cde5315617:015",
+      "section": "공허의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_015.json",
+      "char_count": 122
+    },
+    {
+      "id": "doc_8d2e06cde5315617:016",
+      "section": "배신의 펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_016.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_8d2e06cde5315617:017",
+      "section": "고요한 종말",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_017.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_8d2e06cde5315617:018",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8d2e06cde5315617_018.json",
+      "char_count": 343
+    }
+  ]
+}

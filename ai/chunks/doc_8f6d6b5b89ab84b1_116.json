@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:116",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 로렌초 카발리에리 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_116.json",
+  "text": "## [2026-06-26] rebuild | 로렌초 카발리에리 항목 정리\n\n[로렌초 카발리에리](characters/savior_candidates/로렌초_카발리에리/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [우니오네](universe/realms/balance/nations/우니오네.md)의 유랑 서커스, 초대장, 꿈과 귀환 구조에 맞췄다.\n\n- 정리: 유랑 서커스 단장, 꿈과 귀환, 유리디스, 빈센트와 모방, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [로렌초 카발리에리 외형](characters/savior_candidates/로렌초_카발리에리/support/appearance.md)의 관리 문구와 미완성 support 표면을 제거하고 떠돌이 서커스 단장, 낡은 연극적 얼굴 가림, 초대장, 공연 허가서 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 로렌초 카발리에리 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 492,
+    "sha256": "c165330a8ba420ebe2d7577f433239e34e9544731e135f5b10e68f16ce55b1be"
+  }
+}

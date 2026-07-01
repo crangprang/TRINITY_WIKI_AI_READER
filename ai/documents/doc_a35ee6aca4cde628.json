@@ -1,0 +1,248 @@
+{
+  "id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "category": "review:user_locks.md",
+  "is_support": false,
+  "is_review": true,
+  "headings": [
+    {
+      "level": 1,
+      "title": "사용자 잠금과 창작 철학 메모"
+    },
+    {
+      "level": 2,
+      "title": "창작 철학 메모"
+    },
+    {
+      "level": 3,
+      "title": "신과 권위"
+    },
+    {
+      "level": 3,
+      "title": "WIKI 서술 태도"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-29 신격과 신적 권위"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-28 아포라투스 기관 보류"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-26 WIKI 구조와 신설 검토"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-26 염한 후속 셰어 표면 결정"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-26 캐릭터 support와 항목 양식"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-27 세계관 DB 보강 범위"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-27 세계법칙 1차 판단"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-27 퍼시스 사건 충돌 해결"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-27 아홉 보물과 장치 체계"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-27 인물 대표명과 alias 규칙"
+    },
+    {
+      "level": 2,
+      "title": "2026-06-27 핸드오프 ingest 추가 판단"
+    }
+  ],
+  "links": [
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "균형계/문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계/언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "디아도코이",
+      "target": "wiki/universe/realms/balance/organizations/디아도코이.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    }
+  ],
+  "sha256": "07c8e6b7acf679e72d4733259a62e763553439b45251123cafe7903dfca98629",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a35ee6aca4cde628.json",
+  "chunks": [
+    {
+      "id": "doc_a35ee6aca4cde628:000",
+      "section": "사용자 잠금과 창작 철학 메모",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_000.json",
+      "char_count": 239
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:001",
+      "section": "창작 철학 메모",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_001.json",
+      "char_count": 11
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:002",
+      "section": "신과 권위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_002.json",
+      "char_count": 771
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:003",
+      "section": "WIKI 서술 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_003.json",
+      "char_count": 263
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:004",
+      "section": "2026-06-29 신격과 신적 권위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_004.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:005",
+      "section": "2026-06-28 아포라투스 기관 보류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_005.json",
+      "char_count": 157
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:006",
+      "section": "2026-06-26 WIKI 구조와 신설 검토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_006.json",
+      "char_count": 845
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:007",
+      "section": "2026-06-26 염한 후속 셰어 표면 결정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_007.json",
+      "char_count": 375
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:008",
+      "section": "2026-06-26 캐릭터 support와 항목 양식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_008.json",
+      "char_count": 540
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:009",
+      "section": "2026-06-27 세계관 DB 보강 범위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_009.json",
+      "char_count": 946
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:010",
+      "section": "2026-06-27 세계법칙 1차 판단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_010.json",
+      "char_count": 1648
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:011",
+      "section": "2026-06-27 퍼시스 사건 충돌 해결",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_011.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:012",
+      "section": "2026-06-27 아홉 보물과 장치 체계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_012.json",
+      "char_count": 565
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:013",
+      "section": "2026-06-27 인물 대표명과 alias 규칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_013.json",
+      "char_count": 512
+    },
+    {
+      "id": "doc_a35ee6aca4cde628:014",
+      "section": "2026-06-27 핸드오프 ingest 추가 판단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_014.json",
+      "char_count": 611
+    }
+  ]
+}

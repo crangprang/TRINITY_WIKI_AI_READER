@@ -1,0 +1,24 @@
+{
+  "id": "doc_298c9cc88c749347:006",
+  "document_id": "doc_298c9cc88c749347",
+  "path": "wiki/characters/personas/에어리얼/support/appearance.md",
+  "wiki_path": "characters/personas/에어리얼/support/appearance.md",
+  "title": "에어리얼 외형",
+  "section": "관련 문서",
+  "summary": "에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_006.json",
+  "text": "## 관련 문서\n\n- [에어리얼](../index.md) - 마사오트의 방주 항로와 미전달 편지를 쥐는 페르소나.\n- [마사오트](../../../../universe/realms/balance/nations/마사오트.md) - 에어리얼의 엑소도스와 키베르노스가 놓이는 탐험의 나라.\n- [프로스페로](../../../axions/프로스페로/index.md) - 티폰을 끝내는 항로를 찾는 마사오트의 엑시온.\n- [캘리번](../../../savior_candidates/캘리번/index.md) - 금지 심층에 접근해 마사오트의 숨은 항로를 건드린 구세주 후보.\n- [운명의 판타즈마](../../../../beings/phantasmas/운명의_판타즈마.md) - 에어리얼의 폭풍과 도피 항로에 연결되는 판타즈마.",
+  "metadata": {
+    "char_count": 401,
+    "sha256": "64ed23e65614ee8474181788d09c00aef7a4f7e5bab8b7df6fda604323205e51"
+  }
+}

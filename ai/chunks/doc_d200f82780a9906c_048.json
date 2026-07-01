@@ -1,0 +1,23 @@
+{
+  "id": "doc_d200f82780a9906c:048",
+  "document_id": "doc_d200f82780a9906c",
+  "path": "wiki/universe/realms/balance/nations/우니오네.md",
+  "wiki_path": "universe/realms/balance/nations/우니오네.md",
+  "title": "우니오네",
+  "section": "관련 문서",
+  "summary": "우니오네는 현실과 꿈이 붉은 수면을 사이에 두고 서로를 눌러 찍은 예술의 나라다. 연회와 가면, 샹들리에와 유리잔, 유랑 극단과 수몰 도시의 가스등이 물 위에 떠 있고, 수면 아래에서는 같은 몸짓이 비극과 악몽으로 번진다. 이 나라의 첫 얼굴은 퇴폐보다도 `현실이 허락하지 않은 결말을 가장 아름답게 다시 보여 주는 힘`으로 드러난다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_048.json",
+  "text": "## 관련 문서\n\n- [빈센트](../../../../characters/personas/빈센트/index.md) - 아름다운 출구와 아틀리에 재연으로 우니오네의 꿈 독성을 작동시키는 페르소나.\n- [엘리자베스](../../../../characters/main_party/엘리자베스/index.md) - 사이프러스 단검의 꿈 절반과 빈센트의 아틀리에가 기억 좌표로 삼는 주역.\n- [유랑 서커스](../organizations/유랑_서커스.md) - 우니오네의 공연과 꿈의 기술을 대륙 실무로 공급하는 기능조직.\n- [로렌초 카발리에리](../../../../characters/savior_candidates/로렌초_카발리에리/index.md) - 공연과 꿈 유입로에 귀환의 책임을 붙드는 유랑 서커스 단장.\n- [캘리번](../../../../characters/savior_candidates/캘리번/index.md) - 탐험가 길드 우니오네 지부장으로 머무는 마사오트 구세주 후보.\n- [모방의 펠시온](../../../../characters/fellsions/모방의_펠시온/index.md) - 우니오네의 공연과 꿈 유입로를 기술 약탈의 수업장으로 바꾸는 펠시온.\n- [외면의 판타즈마](../../../../beings/phantasmas/외면의_판타즈마.md) - 현실의 물과 꿈의 물이 갈라지는 우니오네의 대형 판타즈마 압력.",
+  "metadata": {
+    "char_count": 696,
+    "sha256": "c50b7fe363217fb69621c4daeab97651d6f472cab2c7b6465f83d927430bbc57"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_13351a3343adfca7:001",
+  "document_id": "doc_13351a3343adfca7",
+  "path": "wiki/characters/personas/미노스/support/appearance.md",
+  "wiki_path": "characters/personas/미노스/support/appearance.md",
+  "title": "미노스 외형",
+  "section": "외형 기준",
+  "summary": "미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_13351a3343adfca7_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 제복과 제복모자를 입은 남성 |\n| 실루엣 | 간수와 경찰, 판관의 압력이 섞인 단정한 제복 실루엣 |\n| 가면 | 미궁의 황소와 판관이 겹친 가면 |\n| 의상 | 어두운 제복, 제복모자, 반듯한 장갑, 법정과 감시 기관의 장식선 |\n| 소품 | 마스터 링 위의 스노우볼 보석, 판결 기록, 고리 법정의 표식, 파놉티콘 렌즈 |\n| 배경 | 파놉티콘, 시민의 시선, 고리 법정, 가짜 하늘과 별 |\n| 표정/자세 | 고결한 멘토처럼 서지만, 시선과 손짓은 재판 무대의 위치를 배치한다. |",
+  "metadata": {
+    "char_count": 319,
+    "sha256": "5aa0d731b7a91bd0e5065ba6118bbc5435ce21767236aacf324c830afba3045f"
+  }
+}

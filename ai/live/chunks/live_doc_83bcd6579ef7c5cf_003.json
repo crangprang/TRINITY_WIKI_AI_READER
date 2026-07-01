@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_83bcd6579ef7c5cf:003",
+  "document_id": "live_doc_83bcd6579ef7c5cf",
+  "path": "05_PLOT_AND_SCENE/01_PLOT_AND_SCENE_README.txt",
+  "title": "05_PLOT_AND_SCENE",
+  "section": "What Lives Here",
+  "summary": "`05_PLOT_AND_SCENE` is the live surface for plot order, episode flow, and scene beats.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:01_PLOT_AND_SCENE_README.txt",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_003.json",
+  "text": "## What Lives Here\n\n- root guidance for plot and scene handling\n- part-level guidance for the active era\n- live chapter and episode files\n- default and template surfaces used by chapter files",
+  "metadata": {
+    "char_count": 191,
+    "sha256": "232d56b21067ec3158131abf4b857f102f7556435a0dd3143d6240755a32d7e1"
+  }
+}

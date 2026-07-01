@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_70bb5d85dbb48408:000",
+  "document_id": "live_doc_70bb5d85dbb48408",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/08_HELEN/PER08_FACT_DETAIL.txt",
+  "title": "헬렌 / FACT_DETAIL",
+  "section": "body",
+  "summary": "헬렌 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_70bb5d85dbb48408_000.json",
+  "text": "헬렌 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER08_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 천상, 지상, 불순물, 평온, 구름, 세리엔의 우의.\n- 남을 살린다는 말이 무엇을 보지 않겠다는 말처럼 들리는 순간.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 280,
+    "sha256": "874b77510dee3fb075d90d4943ae3977bf0c08c9eaed57f2ca1ab982ba0ff08e"
+  }
+}

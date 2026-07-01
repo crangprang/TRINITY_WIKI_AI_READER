@@ -1,0 +1,24 @@
+{
+  "id": "doc_5078ebf75c346448:005",
+  "document_id": "doc_5078ebf75c346448",
+  "path": "wiki/characters/savior_candidates/랄/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/랄/support/appearance.md",
+  "title": "랄 외형",
+  "section": "시각 경계",
+  "summary": "랄의 20대 초반 슬림 실루엣, 코랄 머리와 흰 눈, 기록 태그, `1위를 유지하라` 메모, 체스 습관을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5078ebf75c346448_005.json",
+  "text": "## 시각 경계\n\n- 화려한 연구 장비보다 기록 태그, 메모, 점수표 조각을 앞세운다.\n- 연구복은 깨끗한 SF 실험복보다 오래 입은 실용복으로 둔다.\n- 체스 말은 아인과의 기억을 건드리는 작은 소품으로 사용한다.\n- `1위를 유지하라` 메모는 내부 스코어링과 기다림의 기준으로 보이게 한다.",
+  "metadata": {
+    "char_count": 164,
+    "sha256": "6cde830d1ca8c40cb3b6d408b4b9890057c5f7181141aed0acb6538bdb23e17d"
+  }
+}

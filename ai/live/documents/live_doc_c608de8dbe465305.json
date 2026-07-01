@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_c608de8dbe465305",
+  "path": "03_WORLD/04_CREATURE/C04_TRADE/02_FANTASMA/03_GRADE_3/C04_GRADE_3_FANTASMA_BRANCH_IDEA.txt",
+  "title": "C04_TRADE / GRADE_3_FANTASMA_BRANCH_IDEA",
+  "summary": "C04_TRADE / GRADE_3_FANTASMA_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "b3ca08e321e2d6cc85e757e0090f7ed698f0de11bc21693ddd240dafb6c19169",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c608de8dbe465305.json",
+  "chunks": [
+    {
+      "id": "live_doc_c608de8dbe465305:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c608de8dbe465305_000.json",
+      "char_count": 715
+    }
+  ]
+}

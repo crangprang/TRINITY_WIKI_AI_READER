@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:299",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 1부 초반 사건 항목 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_299.json",
+  "text": "## [2026-06-26] rebuild | 1부 초반 사건 항목 보강\n\n[프롤로그](events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md), [백색 폐허와 유령 의뢰](events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md), [마사오트 조우 실패와 알렉시아 기록 추적](events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md)의 상단 정보표를 사건 DB 항목 형태로 보강하고, 단서·오인·방향 전환의 사건 구조를 본문 절로 정리했다.",
+  "metadata": {
+    "char_count": 291,
+    "sha256": "b3da3094e1711418bca934478a48683eb592cdc6e13127a226e84d504e977c7a"
+  }
+}

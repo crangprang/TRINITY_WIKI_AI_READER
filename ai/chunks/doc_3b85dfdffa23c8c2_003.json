@@ -1,0 +1,24 @@
+{
+  "id": "doc_3b85dfdffa23c8c2:003",
+  "document_id": "doc_3b85dfdffa23c8c2",
+  "path": "wiki/characters/personas/빈센트/support/appearance.md",
+  "wiki_path": "characters/personas/빈센트/support/appearance.md",
+  "title": "빈센트 외형",
+  "section": "액자 프레임 가면",
+  "summary": "빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_003.json",
+  "text": "## 액자 프레임 가면\n\n가면은 액자 또는 프레임 형태로 고정된다. 액자 프레임 안에는 웃고 있는 기괴한 얼굴이 있고, 모자 그림자가 그 얼굴을 부분적으로 가린다. 관객은 친절한 신사의 윤곽을 먼저 보고, 이어서 프레임 안의 얼굴이 가진 악몽성을 읽는다.\n\n민낯 초상은 드러나지 않는다. 표정은 모자 각도, 액자 내부의 기괴한 웃음, 손의 거리, 도구를 내려놓는 속도로 읽힌다.",
+  "metadata": {
+    "char_count": 211,
+    "sha256": "28a4a7f263b8af03e45bd01ac292428333a4346ef4cd153cdcb9bae1f216e44f"
+  }
+}

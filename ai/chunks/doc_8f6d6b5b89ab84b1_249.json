@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:249",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 독자용 소유권 문장 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_249.json",
+  "text": "## [2026-06-26] style | 독자용 소유권 문장 정리\n\nreader-facing 본문에 남은 편집자용 항목 소유권 표현을 세계 내부 설명으로 바꿨다.\n\n- 균형계 문화와 균형계 언어: `이 항목`, `소유한다`, `상위 세계` 표현을 이름, 문화, 균형계의 작동 관계로 풀었다.\n- 엘리자베스: 본문과 외형 support의 담당/소유 문장을 공용 몸, 전면별 외형 운용, 개별 인물 항목의 관계 설명으로 바꿨다.\n- 트리네아드 외형: 공통 외형 원리가 항목 안에 모인다는 표현을 아홉 영웅 원형과 계통별 압력의 구성 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 306,
+    "sha256": "7cd6a8a354daabf44ed591f4d72b5d20f810e7e5c8682736acc4b3dd8ed419d4"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "doc_1f7ebaf4956e3c31",
+  "path": "wiki/universe/realms/balance/organizations/에이티스트.md",
+  "wiki_path": "universe/realms/balance/organizations/에이티스트.md",
+  "title": "에이티스트",
+  "summary": "에이티스트는 신앙이 사회 운영의 전제가 되는 질서에 맞서 행정 독점과 면허 독점을 논리와 기록으로 공격하는 이단 세력이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "heresy"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "에이티스트"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "활동 양상"
+    },
+    {
+      "level": 2,
+      "title": "정교와의 관계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "크로니클",
+      "target": "wiki/universe/realms/balance/organizations/크로니클.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    }
+  ],
+  "sha256": "475fc715e78b1fc2d038419bed8093d9b8539ac89677279b3fdb8227c991a36b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1f7ebaf4956e3c31.json",
+  "chunks": [
+    {
+      "id": "doc_1f7ebaf4956e3c31:000",
+      "section": "에이티스트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1f7ebaf4956e3c31_000.json",
+      "char_count": 171
+    },
+    {
+      "id": "doc_1f7ebaf4956e3c31:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1f7ebaf4956e3c31_001.json",
+      "char_count": 225
+    },
+    {
+      "id": "doc_1f7ebaf4956e3c31:002",
+      "section": "활동 양상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1f7ebaf4956e3c31_002.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_1f7ebaf4956e3c31:003",
+      "section": "정교와의 관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1f7ebaf4956e3c31_003.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_1f7ebaf4956e3c31:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1f7ebaf4956e3c31_004.json",
+      "char_count": 167
+    }
+  ]
+}

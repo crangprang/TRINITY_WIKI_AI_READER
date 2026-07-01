@@ -1,0 +1,24 @@
+{
+  "id": "doc_01e73c6063b957a1:003",
+  "document_id": "doc_01e73c6063b957a1",
+  "path": "wiki/characters/main_party/단테/support/appearance.md",
+  "wiki_path": "characters/main_party/단테/support/appearance.md",
+  "title": "단테 외형",
+  "section": "의상과 소품",
+  "summary": "단테의 접힌 지하 생존자 실루엣, 눌린 녹색 머리와 흐린 벽안, 한 사람 앞에서 살아나는 기사선을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_01e73c6063b957a1_003.json",
+  "text": "## 의상과 소품\n\n단테의 옷은 한 벌 안에 지하 생존자와 숨은 기사선을 함께 담는다. 바깥에는 눌린 외투와 짧은 망토성 덧자락, 해진 시종복의 잔재가 먼저 보인다. 안쪽에는 숨길 자리가 많은 조끼와 바랜 셔츠가 놓이고, 주머니와 끈, 얇은 장갑, 조용한 장화가 생활 도구의 층을 만든다.\n\n옷 표면은 먼지와 습기를 먹은 천, 빛 죽은 가죽, 닳은 가장자리의 질감으로 낮아진다. 무늬는 거의 없고, 얼룩과 닳음이 표면을 만든다. 장식은 작고 몸 안쪽에 붙는다. 락픽, 지도 조각, 동전주머니, 얇은 단검, 가짜 신분용 소품은 먼저 보이는 과시품으로 서지 않고 손이 닿는 곳에 숨은 생존 도구로 놓인다.\n\n기사검 `마지막 질문`은 단테의 과거를 여는 상징 소품이다. 겉에서 보이는 검은 평범한 철검의 인상에 머물고, 화려한 장식은 뒤로 물러나며 오래 감춰 둔 무게가 중심을 이룬다. 외투가 열리거나 자세가 펴질 때 칼집선, 허리선, 조끼 절개선이 이상할 만큼 단정하게 살아나며 기사 교육의 흔적을 드러낸다.",
+  "metadata": {
+    "char_count": 506,
+    "sha256": "a1823756f72b2fc840bb8ed585d83794a45ee02fd389d1096dbd38de20325b40"
+  }
+}

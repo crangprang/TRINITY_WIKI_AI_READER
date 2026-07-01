@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:110",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 루시리엘 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_110.json",
+  "text": "## [2026-06-26] rebuild | 루시리엘 항목 정리\n\n[루시리엘](characters/savior_candidates/루시리엘/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [파라디소](universe/realms/balance/nations/파라디소.md)의 오멜라스, 올림피아 순위, 필그림즈, 현실적 방패 구조에 맞췄다.\n\n- 정리: 먼저 움직이는 성기사, 파라디소의 방패, 순례자들/필그림즈, 루시리엘과 필그림즈, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [루시리엘 외형](characters/savior_candidates/루시리엘/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 백금발 성기사, 작은 방패, 닳은 장갑, 환자에게 뻗은 손, 파라디소의 현실적 방패성 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 루시리엘 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 508,
+    "sha256": "7a81b1361ee4391898d1f284f8a202bc83afe90a1b6e4275002b5b639752b705"
+  }
+}

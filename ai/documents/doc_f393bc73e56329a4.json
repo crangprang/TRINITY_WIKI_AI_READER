@@ -1,0 +1,780 @@
+{
+  "id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "category": "review:worldbuilding_development_todo.md",
+  "is_support": false,
+  "is_review": true,
+  "headings": [
+    {
+      "level": 1,
+      "title": "세계관 개발 TODO"
+    },
+    {
+      "level": 2,
+      "title": "운영 기준"
+    },
+    {
+      "level": 2,
+      "title": "처리 분류"
+    },
+    {
+      "level": 2,
+      "title": "활성 TODO"
+    },
+    {
+      "level": 3,
+      "title": "ChatGPT 프로젝트 핸드오프 ingest"
+    },
+    {
+      "level": 3,
+      "title": "완료된 핸드오프 ingest"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 2026-05-23 세션"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 혼돈-현재/아홉 영웅/동화책/아홉 나라 3축"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 아포라투스 체계"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 아홉 나라 명명 체계"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 염한 추가"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 가인 외형"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 주인공 파티 키워드"
+    },
+    {
+      "level": 3,
+      "title": "세계법칙 1차 정리"
+    },
+    {
+      "level": 3,
+      "title": "잔여 핸드오프 ingest: 하위신 체계"
+    },
+    {
+      "level": 3,
+      "title": "아홉 나라 원샷 커버리지 감사"
+    },
+    {
+      "level": 4,
+      "title": "LIVE lore 대조 결과"
+    },
+    {
+      "level": 3,
+      "title": "플롯과 에피소드 보류"
+    },
+    {
+      "level": 3,
+      "title": "캐릭터 support 보류"
+    },
+    {
+      "level": 3,
+      "title": "자동 도구와 대시보드"
+    },
+    {
+      "level": 2,
+      "title": "보류 범위"
+    }
+  ],
+  "links": [
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "충돌 기록",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "항목 소유권 잠금",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "충돌 기록",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "증오의 판타즈마",
+      "target": "wiki/beings/phantasmas/증오의_판타즈마.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "가인 외형",
+      "target": "wiki/characters/axions/가인/support/appearance.md"
+    },
+    {
+      "label": "가인 외형",
+      "target": "wiki/characters/axions/가인/support/appearance.md"
+    },
+    {
+      "label": "아인 음악",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    },
+    {
+      "label": "단테 음악",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "진 음악",
+      "target": "wiki/characters/main_party/진/support/music.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "옌 음악",
+      "target": "wiki/characters/main_party/옌/support/music.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "자연의 트리네아드",
+      "target": "wiki/characters/trineads/자연의_트리네아드/index.md"
+    },
+    {
+      "label": "생명의 트리네아드",
+      "target": "wiki/characters/trineads/생명의_트리네아드/index.md"
+    },
+    {
+      "label": "용기의 트리네아드",
+      "target": "wiki/characters/trineads/용기의_트리네아드/index.md"
+    },
+    {
+      "label": "절제의 트리네아드",
+      "target": "wiki/characters/trineads/절제의_트리네아드/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "공허의 트리네아드",
+      "target": "wiki/characters/trineads/공허의_트리네아드/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "마텔다",
+      "target": "wiki/characters/axions/마텔다/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "기근의 펠시온",
+      "target": "wiki/characters/fellsions/기근의_펠시온/index.md"
+    },
+    {
+      "label": "기만의 펠시온",
+      "target": "wiki/characters/fellsions/기만의_펠시온/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "속박의 펠시온",
+      "target": "wiki/characters/fellsions/속박의_펠시온/index.md"
+    },
+    {
+      "label": "역병의 펠시온",
+      "target": "wiki/characters/fellsions/역병의_펠시온/index.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "정적의 펠시온",
+      "target": "wiki/characters/fellsions/정적의_펠시온/index.md"
+    },
+    {
+      "label": "침식의 펠시온",
+      "target": "wiki/characters/fellsions/침식의_펠시온/index.md"
+    },
+    {
+      "label": "본문 보강 대상",
+      "target": "wiki/review/template_gaps.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "본문 보강 대상",
+      "target": "wiki/review/template_gaps.md"
+    }
+  ],
+  "sha256": "7e4d5271e70cd648a14f69f090bfba72f9fd7861b12116e4ad89973f4c07d427",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f393bc73e56329a4.json",
+  "chunks": [
+    {
+      "id": "doc_f393bc73e56329a4:000",
+      "section": "세계관 개발 TODO",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_000.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_f393bc73e56329a4:001",
+      "section": "운영 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_001.json",
+      "char_count": 415
+    },
+    {
+      "id": "doc_f393bc73e56329a4:002",
+      "section": "처리 분류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_002.json",
+      "char_count": 531
+    },
+    {
+      "id": "doc_f393bc73e56329a4:003",
+      "section": "활성 TODO",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_003.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_f393bc73e56329a4:004",
+      "section": "ChatGPT 프로젝트 핸드오프 ingest",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_004.json",
+      "char_count": 869
+    },
+    {
+      "id": "doc_f393bc73e56329a4:005",
+      "section": "완료된 핸드오프 ingest",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_005.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_f393bc73e56329a4:006",
+      "section": "잔여 핸드오프 ingest: 2026-05-23 세션",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_006.json",
+      "char_count": 2965
+    },
+    {
+      "id": "doc_f393bc73e56329a4:007",
+      "section": "잔여 핸드오프 ingest: 혼돈-현재/아홉 영웅/동화책/아홉 나라 3축",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_007.json",
+      "char_count": 1122
+    },
+    {
+      "id": "doc_f393bc73e56329a4:008",
+      "section": "잔여 핸드오프 ingest: 아포라투스 체계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_008.json",
+      "char_count": 1353
+    },
+    {
+      "id": "doc_f393bc73e56329a4:009",
+      "section": "잔여 핸드오프 ingest: 아홉 나라 명명 체계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_009.json",
+      "char_count": 1161
+    },
+    {
+      "id": "doc_f393bc73e56329a4:010",
+      "section": "잔여 핸드오프 ingest: 염한 추가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_010.json",
+      "char_count": 542
+    },
+    {
+      "id": "doc_f393bc73e56329a4:011",
+      "section": "잔여 핸드오프 ingest: 가인 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_011.json",
+      "char_count": 423
+    },
+    {
+      "id": "doc_f393bc73e56329a4:012",
+      "section": "잔여 핸드오프 ingest: 주인공 파티 키워드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_012.json",
+      "char_count": 730
+    },
+    {
+      "id": "doc_f393bc73e56329a4:013",
+      "section": "세계법칙 1차 정리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_013.json",
+      "char_count": 3648
+    },
+    {
+      "id": "doc_f393bc73e56329a4:014",
+      "section": "잔여 핸드오프 ingest: 하위신 체계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_014.json",
+      "char_count": 7224
+    },
+    {
+      "id": "doc_f393bc73e56329a4:015",
+      "section": "아홉 나라 원샷 커버리지 감사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_015.json",
+      "char_count": 3799
+    },
+    {
+      "id": "doc_f393bc73e56329a4:016",
+      "section": "LIVE lore 대조 결과",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_016.json",
+      "char_count": 703
+    },
+    {
+      "id": "doc_f393bc73e56329a4:017",
+      "section": "플롯과 에피소드 보류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_017.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_f393bc73e56329a4:018",
+      "section": "캐릭터 support 보류",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_018.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_f393bc73e56329a4:019",
+      "section": "자동 도구와 대시보드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_019.json",
+      "char_count": 343
+    },
+    {
+      "id": "doc_f393bc73e56329a4:020",
+      "section": "보류 범위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_020.json",
+      "char_count": 320
+    }
+  ]
+}

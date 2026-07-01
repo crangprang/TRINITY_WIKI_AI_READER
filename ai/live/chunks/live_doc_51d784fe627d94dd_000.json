@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_51d784fe627d94dd:000",
+  "document_id": "live_doc_51d784fe627d94dd",
+  "path": "02_LORE/L04_TRADE/L04_REFERENCE.txt",
+  "title": "L04_레이어드 / REFERENCE",
+  "section": "body",
+  "summary": "L04_레이어드 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L04_TRADE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_51d784fe627d94dd_000.json",
+  "text": "L04_레이어드 / REFERENCE\n\n[이 문서 사용법]\n- 이 파일은 정본과 디테일 파일에 다 올리지 않은 참고 메모를 둔다.\n- `L04_CORE.txt`나 `L04_FACT_DETAIL.txt`와 충돌하면 이 파일을 승격하지 않는다.\n- 확장안, 변형안, 대체 방향 메모는 `L04_BRANCH_IDEA.txt`에 둔다.\n\n1. 인용 앵커\n\n- \"레이어드에서는 과거보다 신용이 먼저 신분이 된다.\"\n- \"바벨의 불빛은 높이 있고, 도시의 피는 늘 아래 수로로 흐른다.\"\n- \"카론은 값을 묻기 전에, 네가 끝내 못 버린 것을 먼저 본다.\"\n\n2. 시각 / 장면 앵커\n\n- 바벨과 헤드포인트의 네온 상층, 비 내리는 레르나, 선창과 창고, 수로와 케이블이 함께 보여야 한다.\n- 황금 번개, 우산, 광고망, 창고 적재물, 배수기와 인양기가 레이어드의 기본 표면이다.\n- 상층의 전광망과 하층의 아날로그 상업망이 한 나라 안에 같이 살아 있어야 한다.\n\n3. 경계 메모\n\n- 레이어드의 앞면은 먼저 기회와 번영, 장사판의 광휘다. 곧바로 하층 보고서처럼 열지 않는다.\n- 다만 상층만으로 도시를 오해하게 두지 말고, 초반 안에 레르나와 수로, 선창 같은 하부망을 반드시 붙인다.\n- 아브락사스는 단순한 탐욕 장치가 아니라 가능성과 가치를 오염된 방식으로 심사하는 시스템이라는 결을 유지한다.\n\n4. 레퍼런스 시트\n\n- 홍콩 느와르\n- 골드러시 시대 미국 서부\n- 월스트리트\n- `Blade Runner`\n- `Cyberpunk 2077`\n- `A Better Tomorrow`\n- 바벨탑\n- 마이더스 왕\n- 히드라",
+  "metadata": {
+    "char_count": 793,
+    "sha256": "97c390279f41100c9f684fcef923d712b08ba4488c1a5fb8954a5e58bc59280c"
+  }
+}

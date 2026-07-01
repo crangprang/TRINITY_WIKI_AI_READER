@@ -1,0 +1,118 @@
+{
+  "id": "doc_43885516faf11f07",
+  "path": "wiki/beings/phantasmas/외면의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/외면의_판타즈마.md",
+  "title": "외면의 판타즈마",
+  "summary": "악몽이 별빛 가죽을 걸친 채 꿈의 가장 깊은 수면 아래서 유영하는 외면의 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "외면의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    }
+  ],
+  "sha256": "33ffe34214e16f824ffc0ae88eb3d4d9be4fe860cdcd793095fd5d10bc7ad59a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_43885516faf11f07.json",
+  "chunks": [
+    {
+      "id": "doc_43885516faf11f07:000",
+      "section": "외면의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_000.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_43885516faf11f07:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_001.json",
+      "char_count": 53
+    },
+    {
+      "id": "doc_43885516faf11f07:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_002.json",
+      "char_count": 378
+    },
+    {
+      "id": "doc_43885516faf11f07:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_003.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_43885516faf11f07:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_004.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_43885516faf11f07:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_005.json",
+      "char_count": 147
+    },
+    {
+      "id": "doc_43885516faf11f07:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_006.json",
+      "char_count": 136
+    },
+    {
+      "id": "doc_43885516faf11f07:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_43885516faf11f07_007.json",
+      "char_count": 148
+    }
+  ]
+}

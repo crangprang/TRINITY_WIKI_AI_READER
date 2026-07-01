@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:100",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 황 노인 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_100.json",
+  "text": "## [2026-06-26] rebuild | 황 노인 항목 정리\n\n[황 노인](characters/personas/황_노인/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [염한](universe/realms/balance/nations/염한.md)의 시지기, 원한검, 천명 심문, 가인과 아백의 마지막 비무 구조에 맞췄다.\n\n- 정리: 천명 논리의 얼굴, 시지기와 원한검, 가인과 바둑판, 아백과 형제 유대, 세레나와 서린의 이름, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [황 노인 외형](characters/personas/황_노인/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 바둑판 프레임 얼굴, 황혼의 조언자, 원한검과 밤의 숙제 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 황 노인 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 478,
+    "sha256": "255b593ea8e93a52c7a75e5b988bdd7a9dfc4d2037e33413b50c491a6ed4cfeb"
+  }
+}

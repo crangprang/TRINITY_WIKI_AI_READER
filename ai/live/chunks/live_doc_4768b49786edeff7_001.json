@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_4768b49786edeff7:001",
+  "document_id": "live_doc_4768b49786edeff7",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/README.md",
+  "title": "04_FELLSION",
+  "section": "Current State",
+  "summary": "이 폴더의 `FS##_*.txt` 파일은 현재 live single-file surface다.",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4768b49786edeff7_001.json",
+  "text": "## Current State\n\n- 파일명과 위치는 live로 유지한다.\n- 내부 구조는 아직 party/persona package 형식으로 마이그레이션하지 않았다.\n- 이번 정리는 구버전 명칭, Markdown 강조, 지칭/따옴표 오류 같은 즉시 혼선을 만드는 표면만 정리한 상태다.",
+  "metadata": {
+    "char_count": 160,
+    "sha256": "bb7684120bcadd99cb889f00c3a24a5a11c68f520abf7738702914cca7650f54"
+  }
+}

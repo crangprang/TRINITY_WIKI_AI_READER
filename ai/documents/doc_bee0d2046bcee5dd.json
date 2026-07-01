@@ -1,0 +1,130 @@
+{
+  "id": "doc_bee0d2046bcee5dd",
+  "path": "wiki/beings/phantasmas/부패의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/부패의_판타즈마.md",
+  "title": "부패의 판타즈마",
+  "summary": "부패가 숲과 바위와 시체를 한 심장에 뒤엉켜 끝없이 다시 자라나는 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "부패의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "삼라만상",
+      "target": "wiki/events/singularities/삼라만상.md"
+    }
+  ],
+  "sha256": "f40ab95966a3813b24930ebc93fe56cea583e604616e7140ec45be1b46dceeb5",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bee0d2046bcee5dd.json",
+  "chunks": [
+    {
+      "id": "doc_bee0d2046bcee5dd:000",
+      "section": "부패의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_000.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_001.json",
+      "char_count": 49
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_002.json",
+      "char_count": 390
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_003.json",
+      "char_count": 270
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_004.json",
+      "char_count": 209
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_005.json",
+      "char_count": 148
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_006.json",
+      "char_count": 122
+    },
+    {
+      "id": "doc_bee0d2046bcee5dd:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bee0d2046bcee5dd_007.json",
+      "char_count": 382
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "doc_9fce2e34e4c1cd04",
+  "path": "wiki/characters/savior_candidates/메테우스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/메테우스/support/appearance.md",
+  "title": "메테우스 외형",
+  "summary": "메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "메테우스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "인퀴지터 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "재난 봉인 버너"
+    },
+    {
+      "level": 2,
+      "title": "봉쇄 현장"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    }
+  ],
+  "sha256": "3d166eaa97fe8d6e50f6e758e2a1c66e06f756618223552543a0f37a81b6b545",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9fce2e34e4c1cd04.json",
+  "chunks": [
+    {
+      "id": "doc_9fce2e34e4c1cd04:000",
+      "section": "메테우스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_000.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_9fce2e34e4c1cd04:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_001.json",
+      "char_count": 224
+    },
+    {
+      "id": "doc_9fce2e34e4c1cd04:002",
+      "section": "인퀴지터 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_002.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_9fce2e34e4c1cd04:003",
+      "section": "재난 봉인 버너",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_003.json",
+      "char_count": 166
+    },
+    {
+      "id": "doc_9fce2e34e4c1cd04:004",
+      "section": "봉쇄 현장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_004.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_9fce2e34e4c1cd04:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_005.json",
+      "char_count": 165
+    },
+    {
+      "id": "doc_9fce2e34e4c1cd04:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9fce2e34e4c1cd04_006.json",
+      "char_count": 287
+    }
+  ]
+}

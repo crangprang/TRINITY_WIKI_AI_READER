@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:345",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 보류 잠금 항목 active TODO 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_345.json",
+  "text": "## [2026-06-28] review | 보류 잠금 항목 active TODO 정리\n\n[세계관 개발 TODO](review/worldbuilding_development_todo.md)의 활성 항목 중 사용자 지시 전 보류로 이미 잠긴 플롯 상세, 메인 캐릭터 support 확장, 동명 판타즈마 세부, 국가 리뉴얼 전용 세부값을 보류 섹션으로 분리했다. 독자용 본문에는 새 설정을 추가하지 않았다.",
+  "metadata": {
+    "char_count": 225,
+    "sha256": "d3803ce054cff13f8389fd67d9ed6346983d1b2182eeefd194ca9d0aa7ad1a44"
+  }
+}

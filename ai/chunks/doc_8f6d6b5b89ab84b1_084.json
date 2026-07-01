@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:084",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] structure | 세계법칙 상세 보강과 두 문 명칭 정렬",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_084.json",
+  "text": "## [2026-06-27] structure | 세계법칙 상세 보강과 두 문 명칭 정렬\n\n[삼위일체 우주](universe/structure/삼위일체_우주.md)의 두 문을 `용기의문`과 `절제의문`으로 정렬하고, 아트락토스, 장력, 풀림, 끊김 설명을 추가했다. [세 에너지](universe/laws/세_에너지.md)는 Own/Other 에너지와 허구의 이름, 신앙의 현실 압력을 보강했다.\n\n- 보강: [오리진](universe/structure/오리진.md)에 용왕과 오피온/아조트, 아홉 보물의 제어장치 기원과 칼시네이션 뒤 변질, 아타노르-보물-프로토타입 필로시온-아포라투스 조립 경로를 확장했다.\n- 보강: [하위신](universe/laws/하위신.md)에 필로시온 총론, 페르소나의 설계목적 한계와 이름 층위, 엑시온의 위상 상실과 민중 신앙의 역설을 추가했다.\n- 보강: [판타즈마](beings/phantasmas/index.md)에 아홉 용 수수께끼가 약점을 만드는 자기실현 구조를 추가했다.\n- 잠금: [사용자 잠금](review/user_locks.md)과 [항목 소유권 잠금](review/ownership_locks.md)의 문 명칭을 현재 정본 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 612,
+    "sha256": "e0b33da764fc53e313b307ac301726ae1dd49b1da05c032426f1d670d5ce7fc4"
+  }
+}

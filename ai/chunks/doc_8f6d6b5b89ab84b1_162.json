@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:162",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rename | 하급 생물과 생태 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_162.json",
+  "text": "## [2026-06-26] rename | 하급 생물과 생태 항목 정리\n\n`beings/creatures`의 후보형 제목을 국가별 생태 항목으로 정리했다.\n\n- 이동: `레이어드 야수/생태 후보`는 [레이어드 하층 생태](beings/creatures/레이어드_하층_생태.md), `마사오트 야수/생태 후보`는 [마사오트 항해 생태](beings/creatures/마사오트_항해_생태.md), `알렉시아 야수/생태 후보`는 [알렉시아 동굴·서가 생태](beings/creatures/알렉시아_동굴_서가_생태.md), `플라센티아 야수/생태 후보`는 [플라센티아 숲 생태](beings/creatures/플라센티아_숲_생태.md)로 옮겼다.\n- 이동: 네 나라의 `원생 생물 후보` 문서는 각각 `원생 생물` 항목으로 정리했다.\n- 연결: 기존 후보형 경로와 평면 article 경로는 alias로 새 항목에 도달하게 했다.",
+  "metadata": {
+    "char_count": 461,
+    "sha256": "e49a2d1573084297ad92ff9b6b41b0b7780dcf454bc5334e46d0a4e48f47b632"
+  }
+}

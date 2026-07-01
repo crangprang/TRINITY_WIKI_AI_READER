@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d8f7365e44d6fc88",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX06_01_PANDORA.txt",
+  "title": "판도라",
+  "summary": "판도라",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "92eeefc02c0de59e7bdcbaab14c2f0f780af48fd8396bd0db056f49e7e12371a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d8f7365e44d6fc88.json",
+  "chunks": [
+    {
+      "id": "live_doc_d8f7365e44d6fc88:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d8f7365e44d6fc88_000.json",
+      "char_count": 1700
+    }
+  ]
+}

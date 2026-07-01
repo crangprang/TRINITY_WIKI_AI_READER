@@ -1,0 +1,24 @@
+{
+  "id": "doc_c683fea4ab1b9018:001",
+  "document_id": "doc_c683fea4ab1b9018",
+  "path": "wiki/universe/realms/balance/organizations/크로니클.md",
+  "wiki_path": "universe/realms/balance/organizations/크로니클.md",
+  "title": "크로니클",
+  "section": "개요",
+  "summary": "크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_001.json",
+  "text": "## 개요\n\n크로니클은 삼위정교 공인 조직 가운데 검열, 공표, 언론, 기록을 맡는 조직이다. 정교 체제 안에서는 성좌 공의회의 지침, 인가, 면허 갱신, 현장 기록, 공식 발표를 국가 현장과 기능조직으로 전달하는 주된 망이 된다.\n\n크로니클은 어떤 사건이 어떤 이름으로 남는지 정한다. 전투와 재난, 구조와 단속, 이단 판정, 후보의 공적 장면은 크로니클의 발표와 기록을 거치며 대륙 공통 서사로 정리된다.\n\n삼위정교 안에서 크로니클은 지혜의 미덕을 행정으로 번역한다. 지혜는 여기서 진실 그 자체보다, 어떤 사실이 어떤 표제와 분류와 면허 언어로 유통되는지를 다루는 권한으로 나타난다. 기록은 보존이면서 판정이고, 공표는 안내이면서 통제다.",
+  "metadata": {
+    "char_count": 360,
+    "sha256": "b78b49b8f79d0257dc909467a289c93ec291fced50d8e44de5a2e1ae4fe10543"
+  }
+}

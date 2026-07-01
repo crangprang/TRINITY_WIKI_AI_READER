@@ -1,0 +1,23 @@
+{
+  "id": "doc_830bfdb501cc3309:006",
+  "document_id": "doc_830bfdb501cc3309",
+  "path": "wiki/characters/savior_candidates/index.md",
+  "wiki_path": "characters/savior_candidates/index.md",
+  "title": "구세주 후보",
+  "section": "기능조직",
+  "summary": "아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "savior_candidates",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_006.json",
+  "text": "## 기능조직\n\n기능조직은 각국의 특기가 대륙 실무로 상품화된 형태다. 이 조직들은 정교 면허를 받은 각국 기반 위탁 조직으로 움직이며, 삼위정교의 중앙 실무를 각국 방식으로 대륙에 공급한다.\n\n기능조직의 핵심은 `대륙에 무엇을 파는가`, `정교가 어떤 면허를 주는가`, `나라가 무엇을 얻는가`, `후보가 어떤 현장 역할을 맡는가`에 있다. 후보의 실제 업무, 몸에 붙은 습관, 지도층이 후보를 필요로 하는 이유, 후보가 체제에 불편한 이유가 기능조직의 표면보다 먼저 선다.\n\n기능조직은 출신국 사람만으로 닫힌 조직이 아니다. 외국인 구성원도 들어올 수 있지만, 핵심 자격, 훈련 방식, 지도부, 장비 표준, 계약 절차는 창설국의 장치와 문화가 정한다. 그래서 기능조직은 국제 조직처럼 보이면서도, 실제로는 한 나라의 잉여 기능을 표준화해 대륙에 수출하는 방식으로 움직인다.\n\n임무 계약이 성립하면 주계약자가 정해진다. 주계약자는 해당 사건에서 어떤 기능조직이 최종 책임과 보고권을 갖는지 정하는 역할이다. 구조, 탐사, 소각, 구호, 사냥, 거래 조정처럼 여러 조직이 함께 움직이는 임무라도, 계약 단계에서 중심 조직이 정해져야 인력, 예산, 면허, 실패 책임이 한곳으로 모인다.\n\n| 국가 이념 | 기능조직 | 대륙에 공급하는 기능 |\n|---|---|---|\n| 투쟁 | [염객방](../../universe/realms/balance/organizations/염객방.md) | 무력 분쟁, 경호, 결투 대행, 전장 돌파와 고위험 호위. |\n| 예술 | [유랑 서커스](../../universe/realms/balance/organizations/유랑_서커스.md) | 공연, 위문, 문화 교섭, 꿈과 무대 기술을 통한 심리적 완충. |\n| 탐험 | [탐험가 길드](../../universe/realms/balance/organizations/탐험가_길드.md) | 항로 개척, 탐사, 운송, 구난, 미지 권역 접근 절차. |\n| 거래 | [글로벌 코텍스](../../universe/realms/balance/organizations/글로벌_코텍스.md) | 신용, 계약, 결제, 담보, 국제 거래 분쟁 조정. |\n| 자유 | [그레트헨 연구소](../../universe/realms/balance/organizations/그레트헨_연구소.md) | 연구, 설계, 배급 계획, 생활 개선 장치와 실험적 솔루션. |\n| 진리 | [인퀴지터](../../universe/realms/balance/organizations/인퀴지터.md) | 조사, 질문 심사, 오염 기록 처리, 위험 지식 소각과 검증. |\n| 정의 | [아웃로](../../universe/realms/balance/organizations/아웃로.md) | 추적, 체포, 추방자 네트워크, 법 바깥의 현장 집행. |\n| 평화 | [필그림즈](../../universe/realms/balance/organizations/필그림즈.md) | 순례, 구호, 치료, 약소 권역 지원, 피난민 보호. |\n| 조화 | [마스크맨](../../universe/realms/balance/organizations/마스크맨.md) | 사냥, 생태 재난 대응, 판타즈마 추적, 역할 가면 기반 작전. |",
+  "metadata": {
+    "char_count": 1605,
+    "sha256": "735171f239ec1acba78d89ddcce6d88d152383bffd59841f9bb3dadd2445e08d"
+  }
+}

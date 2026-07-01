@@ -1,0 +1,432 @@
+{
+  "id": "doc_b58aee9254f51d0c",
+  "path": "wiki/characters/trineads/라케시스/index.md",
+  "wiki_path": "characters/trineads/라케시스/index.md",
+  "title": "라케시스",
+  "summary": "라케시스는 이해의 보물에서 태어난 지혜의 트리네아드다. 그녀는 인격을 유지한 관찰자이며, 아조트와 세 가면, 조작된 역사, 구세주예언을 통해 풀림을 넘어설 초인을 찾으려 한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-30",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "라케시스"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 3,
+      "title": "지혜의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "관찰자와 관리자"
+    },
+    {
+      "level": 3,
+      "title": "구세주 설계자"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "탄생"
+    },
+    {
+      "level": 3,
+      "title": "신을 참칭한 지혜"
+    },
+    {
+      "level": 3,
+      "title": "용기의문과 절제의문"
+    },
+    {
+      "level": 3,
+      "title": "조작된 역사"
+    },
+    {
+      "level": 3,
+      "title": "니그리스 추적"
+    },
+    {
+      "level": 2,
+      "title": "가면과 개입"
+    },
+    {
+      "level": 3,
+      "title": "태초의 불꽃"
+    },
+    {
+      "level": 3,
+      "title": "고요한 종말"
+    },
+    {
+      "level": 3,
+      "title": "아난케"
+    },
+    {
+      "level": 3,
+      "title": "라케"
+    },
+    {
+      "level": 3,
+      "title": "유령 의뢰"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "관찰자이자 관리자"
+    },
+    {
+      "level": 3,
+      "title": "행동하는 지혜"
+    },
+    {
+      "level": 3,
+      "title": "겁먹은 아이"
+    },
+    {
+      "level": 3,
+      "title": "방관하지 못하는 지성"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "직물 독해"
+    },
+    {
+      "level": 3,
+      "title": "정보 비대칭"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "니그리스 알비우스 시트리노"
+    },
+    {
+      "level": 3,
+      "title": "감독"
+    },
+    {
+      "level": 3,
+      "title": "용기의 트리네아드와 절제의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "오피온과 아조트"
+    },
+    {
+      "level": 3,
+      "title": "저주받은 자들"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "라케시스 외형",
+      "target": "wiki/characters/trineads/라케시스/support/appearance.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "405cb93f1a0c9c8f3b9a5bd4eace7977a9143579aff6cdd7c5e867fac1069dee",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b58aee9254f51d0c.json",
+  "chunks": [
+    {
+      "id": "doc_b58aee9254f51d0c:000",
+      "section": "라케시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_000.json",
+      "char_count": 171
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_001.json",
+      "char_count": 618
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:003",
+      "section": "지혜의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_003.json",
+      "char_count": 224
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:004",
+      "section": "관찰자와 관리자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_004.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:005",
+      "section": "구세주 설계자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_005.json",
+      "char_count": 578
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:006",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_006.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:007",
+      "section": "탄생",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_007.json",
+      "char_count": 531
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:008",
+      "section": "신을 참칭한 지혜",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_008.json",
+      "char_count": 302
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:009",
+      "section": "용기의문과 절제의문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_009.json",
+      "char_count": 639
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:010",
+      "section": "조작된 역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_010.json",
+      "char_count": 553
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:011",
+      "section": "니그리스 추적",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_011.json",
+      "char_count": 227
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:012",
+      "section": "가면과 개입",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_012.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:013",
+      "section": "태초의 불꽃",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_013.json",
+      "char_count": 530
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:014",
+      "section": "고요한 종말",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_014.json",
+      "char_count": 575
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:015",
+      "section": "아난케",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_015.json",
+      "char_count": 352
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:016",
+      "section": "라케",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_016.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:017",
+      "section": "유령 의뢰",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_017.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:018",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_018.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:019",
+      "section": "관찰자이자 관리자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_019.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:020",
+      "section": "행동하는 지혜",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_020.json",
+      "char_count": 135
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:021",
+      "section": "겁먹은 아이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_021.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:022",
+      "section": "방관하지 못하는 지성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_022.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:023",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_023.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:024",
+      "section": "직물 독해",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_024.json",
+      "char_count": 261
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:025",
+      "section": "정보 비대칭",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_025.json",
+      "char_count": 240
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:026",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_026.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:027",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_027.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:028",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_028.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:029",
+      "section": "니그리스 알비우스 시트리노",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_029.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:030",
+      "section": "감독",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_030.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:031",
+      "section": "용기의 트리네아드와 절제의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_031.json",
+      "char_count": 206
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:032",
+      "section": "오피온과 아조트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_032.json",
+      "char_count": 151
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:033",
+      "section": "저주받은 자들",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_033.json",
+      "char_count": 138
+    },
+    {
+      "id": "doc_b58aee9254f51d0c:034",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b58aee9254f51d0c_034.json",
+      "char_count": 602
+    }
+  ]
+}

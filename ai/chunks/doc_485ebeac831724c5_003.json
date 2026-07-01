@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:003",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "가면과 램프 연기",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_003.json",
+  "text": "## 가면과 램프 연기\n\n메피스토의 얼굴은 어두운 도자기나 금속의 전면 가면으로 잠긴다. 민낯 미소보다 매끈한 얼굴판, 후드 그림자, 설계도 선, 작은 퀘스트 표식이 표정을 대신한다. 표정은 입꼬리보다 손짓과 고개 각도에서 읽힌다.\n\n램프는 핵심 소품을 보조하는 장치다. 램프의 연기는 발밑과 옷자락을 흐리게 만들고, 말이 끝난 뒤에도 선택지의 흔적처럼 남는다. 설계도와 퀘스트 태그가 먼저 보이고, 램프는 그 장면의 공기와 잔향을 만든다.",
+  "metadata": {
+    "char_count": 246,
+    "sha256": "d7ba9b0b5c91e176dae0447dfd46c915b0c52ed091a796e636dc8668ddab7c13"
+  }
+}

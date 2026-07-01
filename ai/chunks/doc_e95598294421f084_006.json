@@ -1,0 +1,24 @@
+{
+  "id": "doc_e95598294421f084:006",
+  "document_id": "doc_e95598294421f084",
+  "path": "wiki/characters/axions/index.md",
+  "wiki_path": "characters/axions/index.md",
+  "title": "엑시온",
+  "section": "계승과 수명",
+  "summary": "엑시온은 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권, 통치, 역사로 번역하는 하위신급 통치 얼굴이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "axions",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_006.json",
+  "text": "## 계승과 수명\n\n엑시온 직분은 자연수명 판정을 정지시킨다. 재위 기간의 엑시온은 자연 노쇠에서 벗어나고, 계승 뒤 선대 엑시온은 다시 인간화된다. 권능과 왕권은 새 숙주에게 이동하지만, 인간으로 돌아온 선대의 몸과 기억은 각 나라의 정치·종교 문제가 된다.\n\n계승 이후의 처리 방식은 나라별로 갈라진다. 어떤 나라는 선대를 죽여 계승 폭력을 정당화하고, 어떤 나라는 유폐, 은폐, 성인화, 보존 의례로 선대를 관리한다. 알렉시아의 [판도라](판도라/index.md)와 [엘피스](엘피스/index.md)는 선대가 살아남는 예시다. 판도라는 인간으로 돌아온 학장으로 남고, 엘피스는 같은 진리 성좌 안에서 건국기의 죄책감과 유예의 통치를 이어받는다.",
+  "metadata": {
+    "char_count": 364,
+    "sha256": "c8f95c16753e3efaa91400b99bfba8a37d20fd833dfa0ea4f773aa6165228904"
+  }
+}

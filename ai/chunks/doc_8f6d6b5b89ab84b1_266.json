@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:266",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 대문 메타 문구 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_266.json",
+  "text": "## [2026-06-26] rebuild | 대문 메타 문구 정리\n\n루트 대문의 제목과 도입부에서 `위키`, `지식 DB`, `진입 문서` 중심의 자기 설명을 줄이고, 세계법칙과 항목 연결을 바로 보여 주는 색인형 표면으로 바꿨다.\n\n- 제목을 `삼위일체 우주 대문`으로 바꾸고, 도입부를 세계법칙, 국가, 사건, 인물, 존재의 조회 흐름으로 다시 썼다.\n- `우주 구조와 법칙` 섹션명을 `세계법칙`으로 좁히고, 인물·존재·사건 링크 설명에서 `상위 진입점` 표현을 제거했다.",
+  "metadata": {
+    "char_count": 268,
+    "sha256": "4abcf0b1ea8eadd4ceedc42619c85399ab96b1b1515f60186369842b86f89db3"
+  }
+}

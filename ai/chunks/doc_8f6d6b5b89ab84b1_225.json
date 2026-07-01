@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:225",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 블랑 캐릭터 패키지 분기",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_225.json",
+  "text": "## [2026-06-26] rebuild | 블랑 캐릭터 패키지 분기\n\n[블랑](characters/main_party/블랑/index.md)의 본문, 외형, 말투 지원 문서를 캐릭터 패키지 구조로 정리했다.\n\n- 정리: 본문은 스푸마토 왕실, 페티멘토, 꿈의 아틀리에, 마고리아 재구성, 재연, 내면 구조, 능력과 관계를 담당하게 하고 말투와 지원 운용은 [블랑 / 말투](characters/main_party/블랑/support/voice.md), [블랑 / 외형](characters/main_party/블랑/support/appearance.md)으로 분기했다.\n- 문체: 번호형 하위 제목, 장기 운영 문구, 출처형 경로, 패킷 잔여 문구를 제거하고 선언형 위키 항목으로 바꿨다.\n- 관계: 스칼렛, 엘리자베스, 빈센트, 유리디스, 아인, 진, 옌, 길티어, 우니오네를 블랑의 아픔, 이름, 고통의 끝, 재연 구조와 연결했다.",
+  "metadata": {
+    "char_count": 469,
+    "sha256": "ab4289b4331b1ec74c48f328d6bb9c17f212eb65e821b949bdb3d0fecabaf8e9"
+  }
+}

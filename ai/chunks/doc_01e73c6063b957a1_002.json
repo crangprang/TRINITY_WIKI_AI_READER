@@ -1,0 +1,24 @@
+{
+  "id": "doc_01e73c6063b957a1:002",
+  "document_id": "doc_01e73c6063b957a1",
+  "path": "wiki/characters/main_party/단테/support/appearance.md",
+  "wiki_path": "characters/main_party/단테/support/appearance.md",
+  "title": "단테 외형",
+  "section": "외형과 인상",
+  "summary": "단테의 접힌 지하 생존자 실루엣, 눌린 녹색 머리와 흐린 벽안, 한 사람 앞에서 살아나는 기사선을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_01e73c6063b957a1_002.json",
+  "text": "## 외형과 인상\n\n단테의 기본 인상은 지하에서 오래 살아남은 현지 가이드다. 그는 늘 몸을 조금 접고 다닌다. 어깨는 안쪽으로 말리고, 목선은 낮아지며, 눈은 정면에 오래 머물지 않는다. 처음 만난 사람은 단테를 싸움의 주역으로 기억하기 전에 길, 값, 출구, 잠금장치를 먼저 아는 사람으로 읽는다.\n\n머리색은 밝은 녹색으로 튀지 않는다. 카키와 이끼, 죽은 올리브가 섞인 눌린 녹색이며, 먼지와 습기를 먹은 지하의 색을 띤다. 머리는 손질을 포기한 듯 덥수룩하지만 눈가와 광대를 가리는 방향으로 흐른다. 이 머리카락은 장식 기능을 넘어서 시선을 가리는 생활 장치로 보인다.\n\n눈은 옅은 벽안이다. 평소에는 명도와 채도가 죽어 흐린 회청색처럼 지나가고, 공개된 시선 앞에서는 더 쉽게 흔들린다. 한 사람만 정면에 선 순간에는 같은 눈이 맑고 차갑게 정리된다. 단테의 전환은 색 변화 대신 눌려 있던 선명도가 돌아오는 변화다.",
+  "metadata": {
+    "char_count": 462,
+    "sha256": "24f33d6e2edf78e53a44f386f849fb5f602a757384abaebedfe8ab96ede8fc46"
+  }
+}

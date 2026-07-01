@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_5d3b816f33e7f321:000",
+  "document_id": "live_doc_5d3b816f33e7f321",
+  "path": "02_LORE/00_02_LORE_index.json",
+  "title": "{",
+  "section": "body",
+  "summary": "\"index_version\": \"2.4\",",
+  "root": "02_LORE",
+  "category": "02_LORE:00_02_LORE_index.json",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_5d3b816f33e7f321_000.json",
+  "text": "{\n  \"index_version\": \"2.4\",\n  \"generated_at\": \"2026-05-03T00:00:00+09:00\",\n  \"path_relative\": \"02_LORE\",\n  \"folder_name\": \"02_LORE\",\n  \"depth\": 1,\n  \"file_count\": 1,\n  \"package_dir_count\": 11,\n  \"rule_applied\": \"root_files_and_package_dirs; indexes_navigation_only\",\n  \"files\": [\n    \"README.md\"\n  ],\n  \"package_dirs\": [\n    \"L00_OLYMPIA\",\n    \"L01_STRUGGLE\",\n    \"L02_ART\",\n    \"L03_EXPLORER\",\n    \"L04_TRADE\",\n    \"L05_FREEDOM\",\n    \"L06_TRUTH\",\n    \"L07_JUSTICE\",\n    \"L08_PEACE\",\n    \"L09_HARMONY\",\n    \"L10_EREMOS\"\n  ],\n  \"encoding\": \"UTF-8\"\n}",
+  "metadata": {
+    "char_count": 548,
+    "sha256": "b5b87007f800e35270a994a1997e80bcc8495fd95a3d19acd520d9c43e4a9a68"
+  }
+}

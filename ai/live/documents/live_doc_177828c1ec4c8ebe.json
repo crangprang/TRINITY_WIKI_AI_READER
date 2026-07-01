@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_177828c1ec4c8ebe",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/09_TURCHINA/PER09_VOICE_SAMPLE.txt",
+  "title": "투르키나 / VOICE_SAMPLE",
+  "summary": "투르키나 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "cd0662ff4245626f97e4136d814cb1ee8bb9dddd4404d653fd25f9045c2f6ac6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_177828c1ec4c8ebe.json",
+  "chunks": [
+    {
+      "id": "live_doc_177828c1ec4c8ebe:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_177828c1ec4c8ebe_000.json",
+      "char_count": 175
+    }
+  ]
+}

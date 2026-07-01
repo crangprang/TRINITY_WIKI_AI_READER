@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:268",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 국가별 판타즈마군 구조 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_268.json",
+  "text": "## [2026-06-26] rebuild | 국가별 판타즈마군 구조 보강\n\n국가별 2등급/3등급 판타즈마군 문서를 이름 목록 중심에서 위협 방식과 장면 운용이 보이는 존재군 항목으로 보강했다.\n\n- 레이어드, 마사오트, 알렉시아, 플라센티아의 2등급/3등급 판타즈마군 8개 문서에 위협 방식 섹션을 추가했다.\n- 마사오트 2등급, 마사오트 3등급, 알렉시아 3등급, 플라센티아 3등급에는 파훼와 장면 포인트를 정리하고, 나머지는 장면 운용으로 판타즈마군의 쓰임을 분리했다.\n- 관련 문서 설명을 단순 `국가`, `인물`, `존재` 라벨에서 국가 장치와 대형 판타즈마 관계 설명으로 바꿨다.\n- 국가별 판타즈마군의 양식 공백이 해소되어 review의 template gap 기록에서 해당 항목을 제거했다.",
+  "metadata": {
+    "char_count": 394,
+    "sha256": "e14ea1803a2f4668f501d6a609c28995f4f839e3df21a56b64721bb59fc665ff"
+  }
+}

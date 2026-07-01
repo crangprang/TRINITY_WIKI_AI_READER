@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6e38ffccce3bb9b9",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS04_SILENCE.txt",
+  "title": "정적의 펠시온",
+  "summary": "정적의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "b7476eddc0ce3638366c3592d58dca579f18703d9a61b0ac6920615f3a4b28c3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6e38ffccce3bb9b9.json",
+  "chunks": [
+    {
+      "id": "live_doc_6e38ffccce3bb9b9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6e38ffccce3bb9b9_000.json",
+      "char_count": 3130
+    }
+  ]
+}

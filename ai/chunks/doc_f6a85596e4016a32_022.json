@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:022",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "네트워크",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_022.json",
+  "text": "### 네트워크\n\n비술 `네트워크`는 대상의 동의 아래 감각과 사고를 일정 수준 공유한다. 아인에게 이 비술은 힘을 직접 증명하는 수단으로 머물지 않고 파티 전체를 하나의 판단망으로 묶는 방법이다. 전술 공유, 정보 집적, 긴급 상황의 즉시 대응에서 강하게 작동한다.\n\n아인은 네트워크를 상대의 욕망을 읽고 맹세를 받아낼 포석으로도 쓴다. 연결은 상호 동의가 있어야 열리고, 범위를 넓히면 감정과 기억까지 흘러든다. 오래 유지할수록 연결 의존성이 생기고, 아인 역시 남의 고통과 감정에서 자유롭지 못해진다. 사람을 거리 두고 이용하려는 아인에게 네트워크는 계산 도구이면서, 사람을 계산만으로 볼 수 없게 만드는 역류 장치다.",
+  "metadata": {
+    "char_count": 349,
+    "sha256": "cec7c3209db3d6b6e56db283cc6772f06a6db1a7cce85276056d2b5097508da8"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "id": "doc_df8592bd4f90cb57",
+  "path": "wiki/characters/main_party/길티어/index.md",
+  "wiki_path": "characters/main_party/길티어/index.md",
+  "title": "길티어",
+  "summary": "길티어는 전설적인 사냥단 마스크맨의 전 리더이자 파티의 감시자다. 그는 곧 다칠 사람을 먼저 보고, 물통과 식사, 장비와 도주선을 확인하며, 한 번 더 밀어붙이면 누가 쓰러질지 보이는 순간 제일 먼저 몸을 들이민다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "길티어"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "조화의 나라와 마스크맨"
+    },
+    {
+      "level": 3,
+      "title": "마지막 지시"
+    },
+    {
+      "level": 3,
+      "title": "아인과 옌을 거둔 시간"
+    },
+    {
+      "level": 2,
+      "title": "세계와 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "남아 있는 북쪽"
+    },
+    {
+      "level": 3,
+      "title": "살아만 있으면 어떻게든 된다"
+    },
+    {
+      "level": 2,
+      "title": "기억과 이름"
+    },
+    {
+      "level": 3,
+      "title": "여섯 이름"
+    },
+    {
+      "level": 3,
+      "title": "환각의 잡음"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "가시 망루"
+    },
+    {
+      "level": 3,
+      "title": "그림자를 보는 자"
+    },
+    {
+      "level": 3,
+      "title": "고장난 나침반"
+    },
+    {
+      "level": 3,
+      "title": "한 모닥불 아래"
+    },
+    {
+      "level": 3,
+      "title": "여섯의 밤"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "사냥꾼의 기술"
+    },
+    {
+      "level": 3,
+      "title": "축복 직관"
+    },
+    {
+      "level": 3,
+      "title": "저주 환각"
+    },
+    {
+      "level": 3,
+      "title": "마스크맨"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "아인"
+    },
+    {
+      "level": 3,
+      "title": "옌"
+    },
+    {
+      "level": 3,
+      "title": "진"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "세레나"
+    },
+    {
+      "level": 3,
+      "title": "단테"
+    },
+    {
+      "level": 3,
+      "title": "스칼렛"
+    },
+    {
+      "level": 3,
+      "title": "파티 전체"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "길티어 보이스",
+      "target": "wiki/characters/main_party/길티어/support/voice.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "길티어 외형",
+      "target": "wiki/characters/main_party/길티어/support/appearance.md"
+    },
+    {
+      "label": "길티어 보이스",
+      "target": "wiki/characters/main_party/길티어/support/voice.md"
+    }
+  ],
+  "sha256": "a0181abd09770d729904ad9a5c9c32e466bc028c15812c5626ac86cac9922266",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_df8592bd4f90cb57.json",
+  "chunks": [
+    {
+      "id": "doc_df8592bd4f90cb57:000",
+      "section": "길티어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_000.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_001.json",
+      "char_count": 395
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:003",
+      "section": "조화의 나라와 마스크맨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_003.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:004",
+      "section": "마지막 지시",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_004.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:005",
+      "section": "아인과 옌을 거둔 시간",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_005.json",
+      "char_count": 290
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:006",
+      "section": "세계와 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_006.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:007",
+      "section": "남아 있는 북쪽",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_007.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:008",
+      "section": "살아만 있으면 어떻게든 된다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_008.json",
+      "char_count": 202
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:009",
+      "section": "기억과 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_009.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:010",
+      "section": "여섯 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_010.json",
+      "char_count": 321
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:011",
+      "section": "환각의 잡음",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_011.json",
+      "char_count": 370
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:012",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_012.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:013",
+      "section": "가시 망루",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_013.json",
+      "char_count": 132
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:014",
+      "section": "그림자를 보는 자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_014.json",
+      "char_count": 107
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:015",
+      "section": "고장난 나침반",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_015.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:016",
+      "section": "한 모닥불 아래",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_016.json",
+      "char_count": 95
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:017",
+      "section": "여섯의 밤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_017.json",
+      "char_count": 97
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:018",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_018.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:019",
+      "section": "사냥꾼의 기술",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_019.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:020",
+      "section": "축복 직관",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_020.json",
+      "char_count": 191
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:021",
+      "section": "저주 환각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_021.json",
+      "char_count": 199
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:022",
+      "section": "마스크맨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_022.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:023",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_023.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:024",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_024.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:025",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_025.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:026",
+      "section": "옌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_026.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:027",
+      "section": "진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_027.json",
+      "char_count": 90
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:028",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_028.json",
+      "char_count": 120
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:029",
+      "section": "세레나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_029.json",
+      "char_count": 90
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:030",
+      "section": "단테",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_030.json",
+      "char_count": 73
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:031",
+      "section": "스칼렛",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_031.json",
+      "char_count": 96
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:032",
+      "section": "파티 전체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_032.json",
+      "char_count": 138
+    },
+    {
+      "id": "doc_df8592bd4f90cb57:033",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_df8592bd4f90cb57_033.json",
+      "char_count": 841
+    }
+  ]
+}

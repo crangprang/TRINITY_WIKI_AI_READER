@@ -1,0 +1,23 @@
+{
+  "id": "doc_d0b1739c815fe288:008",
+  "document_id": "doc_d0b1739c815fe288",
+  "path": "wiki/characters/fellsions/기근의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/기근의_펠시온/index.md",
+  "title": "기근의 펠시온",
+  "section": "관련 문서",
+  "summary": "기근의 펠시온은 살아 있는 세계를 농장으로 보고 생명력, 에너지, 수분을 반복 수확하는 죽음 군단의 수탈자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d0b1739c815fe288_008.json",
+  "text": "## 관련 문서\n\n- [기근의 펠시온 외형](support/appearance.md) - 가뭄, 반복 수확, 말라붙은 농장과 신체포식의 인상을 다루는 외형 항목.\n- [펠시온](../index.md) - 기근이 속한 파괴계 이름 판결과 군단 구조를 묶는 펠시온 계열.\n- [침식의 펠시온](../침식의_펠시온/index.md) - 기근에게 착취당한 상성 관계의 펠시온\n- [죽음의 트리네아드](../../trineads/죽음의_트리네아드/index.md) - 기근의 이름 낙인과 죽음 군단의 수탈 질서를 내린 상위 신격.",
+  "metadata": {
+    "char_count": 291,
+    "sha256": "57cf5450b5f5076ab8aa1831376991e383949c67dd41e57900997a326bb4a401"
+  }
+}

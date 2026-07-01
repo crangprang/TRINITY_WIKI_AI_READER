@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:232",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 펠시온 색인 항목 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_232.json",
+  "text": "## [2026-06-26] rebuild | 펠시온 색인 항목 확장\n\n[펠시온](characters/fellsions/index.md)을 단순 문서 목록에서 파괴계 이름 판결, 군단, 균형계 침투, 하위 항목을 설명하는 인물군 항목으로 확장했다.\n\n- 정리: 펠시온의 인간형 하위신 성격, 이름과 군단의 작동, 균형계 침투 방식을 색인 본문에 추가했다.\n- 하위 항목: 기근, 기만, 모방, 속박, 역병, 정복, 정적, 침식의 펠시온을 `## 하위 항목` 표로 정리했다.\n- 지원: 펠시온 appearance support 도입부의 `보조 기준`과 `관리한다` 문구를 시각 기준 설명으로 바꿨다.\n- 관계: `_relations.json`의 [모방의 펠시온](characters/fellsions/모방의_펠시온/index.md) 요약을 소스 카드식 문장에서 위키식 요약으로 바꿨다.",
+  "metadata": {
+    "char_count": 438,
+    "sha256": "cac7b7c53745942683f7b131c48871be52d6d32d73ac3ef55e6899ffb76ce1c7"
+  }
+}

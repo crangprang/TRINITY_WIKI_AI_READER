@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce20d090386715c3:004",
+  "document_id": "doc_ce20d090386715c3",
+  "path": "wiki/characters/personas/탈레스/support/appearance.md",
+  "wiki_path": "characters/personas/탈레스/support/appearance.md",
+  "title": "탈레스 외형",
+  "section": "검은 석판과 촛불",
+  "summary": "탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_004.json",
+  "text": "## 검은 석판과 촛불\n\n검은 석판은 탈레스의 핵심 소품이다. 석판은 최초의 질문과 금지 질문의 표면이며, 알렉시아의 장기 연산을 여는 차가운 문으로 보인다. 촛불은 그 연산이 도시의 생존 시간과 이어진다는 사실을 작게 비춘다.\n\n색인 고리는 보조 상징으로 사용한다. 시계, 의식 장치, 현대 화면 UI를 정답처럼 세우면 탈레스의 비인간적 연산 의지가 기계 장식으로 흐른다. 색인 고리는 질문을 인정하는 문턱과 오르가논의 회전을 짧게 암시한다.",
+  "metadata": {
+    "char_count": 248,
+    "sha256": "d67213bb5f1a45b3fe0184b9bd2da3b0aebcc71d631ae6369e2ce962d987ef1f"
+  }
+}

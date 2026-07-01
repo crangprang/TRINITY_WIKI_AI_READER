@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:000",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "아인",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_000.json",
+  "text": "# 아인\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 아인 |\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 20대 초반 |\n| 머리색 | 검은색 |\n| 눈색 | 검은색 |\n| 출신 | 자유의 나라 그레트헨 실험소 |\n| 예언명 | 줄타는 자 / 곡예사 -> 광대 |\n| 중심 문법 | 자유 / 인간성 / 시간 |",
+  "metadata": {
+    "char_count": 192,
+    "sha256": "e0257c7cd17bad70a966b6dfcae5811898fe6809466a1f73ca6278645640f596"
+  }
+}

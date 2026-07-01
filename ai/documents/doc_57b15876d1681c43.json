@@ -1,0 +1,284 @@
+{
+  "id": "doc_57b15876d1681c43",
+  "path": "wiki/universe/realms/balance/apparatus/index.md",
+  "wiki_path": "universe/realms/balance/apparatus/index.md",
+  "title": "아포라투스",
+  "summary": "아포라투스는 아홉 아타노르 잔재, 빈 아홉 보물, 프로토타입 필로시온, 국가 환경과 부정 이데아가 대공명에서 결합해 발아한 균형계 국가 장치다.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "apparatus"
+  ],
+  "updated": "2026-06-30",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아포라투스"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "생성 구조"
+    },
+    {
+      "level": 2,
+      "title": "제어핵 구조"
+    },
+    {
+      "level": 2,
+      "title": "국가 규모 출력"
+    },
+    {
+      "level": 2,
+      "title": "국가별 출력 축"
+    },
+    {
+      "level": 2,
+      "title": "권한 구조"
+    },
+    {
+      "level": 2,
+      "title": "권역과 확장"
+    },
+    {
+      "level": 2,
+      "title": "매질과 국가 표면"
+    },
+    {
+      "level": 2,
+      "title": "국가별 장치 표면의 작동 방식"
+    },
+    {
+      "level": 3,
+      "title": "레이어드 - 카타바시스"
+    },
+    {
+      "level": 3,
+      "title": "마사오트 - 엑소도스"
+    },
+    {
+      "level": 3,
+      "title": "알렉시아 - 아나그노리시스"
+    },
+    {
+      "level": 3,
+      "title": "염한 - 아곤"
+    },
+    {
+      "level": 3,
+      "title": "오르딜리아 - 페리페테이아"
+    },
+    {
+      "level": 3,
+      "title": "오아시스 - 페리아크토이"
+    },
+    {
+      "level": 3,
+      "title": "우니오네 - 미메시스"
+    },
+    {
+      "level": 3,
+      "title": "파라디소 - 카타르시스"
+    },
+    {
+      "level": 3,
+      "title": "플라센티아 - 코레이아"
+    },
+    {
+      "level": 2,
+      "title": "아포라투스와 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "페르소나",
+      "target": "wiki/characters/personas/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    }
+  ],
+  "sha256": "278af682dc64a3616d6ae4a97da0dab43d70139450195b267fd908670744317b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_57b15876d1681c43.json",
+  "chunks": [
+    {
+      "id": "doc_57b15876d1681c43:000",
+      "section": "아포라투스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_000.json",
+      "char_count": 250
+    },
+    {
+      "id": "doc_57b15876d1681c43:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_001.json",
+      "char_count": 700
+    },
+    {
+      "id": "doc_57b15876d1681c43:002",
+      "section": "생성 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_002.json",
+      "char_count": 465
+    },
+    {
+      "id": "doc_57b15876d1681c43:003",
+      "section": "제어핵 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_003.json",
+      "char_count": 687
+    },
+    {
+      "id": "doc_57b15876d1681c43:004",
+      "section": "국가 규모 출력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_004.json",
+      "char_count": 513
+    },
+    {
+      "id": "doc_57b15876d1681c43:005",
+      "section": "국가별 출력 축",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_005.json",
+      "char_count": 1459
+    },
+    {
+      "id": "doc_57b15876d1681c43:006",
+      "section": "권한 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_006.json",
+      "char_count": 586
+    },
+    {
+      "id": "doc_57b15876d1681c43:007",
+      "section": "권역과 확장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_007.json",
+      "char_count": 573
+    },
+    {
+      "id": "doc_57b15876d1681c43:008",
+      "section": "매질과 국가 표면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_008.json",
+      "char_count": 848
+    },
+    {
+      "id": "doc_57b15876d1681c43:009",
+      "section": "국가별 장치 표면의 작동 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_009.json",
+      "char_count": 19
+    },
+    {
+      "id": "doc_57b15876d1681c43:010",
+      "section": "레이어드 - 카타바시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_010.json",
+      "char_count": 212
+    },
+    {
+      "id": "doc_57b15876d1681c43:011",
+      "section": "마사오트 - 엑소도스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_011.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_57b15876d1681c43:012",
+      "section": "알렉시아 - 아나그노리시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_012.json",
+      "char_count": 226
+    },
+    {
+      "id": "doc_57b15876d1681c43:013",
+      "section": "염한 - 아곤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_013.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_57b15876d1681c43:014",
+      "section": "오르딜리아 - 페리페테이아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_014.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_57b15876d1681c43:015",
+      "section": "오아시스 - 페리아크토이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_015.json",
+      "char_count": 225
+    },
+    {
+      "id": "doc_57b15876d1681c43:016",
+      "section": "우니오네 - 미메시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_016.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_57b15876d1681c43:017",
+      "section": "파라디소 - 카타르시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_017.json",
+      "char_count": 206
+    },
+    {
+      "id": "doc_57b15876d1681c43:018",
+      "section": "플라센티아 - 코레이아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_018.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_57b15876d1681c43:019",
+      "section": "아포라투스와 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_019.json",
+      "char_count": 850
+    },
+    {
+      "id": "doc_57b15876d1681c43:020",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_57b15876d1681c43_020.json",
+      "char_count": 420
+    }
+  ]
+}

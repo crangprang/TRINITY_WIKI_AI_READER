@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:317",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] style | 판타즈마 문서 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_317.json",
+  "text": "## [2026-06-27] style | 판타즈마 문서 표면 정리\n\n판타즈마 개별 문서의 정보표 중복 `분류` 키를 `세부 계열`로 고쳤다. 아홉 용 문서의 `상징과 장면 기능` 제목은 `상징과 장면`으로 낮추고, 일부 본문의 `장면 기능을 맡는다` 표현을 직접적인 장면 서술로 바꿨다.",
+  "metadata": {
+    "char_count": 161,
+    "sha256": "477d9601796c49d650d137d850378e0ecca010bc0bff4a52232e7d3edb2f1c38"
+  }
+}

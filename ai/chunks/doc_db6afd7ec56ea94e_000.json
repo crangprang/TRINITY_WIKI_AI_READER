@@ -1,0 +1,24 @@
+{
+  "id": "doc_db6afd7ec56ea94e:000",
+  "document_id": "doc_db6afd7ec56ea94e",
+  "path": "wiki/universe/realms/balance/organizations/마스크맨.md",
+  "wiki_path": "universe/realms/balance/organizations/마스크맨.md",
+  "title": "마스크맨",
+  "section": "마스크맨",
+  "summary": "마스크맨은 플라센티아 기반의 기능조직으로, 역할 가면과 사냥 절차를 통해 판타즈마와 위험 생태를 대륙 실무로 사냥한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_000.json",
+  "text": "# 마스크맨\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 기능조직 |\n| 기반 국가 | [플라센티아](../nations/플라센티아.md) |\n| 주요 업무 | 판타즈마 사냥 / 위험 생태 추적 / 역할 가면 사용 / 귀환 보고 |\n| 정교 관계 | 삼위정교 면허를 받은 국가 기반 위탁 조직 |\n| 대표 구세주 후보 | [카스파르](../../../../characters/savior_candidates/카스파르/index.md) |\n| 관련 인물 | [길티어](../../../../characters/main_party/길티어/index.md) / [제페토](../../../../characters/axions/제페토/index.md) |",
+  "metadata": {
+    "char_count": 367,
+    "sha256": "7a66b18d995c9ae371c1b6e6f93d773624261490551b73816743d87c597b9d74"
+  }
+}

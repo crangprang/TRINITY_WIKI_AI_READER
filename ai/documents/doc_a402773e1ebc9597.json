@@ -1,0 +1,119 @@
+{
+  "id": "doc_a402773e1ebc9597",
+  "path": "wiki/characters/main_party/진/support/appearance.md",
+  "wiki_path": "characters/main_party/진/support/appearance.md",
+  "title": "진 외형",
+  "summary": "진의 더티 블론드, 바랜 선글라스, 구겨진 현장복, 워크맨과 카세트, 먼저 움직이는 발끝을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "진 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "외형과 인상"
+    },
+    {
+      "level": 2,
+      "title": "의상과 소품"
+    },
+    {
+      "level": 2,
+      "title": "색과 과열"
+    },
+    {
+      "level": 2,
+      "title": "행사와 검문용 가면"
+    },
+    {
+      "level": 2,
+      "title": "이미지 생성 기준"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "진 보이스",
+      "target": "wiki/characters/main_party/진/support/voice.md"
+    },
+    {
+      "label": "진 음악",
+      "target": "wiki/characters/main_party/진/support/music.md"
+    }
+  ],
+  "sha256": "fd37dd9d94b60213cc63fe95bd86ae4db431c0fff0034a745686a9fdb41671b0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a402773e1ebc9597.json",
+  "chunks": [
+    {
+      "id": "doc_a402773e1ebc9597:000",
+      "section": "진 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_000.json",
+      "char_count": 6
+    },
+    {
+      "id": "doc_a402773e1ebc9597:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_001.json",
+      "char_count": 467
+    },
+    {
+      "id": "doc_a402773e1ebc9597:002",
+      "section": "외형과 인상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_002.json",
+      "char_count": 547
+    },
+    {
+      "id": "doc_a402773e1ebc9597:003",
+      "section": "의상과 소품",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_003.json",
+      "char_count": 435
+    },
+    {
+      "id": "doc_a402773e1ebc9597:004",
+      "section": "색과 과열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_004.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_a402773e1ebc9597:005",
+      "section": "행사와 검문용 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_005.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_a402773e1ebc9597:006",
+      "section": "이미지 생성 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_006.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_a402773e1ebc9597:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_007.json",
+      "char_count": 204
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:332",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 아포라투스 제어핵 구조 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_332.json",
+  "text": "## [2026-06-27] ingest | 아포라투스 제어핵 구조 정리\n\n`아포라투스_HANDOFF.txt`를 대조해 아포라투스 최심부의 단일 제어핵과 척수·뇌·심장 기능 구분을 [아포라투스](universe/realms/balance/apparatus/index.md)에 반영했다. 국가 표면의 대표 기관과 심층 제어핵을 다른 층위로 분리하고, 페르소나 퇴장 뒤 남는 압력은 페르소나 지속이 아니라 장치 구조와 국민 기억, 생활 관성, 왕권 후유증으로 정리했다.",
+  "metadata": {
+    "char_count": 260,
+    "sha256": "2d6c1075ea49693fde60a49efb3af59548eb6dbbf86b5a666d80efba3cf97e46"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:020",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "월광검",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_020.json",
+  "text": "### 월광검\n\n비술 `월광검`은 푸른 달빛을 받아 영롱한 푸른색을 띠는 부족의 신성한 비전이다. 세레나의 트라우마와 저주를 통과하면서 그 형상은 비틀렸다. 평소에는 제대로 서지 못하고, `용투`가 발동하거나 특정 상태를 지나야 검다운 모습으로 선다.\n\n축복 뒤에 저주가 덮치면 붉은 발톱과 포식자성이 노골적으로 남는다. 저주 뒤에 축복이 올라오면 야수의 껍질을 끌고 온 채 겨우 두 발로 서서 눈빛과 이성을 일부 되찾는다.\n\n| 우선권 | 결과 |\n|---|---|\n| 평상시 -> 용투 | 인간 전사의 몸으로 강화된다. |\n| 평상시 -> 월광 | 야수화가 먼저 열린다. |\n| 용투 -> 월광 | 강화된 몸으로 이성을 잃는 최악의 상태가 된다. |\n| 월광 -> 용투 | 야수 상태에서 인간의 이성이 되돌아오는 마지막 길이 된다. |",
+  "metadata": {
+    "char_count": 413,
+    "sha256": "b366009ad685201da0129be8a17fd00c90329e0cb45554e6d2d09e6e02b71086"
+  }
+}

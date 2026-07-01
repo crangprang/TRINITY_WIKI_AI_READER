@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:008",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "관련 문서",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_008.json",
+  "text": "## 관련 문서\n\n- [세레나](../index.md) - 순례자 검객, 오니유혈, 기록자 성격이 외형의 절제와 푸른 달 흔적을 이루는 인물.\n- [세레나 보이스](voice.md) - 고결함, 분노, 들키고 싶지 않은 바닥이 외형 층위와 맞물리는 보이스 항목.\n- [염한](../../../../universe/realms/balance/nations/염한.md) - 세레나의 뿔, 적안, 검객 윤리와 푸른 달 참극이 뿌리내린 투쟁의 나라.",
+  "metadata": {
+    "char_count": 247,
+    "sha256": "d0777e25d329ea9d33a90853e36d020a5a6cdb724748f97972719b1c3cda3eb2"
+  }
+}

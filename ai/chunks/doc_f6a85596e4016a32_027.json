@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:027",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "길티어",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_027.json",
+  "text": "### 길티어\n\n[길티어](../길티어/index.md) 앞에서 아인은 더 유능하고 멀쩡한 척한다. 보호받아야 할 아이처럼 보이는 순간을 싫어하기 때문이다. 길티어는 아인을 리더로 인정하면서도, 끝까지 이미 많이 망가진 아이로 본다.\n\n최종 판단의 자리에서 둘의 관계가 미묘해진다. 길티어는 위험을 재는 일에는 빠르지만, 누군가를 택하고 버려야 하는 마지막 칼자루를 자주 아인에게 넘긴다. 그 넘김에는 신뢰와 도피가 함께 섞인다.",
+  "metadata": {
+    "char_count": 240,
+    "sha256": "6e521d7beec754e4c25c4699813daa25228246821eb80aae159b284863412985"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "doc_efc482071b704108",
+  "path": "wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md",
+  "wiki_path": "events/삼위의_군상/2부/신들의_시대/줄거리.md",
+  "title": "삼위의 군상/2부/신들의 시대/줄거리",
+  "summary": "아홉 나라의 시대 이후 열린 삼계 무대에서, 신격과 계승자들이 오리진의 완성을 두고 충돌하는 2부의 큰 줄거리다.",
+  "status": "draft",
+  "type": "story",
+  "tags": [
+    "story",
+    "narrative",
+    "삼위의_군상",
+    "신들의_시대"
+  ],
+  "updated": "2026-06-29",
+  "category": "events:삼위의_군상",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "삼위의 군상/2부/신들의 시대/줄거리"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "신들이 무대에 오른 시대"
+    },
+    {
+      "level": 2,
+      "title": "두 번째 불지피기"
+    },
+    {
+      "level": 2,
+      "title": "태초의 불꽃과 고요한 종말"
+    },
+    {
+      "level": 2,
+      "title": "아홉 자리와 오리진"
+    },
+    {
+      "level": 2,
+      "title": "결말과 다음 상태"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "삼위의 군상/3부/초인의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    }
+  ],
+  "sha256": "2c518b4622a10f75f820a975b72a3236f4f5f5950f10bb8ec24e753a17d6fec7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_efc482071b704108.json",
+  "chunks": [
+    {
+      "id": "doc_efc482071b704108:000",
+      "section": "삼위의 군상/2부/신들의 시대/줄거리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_000.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_efc482071b704108:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_001.json",
+      "char_count": 363
+    },
+    {
+      "id": "doc_efc482071b704108:002",
+      "section": "신들이 무대에 오른 시대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_002.json",
+      "char_count": 386
+    },
+    {
+      "id": "doc_efc482071b704108:003",
+      "section": "두 번째 불지피기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_003.json",
+      "char_count": 535
+    },
+    {
+      "id": "doc_efc482071b704108:004",
+      "section": "태초의 불꽃과 고요한 종말",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_004.json",
+      "char_count": 539
+    },
+    {
+      "id": "doc_efc482071b704108:005",
+      "section": "아홉 자리와 오리진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_005.json",
+      "char_count": 306
+    },
+    {
+      "id": "doc_efc482071b704108:006",
+      "section": "결말과 다음 상태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_006.json",
+      "char_count": 326
+    },
+    {
+      "id": "doc_efc482071b704108:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_efc482071b704108_007.json",
+      "char_count": 474
+    }
+  ]
+}

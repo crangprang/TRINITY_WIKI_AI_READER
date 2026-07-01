@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_2224a4d01619cb16",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS03_PESTILENCE.txt",
+  "title": "역병의 펠시온",
+  "summary": "역병의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "ea465928de1cb70ef1bf566d13baa96e5d66896981ff205b9aafd58727f66ef9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2224a4d01619cb16.json",
+  "chunks": [
+    {
+      "id": "live_doc_2224a4d01619cb16:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2224a4d01619cb16_000.json",
+      "char_count": 2206
+    }
+  ]
+}

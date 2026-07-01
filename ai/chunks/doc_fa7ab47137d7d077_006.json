@@ -1,0 +1,24 @@
+{
+  "id": "doc_fa7ab47137d7d077:006",
+  "document_id": "doc_fa7ab47137d7d077",
+  "path": "wiki/characters/fellsions/기근의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/기근의_펠시온/support/appearance.md",
+  "title": "기근의 펠시온 외형",
+  "section": "관련 문서",
+  "summary": "기근의 펠시온의 마른 세리형 실루엣, 작은 얼굴판, 장부와 빈 공간, 가뭄과 수탈의 건조한 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fa7ab47137d7d077_006.json",
+  "text": "## 관련 문서\n\n- [기근의 펠시온](../index.md) - 마른 세리, 징수관, 가치 추출과 수탈의 압력이 외형의 수확성과 세리성을 이루는 펠시온.",
+  "metadata": {
+    "char_count": 86,
+    "sha256": "1ba85f39088a3a3b86e302df497d8bb218f0d88ce2a44b6a793687eeeb66a09a"
+  }
+}

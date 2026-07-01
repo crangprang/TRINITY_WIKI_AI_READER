@@ -1,0 +1,105 @@
+{
+  "id": "doc_919b5792ba46d0d6",
+  "path": "wiki/characters/fellsions/정복의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/정복의_펠시온/support/appearance.md",
+  "title": "정복의 펠시온 외형",
+  "summary": "정복의 펠시온의 거대한 대장군 실루엣, 백골 갑주, 장수풍뎅이형 백골 투구, 뼈 무기, 죽음 군단의 지휘 압력을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "정복의 펠시온 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "실루엣"
+    },
+    {
+      "level": 2,
+      "title": "백골 갑주"
+    },
+    {
+      "level": 2,
+      "title": "자세와 표정"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    },
+    {
+      "label": "정복의 펠시온",
+      "target": "wiki/characters/fellsions/정복의_펠시온/index.md"
+    }
+  ],
+  "sha256": "b7f3adc4bd6b8480709abea9cb6abfef446137f5b7becd71f644e7dc66b23b89",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_919b5792ba46d0d6.json",
+  "chunks": [
+    {
+      "id": "doc_919b5792ba46d0d6:000",
+      "section": "정복의 펠시온 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_000.json",
+      "char_count": 121
+    },
+    {
+      "id": "doc_919b5792ba46d0d6:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_001.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_919b5792ba46d0d6:002",
+      "section": "실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_002.json",
+      "char_count": 176
+    },
+    {
+      "id": "doc_919b5792ba46d0d6:003",
+      "section": "백골 갑주",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_003.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_919b5792ba46d0d6:004",
+      "section": "자세와 표정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_004.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_919b5792ba46d0d6:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_005.json",
+      "char_count": 116
+    },
+    {
+      "id": "doc_919b5792ba46d0d6:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_919b5792ba46d0d6_006.json",
+      "char_count": 94
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d63a16cbd4b964fc",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/09_TURCHINA/PER09_BRANCH_IDEA.txt",
+  "title": "투르키나 / BRANCH_IDEA",
+  "summary": "투르키나 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "f7f6112922b60632ad9b60c82761a0e43ae6a77110b1bd91ac5c385edf282978",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d63a16cbd4b964fc.json",
+  "chunks": [
+    {
+      "id": "live_doc_d63a16cbd4b964fc:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d63a16cbd4b964fc_000.json",
+      "char_count": 98
+    }
+  ]
+}

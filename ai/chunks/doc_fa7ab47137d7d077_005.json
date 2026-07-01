@@ -1,0 +1,24 @@
+{
+  "id": "doc_fa7ab47137d7d077:005",
+  "document_id": "doc_fa7ab47137d7d077",
+  "path": "wiki/characters/fellsions/기근의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/기근의_펠시온/support/appearance.md",
+  "title": "기근의 펠시온 외형",
+  "section": "시각 경계",
+  "summary": "기근의 펠시온의 마른 세리형 실루엣, 작은 얼굴판, 장부와 빈 공간, 가뭄과 수탈의 건조한 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fa7ab47137d7d077_005.json",
+  "text": "## 시각 경계\n\n- 괴인이나 괴물 체형은 기근의 중심 인상 뒤로 물러난다.\n- 좀비와 언데드 톤은 마른 세리와 징수관의 인상을 흐린다.\n- 가난한 도둑상은 뒤로 물러나고, 가치 추출과 수탈을 집행하는 징수관상이 중심이다.",
+  "metadata": {
+    "char_count": 124,
+    "sha256": "c3d57fa5126b072b16b834d006bc7fffc685a6d0a99d9671e81d2446fc59115a"
+  }
+}

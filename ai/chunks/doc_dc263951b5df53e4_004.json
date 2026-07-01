@@ -1,0 +1,24 @@
+{
+  "id": "doc_dc263951b5df53e4:004",
+  "document_id": "doc_dc263951b5df53e4",
+  "path": "wiki/universe/realms/balance/organizations/파르마콘.md",
+  "wiki_path": "universe/realms/balance/organizations/파르마콘.md",
+  "title": "파르마콘",
+  "section": "관련 문서",
+  "summary": "파르마콘은 삼위정교 공인 조직으로, 절제의 이름 아래 연구, 의료, 검역, 보건, 저주와 감염과 이레귤러 상태 판정을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 파르마콘이 놓이는 조직 색인.\n- [구세군](구세군.md) - 파르마콘 판정을 바탕으로 현장에 들어가는 공인 조직.\n- [크로니클](크로니클.md) - 파르마콘의 판정과 지침을 기록과 공표로 정리하는 공인 조직.\n- [이레귤러 헌터](이레귤러_헌터.md) - 파르마콘의 등급화와 처치 가능성 판정이 연결되는 제도.",
+  "metadata": {
+    "char_count": 208,
+    "sha256": "69643700bf8621fc93c13d7a01f962326cc172dbcf6e2f92a64702fea3f46814"
+  }
+}

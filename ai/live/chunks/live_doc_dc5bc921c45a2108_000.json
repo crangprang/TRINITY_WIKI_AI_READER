@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_dc5bc921c45a2108:000",
+  "document_id": "live_doc_dc5bc921c45a2108",
+  "path": "01_CANON/00_WORLD_CANON/WC00_TIMELINE/00_WC00_TIMELINE_index.json",
+  "title": "{",
+  "section": "body",
+  "summary": "\"index_version\": \"2.4\",",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_dc5bc921c45a2108_000.json",
+  "text": "{\n  \"index_version\": \"2.4\",\n  \"generated_at\": \"2026-05-03T00:00:00+09:00\",\n  \"path_relative\": \"01_CANON/00_WORLD_CANON/WC00_TIMELINE\",\n  \"folder_name\": \"WC00_TIMELINE\",\n  \"depth\": 3,\n  \"file_count\": 4,\n  \"rule_applied\": \"txt_files_only; indexes_navigation_only\",\n  \"files\": [\n    \"WC00_TIMELINE_01_PRIMORDIAL_TO_EMANACHION.txt\",\n    \"WC00_TIMELINE_02_ECHO_WAR_TO_CALCINATION_AND_RECREATION.txt\",\n    \"WC00_TIMELINE_03_CHAOS_AGE_TO_GRAND_RESONANCE.txt\",\n    \"WC00_TIMELINE_04_AFTER_GRAND_RESONANCE_TO_AGE_OF_NINE_NATIONS.txt\"\n  ],\n  \"encoding\": \"UTF-8\"\n}",
+  "metadata": {
+    "char_count": 553,
+    "sha256": "aa12f0c207d0609da0922d65bdaa8e11d7effa66232a18709bc9da80a2cbeb74"
+  }
+}

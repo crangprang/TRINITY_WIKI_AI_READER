@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:275",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 메인 파티·페르소나·트리네아드 정보상자 라벨 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_275.json",
+  "text": "## [2026-06-26] style | 메인 파티·페르소나·트리네아드 정보상자 라벨 정리\n\n메인 파티, 페르소나, 트리네아드 영역 상단 표의 `문서 유형` 라벨을 `분류`로 바꿨다.\n\n- 범위: 메인 파티 인물과 파티 항목, 페르소나 인물, 트리네아드 인물군과 개별 트리네아드.\n- 유지: 인물/인물군 분류값, 캐릭터 패키지 구조, support 연결은 그대로 둔다.",
+  "metadata": {
+    "char_count": 207,
+    "sha256": "4c5c3ca3fd53cac99301597e5a7801db74df637b1641c61b3d4f0ce35efad274"
+  }
+}

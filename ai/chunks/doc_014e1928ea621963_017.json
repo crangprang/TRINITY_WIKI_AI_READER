@@ -1,0 +1,23 @@
+{
+  "id": "doc_014e1928ea621963:017",
+  "document_id": "doc_014e1928ea621963",
+  "path": "wiki/characters/ensemble/배신의_펠시온/index.md",
+  "wiki_path": "characters/ensemble/배신의_펠시온/index.md",
+  "title": "배신의 펠시온",
+  "section": "제약",
+  "summary": "공허 군단의 무명에서 붕괴의 참모, 죽음의 낙인, 균형계 탈주자로 이어진 파괴계 인물. 결과만을 증명으로 삼으며 에르고에게 새 이름을 요구한다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_014e1928ea621963_017.json",
+  "text": "### 제약\n\n배신은 냉정해 보이지만 자기 자신의 동기와 진심을 끝까지 믿지 못한다. 결정적인 순간마다 `이 선택이 옳은가`와 `이것도 비겁한 생존 본능인가`를 함께 의심한다. 이 자기의심은 그녀를 신중하게 만들지만, 끝내 자기 확신을 갖지 못하게 한다.\n\n에르고와 관련된 문제에서는 계산이 흐트러질 여지가 크다. 그의 존재 자체가 계산 불가능이며, 자기 안의 결핍과 애착이 개입하는 순간 그녀는 완벽한 책사로 남지 못한다.\n\n`배신`이라는 이름은 죽음이 박아 넣은 낙인이다. 배신은 이 낙인을 지울 수 있는 충성의 증명이 결국 왕 곁에서 죽는 일이라고 믿는다.",
+  "metadata": {
+    "char_count": 314,
+    "sha256": "b52fcf648aed91b8c53c486ccc41ab25cc1bac873b05a97daef559c52f4acbb7"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_56d0e06670ee1ce7",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/07_FAFNIR.txt",
+  "title": "파프니르",
+  "summary": "파프니르",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "f3a8040c9cf9728dc8bad24f4ee241304bfdc4422423be12402cc37e6fcf466c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_56d0e06670ee1ce7.json",
+  "chunks": [
+    {
+      "id": "live_doc_56d0e06670ee1ce7:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_56d0e06670ee1ce7_000.json",
+      "char_count": 1050
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:010",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "파티 전체",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_010.json",
+  "text": "### 파티 전체\n\n파티 앞에서는 정공법 리더처럼 들린다. 과한 친근함은 줄이고, 호기롭게 밀어붙인 뒤 한두 마디 농담으로 분위기를 푼다. 농담은 곧장 방향을 정하는 말로 돌아온다.",
+  "metadata": {
+    "char_count": 101,
+    "sha256": "f4af7a2e6496eabf13a37c44e0127bb211e772032d3e55c9f493f4eac65e61a2"
+  }
+}

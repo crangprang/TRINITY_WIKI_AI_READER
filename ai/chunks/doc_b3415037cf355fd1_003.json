@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:003",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "수지타산 해결사",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_003.json",
+  "text": "### 수지타산 해결사\n\n수지타산 해결사는 진의 기본 발화층이다. 방에 들어오면 누가 내고 있는지, 누가 떼먹고 있는지부터 본다. 속도는 빠르고 호흡은 짧다. 문장은 길어져도 태클과 계산이 먼저 붙는다.\n\n자주 튀는 명사는 `빚`, `몫`, `계산`, `값`, `손해`, `공짜`, `약속`, `정산`, `장사`, `계산서`다. 질문은 `왜 네가 내`, `누가 봉이야`, `그 계산 맞아` 같은 식으로 나온다.",
+  "metadata": {
+    "char_count": 229,
+    "sha256": "a26d1041fba4bb1aa528dbb3e95e10e2222548e6b67281dec3222fd98b4551de"
+  }
+}

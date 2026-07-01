@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b33ad83980b9a10c",
+  "path": "03_WORLD/04_CREATURE/C09_HARMONY/01_NONSAPI/01_BEAST/C09_BEAST_BRANCH_IDEA.txt",
+  "title": "C09_HARMONY / BEAST_BRANCH_IDEA",
+  "summary": "C09_HARMONY / BEAST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "947e05a86dee7a48472b74ead94b105201b11c039d6a7ee32ebda47499da78c0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b33ad83980b9a10c.json",
+  "chunks": [
+    {
+      "id": "live_doc_b33ad83980b9a10c:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b33ad83980b9a10c_000.json",
+      "char_count": 2134
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_ae9b5359d2e08055:005",
+  "document_id": "doc_ae9b5359d2e08055",
+  "path": "wiki/characters/main_party/파티/index.md",
+  "wiki_path": "characters/main_party/파티/index.md",
+  "title": "파티",
+  "section": "블랑과 스칼렛",
+  "summary": "파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae9b5359d2e08055_005.json",
+  "text": "## 블랑과 스칼렛\n\n블랑과 스칼렛은 같은 몸 안에서 서로 다른 방식으로 마지막 보루를 지킨다. 블랑은 삶을 지키려다 친구를 병으로 읽고, 스칼렛은 블랑을 지키려다 진실을 버린다.\n\n두 사람의 배신은 서로를 단죄하기 위한 장치로 작동하지 않는다. 같은 비극 안에서 서로 다른 방식으로 마지막 하나를 놓지 못하는 구조다. 블랑과 스칼렛의 전환은 파티 전체의 배신 문법을 가장 선명하게 드러내는 축이다.",
+  "metadata": {
+    "char_count": 223,
+    "sha256": "5f8ea0cd0e3f6bb75528b30fbb522421225baa9e872ebfdb272df33c4fff35bb"
+  }
+}

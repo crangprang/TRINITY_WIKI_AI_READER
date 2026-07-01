@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_7369334e89a3fc50",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/08_HELEN/PER08_VOICE_SAMPLE.txt",
+  "title": "헬렌 / VOICE_SAMPLE",
+  "summary": "헬렌 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "212a62917d5211265db4edb1feb626da8bdaf6bebd076d55176eb7d1eb02cc66",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_7369334e89a3fc50.json",
+  "chunks": [
+    {
+      "id": "live_doc_7369334e89a3fc50:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7369334e89a3fc50_000.json",
+      "char_count": 173
+    }
+  ]
+}

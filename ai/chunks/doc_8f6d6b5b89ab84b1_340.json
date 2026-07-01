@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:340",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] naming | 기능조직 정본명과 디아도코이 분류 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_340.json",
+  "text": "## [2026-06-27] naming | 기능조직 정본명과 디아도코이 분류 보정\n\n사용자 판단에 따라 평화 기능조직명은 필그림즈, 진리 기능조직명은 인퀴지터로 정본화했다. 루시리엘의 기능조직 표면에서 병기명을 제거하고, 메테우스와 알렉시아의 조직명은 인퀴지터로 맞추되 소각은 수행 업무로 남겼다.\n\n디아도코이는 기능조직이 아니라 이단 세력으로 분류했다. 균형계 조직 색인, 디아도코이 항목, 사용자 잠금, 소유권 잠금, TODO를 같은 분류로 보정했다.",
+  "metadata": {
+    "char_count": 255,
+    "sha256": "f71a6473fdf09eaac424dcf39d6f958fe99aee6079a5ce7b167f0ed9683fc4f5"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_ae9b5359d2e08055:006",
+  "document_id": "doc_ae9b5359d2e08055",
+  "path": "wiki/characters/main_party/파티/index.md",
+  "wiki_path": "characters/main_party/파티/index.md",
+  "title": "파티",
+  "section": "파티의 추진력",
+  "summary": "파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae9b5359d2e08055_006.json",
+  "text": "## 파티의 추진력\n\n파티는 각자의 자기판결을 들고 걷는 집단이다. 구성원은 자기 상처를 들고 상대의 마지막 보루를 보며 충돌한다. 이 충돌은 끝까지 길 위에 남게 만드는 압력이다.\n\n로드무비의 추진력은 이 압력에서 나온다. 파티는 고백으로 닫히지 않고, 판단과 실수와 회수와 충돌을 반복하며 다음 장소로 이동한다.",
+  "metadata": {
+    "char_count": 176,
+    "sha256": "4f8bc745f4ee93d81d6991b3f4df1cccc143b8640772a60b21e64e843f8c9270"
+  }
+}

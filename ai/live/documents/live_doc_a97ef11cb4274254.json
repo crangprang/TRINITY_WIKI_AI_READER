@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_a97ef11cb4274254",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_08_CIVILIZATION_AND_MATERIAL_BASELINE.txt",
+  "title": "8.문명선과 물질 기반",
+  "summary": "8.문명선과 물질 기반",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "4def0f02777f9772d04da3af6eb7f6cdec8e24da268331532ec41b7148968d81",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_a97ef11cb4274254.json",
+  "chunks": [
+    {
+      "id": "live_doc_a97ef11cb4274254:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_a97ef11cb4274254_000.json",
+      "char_count": 2614
+    }
+  ]
+}

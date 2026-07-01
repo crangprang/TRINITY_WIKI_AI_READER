@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:064",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 트리네아드별 위상그릇 접합부 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_064.json",
+  "text": "## [2026-06-28] ingest | 트리네아드별 위상그릇 접합부 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md` §19 B의 트리네아드별 위상그릇 해석을 [트리네아드](characters/trineads/index.md)에 반영했다. [아홉 보물](universe/structure/아홉_보물.md)의 개별 보물 물성과 국가 표면 설명은 반복하지 않고, 트리네아드 총론의 `보물과 탄생`에 위상그릇, 영웅 원형, 신격 작동의 접합부 표를 추가했다.\n\n완벽, 무한, 진화, 불멸, 이해, 순수, 영원, 이상, 꿈의 보물이 각각 감독, 자연, 생명, 용기, 라케시스, 절제, 죽음, 에르고, 공허로 올라가는 연결을 정리했다.",
+  "metadata": {
+    "char_count": 369,
+    "sha256": "39d137da4db97097da1a7acebbf83cfeef89312f2251f056d883071ff93664f6"
+  }
+}

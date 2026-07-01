@@ -1,0 +1,23 @@
+{
+  "id": "doc_58f4a49eba94a74f:003",
+  "document_id": "doc_58f4a49eba94a74f",
+  "path": "wiki/characters/main_party/엘리자베스/index.md",
+  "wiki_path": "characters/main_party/엘리자베스/index.md",
+  "title": "엘리자베스",
+  "section": "하나의 꿈과 세 시신",
+  "summary": "엘리자베스는 마고리아가 하나의 꿈과 세 시신으로 재구성한 공용 몸이다. 블랑과 스칼렛은 그 몸 안에서 서로 다른 전면으로 서며, 몸의 상처와 피로는 이어지고 시선과 말투와 의지는 교체된다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_58f4a49eba94a74f_003.json",
+  "text": "### 하나의 꿈과 세 시신\n\n블랑은 꿈의 아틀리에에서 스칼렛에게 자신을 죽여 달라고 부탁했다. 스칼렛은 블랑의 고통을 끝냈고, 돌아온 빈센트를 그가 쓰던 방식으로 죽였다. 거울 속 피투성이 얼굴을 본 스칼렛은 자기 머리에 방아쇠를 당겼다.\n\n마고리아는 이 끝난 장면을 그대로 두지 않았다. 하나의 꿈, 세 명의 시신, 서로 다른 욕망과 실패를 재료로 삼아 엘리자베스를 만들었다. 이 재구성은 블랑과 스칼렛을 한 몸 안에 다시 세웠고, 빈센트의 악의를 저주 `재연`의 압력으로 남겼다.",
+  "metadata": {
+    "char_count": 271,
+    "sha256": "3edb4a1c18f623462d7d1e75dd3aedbc2f02500d55bd107c00300fa751fd345b"
+  }
+}

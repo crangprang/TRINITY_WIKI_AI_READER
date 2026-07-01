@@ -1,0 +1,78 @@
+{
+  "id": "doc_bb715ad1ad9d7128",
+  "path": "wiki/review/template_gaps.md",
+  "wiki_path": "review/template_gaps.md",
+  "title": "본문 보강 대상",
+  "summary": "독자용 WIKI 항목에서 빈 섹션을 만들지 않기 위해 남겨 둔 활성 보강 대상과 리뉴얼 슬롯.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "wiki",
+    "template-gaps"
+  ],
+  "updated": "2026-06-27",
+  "category": "review:template_gaps.md",
+  "is_support": false,
+  "is_review": true,
+  "headings": [
+    {
+      "level": 1,
+      "title": "본문 보강 대상"
+    },
+    {
+      "level": 2,
+      "title": "운영 기준"
+    },
+    {
+      "level": 2,
+      "title": "활성 보강 대상"
+    },
+    {
+      "level": 3,
+      "title": "국가 문서 원샷 리뉴얼 슬롯"
+    }
+  ],
+  "links": [
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    },
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    }
+  ],
+  "sha256": "912bee8599d41b17414e575b3c507220372c1c09731ada59f780d2ed456df55a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bb715ad1ad9d7128.json",
+  "chunks": [
+    {
+      "id": "doc_bb715ad1ad9d7128:000",
+      "section": "본문 보강 대상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_000.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_bb715ad1ad9d7128:001",
+      "section": "운영 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_001.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_bb715ad1ad9d7128:002",
+      "section": "활성 보강 대상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_002.json",
+      "char_count": 11
+    },
+    {
+      "id": "doc_bb715ad1ad9d7128:003",
+      "section": "국가 문서 원샷 리뉴얼 슬롯",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb715ad1ad9d7128_003.json",
+      "char_count": 1163
+    }
+  ]
+}

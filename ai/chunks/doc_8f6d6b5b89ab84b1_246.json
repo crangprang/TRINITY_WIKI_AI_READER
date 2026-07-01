@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:246",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 하위 항목 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_246.json",
+  "text": "## [2026-06-26] rebuild | 하위 항목 표면 정리\n\n인물과 존재 문서에 남은 지원·보조 문서형 heading을 위키식 하위 표면으로 정리했다.\n\n- 인물: 메인 파티 개별 항목의 `지원 문서` heading을 `하위 항목`으로 바꿔 외형, 보이스, 음악 항목을 캐릭터 패키지의 하위 분기로 표시했다.\n- 존재: 레이어드 2등급 판타즈마의 `보조 항목`을 `외곽 개념`으로, 레이어드 3등급 판타즈마의 `보조 판타즈마`를 `외곽 판타즈마`로 바꿨다.\n- 검증: reader-facing 범위에서 `지원 문서`, `보조 항목`, `보조 판타즈마`, 원천/LIVE 경로 잔재를 다시 확인했다.",
+  "metadata": {
+    "char_count": 338,
+    "sha256": "a8aa29114bc38abc34e11d986f391d3d4a185596c96fad4c587f2f6f34cf6bd7"
+  }
+}

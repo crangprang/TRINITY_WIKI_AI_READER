@@ -1,0 +1,23 @@
+{
+  "id": "doc_d709f85ea1d2d146:007",
+  "document_id": "doc_d709f85ea1d2d146",
+  "path": "wiki/characters/savior_candidates/캘리번/index.md",
+  "wiki_path": "characters/savior_candidates/캘리번/index.md",
+  "title": "캘리번",
+  "section": "관련 문서",
+  "summary": "마사오트의 구세주 후보이자 탐험가 길드 우니오네 지부장. 호탕하고 시끄러운 탐험가지만, 금지 심층과 프로스페로의 감시선에 걸린 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_007.json",
+  "text": "## 관련 문서\n\n- [구세주 후보](../index.md) - 올림피아에 공표되는 후보명, 가면, 국가 시험의 공통 구조.\n- [캘리번 외형](support/appearance.md) - 큰 덩치의 탐험가, 밧줄, 비행 방주 갑판이 오래 버틴 항해자를 고정하는 외형 항목.\n- [마사오트](../../../universe/realms/balance/nations/마사오트.md) - 캘리번이 속한 탐험의 나라.\n- [우니오네](../../../universe/realms/balance/nations/우니오네.md) - 캘리번이 지부장으로 머무는 예술의 나라.\n- [프로스페로](../../axions/프로스페로/index.md) - 캘리번을 감시선 안에 둔 마사오트의 엑시온.",
+  "metadata": {
+    "char_count": 380,
+    "sha256": "b8ce49e2cf25b9e135b75a5377a32f95dc44c8f687aa305bca9db75b90345236"
+  }
+}

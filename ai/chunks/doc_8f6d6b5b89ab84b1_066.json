@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:066",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] fix | 인간 파티 문서 하마르티아 용어 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_066.json",
+  "text": "## [2026-06-28] fix | 인간 파티 문서 하마르티아 용어 정리\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md` §19 A를 대조하던 중, 인간 메인 파티 문서에서 개인 상처 문장을 `하마르티아`로 부르는 충돌을 확인했다. [세 에너지](universe/laws/세_에너지.md)와 [하위신](universe/laws/하위신.md)의 잠금에 맞춰 `하마르티아`는 신적 존재와 보물, 하위신급 출력의 꼬임으로 남기고, 메인 파티 문서의 해당 표면은 `핵심 오답`으로 정규화했다.\n\n대상은 [파티](characters/main_party/파티/index.md), [아인](characters/main_party/아인/index.md), [옌](characters/main_party/옌/index.md), [길티어](characters/main_party/길티어/index.md), [진](characters/main_party/진/index.md), [블랑](characters/main_party/블랑/index.md), [스칼렛](characters/main_party/스칼렛/index.md), [엘리자베스](characters/main_party/엘리자베스/index.md), [세레나](characters/main_party/세레나/index.md), [단테](characters/main_party/단테/index.md)다. 파티원별 저주 질문문은 원문 보류 기준에 따라 새로 만들지 않았다.",
+  "metadata": {
+    "char_count": 749,
+    "sha256": "f124729d82f755b6acf894bbe6f3d1c72f1387be730143b0406bb0b5770a80bc"
+  }
+}

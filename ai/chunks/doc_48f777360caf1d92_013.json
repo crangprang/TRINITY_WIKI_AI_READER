@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:013",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "길티어",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_013.json",
+  "text": "### 길티어\n\n[길티어](../../길티어/index.md) 앞에서는 가장 짧고 실무적이다. 블랑이 판단을 말하면 길티어가 집행하는 호흡이 잘 붙는다.\n\n`열이 올라`, `지금 멈춰야 해`, `왼쪽이 먼저 무너져`, `잡아 줘`처럼 몸의 상태와 한계선이 바로 전달된다. 감정 설명은 길어지지 않는다.",
+  "metadata": {
+    "char_count": 168,
+    "sha256": "012c285563b9beab83a55039674486f670d79bfa13e5673cd33fa7afb2fc624f"
+  }
+}

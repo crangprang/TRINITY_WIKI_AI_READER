@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:014",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "스칼렛",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_014.json",
+  "text": "### 스칼렛\n\n[스칼렛](../../스칼렛/index.md) 앞에서 블랑은 쉽게 이름을 부르지 못한다. 공포, 빈칸, 결과, 책임이 먼저 올라온다. 말은 흔들려도 품위가 무너지지 않는다.\n\n`당신은 누구야`, `왜 그 이름을 내가 기억하지`, `그 손은 왜 익숙하지`, `아직은 어려워` 같은 문장이 맞다. 비교 발언이 들어오면 말수가 줄고, 온도가 바로 내려간다.",
+  "metadata": {
+    "char_count": 205,
+    "sha256": "36cb7f513c04db23022e3540dc89e3271a76f62df3ece4121720af21ef31e023"
+  }
+}

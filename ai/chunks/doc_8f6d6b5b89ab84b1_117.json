@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:117",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 아백 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_117.json",
+  "text": "## [2026-06-26] rebuild | 아백 항목 정리\n\n[아백](characters/savior_candidates/아백/index.md)의 운용 메모형 `기본 정보` 표면을 구세주 후보 인물 기사 구조로 정리하고 [염한](universe/realms/balance/nations/염한.md)의 강함, 용기, 염객방, 용인 병사 명예 구조에 맞췄다.\n\n- 정리: 올림피아 순수 무력 1위, 용기의 귀환, 가인, 염한과 용인 병사, 염객방, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [아백 외형](characters/savior_candidates/아백/support/appearance.md)의 관리 문구와 `MASK_ON` 운용 표면을 제거하고 이무기 용기사 가면, 낮은 중심, 무거운 손, 전장의 흔적 중심으로 다시 세웠다.\n- 색인: 구세주 후보 색인의 아백 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 455,
+    "sha256": "ac64047a34d620288d70dcb5bca953555f23146c05009fdefa30e634a21029dc"
+  }
+}

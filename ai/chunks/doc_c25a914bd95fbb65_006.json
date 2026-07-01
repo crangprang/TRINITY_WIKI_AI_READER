@@ -1,0 +1,24 @@
+{
+  "id": "doc_c25a914bd95fbb65:006",
+  "document_id": "doc_c25a914bd95fbb65",
+  "path": "wiki/characters/axions/파우스트/support/appearance.md",
+  "wiki_path": "characters/axions/파우스트/support/appearance.md",
+  "title": "파우스트 외형",
+  "section": "관련 문서",
+  "summary": "파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_006.json",
+  "text": "## 관련 문서\n\n- [파우스트](../index.md) - 오아시스를 반복되는 현재에 묶은 자유 성좌의 엑시온.\n- [오아시스](../../../../universe/realms/balance/nations/오아시스.md) - 파우스트의 외형 배경이 되는 사막 출력 문명.\n- [메피스토](../../../personas/메피스토/index.md) - 파우스트의 현재 고정을 구원의 서사로 포장하는 페르소나.",
+  "metadata": {
+    "char_count": 229,
+    "sha256": "be48bbd7e9383eb556e039b962624cf583c50c075ac86e549235a6aa68922118"
+  }
+}

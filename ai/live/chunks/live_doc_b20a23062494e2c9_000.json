@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_b20a23062494e2c9:000",
+  "document_id": "live_doc_b20a23062494e2c9",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P07_DANTE/P07_BRANCH_IDEA.txt",
+  "title": "P07_단테 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "P07_단테 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b20a23062494e2c9_000.json",
+  "text": "P07_단테 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `P07_CORE.txt`, `P07_FACT_DETAIL.txt`, `P07_VOICE_SAMPLE.txt`, 혹은 live surface로 승격한다.\n- 작업 경과, 병목, 사용자 취향 누적은 이 파일이 아니라 live repo 밖의 `RUN/TRINITY_LIVE/`, `RUN/handoff/TRINITY_LIVE/`, 또는 `../projects_archive/TRINITY_LIVE/` 지원 노트에 둔다.\n\n1. 후보 분기\n\n- 배신했던 친구의 죽음을 단테가 나중에 알게 되는 분기와 그 후폭풍.\n- 발데마르 / 쥬디스 / 미노스와의 재접속을 현재 관계축까지 끌어올릴지에 대한 확장안.\n- 루시아의 질문 `우리가 찾던 별은 무엇이었는가`에 대한 후반 답변 구조와, 별 / 기사 / 맡겨질 일의 최종 정산.\n- 세레나, 블랑, 파티와의 관계가 단테의 기사성 쪽을 얼마나 다시 끌어올릴지에 대한 장기 분기.\n- 아웃로 세계와 위조 신분, 더러운 실무 경험을 더 촘촘한 과거선으로 세우는 확장안.\n\n2. 보류 이유\n\n- 상위 권력 훅은 현재 wound를 설명하는 선까지만 fact로 두고, 이후 재등장이나 해결은 아직 열어 두는 편이 낫다.\n- 미래의 구원선이나 star answer를 지금 정본으로 잠그면 캐릭터가 지나치게 닫힌다.\n\n3. 2026-04-27 시트 라벨 후보\n\n- 이 블록은 사용자 시트에서 들어온 라벨의 반영 상태를 보관한다.\n- `1층위 일확천금 가이드` : 현재 `일확천금의 현지 가이드`의 축약 후보.\n- `2층위 이겨 버린 패배자`, `3층위 코큐토스의 개`, `천성 자신의 지옥을 걷는 순례자`는 현재 CORE/FACT_DETAIL에 반영된 정본이다. 다만 천성은 끝자락에서만 보이는 잔광으로 운용한다.\n- `천성 맡겨진 등불`은 기사성의 책임 이미지를 더 직접화하는 별도 후보로 보관한다. 전면 동기로 쓰면 현재 정본과 어긋난다.\n- `미련 우리가 찾던 별` : 현재 `마지막 질문`을 루시아의 질문과 별 이미지 쪽으로 더 직접화하는 후보.",
+  "metadata": {
+    "char_count": 1153,
+    "sha256": "c8fe8b18b15867f1b239e6c996a7c85a87ea0fb4e2b3378e106413dbb5934cf8"
+  }
+}

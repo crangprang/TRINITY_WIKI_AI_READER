@@ -1,0 +1,23 @@
+{
+  "id": "doc_3088cbcc7dfd698c:003",
+  "document_id": "doc_3088cbcc7dfd698c",
+  "path": "wiki/characters/main_party/index.md",
+  "wiki_path": "characters/main_party/index.md",
+  "title": "주인공 파티",
+  "section": "배신 문법",
+  "summary": "주인공 파티는 삼위의 군상 1부에서 아홉 나라의 균열을 따라 이동하며 세계의 법칙과 각자의 판결을 함께 드러내는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "main_party",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_003.json",
+  "text": "## 배신 문법\n\n[파티](파티/index.md)는 주인공 파티의 배신 문법을 다루는 하위 항목이다. 그 항목은 구성원을 `배신당한 것`, `배신한 것`, `배신하고 싶지 않은 것`으로 나누어, 같은 집단을 내면 판결과 마지막 보루의 관점에서 설명한다.",
+  "metadata": {
+    "char_count": 141,
+    "sha256": "7be052716a803b262a6f981aeb278de2b3260dc49637da8e758106a2a98ffdf5"
+  }
+}

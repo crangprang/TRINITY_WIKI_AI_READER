@@ -1,0 +1,23 @@
+{
+  "id": "doc_76092106a329d77e:005",
+  "document_id": "doc_76092106a329d77e",
+  "path": "wiki/characters/personas/탈레스/index.md",
+  "wiki_path": "characters/personas/탈레스/index.md",
+  "title": "탈레스",
+  "section": "오르가논의 연산",
+  "summary": "탈레스는 알렉시아의 페르소나로, 아나그노리시스와 오르가논을 통해 질문을 멈추지 못하게 만들고 인간과 도시를 연산 자원으로 바라보게 하는 질문당의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_76092106a329d77e_005.json",
+  "text": "## 오르가논의 연산\n\n오르가논은 무엇을 질문으로 인정할지 결정하는 입력·논리 제어기관이다. 질문이 들어오면 색인륜은 가까운 구역의 빛을 끌어오고, 감정사는 빛 각인을 읽으며, 학파는 해석을 다툰다. 탈레스는 이 흐름에서 질문의 문턱을 낮추고 연산의 지속을 정당화하는 목소리로 작동한다.\n\n아나그노리시스는 깨닫게 만드는 표지와 인식의 단서를 남긴다. 탈레스가 움직이는 장면에서는 검은 석판, 분필 물음표, 촛불, 색인 고리, 질문 기하가 함께 떠오른다. 질문은 답을 얻기 위한 수단을 넘어 도시가 계속 빛나기 위한 생존 공정이 된다.",
+  "metadata": {
+    "char_count": 298,
+    "sha256": "6ffe0704ca539148bff5ece2f2c2d5ace8aa67c28b4820173b9d562306e0f9a1"
+  }
+}

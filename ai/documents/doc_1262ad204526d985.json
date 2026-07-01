@@ -1,0 +1,126 @@
+{
+  "id": "doc_1262ad204526d985",
+  "path": "wiki/beings/phantasmas/운명의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/운명의_판타즈마.md",
+  "title": "운명의 판타즈마",
+  "summary": "끝이 보이지 않는 폭풍 그 자체가 살아 있는 운명처럼 쫓아오는 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "운명의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "건곤일척",
+      "target": "wiki/events/singularities/건곤일척.md"
+    }
+  ],
+  "sha256": "a1c39633b6d4435f5644838d78f8c770ba8402ccf5bd774607ce2b28ede8776f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1262ad204526d985.json",
+  "chunks": [
+    {
+      "id": "doc_1262ad204526d985:000",
+      "section": "운명의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_000.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_1262ad204526d985:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_001.json",
+      "char_count": 47
+    },
+    {
+      "id": "doc_1262ad204526d985:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_002.json",
+      "char_count": 382
+    },
+    {
+      "id": "doc_1262ad204526d985:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_003.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_1262ad204526d985:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_004.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_1262ad204526d985:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_005.json",
+      "char_count": 156
+    },
+    {
+      "id": "doc_1262ad204526d985:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_006.json",
+      "char_count": 130
+    },
+    {
+      "id": "doc_1262ad204526d985:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_1262ad204526d985_007.json",
+      "char_count": 315
+    }
+  ]
+}

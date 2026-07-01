@@ -1,0 +1,22 @@
+{
+  "id": "doc_835e7131d0d928a0:005",
+  "document_id": "doc_835e7131d0d928a0",
+  "path": "wiki/review/contradictions.md",
+  "wiki_path": "review/contradictions.md",
+  "title": "충돌 기록",
+  "section": "PER-001: 퍼시스 사망 방식과 초대 투쟁 엑시온 동귀어진 표기",
+  "summary": "알려진 모순, 긴장, 양립하기 어려운 해석을 기록하는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "contradictions"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_835e7131d0d928a0_005.json",
+  "text": "### PER-001: 퍼시스 사망 방식과 초대 투쟁 엑시온 동귀어진 표기\n\n상태: 2026-06-27 사용자 결정으로 해결.\n\n결정:\n\n- 라케시스가 아조트로 퍼시스를 직접 살해하고 기억을 편집한 흐름을 정본으로 둔다.\n- 니그리스와 시트리노의 죄는 퍼시스의 도움 요청을 알면서도 외면한 부작위로 둔다.\n- 염한의 `초대 투쟁의 엑시온 동귀어진`은 후대의 공적 선전, 왜곡된 명분, 또는 염한 내부 기억으로 재맥락화한다.\n\n반영:\n\n- [염한](../universe/realms/balance/nations/염한.md)은 동귀어진 서사를 새 질서 안에서 자기 희생과 천명 명분을 주장하게 만든 공적 기억으로 보강했다.\n\n새 의미 충돌이 발견되면 충돌 대상, 관련 문서, 양립하지 않는 해석, 필요한 사용자 판단을 한 항목으로 추가한다.",
+  "metadata": {
+    "char_count": 412,
+    "sha256": "766347df8ffef00e64b595ab7eed839a8bf0308c37d719851dbc49491bee3e47"
+  }
+}

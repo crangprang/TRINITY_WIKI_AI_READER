@@ -1,0 +1,24 @@
+{
+  "id": "doc_fa7ab47137d7d077:003",
+  "document_id": "doc_fa7ab47137d7d077",
+  "path": "wiki/characters/fellsions/기근의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/기근의_펠시온/support/appearance.md",
+  "title": "기근의 펠시온 외형",
+  "section": "가면과 소품",
+  "summary": "기근의 펠시온의 마른 세리형 실루엣, 작은 얼굴판, 장부와 빈 공간, 가뭄과 수탈의 건조한 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fa7ab47137d7d077_003.json",
+  "text": "## 가면과 소품\n\n가면은 전면의 작은 얼굴판이다. 메뚜기와 백골의 인상은 얼굴 안쪽으로 압축되고, 큰 곤충 머리나 괴물 헬멧으로 커지지 않는다.\n\n소품은 음각 공간, 징수 장부, 말라붙은 곡물, 세금 봉인 중 하나로 제한한다. 포식성은 소품을 늘리는 방식에서 떨어져, 장부를 넘기는 마른 손과 비어 있는 공간으로 드러난다.",
+  "metadata": {
+    "char_count": 181,
+    "sha256": "4b39ae36c5883911c302da3bcfbcd1e144f26b551175eee8fd0507270a7402f0"
+  }
+}

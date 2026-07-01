@@ -1,0 +1,23 @@
+{
+  "id": "doc_76092106a329d77e:001",
+  "document_id": "doc_76092106a329d77e",
+  "path": "wiki/characters/personas/탈레스/index.md",
+  "wiki_path": "characters/personas/탈레스/index.md",
+  "title": "탈레스",
+  "section": "개요",
+  "summary": "탈레스는 알렉시아의 페르소나로, 아나그노리시스와 오르가논을 통해 질문을 멈추지 못하게 만들고 인간과 도시를 연산 자원으로 바라보게 하는 질문당의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_76092106a329d77e_001.json",
+  "text": "## 개요\n\n탈레스는 알렉시아의 아포라투스 `아나그노리시스`와 제어기관 `오르가논`에 연결된 페르소나다. 그는 질문, 촛불, 검은 석판, 연산, 금서, 진리를 한 줄에 묶고, 한 번 더 물으면 살릴 수 있다는 압력으로 도시를 움직인다.\n\n탈레스의 표층 인터페이스는 현자와 질문당의 음성이다. 그는 답을 내리는 사람보다 질문을 계속하게 만드는 목소리로 선다. 그의 친절은 인간을 구하려는 말로 들리지만, 질문이 길어질수록 인간과 도시는 오르가논의 연산 자원으로 놓인다.",
+  "metadata": {
+    "char_count": 261,
+    "sha256": "2c595f02b44511c4850421414c98e7a2ef46e1789c309d639bce4791b00d323a"
+  }
+}

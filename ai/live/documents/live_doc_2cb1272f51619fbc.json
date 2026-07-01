@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_2cb1272f51619fbc",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/07_MINOS/PER07_VOICE_SAMPLE.txt",
+  "title": "미노스 / VOICE_SAMPLE",
+  "summary": "미노스 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "a973a39168e407148fac6d9e13acbeb6fa12ce471db8cebfc2beb6c20474dd6d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2cb1272f51619fbc.json",
+  "chunks": [
+    {
+      "id": "live_doc_2cb1272f51619fbc:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2cb1272f51619fbc_000.json",
+      "char_count": 174
+    }
+  ]
+}

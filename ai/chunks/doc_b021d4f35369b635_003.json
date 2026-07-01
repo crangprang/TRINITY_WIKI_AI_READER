@@ -1,0 +1,24 @@
+{
+  "id": "doc_b021d4f35369b635:003",
+  "document_id": "doc_b021d4f35369b635",
+  "path": "wiki/characters/fellsions/침식의_펠시온/support/appearance.md",
+  "wiki_path": "characters/fellsions/침식의_펠시온/support/appearance.md",
+  "title": "침식의 펠시온 외형",
+  "section": "송장벌레 백골 가면",
+  "summary": "침식의 펠시온의 금욕적 죄수 실루엣, 송장벌레 백골 가면, 붉은 봉인 문신, 검은 침식 문신, 수라가 새어 나오는 몸의 감옥 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b021d4f35369b635_003.json",
+  "text": "## 송장벌레 백골 가면\n\n침식의 가면은 송장벌레 백골 가면이다. 낮게 닫힌 벌레형 윤곽과 마른 백골 질감이 얼굴을 가리고, 부패를 처리하는 벌레 이미지를 자기봉인의 표지로 바꾼다.\n\n가면은 위협적인 장식보다 감옥의 문패처럼 보인다. 수라가 새어 나오는 검은 침식은 가면 가장자리와 목, 어깨 쪽으로 번지고, 붉은 봉인 문신은 그 흐름을 몸 안으로 다시 죄는 선으로 남는다.",
+  "metadata": {
+    "char_count": 209,
+    "sha256": "b1b1b7bb08578107fafe79402a27daeac94f69c7a570de9a236aad1fdaf58a8b"
+  }
+}

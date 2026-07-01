@@ -1,0 +1,24 @@
+{
+  "id": "doc_a402773e1ebc9597:003",
+  "document_id": "doc_a402773e1ebc9597",
+  "path": "wiki/characters/main_party/진/support/appearance.md",
+  "wiki_path": "characters/main_party/진/support/appearance.md",
+  "title": "진 외형",
+  "section": "의상과 소품",
+  "summary": "진의 더티 블론드, 바랜 선글라스, 구겨진 현장복, 워크맨과 카세트, 먼저 움직이는 발끝을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_003.json",
+  "text": "## 의상과 소품\n\n진의 기본 복장은 구겨진 셔츠와 움직임 좋은 바지다. 셔츠는 한 번쯤 접히고 눌려 있으며, 천과 절개는 완전히 풀어지지 않는다. 허리와 등, 걷어 올린 소매에는 한 번 부딪히고 주먹을 올린 사람의 주름이 남는다.\n\n넥타이, 코트, 재킷, 구두는 기본값에서 빠진다. 한 겹 비어 있는 차림이 진에게 맞는다. 옷은 싸움과 장사판을 지나 다음 현장으로 바로 이어질 수 있어야 하고, 최소한의 양식과 매무새는 남아 있어야 한다.\n\n발끝에는 오래 뛰고 차고 버틸 수 있는 현장형 신발이 붙는다. 손목에는 테이핑이나 얇은 랩이 남고, 숨은 너클가드는 과시품으로 서지 않고 몸을 먼저 쓰는 해결사의 도구로 남는다.\n\n워크맨, 예비 카세트, 바랜 선글라스는 진의 중심 소품이다. 워크맨을 만지는 순간 장면의 공기가 잠깐 식고, 진의 소란 아래 있던 약속과 미련이 올라온다.",
+  "metadata": {
+    "char_count": 435,
+    "sha256": "97847555a08a9469d61947f27be445a9ffafbb5bc2d51cb168a9962d2e505f52"
+  }
+}

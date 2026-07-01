@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_981745ac6c56fdec",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P02_YEN/P02_VOICE_SAMPLE.txt",
+  "title": "P02_옌 / VOICE_SAMPLE",
+  "summary": "P02_옌 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "fff4518d4a05a426c2b6d091710ceb27c24ddcc88cc65bd7ab0dfdd8283dd316",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_981745ac6c56fdec.json",
+  "chunks": [
+    {
+      "id": "live_doc_981745ac6c56fdec:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_981745ac6c56fdec_000.json",
+      "char_count": 5862
+    }
+  ]
+}

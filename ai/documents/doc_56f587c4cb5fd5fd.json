@@ -1,0 +1,132 @@
+{
+  "id": "doc_56f587c4cb5fd5fd",
+  "path": "wiki/characters/ensemble/index.md",
+  "wiki_path": "characters/ensemble/index.md",
+  "title": "앙상블",
+  "summary": "앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "ensemble",
+    "character_group"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:ensemble",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "앙상블"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "증언과 탈주"
+    },
+    {
+      "level": 2,
+      "title": "작동 방식"
+    },
+    {
+      "level": 2,
+      "title": "파티 바깥의 인과"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "니그리스 알비우스 시트리노",
+      "target": "wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md"
+    },
+    {
+      "label": "소피아",
+      "target": "wiki/characters/ensemble/소피아/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "배신의 펠시온",
+      "target": "wiki/characters/ensemble/배신의_펠시온/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "주인공 파티",
+      "target": "wiki/characters/main_party/index.md"
+    }
+  ],
+  "sha256": "2c02ae9ed4fb2b6801c718bc37b72bee22fb71a94f4aa83b394284820e5da3e0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56f587c4cb5fd5fd.json",
+  "chunks": [
+    {
+      "id": "doc_56f587c4cb5fd5fd:000",
+      "section": "앙상블",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_000.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_56f587c4cb5fd5fd:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_001.json",
+      "char_count": 397
+    },
+    {
+      "id": "doc_56f587c4cb5fd5fd:002",
+      "section": "증언과 탈주",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_002.json",
+      "char_count": 323
+    },
+    {
+      "id": "doc_56f587c4cb5fd5fd:003",
+      "section": "작동 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_003.json",
+      "char_count": 394
+    },
+    {
+      "id": "doc_56f587c4cb5fd5fd:004",
+      "section": "파티 바깥의 인과",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_004.json",
+      "char_count": 299
+    },
+    {
+      "id": "doc_56f587c4cb5fd5fd:005",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_005.json",
+      "char_count": 517
+    },
+    {
+      "id": "doc_56f587c4cb5fd5fd:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56f587c4cb5fd5fd_006.json",
+      "char_count": 343
+    }
+  ]
+}

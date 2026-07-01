@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:309",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 하위신 인물군 정보표와 경계 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_309.json",
+  "text": "## [2026-06-26] rebuild | 하위신 인물군 정보표와 경계 보강\n\n[엑시온](characters/axions/index.md), [페르소나](characters/personas/index.md), [펠시온](characters/fellsions/index.md)에 안정 정보표를 추가하고 권한과 경계, 관리자 의식과 대변자, 인격과 동명 재앙 설명을 보강했다. 하위신 인물군을 보물·장치·이름 판결·균형계 침투의 조회 축으로 읽을 수 있게 했다.",
+  "metadata": {
+    "char_count": 258,
+    "sha256": "809b1b58abd075a0748412840c691c9f521e550d8ae3e969c0eb03810ef8d6ca"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:010",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "단테",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_010.json",
+  "text": "### 단테\n\n[단테](../../단테/index.md) 앞에서는 못마땅함과 인정이 같이 붙는다. 시비와 빈정거림은 쉽게 튀지만, 끝까지 얕보는 톤으로 닫히지 않는다. 평소에는 `사냥꾼`이라 부르며 밀어내고, 결정적 순간에는 평가가 한 박자 늦게 솔직해진다.",
+  "metadata": {
+    "char_count": 144,
+    "sha256": "37d7c08b482d7f0eba635734389b8b20bb24429ac2af174dafafbdb5095c60ad"
+  }
+}

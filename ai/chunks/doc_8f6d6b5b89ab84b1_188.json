@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:188",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-05-25] build | 독자용 통합 문서",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_188.json",
+  "text": "## [2026-05-25] build | 독자용 통합 문서\n\n패키지로 나뉜 LIVE CANON 파일을 138개 독자용 통합 문서로 재구성했다.\n\n- 인물: 53개\n- 국가: 11개\n- 사건: 49개\n- 존재: 25개\n- RUN 빌드 증거: `RUN/TRINITY_WIKI/20260527/articles/20260525_233626`",
+  "metadata": {
+    "char_count": 187,
+    "sha256": "8917ca7a083a186c3546ae578a38944e2bf03577d220178f8358b31475a022a2"
+  }
+}

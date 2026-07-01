@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:003",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "청색의 순례자",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_003.json",
+  "text": "### 청색의 순례자\n\n세레나의 기본값이다. 규율, 절제, 거리 유지로 자기를 세운다. 속도는 빠르지 않고, 호흡은 고르다. 짧게 말해도 문장은 흐트러지지 않는다.\n\n질문은 `어째서`, `그런가`, `인가`처럼 짧고 무겁게 닫힌다. 자주 튀는 명사는 `검`, `검집`, `예의`, `자세`, `이유`, `천`, `기름`, `두루마리`다.",
+  "metadata": {
+    "char_count": 188,
+    "sha256": "0644de549027353dd595b5d7ce1c2ff74a0980f324a72fc6b4a398dee670611e"
+  }
+}

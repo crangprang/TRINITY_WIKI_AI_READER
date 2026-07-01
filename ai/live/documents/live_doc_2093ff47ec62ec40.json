@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_2093ff47ec62ec40",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC03_CALIBAN.txt",
+  "title": "캘리번",
+  "summary": "캘리번",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "996f58336a4c5f09d9cb8b29eb0c05fe00db7e507ed9f16be98aff80e77fbec4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2093ff47ec62ec40.json",
+  "chunks": [
+    {
+      "id": "live_doc_2093ff47ec62ec40:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2093ff47ec62ec40_000.json",
+      "char_count": 911
+    }
+  ]
+}

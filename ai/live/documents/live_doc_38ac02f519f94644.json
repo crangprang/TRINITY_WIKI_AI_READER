@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_38ac02f519f94644",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC01_APAEI.txt",
+  "title": "아패이",
+  "summary": "아패이",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "b4a979464682ddaf5192d4a70d250aaee89f2c8d1811d44991d0bb51466579d0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_38ac02f519f94644.json",
+  "chunks": [
+    {
+      "id": "live_doc_38ac02f519f94644:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_38ac02f519f94644_000.json",
+      "char_count": 1490
+    }
+  ]
+}

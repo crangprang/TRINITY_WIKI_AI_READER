@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_03d4aae71ce9a092:000",
+  "document_id": "live_doc_03d4aae71ce9a092",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_VOICE_SAMPLE.txt",
+  "title": "빈센트 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "빈센트 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_03d4aae71ce9a092_000.json",
+  "text": "빈센트 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER02_CORE.txt`와 `PER02_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 174,
+    "sha256": "1ee1c4cffda3839542a6f1bc043b4ce74290e1d75ae7bb6ef887aeb5ea9ddf5f"
+  }
+}

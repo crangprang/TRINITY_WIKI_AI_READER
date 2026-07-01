@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:130",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 속박의 펠시온 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_130.json",
+  "text": "## [2026-06-26] rebuild | 속박의 펠시온 항목 정리\n\n[속박의 펠시온](characters/fellsions/속박의_펠시온/index.md)의 중복 개요와 `기본 정보` 표면을 인물 기사 구조로 정리했다.\n\n- 정리: 정체와 역할, 붕괴와 이름, 생존 전쟁과 부패, 업연과 피 사슬, 전투 방식, 재회와 배신 모티브, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [속박의 펠시온 외형](characters/fellsions/속박의_펠시온/support/appearance.md)의 관리 문구와 번호형 항목을 제거하고 굽은 인형사 실루엣, 업연이 주도권을 쥔 이인무, 붉은 사슬과 인형줄 중심으로 다시 세웠다.\n- 색인: 펠시온 색인의 속박의 펠시온 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 394,
+    "sha256": "80d10d3ac8eab696e62f52d02fdf574fd809223cf38675ba13337b917c3ec061"
+  }
+}

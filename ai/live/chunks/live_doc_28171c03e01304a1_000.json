@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_28171c03e01304a1:000",
+  "document_id": "live_doc_28171c03e01304a1",
+  "path": "01_CANON/00_WORLD_CANON/00_00_WORLD_CANON_index.json",
+  "title": "{",
+  "section": "body",
+  "summary": "\"index_version\": \"2.4\",",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_28171c03e01304a1_000.json",
+  "text": "{\n  \"index_version\": \"2.4\",\n  \"generated_at\": \"2026-05-03T00:00:00+09:00\",\n  \"path_relative\": \"01_CANON/00_WORLD_CANON\",\n  \"folder_name\": \"00_WORLD_CANON\",\n  \"depth\": 2,\n  \"file_count\": 18,\n  \"rule_applied\": \"txt_files_recursive; indexes_navigation_only\",\n  \"files\": [\n    \"WC00_TIMELINE/WC00_TIMELINE_01_PRIMORDIAL_TO_EMANACHION.txt\",\n    \"WC00_TIMELINE/WC00_TIMELINE_02_ECHO_WAR_TO_CALCINATION_AND_RECREATION.txt\",\n    \"WC00_TIMELINE/WC00_TIMELINE_03_CHAOS_AGE_TO_GRAND_RESONANCE.txt\",\n    \"WC00_TIMELINE/WC00_TIMELINE_04_AFTER_GRAND_RESONANCE_TO_AGE_OF_NINE_NATIONS.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_01_UNIVERSE.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_02_COMPOSITION.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_02A_DIVINE_SYSTEM.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_02B_DRAGONS_RIDDLES_AND_TREASURES.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_02C_APPARATUS_SYSTEM.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_02D_PHENOMENA_AND_TECHNIQUE.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_03_EVENTS.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_04_NARRATIVE_DEVICES.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_05_ORGANIZATIONS_AND_POWERS.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_06_LIFES.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_07_GEOGRAPHY_AND_TERRAIN.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_08_CIVILIZATION_AND_MATERIAL_BASELINE.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_09_CULTURE_AND_TABOOS.txt\",\n    \"WC01_DETAILS/WC01_DETAILS_99_SPOILER.txt\"\n  ],\n  \"encoding\": \"UTF-8\"\n}",
+  "metadata": {
+    "char_count": 1412,
+    "sha256": "5648fc2c0ce6fbbb79cb4cff31579a881c354d702a83c2216d668406fb901399"
+  }
+}

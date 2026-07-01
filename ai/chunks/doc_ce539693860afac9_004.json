@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce539693860afac9:004",
+  "document_id": "doc_ce539693860afac9",
+  "path": "wiki/characters/axions/엘피스/support/appearance.md",
+  "wiki_path": "characters/axions/엘피스/support/appearance.md",
+  "title": "엘피스 외형",
+  "section": "지하 기록도시",
+  "summary": "엘피스의 청색 머리와 회색 눈, 피로한 관리자 실루엣, 작은 촛불과 질문 기록, 푸른 제어광을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_004.json",
+  "text": "## 지하 기록도시\n\n배경은 알렉시아의 지하 기록도시를 사용한다. 사슬 달린 책장, 촛불이 놓인 대열람실, 푸른 수정 광맥, 색인 고리, 조용한 승강기와 봉쇄문이 어둠 속에 배치된다. 장면 전체는 장기 연산과 행정의 피로를 먼저 드러낸다.\n\n엘피스가 서 있는 위치는 책장과 제어광 사이가 어울린다. 자세는 어느 질문을 허가할지 결정하는 순간의 정지된 선 자세다.",
+  "metadata": {
+    "char_count": 202,
+    "sha256": "532f46f2dd7d9caf850d023669fd6665eda9d10a34036e0231f576dea55b4599"
+  }
+}

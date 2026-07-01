@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_859bb18636afe87b:004",
+  "document_id": "live_doc_859bb18636afe87b",
+  "path": "03_WORLD/04_CREATURE/00_CREATURE_README.txt",
+  "title": "04_CREATURE",
+  "section": "Candidate Staging",
+  "summary": "`04_CREATURE` is the country-based creature branch of `03_WORLD`.",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_859bb18636afe87b_004.json",
+  "text": "## Candidate Staging\n\n- When a country has many creature candidates but individual dossiers are still thin, keep them in the relevant class-level `*_BRANCH_IDEA.txt` file instead of creating one file per creature too early.\n- Class-level branch files may preserve candidate pools, local nicknames, ecological premises, and apply guards.\n- Promote a candidate from a class-level branch file into its own dossier only after it has enough minimum detail: name, class, base organism or belief, habitat, behavior, field response, and seal/purification point when relevant.",
+  "metadata": {
+    "char_count": 567,
+    "sha256": "3e222be48af567589972497fc3e842e111ba70cc4ac7b772c116518294bdb27a"
+  }
+}

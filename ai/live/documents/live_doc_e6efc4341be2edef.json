@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_e6efc4341be2edef",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/01_HWANG_NOIN/PER01_VOICE_SAMPLE.txt",
+  "title": "황 노인 / VOICE_SAMPLE",
+  "summary": "황 노인 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "ba78360bc88643bef027525c919fa044cb3115826a98168d89c644ab130dda36",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_e6efc4341be2edef.json",
+  "chunks": [
+    {
+      "id": "live_doc_e6efc4341be2edef:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_e6efc4341be2edef_000.json",
+      "char_count": 175
+    }
+  ]
+}

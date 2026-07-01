@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:072",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 세 에너지와 인간 출력 체계 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_072.json",
+  "text": "## [2026-06-28] ingest | 세 에너지와 인간 출력 체계 반영\n\n`TRINITY_SESSION_HANDOFF_2026-05-23.md`의 세 에너지, 생명필터, 축복/저주/비술, 기적 범위를 [세 에너지](universe/laws/세_에너지.md)에 흡수했다. 에테르·이데아·마니아의 압축 비유와 양면성, 인간 생명필터의 로고스·파토스·에토스, 저주 면역과 반동, 비술 공정, 기적과 비술의 같은 물리를 정리했다.\n\n[하위신](universe/laws/하위신.md)에는 인간 숙주의 개인 출력과 보물·위상그릇·왕권·낙인·설계 목적에서 생기는 하위신급 출력을 구분하도록 경계를 보강했다. 2026-05-23 세션의 오리진·위상, 아홉 보물, 아포라투스와 비술 물리 대응은 후속 ingest로 남겼다.\n\n같은 원칙에 맞춰 [펠시온](characters/fellsions/index.md)과 [정적의 펠시온](characters/fellsions/정적의_펠시온/index.md)의 이름 판결, 절대청각 설명에서 인간 출력어와 하위신급 출력어가 섞이지 않도록 고쳤고, [투르키나 외형](characters/personas/투르키나/support/appearance.md)의 관용적 `저주받은` 표면을 뒤틀린 안내자 실루엣으로 낮췄다.",
+  "metadata": {
+    "char_count": 639,
+    "sha256": "ee4dc9e37852708ea2deada2ca49edf746e14130c48e59e6d1a76358e7117c87"
+  }
+}

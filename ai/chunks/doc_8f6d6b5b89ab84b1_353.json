@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:353",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] worldhistory | 세계사 프리퀄 인과 재구성",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_353.json",
+  "text": "## [2026-06-28] worldhistory | 세계사 프리퀄 인과 재구성\n\n[세계사](events/world_history/index.md)를 아난케의 장력 딜레마, 끄트머리 우주, 최초의 삼위, 에마나치온, 메아리 전쟁, 아홉 영웅, 칼시네이션, 삼위일체 우주 재창조, 지혜와 감독, 창조계 침공, 두 문, 대공명, 삼위정교, 퍼시스와 스트레인저 순서로 재구성했다. 파괴계 생존전쟁의 위상 충돌이 아포라투스 구성물 동시 공명을 부르는 구조와 퍼시스 사건의 라케시스 직접 살해/기억 편집 잠금을 유지했다. [감독](characters/trineads/감독/index.md)은 결말 이후 삶 부정보다 지혜에게 소모됐다는 배신감, 거대 담론 폐기, 순간 감정의 진실성을 중심으로 보정했다. 중복 타임라인 성격의 완료 handoff 원문은 `wiki/review/remain_handoff/`에서 제거하고 [검토와 결정 요청](review/index.md)의 잔여 핸드오프 목록에서 내렸다.",
+  "metadata": {
+    "char_count": 500,
+    "sha256": "6fdf327f55881bcea35f311bfdf5def3dc24241176ef02bbeec122b3277dc0b6"
+  }
+}

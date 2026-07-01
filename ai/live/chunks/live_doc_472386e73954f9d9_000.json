@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_472386e73954f9d9:000",
+  "document_id": "live_doc_472386e73954f9d9",
+  "path": "02_LORE/L07_JUSTICE/L07_REFERENCE.txt",
+  "title": "L07_오르딜리아 / REFERENCE",
+  "section": "body",
+  "summary": "L07_오르딜리아 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L07_JUSTICE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_472386e73954f9d9_000.json",
+  "text": "L07_오르딜리아 / REFERENCE\n\n[이 문서 사용법]\n- 이 파일은 정본과 디테일 파일에 다 올리지 않은 참고 메모를 둔다.\n- `L07_CORE.txt`나 `L07_FACT_DETAIL.txt`와 충돌하면 이 파일을 승격하지 않는다.\n- 확장안, 변형안, 대체 방향 메모는 `L07_BRANCH_IDEA.txt`에 둔다.\n\n1. 인용 앵커\n\n- \"오르딜리아에서는 정의가 먼저 칼집을 갖고, 사람은 그 안에 맞춰 들어가야 한다.\"\n- \"반지는 맹세이면서 동시에 도시가 시민의 손가락에 채운 족쇄다.\"\n- \"완벽한 질서를 꿈꿀수록, 이 나라는 더 거대한 재판장이 된다.\"\n\n2. 시각 / 장면 앵커\n\n- 얼음 돔, 가짜 별, 반지 판독기, 검문소, 나선형 탑, 결투 재판장이 먼저 보여야 한다.\n- 푸르가토리오의 냉기와 프라우돌렌티의 증기, 객차, 배관망이 양면으로 함께 있어야 한다.\n- 코퀴토스의 얼음 아래에 지열 금이 자라는 이미지가 나라 전체의 핵심 은유다.\n\n3. 경계 메모\n\n- 오르딜리아는 먼저 장엄한 질서와 기사국의 전면으로 열어야 한다. 곧바로 감시 국가 보고서처럼 시작하지 않는다.\n- 다만 초반 안에 반지의 족쇄성, 상호 감시, 지하 열기와 무법을 붙여 질서의 비용을 보여 줘야 한다.\n- 파놉티콘은 단순한 치안 기계가 아니라 감시와 연출을 동시에 설계하는 장치라는 결을 유지한다.\n- 오르딜리아의 이름층을 섞지 않는다. `미노스`는 페르소나명이고, `아스트레아`/`아스트라이아`는 절제를 정의의 여신상으로 번역한 오르딜리아 로컬 성상명이다. 성상명은 지역 전례와 조각상, 판결문 수사에 쓰되, 파놉티콘 관리자 이름처럼 쓰지 않는다.\n\n4. 레퍼런스 시트\n\n- 플라톤 `기게스의 반지`\n- `Divine Comedy`\n- `The Lord of the Rings`\n- `Nibelungen Ring`\n- `Snowpiercer`\n- `Frostpunk`\n- `Metro 2033`\n- 파놉티콘",
+  "metadata": {
+    "char_count": 961,
+    "sha256": "6d31a35a356e37af12c5a7ad9491e056915fd1f1c5ff7d494a8cd8620c2156cd"
+  }
+}

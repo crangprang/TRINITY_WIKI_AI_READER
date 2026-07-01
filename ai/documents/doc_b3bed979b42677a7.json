@@ -1,0 +1,105 @@
+{
+  "id": "doc_b3bed979b42677a7",
+  "path": "wiki/characters/axions/판도라/support/appearance.md",
+  "wiki_path": "characters/axions/판도라/support/appearance.md",
+  "title": "판도라 외형",
+  "summary": "판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "판도라 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "맹인 학장"
+    },
+    {
+      "level": 2,
+      "title": "석판과 빛"
+    },
+    {
+      "level": 2,
+      "title": "가면 부재"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    }
+  ],
+  "sha256": "ca037c3b465d9bae0f493da136e5fdb8f8a49456cfbb2d0638f10013adfb30de",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b3bed979b42677a7.json",
+  "chunks": [
+    {
+      "id": "doc_b3bed979b42677a7:000",
+      "section": "판도라 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_000.json",
+      "char_count": 103
+    },
+    {
+      "id": "doc_b3bed979b42677a7:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_001.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_b3bed979b42677a7:002",
+      "section": "맹인 학장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_002.json",
+      "char_count": 169
+    },
+    {
+      "id": "doc_b3bed979b42677a7:003",
+      "section": "석판과 빛",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_003.json",
+      "char_count": 151
+    },
+    {
+      "id": "doc_b3bed979b42677a7:004",
+      "section": "가면 부재",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_004.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_b3bed979b42677a7:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_005.json",
+      "char_count": 100
+    },
+    {
+      "id": "doc_b3bed979b42677a7:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_006.json",
+      "char_count": 91
+    }
+  ]
+}

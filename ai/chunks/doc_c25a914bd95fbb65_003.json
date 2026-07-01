@@ -1,0 +1,24 @@
+{
+  "id": "doc_c25a914bd95fbb65:003",
+  "document_id": "doc_c25a914bd95fbb65",
+  "path": "wiki/characters/axions/파우스트/support/appearance.md",
+  "wiki_path": "characters/axions/파우스트/support/appearance.md",
+  "title": "파우스트 외형",
+  "section": "데스마스크와 열린 왕관",
+  "summary": "파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_003.json",
+  "text": "## 데스마스크와 열린 왕관\n\n가면은 모래 출력 데스마스크와 열린 왕관으로 구성된다. 데스마스크는 죽은 얼굴을 그대로 복제한 듯한 매끈한 전면 가면이며, 표면에는 모래 출력물의 적층선과 반복 패턴이 남는다.\n\n열린 왕관은 머리 위 장식에 머물지 않는다. 왕관의 틈은 시간이 닫히지 못한 채 현재를 계속 출력하는 균열처럼 보인다. 파우스트가 얼굴을 드러내는 장면에서도 데스마스크와 왕관의 형상은 배경 장치나 그림자로 남아 있어야 한다.",
+  "metadata": {
+    "char_count": 242,
+    "sha256": "11ca0cb0c3197cc2f6b915ffa39e7711f05d445d7f34268fdbb07e1c2b595925"
+  }
+}

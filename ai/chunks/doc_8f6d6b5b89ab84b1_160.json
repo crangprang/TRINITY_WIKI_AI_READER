@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:160",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] merge | 구세주 후보 항목 병합",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_160.json",
+  "text": "## [2026-06-26] merge | 구세주 후보 항목 병합\n\n`characters/savior_candidates`의 메타형 `구세주 후보 서술 기준` 문서를 [구세주 후보](characters/savior_candidates/index.md) 항목으로 병합했다.\n\n- 병합: 후보군의 공통 정의, 올림피아 제도, 페르소나와 신앙, 기능조직, 후보 배열을 `구세주 후보` 항목 본문으로 옮겼다.\n- 삭제: `wiki/characters/savior_candidates/구세주_후보_서술_기준/index.md` 파일과 빈 패키지 디렉터리를 제거했다.\n- 연결: 기존 `SC00_GUIDE` 계열 alias와 평면 article 경로는 `characters/savior_candidates/index.md`로 해석되게 했다.",
+  "metadata": {
+    "char_count": 407,
+    "sha256": "c23df4dfe79915051322d013d6e769ab80eda83a82ffdcedb3b2a9b7f3cbdfe5"
+  }
+}

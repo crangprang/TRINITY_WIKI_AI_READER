@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_a5b6aa5d1eba255c:000",
+  "document_id": "live_doc_a5b6aa5d1eba255c",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/02_SINGULARITY_EPISODE/00_02_SINGULARITY_EPISODE_index.json",
+  "title": "{",
+  "section": "body",
+  "summary": "\"index_version\": \"2.1\",",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_a5b6aa5d1eba255c_000.json",
+  "text": "{\n  \"index_version\": \"2.1\",\n  \"generated_at\": \"2026-03-10T12:56:33Z\",\n  \"path_relative\": \"05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/02_SINGULARITY_EPISODE\",\n  \"folder_name\": \"02_SINGULARITY_EPISODE\",\n  \"depth\": 3,\n  \"file_count\": 10,\n  \"rule_applied\": \"depth<=3\",\n  \"files\": [\n    \"00_SINGULARITY_TEMPLATE.txt\",\n    \"01_STRUGGLE_SINGULARITY_EPISODE.txt\",\n    \"02_ART_SINGULARITY_EPISODE.txt\",\n    \"03_EXPLORER_SINGULARITY_EPISODE.txt\",\n    \"04_TRADE_SINGULARITY_EPISODE.txt\",\n    \"05_FREEDOM_SINGULARITY_EPISODE.txt\",\n    \"06_TRUTH_SINGULARITY_EPISODE.txt\",\n    \"07_JUSTICE_SINGULARITY_EPISODE.txt\",\n    \"08_PEACE_SINGULARITY_EPISODE.txt\",\n    \"09_HARMONY_SINGULARITY_EPISODE.txt\"\n  ],\n  \"encoding\": \"UTF-8\"\n}",
+  "metadata": {
+    "char_count": 708,
+    "sha256": "e74ee86e64329290fa20008cc985ee8d301844ee2a3cfd1e2677af6be7bc2770"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:175",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | relation queue closeout",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_175.json",
+  "text": "## [2026-06-26] maintenance | relation queue closeout\n\n검수 대시보드의 관계 보강 큐에 남아 있던 primary reader page에 `관련 문서` 섹션을 보강했다.\n\n- 보강: 4등급 판타즈마 8개에 판타즈마 색인, 대응 국가, 연결 특이점/인물 링크를 추가했다.\n- 보강: 펠시온 5개에 펠시온 색인과 본문에서 명시된 핵심 관계 링크를 추가했다.\n- 보강: 트리네아드 공통 문서, 삼위의 군상/1부 프롤로그, 올림피아에 상위 색인과 관련 문서 링크를 추가했다.\n- 검증: reader audit 기준 `with_related`가 101/101로 올라갔고 missing link는 0이다.",
+  "metadata": {
+    "char_count": 355,
+    "sha256": "17aed76ded44bbfb6d28cbf345328760122836ffeee3f3224b4eb44b9365b5ea"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_7bf6597c8642d4dd:000",
+  "document_id": "doc_7bf6597c8642d4dd",
+  "path": "wiki/characters/savior_candidates/카스파르/index.md",
+  "wiki_path": "characters/savior_candidates/카스파르/index.md",
+  "title": "카스파르",
+  "section": "카스파르",
+  "summary": "카스파르는 플라센티아의 구세주 후보이자 마스크맨 현 리더로, 길티어가 남긴 실패와 역할 가면을 계약 사냥단 체계로 재건한 운영형 사냥꾼이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7bf6597c8642d4dd_000.json",
+  "text": "# 카스파르\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 카스파르 |\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 30대 초반 |\n| 소속/지역 | 조화의 나라 [플라센티아](../../../universe/realms/balance/nations/플라센티아.md) |\n| 직책/역할 | 구세주 후보 / 마스크맨 현 리더 |\n| 기능조직 | [마스크맨](../../../universe/realms/balance/organizations/마스크맨.md) |\n| 주요 관계 | [길티어](../../main_party/길티어/index.md), [제페토](../../axions/제페토/index.md), [부패의 판타즈마](../../../beings/phantasmas/부패의_판타즈마.md) |",
+  "metadata": {
+    "char_count": 408,
+    "sha256": "c00f70d2d129323b4de4cd35fe1a0a16fbcfe1adb26af21df05c45e37a40f36c"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:301",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 우주 법칙 항목 운영어 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_301.json",
+  "text": "## [2026-06-26] style | 우주 법칙 항목 운영어 정리\n\n[삼위일체 우주](universe/structure/삼위일체_우주.md), [세 에너지](universe/laws/세_에너지.md), [하위신](universe/laws/하위신.md)의 `조회 기준`식 문장을 세계 내부 작동 설명으로 바꿨다. 복합 제목은 alias로만 남기고 실제 항목 본문은 정본 조회어 중심으로 유지한다.",
+  "metadata": {
+    "char_count": 223,
+    "sha256": "bdbacd115b14ac9e356460201c57212081ee8e33a2ab2a3735b08fcfcbdb698c"
+  }
+}

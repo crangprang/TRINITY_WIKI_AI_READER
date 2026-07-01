@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:018",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "별과 마지막 질문",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_018.json",
+  "text": "### 별과 마지막 질문\n\n별 이야기는 단테의 말끝을 늦춘다. 그는 곧장 답하지 못하고, 농담으로 덮어도 눈이 먼저 걸린다. 루시아의 질문이 직접 닿으면 단테의 문장은 짧고 낮아진다.",
+  "metadata": {
+    "char_count": 102,
+    "sha256": "c22521b158f16a7b9f4e58a0173ace3c21cfd8bcd6fbc8081d9adcb2a626e43f"
+  }
+}

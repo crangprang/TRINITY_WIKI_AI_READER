@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:191",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-05-27] maintenance | 독자용 문서 수동 운영 고정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_191.json",
+  "text": "## [2026-05-27] maintenance | 독자용 문서 수동 운영 고정\n\n독자용 문서를 자동 재생성으로 덮어쓸 위험을 제거하기 위해 `tools/build_reader_articles.py`를 삭제하고, `wiki/articles/` 운영 원칙을 수동 서술로 고정했다.\n\n- 도구는 감사, 링크 검사, 회수, 후보 작성 보조에만 사용한다.\n- 독자용 본문은 원천을 읽고 손으로 다듬는다.\n- 빈 섹션은 창작으로 채우지 않고 `review/template_gaps.md`에 기록한다.",
+  "metadata": {
+    "char_count": 275,
+    "sha256": "2180315c08d92e73348e23ca369dd798abf728a3bd2156865ade6efdfcd50292"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_605312bc83f90193",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/03_TYPHON.txt",
+  "title": "티폰",
+  "summary": "티폰",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "95ee25cc6ce914c1e2e552fffedc5609e9b085d33274d7f77a91ba4e3344a313",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_605312bc83f90193.json",
+  "chunks": [
+    {
+      "id": "live_doc_605312bc83f90193:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_605312bc83f90193_000.json",
+      "char_count": 1148
+    }
+  ]
+}

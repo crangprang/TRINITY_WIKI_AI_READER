@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:011",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "잔여 핸드오프 ingest: 가인 외형",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_011.json",
+  "text": "### 잔여 핸드오프 ingest: 가인 외형\n\n- [x] `염한_가인_외형_가면_시기별_핸드오프.md`의 공통 디자인 원칙을 [가인 외형](../characters/axions/가인/support/appearance.md)에 반영한다.\n- [x] 현재 여제 가인의 패군 첫인상, 높은 올림머리, 가시형 금관, 굴레 가면, 검정·진홍·어두운 금동색 여제복 기준을 support에 정리한다.\n- [x] 어린 가인, 황녀 가인, 즉위 순간, 특이점 가인의 시기별 외형과 중심 심리를 support의 시기별 기준으로 분해한다.\n- [x] 특이점 가인의 나락 배경, 원한검, 붕대 최소화, 작은 웃음의 의미, 금지선을 support의 시각 경계로 정리한다.\n- [x] 디자인 프롬프트용 장문 압축문은 독자용 본문에 그대로 넣지 않고, 시각 기준과 금지선만 남긴다.",
+  "metadata": {
+    "char_count": 423,
+    "sha256": "0c9fca6f8a3f019e072cda241c0308c441004454aa3a97a3ceead6e3fa5f40df"
+  }
+}

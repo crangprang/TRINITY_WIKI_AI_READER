@@ -1,0 +1,23 @@
+{
+  "id": "doc_d947fef64340dc04:008",
+  "document_id": "doc_d947fef64340dc04",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/index.md",
+  "title": "삼위의 군상/1부/아홉 나라의 시대",
+  "section": "관련 문서",
+  "summary": "삼위의 군상 1부에서 아홉 나라의 비극 구조가 파티 초반 사건, 기록 추적, 특이점 축으로 펼쳐지는 시대.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "삼위의_군상",
+    "아홉_나라의_시대"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d947fef64340dc04_008.json",
+  "text": "## 관련 문서\n\n- [아홉 나라](../../../../universe/realms/balance/nations/index.md) - 3축이 국가별 이념과 주변 권역으로 나타나는 균형계 국가 질서.\n- [특이점](../../../singularities/index.md) - 아홉 나라의 이념과 장치가 임계에 닿아 다음 상태로 넘어가는 전환 사건.\n- [세계사](../../../world_history/index.md) - 아홉 나라 시대 이전의 인과 흐름.\n- [파티](../../../../characters/main_party/파티/index.md) - 이 시대의 사건을 통과하며 공조와 자기 인식을 바꾸는 주인공 집단.\n- [하위신](../../../../universe/laws/하위신.md) - 필로시온, 엑시온, 펠시온과 페르소나 파생이 나라별 사건 압력으로 드러나는 존재 층위.",
+  "metadata": {
+    "char_count": 445,
+    "sha256": "7f5374a23a4f96a4d170d3b0cfe9e50994ce5c7e045e7683292a4964a5fbf8b1"
+  }
+}

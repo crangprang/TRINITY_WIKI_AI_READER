@@ -1,0 +1,104 @@
+{
+  "id": "doc_b9368270d29c91ac",
+  "path": "wiki/beings/phantasmas/알렉시아_3등급_판타즈마.md",
+  "wiki_path": "beings/phantasmas/알렉시아_3등급_판타즈마.md",
+  "title": "알렉시아 3등급 판타즈마",
+  "summary": "문답, 응시, 미궁, 불사를 중심으로 구성된 알렉시아의 3등급 판타즈마군.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-27",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "알렉시아 3등급 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "망상의 판타즈마",
+      "target": "wiki/beings/phantasmas/망상의_판타즈마.md"
+    }
+  ],
+  "sha256": "81f3728215100d0912be3b4353ccfb344fe5fa2b8477975ada347eea758c6b10",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b9368270d29c91ac.json",
+  "chunks": [
+    {
+      "id": "doc_b9368270d29c91ac:000",
+      "section": "알렉시아 3등급 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_000.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_b9368270d29c91ac:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_001.json",
+      "char_count": 79
+    },
+    {
+      "id": "doc_b9368270d29c91ac:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_002.json",
+      "char_count": 72
+    },
+    {
+      "id": "doc_b9368270d29c91ac:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_003.json",
+      "char_count": 253
+    },
+    {
+      "id": "doc_b9368270d29c91ac:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_004.json",
+      "char_count": 180
+    },
+    {
+      "id": "doc_b9368270d29c91ac:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_005.json",
+      "char_count": 151
+    },
+    {
+      "id": "doc_b9368270d29c91ac:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b9368270d29c91ac_006.json",
+      "char_count": 168
+    }
+  ]
+}

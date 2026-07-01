@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_97f4835adc4e565c:000",
+  "document_id": "live_doc_97f4835adc4e565c",
+  "path": "02_LORE/L06_TRUTH/L06_BRANCH_IDEA.txt",
+  "title": "L06_알렉시아 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "L06_알렉시아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L06_TRUTH",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_97f4835adc4e565c_000.json",
+  "text": "L06_알렉시아 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `L06_CORE.txt`, `L06_FACT_DETAIL.txt`, 혹은 live surface로 승격한다.\n- 작업 경과와 병목은 이 파일이 아니라 별도 process note나 평가 기록에 둔다.\n\n1. 아직 없음\n\n- 이후 확장 또는 변형에 쓸 만한 아이디어가 생기면 이 아래에 누적한다.\n\n2. 생활 물성 확장안\n\n- 시민들의 집은 서가를 개조한 방이거나 동굴 벽을 깎아 만든 석굴로 두는 방향.\n- 집집마다 작은 틈이나 총안구 같은 구멍이 있어 복도를 지나는 사람을 엿볼 수 있다는 생활 디테일.\n- 광차 레일의 쇠 마찰음, 촛농 냄새, 축축한 종이 냄새, 눅눅한 동굴 공기 같은 감각층.\n- 벌레의 고치, 끈적한 점액질, 오래된 서가와 광맥이 한 공간에 공존하는 불길한 물성.\n- 필담, 수화, 짧은 속삭임이 생활 리듬이 되는 쪽의 장면화.\n- 위 항목들은 장면 밀도를 높일 수 있지만 현재는 branch 확장안으로만 유지한다.\n\n3. 크리쳐 / 판타즈마 후보 위치\n\n크리쳐 후보는 `03_WORLD/04_CREATURE/C06_TRUTH/` 아래 WC_LIFE 분류로 이동했다. 이 파일에는 알렉시아 국가 운영과 생활 물성 확장만 남긴다.",
+  "metadata": {
+    "char_count": 750,
+    "sha256": "d0b0ec7007bda5ce9143b4758ff5645447afd04257fcc6c7193439ede5c47485"
+  }
+}

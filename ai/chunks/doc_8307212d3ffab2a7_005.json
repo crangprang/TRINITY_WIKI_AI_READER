@@ -1,0 +1,24 @@
+{
+  "id": "doc_8307212d3ffab2a7:005",
+  "document_id": "doc_8307212d3ffab2a7",
+  "path": "wiki/universe/realms/balance/organizations/디아도코이.md",
+  "wiki_path": "universe/realms/balance/organizations/디아도코이.md",
+  "title": "디아도코이",
+  "section": "관련 문서",
+  "summary": "디아도코이는 사라질 비술을 한 사람의 생애 형상으로 보고, 그 이름과 발동 조건과 실패 기록을 스승과 제자 사이로 이어 가는 이단 세력이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organizations",
+    "diadochoi"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8307212d3ffab2a7_005.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 디아도코이가 놓이는 조직 색인.\n- [에레모스](../nations/에레모스.md) - 스트레인저와 외지 공동체가 살아 움직이는 바깥 권역.\n- [세계사](../../../../events/world_history/index.md) - 퍼시스 사건과 스트레인저의 시작점.\n- [세 에너지](../../../laws/세_에너지.md) - 비술과 기적이 현실 압력으로 나타나는 에너지 법칙.\n- [니그리스 알비우스 시트리노](../../../../characters/ensemble/니그리스_알비우스_시트리노/index.md) - 스트레인저와 퍼시스 사건의 증인.",
+  "metadata": {
+    "char_count": 346,
+    "sha256": "440081b1668ad6a7272f43b616799b44a9ec0aea1d5eaa350d2e5243711f7b84"
+  }
+}

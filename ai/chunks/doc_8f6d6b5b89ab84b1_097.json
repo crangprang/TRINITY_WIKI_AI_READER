@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:097",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 인물·존재·사건 대문 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_097.json",
+  "text": "## [2026-06-26] rebuild | 인물·존재·사건 대문 보강\n\n[인물](characters/index.md), [존재](beings/index.md), [사건](events/index.md)의 분류형 설명을 항목형 서술로 정리하고 이름과 책임, 생태와 현현, 인과와 다음 상태 설명을 보강했다. 상위 대문이 단순 폴더 안내보다 세계법칙, 국가 질서, 행위자, 생명과 현상, 이야기 진행의 연결을 바로 읽히게 했다.",
+  "metadata": {
+    "char_count": 238,
+    "sha256": "c528f385aeabb5fe8d3db165cefc60caf55c0af7f2ce9e21fac151547320439d"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:010",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "아인",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_010.json",
+  "text": "### 아인\n\n[아인](../../아인/index.md) 앞에서 단테는 거래와 보상, 떼먹지 말라는 생활어를 먼저 꺼낸다. 계산 빠른 리더를 상대로 더 빠르게 농담을 던지고, 명령을 받는 척하면서도 자기 방식으로 일을 끌어온다.\n\n아인이 사람을 수단처럼 계산하는 순간 단테의 가벼움은 줄어든다. 그때의 문장은 짧아지고, 질문에 앞서 확인이 먼저 온다.",
+  "metadata": {
+    "char_count": 196,
+    "sha256": "bf2d7679d057b83cf58434aee7179c10be378af100e2b64994b20deb6fe5ce7c"
+  }
+}

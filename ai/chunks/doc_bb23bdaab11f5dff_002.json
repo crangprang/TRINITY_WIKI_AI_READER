@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:002",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "층위별 발화",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_002.json",
+  "text": "## 층위별 발화",
+  "metadata": {
+    "char_count": 9,
+    "sha256": "6b0e465b5d5b2f8a00e394ff8028e93307c98c8841a58e774a090dfb9cc9e989"
+  }
+}

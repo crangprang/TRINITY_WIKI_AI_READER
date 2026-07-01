@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:322",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] review | 잔여 핸드오프 원문 보관",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_322.json",
+  "text": "## [2026-06-27] review | 잔여 핸드오프 원문 보관\n\n`wiki/review/remain_handoff/`에 WIKI ingestion이 남은 텍스트 원문 6개를 보관하고, 검토 인덱스에서 각 원문을 찾을 수 있게 연결했다.",
+  "metadata": {
+    "char_count": 135,
+    "sha256": "eca747218e86d0fae563cb6467352726d495aebb39b402ee0c420715536b3d58"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_83ed8d3098a35abb:002",
+  "document_id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "section": "세 방향 감시",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_002.json",
+  "text": "## 세 방향 감시\n\n케르베로스는 사람인 용병으로 보인다. 삼두견 이미지는 콜사인과 세 방향 감시로 나타난다. 정면, 측면, 후방을 동시에 읽는 자세와 시선, 무기 배치가 이름의 이미지를 만든다. 실제 머리 세 개와 군견 갑옷은 사용하지 않는다.\n\n가면은 전면 마스크로 고정되지 않는다. 얼굴을 드러내는 장면에서도 세 방향 감시 이미지는 어깨선, 무기 위치, 시선 처리, 그림자로 남는다.",
+  "metadata": {
+    "char_count": 217,
+    "sha256": "283b43360dd0598a3d5ea94e710a41e3552d3e650e8c8fe9ea47208478e19ec4"
+  }
+}

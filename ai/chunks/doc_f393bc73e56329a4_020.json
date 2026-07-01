@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:020",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "보류 범위",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_020.json",
+  "text": "## 보류 범위\n\n- typed relation DB\n- 본편 플롯 상세 구조\n- 에피소드별 관계도\n- 특이점 SG 상세 전개\n- 아홉 영웅 시대 세부 장면과 염한 역사 사건명 세부\n- 개별 국가 리뉴얼 전용 세부값\n- 나라, 크리쳐, 조직 테마곡 확장\n- 동명 판타즈마 세부\n- 세계법칙 문서의 본편 플롯 확장\n- 염한을 제외한 나라별 2핵심기관+1제어기관 확정\n- 염한 `고독항아리`를 제외한 나라별 제어핵 심층부 은유 물성 확정\n- 파라디소·플라센티아 추가 리뉴얼\n- 메인 캐릭터 외형·음악 support 확장\n\n이 범위는 사용자 지시가 있을 때 별도 작업으로 연다.",
+  "metadata": {
+    "char_count": 320,
+    "sha256": "2bd7365ff71fbfa3f5fcc88510fd3af48fa23e900411c350f1f0ba6792f1205c"
+  }
+}

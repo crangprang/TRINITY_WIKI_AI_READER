@@ -1,0 +1,24 @@
+{
+  "id": "doc_4a1743b219395638:001",
+  "document_id": "doc_4a1743b219395638",
+  "path": "wiki/characters/savior_candidates/발데마르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/발데마르/support/appearance.md",
+  "title": "발데마르 외형",
+  "section": "외형 기준",
+  "summary": "발데마르의 60~70대 추방 중앙기사 실루엣, 낡은 중앙기사 코트, 오래 관리한 검, 낮은 사과 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4a1743b219395638_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 60~70대 |\n| 실루엣 | 훈련된 자세와 절제된 표정이 살아 있는 추방 중앙기사. 세월의 흔들림 사이로 오래 남은 기사도가 읽힌다. |\n| 의상 | 낡았지만 품격이 남은 중앙기사 코트, 해진 장갑, 오래 닦은 부츠 |\n| 소품 | 오래 관리한 검, 낡은 기사 표식, 닳은 칼집, 추방 뒤에도 버리지 않은 중앙기사의 흔적 |\n| 배경 | 오르딜리아 상층 법정, 중앙기사단의 기억, 프라우돌렌티의 차가운 지하, 정의국 검문선 |\n| 표정/자세 | 사과를 건네기 위해 몸을 낮춘 자세와 중앙기사 훈련의 곧은 선이 함께 보인다. |",
+  "metadata": {
+    "char_count": 353,
+    "sha256": "ec71d0da5f8a549f2e4a4d4ab6e8c845fbfccf29b1cbaafca7916b17e3781e99"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:145",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 감독 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_145.json",
+  "text": "## [2026-06-26] rebuild | 감독 항목 정리\n\n[감독](characters/trineads/감독/index.md)의 중복 기본 정보 블록과 번호형 하위 제목을 정리했다.\n\n- 정리: 정체와 역할, 역사, 내면 구조, 능력과 제약, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 분해: 현실의 트리네아드, 창조계 총책임자, 연출가, 탄생, 미래 관측, 그랜드 디자인, 불지피기 의식, 내면 층위, 주요 관계를 조회 가능한 하위항목으로 세웠다.\n- 문체: 비교 부정형과 근사 표현을 선언형 문장으로 바꿨다.",
+  "metadata": {
+    "char_count": 294,
+    "sha256": "cd6073f6a932f008d9e83aa94d48379e1ea6ddf382e43f98ac66da17ebf38caf"
+  }
+}

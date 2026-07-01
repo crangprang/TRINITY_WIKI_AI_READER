@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:023",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 염한 생활과 문화 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_023.json",
+  "text": "## [2026-06-28] nation | 염한 생활과 문화 보강\n\n[염한](universe/realms/balance/nations/염한.md)을 LIVE `L01_STRUGGLE`의 생활·문화 claim과 대조했다. 낮의 고중력과 밤의 붉은 광기가 체형, 생활 습관, 장례 행렬, 나락 계단의 호흡까지 바꾸는 몸의 적응을 독립 섹션으로 보강했다.\n\n홍등아편은 셀레네의 광기를 잠시 가라앉히는 마약이자 나락과 외부 거래를 황권이 조정하는 통제 물질로 정리했다. 장례와 가면은 시신을 바다의 용에게 바치고 칼을 검총에 꽂는 방식, 밤의 귀신 탈과 `달의 장난`이 죄책감과 생존을 가리는 생활 물건으로 작동하는 구조로 보강했다.",
+  "metadata": {
+    "char_count": 351,
+    "sha256": "2b2df9bd887faaa2f2449646b4984476d1d59b4e4700e8064ac87df85802394c"
+  }
+}

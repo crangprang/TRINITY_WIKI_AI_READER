@@ -1,0 +1,69 @@
+{
+  "id": "doc_54d059fd7a8308fb",
+  "path": "wiki/review/index.md",
+  "wiki_path": "review/index.md",
+  "title": "검토와 결정 요청",
+  "summary": "WIKI 운영 중 필요한 판단 요청, 충돌, 항목 소유권 잠금, 본문 보강 대상 진입점.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "category": "review:index.md",
+  "is_support": false,
+  "is_review": true,
+  "headings": [
+    {
+      "level": 1,
+      "title": "검토와 결정 요청"
+    },
+    {
+      "level": 2,
+      "title": "검토 항목"
+    }
+  ],
+  "links": [
+    {
+      "label": "판단 요청",
+      "target": "wiki/review/decision_requests/index.md"
+    },
+    {
+      "label": "충돌 기록",
+      "target": "wiki/review/contradictions.md"
+    },
+    {
+      "label": "항목 소유권 잠금",
+      "target": "wiki/review/ownership_locks.md"
+    },
+    {
+      "label": "본문 보강 대상",
+      "target": "wiki/review/template_gaps.md"
+    },
+    {
+      "label": "세계관 개발 TODO",
+      "target": "wiki/review/worldbuilding_development_todo.md"
+    },
+    {
+      "label": "사용자 잠금",
+      "target": "wiki/review/user_locks.md"
+    }
+  ],
+  "sha256": "a25de375dfc3e365ef40341b28429a0502a23bda3bc5db15f1a0a0708979d79f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_54d059fd7a8308fb.json",
+  "chunks": [
+    {
+      "id": "doc_54d059fd7a8308fb:000",
+      "section": "검토와 결정 요청",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_54d059fd7a8308fb_000.json",
+      "char_count": 11
+    },
+    {
+      "id": "doc_54d059fd7a8308fb:001",
+      "section": "검토 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_54d059fd7a8308fb_001.json",
+      "char_count": 218
+    }
+  ]
+}

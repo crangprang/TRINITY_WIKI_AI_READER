@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6abd154acf7aee13",
+  "path": "04_MAIN_CHARACTER/02_TRINEAD/TR02_COURAGE.txt",
+  "title": "용기의 트리네아드",
+  "summary": "용기의 트리네아드",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:02_TRINEAD",
+  "suffix": ".txt",
+  "sha256": "7bcac04c7136b61428826107645aeeba966c28fb4d0d51d8ec90cf50434fe1d2",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6abd154acf7aee13.json",
+  "chunks": [
+    {
+      "id": "live_doc_6abd154acf7aee13:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6abd154acf7aee13_000.json",
+      "char_count": 689
+    }
+  ]
+}

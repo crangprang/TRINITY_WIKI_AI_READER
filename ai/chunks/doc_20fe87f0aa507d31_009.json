@@ -1,0 +1,23 @@
+{
+  "id": "doc_20fe87f0aa507d31:009",
+  "document_id": "doc_20fe87f0aa507d31",
+  "path": "wiki/characters/fellsions/침식의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/침식의_펠시온/index.md",
+  "title": "침식의 펠시온",
+  "section": "관련 문서",
+  "summary": "침식의 펠시온은 자기 육체를 부적이자 감옥으로 삼아 내면의 파괴신 수라를 봉인한 죄수다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_20fe87f0aa507d31_009.json",
+  "text": "## 관련 문서\n\n- [침식의 펠시온 외형](support/appearance.md) - 붉은 봉인 문신, 검은 침식 문신, 수라의 감옥이 몸에 새겨지는 외형 항목.\n- [펠시온](../index.md) - 침식이 속한 파괴계 이름 판결과 군단 구조를 묶는 펠시온 계열.\n- [기근의 펠시온](../기근의_펠시온/index.md) - 침식의 에너지와 굴욕을 착취한 상성 관계의 펠시온\n- [모방의 펠시온](../모방의_펠시온/index.md) - 침식이 생존 전쟁 중 압도했던 펠시온\n- [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) - 침식이 완벽한 감옥을 찾아 향하는 질서의 나라\n- [에르고](../../trineads/에르고/index.md) - 침식이 자신의 수라를 억누를 수 있다고 믿게 만든 왕",
+  "metadata": {
+    "char_count": 428,
+    "sha256": "b576bd49177dff7e7b5714f3e013f3582da036f942b9a71fcae4eee5ad384030"
+  }
+}

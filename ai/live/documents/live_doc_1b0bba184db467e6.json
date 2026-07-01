@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_1b0bba184db467e6",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC02_LORENZO.txt",
+  "title": "로렌초 카발리에리",
+  "summary": "로렌초 카발리에리",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "24813267dafbcce2e4fd6df521a3169536327768893fdb8b69a14260efaca526",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_1b0bba184db467e6.json",
+  "chunks": [
+    {
+      "id": "live_doc_1b0bba184db467e6:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1b0bba184db467e6_000.json",
+      "char_count": 1118
+    }
+  ]
+}

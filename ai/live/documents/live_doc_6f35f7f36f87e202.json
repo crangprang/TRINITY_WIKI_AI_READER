@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_6f35f7f36f87e202",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_VOICE_SAMPLE.txt",
+  "title": "메피스토 / VOICE_SAMPLE",
+  "summary": "메피스토 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "37aa023a37b6519cae284c86a0ebcfd843b06e9b7e786737c77fcfd5024bdd17",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6f35f7f36f87e202.json",
+  "chunks": [
+    {
+      "id": "live_doc_6f35f7f36f87e202:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6f35f7f36f87e202_000.json",
+      "char_count": 175
+    }
+  ]
+}

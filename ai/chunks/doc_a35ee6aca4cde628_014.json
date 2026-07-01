@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:014",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-27 핸드오프 ingest 추가 판단",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_014.json",
+  "text": "## 2026-06-27 핸드오프 ingest 추가 판단\n\n- 디아도코이는 이전 기능조직 구상을 대체하는 독립 이단 세력 항목으로 둔다. 정교 명명은 `신성모독자`로 읽을 수 있지만, 독자용 제목은 [디아도코이](../universe/realms/balance/organizations/디아도코이.md)로 둔다.\n- 페르소나 참칭명은 현 페르소나명과 구분하지 않는다. 페르소나별 별도 참칭명 슬롯을 만들지 않는다.\n- [알레인의 동화책](../events/world_history/알레인의_동화책.md)은 세계사 하위의 독립 서사 물건 항목으로 둔다.\n- 필로시온 프로토타입의 과거 회상용 일회성 스펙은 미리 설정하지 않는다. 이름, 상징물, 상징예술 테이블을 우선 보존한다.\n- 기능조직명은 현재 정본명 하나를 우선한다. 평화 기능조직은 `필그림즈`, 진리 기능조직은 `인퀴지터`로 둔다.\n- 대륙 위탁 조직 범주는 `기능조직`으로 통일한다.\n- 마사오트의 `탐험가 길드`와 캘리번의 `우니오네 지부장` 표면은 충돌하지 않는다. 마스크맨은 길티어 시절 전설 사냥단과 카스파르 시절 계약 사냥단이 같은 기능조직명으로 이어진다.\n- 유랑 서커스, 그레트헨 연구소, 아웃로는 기능조직명으로 둔다.",
+  "metadata": {
+    "char_count": 611,
+    "sha256": "0ed4ccb43863b7a464166bcf791884b2dd3c7a1c7e84ad9de17a2d956f74c892"
+  }
+}

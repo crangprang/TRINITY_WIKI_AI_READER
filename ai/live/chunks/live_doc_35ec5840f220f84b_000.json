@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_35ec5840f220f84b:000",
+  "document_id": "live_doc_35ec5840f220f84b",
+  "path": "03_WORLD/04_CREATURE/C03_EXPLORER/01_NONSAPI/04_PROTIST/C03_PROTIST_BRANCH_IDEA.txt",
+  "title": "C03_EXPLORER / PROTIST_BRANCH_IDEA",
+  "section": "body",
+  "summary": "C03_EXPLORER / PROTIST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_35ec5840f220f84b_000.json",
+  "text": "C03_EXPLORER / PROTIST_BRANCH_IDEA\n\n[이 문서 사용법]\n- 아르카르타의 원생물 후보를 둔다.\n- 아직 개체 dossier가 아니며, 승격 전까지 후보로만 취급한다.\n\n1. 후보\n\n- 난류젤리\n- 증기근\n- 무게포\n\n2. 적용 메모\n\n- 난류젤리는 시야와 기류를 교란하는 부유 원생물이다. 돛과 풍차에 들러붙는 투명 장막 위협으로 쓰고, 불보다 건조 분말 대응이 더 좋다.\n- 증기근은 기관열, 배관, 누수에 반응해 자라는 뿌리형 원생물이다. 노틸러스 내부가 단순 복도 던전이 아니라 열 누출과 환기를 관리해야 하는 배처럼 보이게 한다.\n- 무게포는 화물 균형과 밸러스트 이상을 장면화하는 원생물이다. 한쪽으로 번지면 선체의 무게 판단이 어긋나고, 접현과 비행 안정성이 흔들린다.\n- 아르카르타 원생물은 티폰의 하위 분신이 아니라, 배 내부 조건과 하늘 항해 관리 실패에서 생긴 독립 생태로 둔다.",
+  "metadata": {
+    "char_count": 461,
+    "sha256": "933e3f4a73dc8766463565d48497bc133c49e85821718430e9137c00c6bb05e4"
+  }
+}

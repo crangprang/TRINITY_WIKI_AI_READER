@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d25015c9d308f5cf",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_CORE.txt",
+  "title": "메피스토 / CORE",
+  "summary": "메피스토 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "7fe629383377493d21489c77f3d38593b32b2aa3f47d529de1e9f851722bc5b0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d25015c9d308f5cf.json",
+  "chunks": [
+    {
+      "id": "live_doc_d25015c9d308f5cf:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d25015c9d308f5cf_000.json",
+      "char_count": 387
+    }
+  ]
+}

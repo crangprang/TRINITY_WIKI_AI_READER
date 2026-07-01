@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3bed979b42677a7:003",
+  "document_id": "doc_b3bed979b42677a7",
+  "path": "wiki/characters/axions/판도라/support/appearance.md",
+  "wiki_path": "characters/axions/판도라/support/appearance.md",
+  "title": "판도라 외형",
+  "section": "석판과 빛",
+  "summary": "판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3bed979b42677a7_003.json",
+  "text": "## 석판과 빛\n\n검은 석판은 판도라의 가장 중요한 소품이다. 푸른 수정빛과 촛불은 알렉시아의 빛과 벌레의 위험을 함께 암시한다.\n\n질문 기록과 망설이는 손은 판도라의 죄책감을 보조한다. 소품은 가면을 대체하지 않고, 첫 질문의 잔향과 아직 끝나지 않은 연산을 드러낸다.",
+  "metadata": {
+    "char_count": 151,
+    "sha256": "3a7b019c5b201ba7298f081bdddc63344aa1f4b00a2b657fb9dcafd798a2cefe"
+  }
+}

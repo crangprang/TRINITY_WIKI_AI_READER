@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:011",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "옌",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_011.json",
+  "text": "### 옌\n\n[옌](../../옌/index.md) 앞에서는 정리된 결론에 앞서 반응이 먼저 샌다. 설명에 앞서 정정과 반박이 붙고, 괜히 한마디를 더 얹는다. 서로 가면을 오래 쓸 필요가 없는 상대라 나이에 맞는 짜증과 말버릇이 가장 잘 드러난다.",
+  "metadata": {
+    "char_count": 139,
+    "sha256": "5f4d02855590f052a6c1a22e213c1ecfb1b88267ec59b177bdc0b07e780d47ce"
+  }
+}

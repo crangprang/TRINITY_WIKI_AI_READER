@@ -1,0 +1,114 @@
+{
+  "id": "doc_851c33a5de58d867",
+  "path": "wiki/beings/phantasmas/망상의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/망상의_판타즈마.md",
+  "title": "망상의 판타즈마",
+  "summary": "망상이 자애로운 여인의 미끼를 매단 채 어둠 속에서 끝없이 새끼를 뿌려 대는 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "망상의 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "파훼와 장면 기능"
+    },
+    {
+      "level": 2,
+      "title": "상징과 장면"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    }
+  ],
+  "sha256": "d2378bb6df104f7bc1dbb09d72b7e75f42cb6c5aa752f4c628e4aa78d3130d9e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_851c33a5de58d867.json",
+  "chunks": [
+    {
+      "id": "doc_851c33a5de58d867:000",
+      "section": "망상의 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_000.json",
+      "char_count": 196
+    },
+    {
+      "id": "doc_851c33a5de58d867:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_001.json",
+      "char_count": 55
+    },
+    {
+      "id": "doc_851c33a5de58d867:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_002.json",
+      "char_count": 388
+    },
+    {
+      "id": "doc_851c33a5de58d867:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_003.json",
+      "char_count": 262
+    },
+    {
+      "id": "doc_851c33a5de58d867:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_004.json",
+      "char_count": 165
+    },
+    {
+      "id": "doc_851c33a5de58d867:005",
+      "section": "파훼와 장면 기능",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_005.json",
+      "char_count": 158
+    },
+    {
+      "id": "doc_851c33a5de58d867:006",
+      "section": "상징과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_006.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_851c33a5de58d867:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_851c33a5de58d867_007.json",
+      "char_count": 103
+    }
+  ]
+}

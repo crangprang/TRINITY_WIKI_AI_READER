@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:021",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "관련 문서",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_021.json",
+  "text": "## 관련 문서\n\n- [블랑](../index.md) - 의사성, 재연, 스칼렛과의 공용 몸이 말투의 진단성과 불안을 이루는 인물.\n- [블랑 외형](appearance.md) - 녹안, 검은 조끼, 의료가방, 리볼버가 발화의 제지선으로 이어지는 외형 항목.\n- [스칼렛](../../스칼렛/index.md) - 블랑을 대신해 공포와 위협을 끌어오는 같은 몸의 다른 전면.\n- [엘리자베스](../../엘리자베스/index.md) - 블랑과 스칼렛의 전환, 공용 몸, 이름 충돌을 묶는 공용 이름.",
+  "metadata": {
+    "char_count": 278,
+    "sha256": "48099d57cdfe84f1917beb7b7dce166e3e8597146fcf5eb338bc02a5616b36f6"
+  }
+}

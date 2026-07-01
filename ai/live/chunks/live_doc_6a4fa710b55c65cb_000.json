@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_6a4fa710b55c65cb:000",
+  "document_id": "live_doc_6a4fa710b55c65cb",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/04_CHARON/PER04_VOICE_SAMPLE.txt",
+  "title": "카론 / VOICE_SAMPLE",
+  "section": "body",
+  "summary": "카론 / VOICE_SAMPLE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6a4fa710b55c65cb_000.json",
+  "text": "카론 / VOICE_SAMPLE\n\n[개발 보류]\n- persona voice는 후속 일괄 개발 전까지 확정하지 않는다.\n- 이전 임시 대사 샘플은 live voice로 쓰지 않는다.\n- 대사를 작성할 때는 `PER04_CORE.txt`와 `PER04_FACT_DETAIL.txt`의 최소 앵커를 먼저 확인한다.",
+  "metadata": {
+    "char_count": 173,
+    "sha256": "bdeac4ea5f06e905b6706267276f96b5a800b89905756506aeb3fe6d5d35eddb"
+  }
+}

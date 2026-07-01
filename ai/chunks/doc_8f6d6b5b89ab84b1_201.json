@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:201",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] review | 인물 외형 잠금 공백 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_201.json",
+  "text": "## [2026-06-23] review | 인물 외형 잠금 공백 보강\n\nLIVE 정본에서 외형 잠금을 줄인 뒤 WIKI 독자용 인물 문서를 점검해, 공통/개별 문서의 외형 잠금 공백과 독자용 문장 안의 관리어를 정리했다.\n\n- 외형 보강: [니그리스 알비우스 시트리노](characters/ensemble/니그리스_알비우스_시트리노/index.md), [엘리자베스](characters/main_party/엘리자베스/index.md), [트리네아드](characters/trineads/index.md)\n- 문장 정리: 루시리엘, 메테우스, 발데마르, 카스파르, 캘리번, 케르베로스의 관리어를 독자용 경계 문장으로 변경했다.",
+  "metadata": {
+    "char_count": 350,
+    "sha256": "892683520dc2cb16bec73a38872f8919a9ddb3320311a90fe8a019e063964ae8"
+  }
+}

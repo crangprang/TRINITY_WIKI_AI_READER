@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_52fc694c6d2a2a13",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/05_MEPHISTO/PER05_BRANCH_IDEA.txt",
+  "title": "메피스토 / BRANCH_IDEA",
+  "summary": "메피스토 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "2e145d264915dfd4fe29e2bb00873c907efc02c21d8c54c487bd8f574493fe59",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_52fc694c6d2a2a13.json",
+  "chunks": [
+    {
+      "id": "live_doc_52fc694c6d2a2a13:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_52fc694c6d2a2a13_000.json",
+      "char_count": 95
+    }
+  ]
+}

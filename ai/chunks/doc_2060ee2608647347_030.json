@@ -1,0 +1,23 @@
+{
+  "id": "doc_2060ee2608647347:030",
+  "document_id": "doc_2060ee2608647347",
+  "path": "wiki/characters/main_party/블랑/index.md",
+  "wiki_path": "characters/main_party/블랑/index.md",
+  "title": "블랑",
+  "section": "하위 항목",
+  "summary": "블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2060ee2608647347_030.json",
+  "text": "## 하위 항목\n\n- [블랑 외형](support/appearance.md) - 공용 몸, 녹안, 검은 조끼, 닫힌 레이어드 스커트, 의료가방, 리볼버를 고정하는 외형 항목.\n- [블랑 보이스](support/voice.md) - 층위별 발화, 관계별 어조, 상황별 제지와 발화 샘플.",
+  "metadata": {
+    "char_count": 159,
+    "sha256": "88071fd78371ec08cb03b80fab51c46b669b08e430880a30e455f3a88e2af4a3"
+  }
+}

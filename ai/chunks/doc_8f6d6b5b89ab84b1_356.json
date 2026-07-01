@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:356",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 최초의 삼위 누미노스 잔류 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_356.json",
+  "text": "## [2026-06-29] worldhistory | 최초의 삼위 누미노스 잔류 보강\n\n[세계사/1시대](events/world_history/1시대_태초에서_에마나치온까지.md)에서 오피온의 부러진 아조트 잔류를 에마나치온 직전이 아니라 다음 시대로 남은 결과로 옮기고, 니그리스·소피아·오피온이 누미노스 이후 서로 다른 방식으로 세계에 남는 구조를 보강했다. 니그리스는 감정의 이데아 영체, 소피아는 니그리스의 기억과 이해의 보물에 남은 이성, 오피온은 부러진 아조트에 깃든 본능과 의지로 정리했다. [소피아](characters/ensemble/소피아/index.md)와 [오피온](characters/ensemble/오피온/index.md)을 앙상블 항목으로 신설하고, [오리진](universe/structure/오리진.md), [니그리스 알비우스 시트리노](characters/ensemble/니그리스_알비우스_시트리노/index.md), [라케시스](characters/trineads/라케시스/index.md), [트리네아드](characters/trineads/index.md), [아홉 보물](universe/structure/아홉_보물.md)의 연결 서술을 맞췄다.",
+  "metadata": {
+    "char_count": 608,
+    "sha256": "62fdd7f4c21d39fb87d1596f67739d730e49ace8ce27fed53e13f458a426e851"
+  }
+}

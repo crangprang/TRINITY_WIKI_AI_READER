@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_a36759a98361463f",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX09_GEPETTO.txt",
+  "title": "제페토",
+  "summary": "제페토",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "7f879c9505c3e724caaf495ccc414f8a99c23c33037f0aacc21811791b67af8a",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_a36759a98361463f.json",
+  "chunks": [
+    {
+      "id": "live_doc_a36759a98361463f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_a36759a98361463f_000.json",
+      "char_count": 1762
+    }
+  ]
+}

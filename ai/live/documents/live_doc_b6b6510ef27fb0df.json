@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b6b6510ef27fb0df",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/08_HELEN/PER08_BRANCH_IDEA.txt",
+  "title": "헬렌 / BRANCH_IDEA",
+  "summary": "헬렌 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "dd67c4881529f7b44f86fa171c578af1280d5a3346be8f63a944d62ac8398553",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b6b6510ef27fb0df.json",
+  "chunks": [
+    {
+      "id": "live_doc_b6b6510ef27fb0df:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b6b6510ef27fb0df_000.json",
+      "char_count": 84
+    }
+  ]
+}

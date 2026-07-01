@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:174",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | fellsion card heading cleanup",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_174.json",
+  "text": "## [2026-06-26] maintenance | fellsion card heading cleanup\n\n관계 보강 중 추가로 발견한 펠시온 문서의 원문 카드형 heading과 라벨을 독자용 문단 구조로 정리했다.\n\n- 정리: 기근, 기만, 속박, 침식, 역병의 `#### n. ...` 카드 heading을 `###` 독자용 섹션으로 바꿨다.\n- 정리: 기근의 `생존 전쟁`/`복속기`, 기만의 능력·기술 라벨을 prose와 bullet로 흡수했다.\n- 보강: 역병의 관련 문서 링크를 펠시온 색인과 속박의 펠시온 중심으로 교정했다.",
+  "metadata": {
+    "char_count": 301,
+    "sha256": "bc40919d1257e237f628ef1a132aaf364364892a49c9f832202f4630d8835865"
+  }
+}

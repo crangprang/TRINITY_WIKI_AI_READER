@@ -1,0 +1,24 @@
+{
+  "id": "doc_7c8403eb1f2a2fe5:008",
+  "document_id": "doc_7c8403eb1f2a2fe5",
+  "path": "wiki/characters/personas/index.md",
+  "wiki_path": "characters/personas/index.md",
+  "title": "페르소나",
+  "section": "관련 문서",
+  "summary": "페르소나는 아홉 아타노르 잔재, 보물, 프로토타입 필로시온이 합성되어 태어난 장치 심층 관리자 의식이자 표층 대변자 인격이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "personas",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_008.json",
+  "text": "## 관련 문서\n\n- [하위신](../../universe/laws/하위신.md) - 페르소나가 필로시온 파생으로 놓이는 하위신급 우주 법칙.\n- [신격과 신적 권위](../../universe/laws/신격과_신적_권위.md) - 페르소나를 하위신 기본 삼분류와 구분하는 기준.\n- [필로시온](../../universe/laws/필로시온.md) - 페르소나의 심층 베이스가 된 프로토타입 인공 신격체.\n- [아포라투스](../../universe/realms/balance/apparatus/index.md) - 페르소나가 묶인 국가 장치와 제어핵.\n- [엑시온](../axions/index.md) - 페르소나와 장치 사용권, 통치 논리, 심층 권한을 두고 충돌하는 인간 숙주이자 통치 얼굴.\n- [구세주 후보](../savior_candidates/index.md) - 페르소나의 응답이 정말 구원인지 묻는 국가 간판이자 체제 균열.\n- [아홉 나라](../../universe/realms/balance/nations/index.md) - 페르소나가 붙드는 나라별 이념과 아포라투스의 세계 항목.",
+  "metadata": {
+    "char_count": 562,
+    "sha256": "47a9bd1fc330ae71abbb37f2511c95c0f69ccc98ba28c4b8dc6662ebf048211c"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:014",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "푸른 달의 이야기",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_014.json",
+  "text": "### 푸른 달의 이야기\n\n`푸른 달의 이야기`는 세레나의 천성이다. 전사도 속죄도 없이, 달 아래에서 오래된 이야기와 기록을 붙들고 숨 쉬는 삶이 이곳에 있다. 검을 손에서 놓고도 쓸모를 잃지 않는 밤, 누구의 시험도 아닌 이야기 한 줄을 오래 붙드는 시간이 세레나가 지키고 싶은 바닥이다.",
+  "metadata": {
+    "char_count": 163,
+    "sha256": "f113966339dbbe60689a5e87025a716135082f843066db473b3fada3e5b56f34"
+  }
+}

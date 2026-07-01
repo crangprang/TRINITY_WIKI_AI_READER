@@ -1,0 +1,117 @@
+{
+  "id": "doc_83ed8d3098a35abb",
+  "path": "wiki/characters/savior_candidates/케르베로스/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/케르베로스/support/appearance.md",
+  "title": "케르베로스 외형",
+  "summary": "케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "케르베로스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "세 방향 감시"
+    },
+    {
+      "level": 2,
+      "title": "세 무기"
+    },
+    {
+      "level": 2,
+      "title": "느와르 도시"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    }
+  ],
+  "sha256": "c5870a83998a31d420709bd40fd90c10bdd99cc1ea324cf199d2a3c0f03c53d8",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_83ed8d3098a35abb.json",
+  "chunks": [
+    {
+      "id": "doc_83ed8d3098a35abb:000",
+      "section": "케르베로스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_000.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_83ed8d3098a35abb:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_001.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_83ed8d3098a35abb:002",
+      "section": "세 방향 감시",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_002.json",
+      "char_count": 217
+    },
+    {
+      "id": "doc_83ed8d3098a35abb:003",
+      "section": "세 무기",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_003.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_83ed8d3098a35abb:004",
+      "section": "느와르 도시",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_004.json",
+      "char_count": 221
+    },
+    {
+      "id": "doc_83ed8d3098a35abb:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_005.json",
+      "char_count": 151
+    },
+    {
+      "id": "doc_83ed8d3098a35abb:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_83ed8d3098a35abb_006.json",
+      "char_count": 283
+    }
+  ]
+}

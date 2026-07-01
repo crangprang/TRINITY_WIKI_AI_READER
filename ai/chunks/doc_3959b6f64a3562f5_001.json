@@ -1,0 +1,23 @@
+{
+  "id": "doc_3959b6f64a3562f5:001",
+  "document_id": "doc_3959b6f64a3562f5",
+  "path": "wiki/characters/personas/에어리얼/index.md",
+  "wiki_path": "characters/personas/에어리얼/index.md",
+  "title": "에어리얼",
+  "section": "개요",
+  "summary": "에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_001.json",
+  "text": "## 개요\n\n에어리얼은 마사오트의 아포라투스 `엑소도스`와 제어기관 `키베르노스`에 연결된 페르소나다. 그녀는 방주, 항로, 폭풍, 편지, 브리지, 종착점을 한 손에 묶고, 전진하는 척하는 도주를 꿰뚫어 보는 안내자로 선다.\n\n에어리얼의 표층 인터페이스는 길드의 전설적인 탐험가와 폭풍 전야의 조언자다. 그녀는 길을 열어 주는 얼굴로 나타나지만, 그 길은 편안한 자유보다 오래된 도피와 봉인의 루프를 드러낸다. 그녀의 안내는 마사오트가 다음 폭풍을 피할지, 끝내 종착점을 얻을지 묻는 압력으로 작동한다.",
+  "metadata": {
+    "char_count": 281,
+    "sha256": "d1d50e89017d371c9196d28c8c00886054068309f1571ef30039f65ab0e36e79"
+  }
+}

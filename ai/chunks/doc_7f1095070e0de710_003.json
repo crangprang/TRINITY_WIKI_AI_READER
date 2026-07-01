@@ -1,0 +1,22 @@
+{
+  "id": "doc_7f1095070e0de710:003",
+  "document_id": "doc_7f1095070e0de710",
+  "path": "wiki/beings/dragonkin/index.md",
+  "wiki_path": "beings/dragonkin/index.md",
+  "title": "용 계열",
+  "section": "관련 문서",
+  "summary": "용 계열은 용왕과 아홉 용, 용인처럼 환상과 마니아, 용의 질서에 닿은 존재들을 묶는 존재 축이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "dragonkin"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7f1095070e0de710_003.json",
+  "text": "## 관련 문서\n\n- [오리진](../../universe/structure/오리진.md) - 용왕과 아조트, 아홉 용의 힘이 닿는 근원 매듭.\n- [아조트](../../universe/structure/아조트.md) - 용왕의 허물에서 나온 오리진 그릇.\n- [판타즈마](../phantasmas/index.md) - 후대 4등급 판타즈마가 놓이는 괴생태 존재 축.\n- [세계사/1시대](../../events/world_history/1시대_태초에서_에마나치온까지.md) - 용왕, 아홉 용, 용인이 세계사 전면에 놓이는 시대.",
+  "metadata": {
+    "char_count": 297,
+    "sha256": "e36da760c957cad12b737d25fe6bec898afdb4eab42128724878448379ccbaec"
+  }
+}

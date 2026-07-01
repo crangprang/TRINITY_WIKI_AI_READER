@@ -1,0 +1,106 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-07-01T16:52:48Z",
+  "base_url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live",
+  "cache_schema_version": "1.0",
+  "cache_root": "trinity_live_cache",
+  "target_root": "/mnt/data/trinity_live_cache",
+  "source_repo": {
+    "owner": "crangprang",
+    "repo": "TRINITY_LIVE",
+    "branch": "main",
+    "head_sha": "4d40a3dbd0b1dcd17cb8de4c8ce7c562e2a92152",
+    "included_paths": [
+      "01_CANON/**",
+      "02_LORE/**",
+      "03_WORLD/**",
+      "04_MAIN_CHARACTER/**",
+      "05_PLOT_AND_SCENE/**",
+      "AGENTS.md",
+      "CREATIVE_RULES.md",
+      "GOAL.txt"
+    ]
+  },
+  "counts": {
+    "documents": 244,
+    "chunks": 320,
+    "by_root": {
+      "01_CANON": 22,
+      "02_LORE": 46,
+      "03_WORLD": 27,
+      "04_MAIN_CHARACTER": 129,
+      "05_PLOT_AND_SCENE": 17,
+      "AGENTS.md": 1,
+      "CREATIVE_RULES.md": 1,
+      "GOAL.txt": 1
+    },
+    "by_suffix": {
+      ".json": 5,
+      ".md": 6,
+      ".txt": 233
+    }
+  },
+  "count_definitions": {
+    "documents": "Tracked TRINITY_LIVE text documents exported into the live AI Reader pack.",
+    "chunks": "Fetchable text chunks generated from TRINITY_LIVE documents.",
+    "by_root": "Document count by TRINITY_LIVE top-level canon folder.",
+    "by_suffix": "Document count by source file extension."
+  },
+  "archives": [
+    {
+      "bundle": "trinity_live",
+      "scope": "full",
+      "format": "zip",
+      "path": "downloads/trinity_live_cache_full.zip",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/downloads/trinity_live_cache_full.zip",
+      "file_name": "trinity_live_cache_full.zip",
+      "mime_type": "application/zip",
+      "bytes": 1984704,
+      "sha256": "05528f563574aadffa87e69efba0576728f23e2433e53032c61859ce79660337",
+      "archive_root": "trinity_live_cache",
+      "archive_entry_count": 818,
+      "source_file_count": 244,
+      "reader_file_count": 569
+    }
+  ],
+  "hydrate": {
+    "extract_to": "/mnt/data",
+    "expected_top_level_dir": "trinity_live_cache",
+    "target_root": "/mnt/data/trinity_live_cache",
+    "source_repo": "/mnt/data/trinity_live_cache/source_repo",
+    "live_reader_pack": "/mnt/data/trinity_live_cache/live_reader_pack",
+    "indexes": "/mnt/data/trinity_live_cache/indexes"
+  },
+  "delivery_modes": [
+    {
+      "mode": "ai_reader_mcp_resource_link",
+      "available": true,
+      "mcp_server": "https://trinity-wiki-ai-mcp.gtrdw2102.workers.dev",
+      "tool": "download_live_cache_zip",
+      "download_url": "https://trinity-wiki-ai-mcp.gtrdw2102.workers.dev/live/downloads/trinity_live_cache_full.zip",
+      "manifest_url": "https://trinity-wiki-ai-mcp.gtrdw2102.workers.dev/live/downloads/cache_manifest.json",
+      "artifact_contents": "trinity_live_cache/",
+      "artifact_format": "zip",
+      "code_container_dns_independent": true,
+      "requires_user_download_approval": true,
+      "hydrate": {
+        "connector": "TRINITY_WIKI AI Reader",
+        "download": "Call download_live_cache_zip, approve ChatGPT's MCP resource_link download, then use the downloaded ZIP file.",
+        "extract_to": "/mnt/data",
+        "expected_target": "/mnt/data/trinity_live_cache"
+      }
+    },
+    {
+      "mode": "public_url",
+      "available": true,
+      "manifest_url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/downloads/cache_manifest.json",
+      "archive_url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/downloads/trinity_live_cache_full.zip",
+      "dns_independent": false,
+      "hydrate": {
+        "download": "Download archive_url and extract it.",
+        "extract_to": "/mnt/data",
+        "expected_target": "/mnt/data/trinity_live_cache"
+      }
+    }
+  ]
+}

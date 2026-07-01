@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:258",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 페르소나 외형 support 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_258.json",
+  "text": "## [2026-06-26] style | 페르소나 외형 support 표면 정리\n\n페르소나 개별 항목과 appearance support의 관련 문서 설명에서 `시각 기준` 표현을 제거하고 외형 항목이 실제로 고정하는 가면, 소품, 공간, 통치 장치를 적었다.\n\n- 황 노인, 헬렌, 카론, 미노스, 에어리얼, 탈레스, 빈센트, 메피스토, 투르키나의 appearance support 도입부를 외형 하위 항목 서술로 바꿨다.\n- 페르소나 본문 관련 문서 설명을 바둑판 프레임, 흰 낙원과 검은 비, 스틱스 카운터, 파놉티콘, 방주 항로, 질문 기하, 아틀리에, 퀘스트 태그, 메시아 씨앗 등 각 페르소나의 표지와 연결했다.",
+  "metadata": {
+    "char_count": 349,
+    "sha256": "8322abffdcc4a4139595606c4269992ea747a006116dd595bdbcc815403abe92"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:314",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] style | 사건과 국가 항목 제목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_314.json",
+  "text": "## [2026-06-27] style | 사건과 국가 항목 제목 정리\n\n[올림피아](universe/realms/balance/nations/올림피아.md)와 [우니오네](universe/realms/balance/nations/우니오네.md)의 `해석 경계` 제목을 `경계와 오독`으로 바꿨다. [삼위의 군상/1부/아홉 나라의 시대](events/삼위의_군상/1부/아홉_나라의_시대/index.md)의 `시대의 기록 역할`은 `시대의 흐름`으로 고치고, [마사오트 조우 실패와 알렉시아 기록 추적](events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md)의 visible title은 경로형 제목 대신 사건명만 보이게 정리했다.\n\n[스칼렛 외형](characters/main_party/스칼렛/support/appearance.md), [옌 외형](characters/main_party/옌/support/appearance.md), [엘리자베스 외형](characters/main_party/엘리자베스/support/appearance.md)의 `시각 기준` 제목도 support 표준 섹션인 `시각 경계`로 맞췄다.\n\n[세레나](characters/main_party/세레나/index.md), [옌](characters/main_party/옌/index.md), [옌 외형](characters/main_party/옌/support/appearance.md), [스칼렛 외형](characters/main_party/스칼렛/support/appearance.md), [엘리자베스 외형](characters/main_party/엘리자베스/support/appearance.md)에 남은 본문 `시각 기준` 표현도 `시각 경계`와 외형 설명으로 맞췄다.",
+  "metadata": {
+    "char_count": 894,
+    "sha256": "5d92386a172f231421441297658de76653964f546c8ee834bd50f3e54b7263b4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:015",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "후퇴",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_015.json",
+  "text": "### 후퇴\n\n후퇴 뒤의 말은 지나치게 말끔한 수습처럼 들릴 수 있다. 스칼렛은 공포를 줄이는 대신 공포의 방향을 자기 쪽에 붙들고 빠진다. 끝난 뒤가 너무 깨끗하면 오히려 스칼렛답다.",
+  "metadata": {
+    "char_count": 103,
+    "sha256": "bca803e6119d6d7088725999290b0acf897c4f2d0f11be6cdff1c54834ebba5b"
+  }
+}

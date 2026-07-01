@@ -1,0 +1,24 @@
+{
+  "id": "doc_e95598294421f084:000",
+  "document_id": "doc_e95598294421f084",
+  "path": "wiki/characters/axions/index.md",
+  "wiki_path": "characters/axions/index.md",
+  "title": "엑시온",
+  "section": "엑시온",
+  "summary": "엑시온은 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권, 통치, 역사로 번역하는 하위신급 통치 얼굴이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "axions",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e95598294421f084_000.json",
+  "text": "# 엑시온\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 하위신급 인물 |\n| 이름 | 엑시온 |\n| 기반 | 아홉 보물 / 인간 숙주 / 국가 이념 / 아포라투스 |\n| 중심 권한 | 왕권 / 권능 호출 / 통치 정당성 / 계승 |\n| 주요 긴장 | 보물의 선택 / 페르소나의 장치 심층 / 국민의 인식 / 전대 엑시온의 유산 |",
+  "metadata": {
+    "char_count": 189,
+    "sha256": "d61884dcb58b366f3735ff885c2badaa667a400324769a40d59d57c3467d1d37"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:331",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] review | 잔여 핸드오프 ingest 큐 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_331.json",
+  "text": "## [2026-06-27] review | 잔여 핸드오프 ingest 큐 정리\n\n[세계관 개발 TODO](review/worldbuilding_development_todo.md)에 `remain_handoff` 원문별 ingest 큐를 추가했다. 이미 처리된 `01_CANON`, 아홉 나라 원샷 양식, 하위신 핸드오프를 완료 상태로 분리하고, 다음 처리 순서는 아포라투스, 아홉 나라 명명 체계, 염한 추가, 가인 외형, 키워드, 혼돈-현재/아홉 영웅, 2026-05-23 세션 핸드오프로 잡았다.",
+  "metadata": {
+    "char_count": 281,
+    "sha256": "a8e628ffc3db97b6b181cb69482dbf94e2afe4cb49a245738842421472585df6"
+  }
+}

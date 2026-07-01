@@ -1,0 +1,24 @@
+{
+  "id": "doc_c683fea4ab1b9018:000",
+  "document_id": "doc_c683fea4ab1b9018",
+  "path": "wiki/universe/realms/balance/organizations/크로니클.md",
+  "wiki_path": "universe/realms/balance/organizations/크로니클.md",
+  "title": "크로니클",
+  "section": "크로니클",
+  "summary": "크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c683fea4ab1b9018_000.json",
+  "text": "# 크로니클\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 삼위정교 공인 조직 |\n| 삼위 대응 | 지혜 |\n| 주요 업무 | 검열 / 공표 / 언론 / 기록 / 면허 갱신 / 현장 보고 |\n| 권한 | 성좌 공의회 지침 전달 / 인가 관리 / 공식 발표 / 기록 표준화 |\n| 연계 조직 | [구세군](구세군.md) / [파르마콘](파르마콘.md) |\n| 관련 제도 | [이레귤러 헌터](이레귤러_헌터.md) |",
+  "metadata": {
+    "char_count": 235,
+    "sha256": "7d40fe6c291ae009d21974d233c368e05d45451233acc7ef91a709c2c41d2c74"
+  }
+}

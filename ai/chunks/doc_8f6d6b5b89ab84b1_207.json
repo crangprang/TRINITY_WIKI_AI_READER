@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:207",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] visual update | 옌 2층위 상의 길이 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_207.json",
+  "text": "## [2026-06-23] visual update | 옌 2층위 상의 길이 보정\n\n옌의 2층위 검은 고딕 상의가 허리에서 끊기지 않고 바지 허리선을 덮는 것으로 보강했다.\n\n- 반영: [옌](characters/main_party/옌/index.md)\n- 주요 판단: 밝은 흰/회백 바지는 유지하되 허리선이나 벨트가 보이면 현대적인 하이웨이스트 패션 팬츠처럼 읽히므로, 검은 상의가 낮은 허리나 골반 위까지 내려와 상하의 경계를 덮어야 한다.",
+  "metadata": {
+    "char_count": 249,
+    "sha256": "c4999f2cb45d32320898cbc77dae27eff1a9261bec0fdd1acfd9406c96216939"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_b86ea76b897eb631:004",
+  "document_id": "doc_b86ea76b897eb631",
+  "path": "wiki/universe/laws/하위신.md",
+  "wiki_path": "universe/laws/하위신.md",
+  "title": "하위신",
+  "section": "주요 계열",
+  "summary": "하위신은 필로시온, 엑시온, 펠시온이 트리네아드의 제작, 계승, 이름 낙인으로 성립하고, 페르소나가 필로시온 파생으로 장치 관리에 참여하는 존재 층위다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "하위신"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b86ea76b897eb631_004.json",
+  "text": "## 주요 계열\n\n| 계열 | 정체 | 위치 | 역할 |\n|---|---|---|---|\n| [필로시온](필로시온.md) | 창조계 트리네아드가 만든 인공 신격체 | 창조계 / 균형계 잔재 수리 임무 | 병참, 수리, 관리, 보존 |\n| [페르소나](../../characters/personas/index.md) | 프로토타입 필로시온의 잔류가 균형계 장치 안에서 합성된 관리자 의식 | 나라 내부 / 아포라투스 심층 | 병든 수리, 관리, 보존 논리 |\n| 엑시온 | 보물과 위상을 인간 숙주에게 계승시켜 나라와 장치를 잇는 통치 인터페이스 | 인간 역사 / 왕권 / 정치 표면 | 계승, 통치, 권능 호출 |\n| 펠시온 | 파괴계 트리네아드의 이름 판결에 구속된 외부 하위신 | 외부 침투자 / 전장 / 균열 | 혼란 가속, 침략, 이름의 상처 |",
+  "metadata": {
+    "char_count": 421,
+    "sha256": "119559475f6a3cfcd2dfac2a3917ec3e9e10e488f3994f186ad1a3aa1f70b37e"
+  }
+}

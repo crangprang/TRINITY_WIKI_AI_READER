@@ -1,0 +1,24 @@
+{
+  "id": "doc_5ebd5dd51acade03:004",
+  "document_id": "doc_5ebd5dd51acade03",
+  "path": "wiki/characters/savior_candidates/카스파르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/카스파르/support/appearance.md",
+  "title": "카스파르 외형",
+  "section": "피톤 실패의 흔적",
+  "summary": "카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_004.json",
+  "text": "## 피톤 실패의 흔적\n\n피톤 사냥 실패의 흔적은 보조 소품으로 사용한다. 찢긴 가면끈, 독액에 상한 금속, 귀환하지 못한 팀의 표식, 잘못 읽힌 숲 표식이 카스파르가 다시 들어가려는 현장을 암시한다.\n\n이 흔적은 절차적 경고로 보인다. 감상적인 추모 장식이 전면에 서면 카스파르의 운영 압력이 약해진다. 카스파르는 실패를 다음 계약의 조건으로 번역하는 사람이다.",
+  "metadata": {
+    "char_count": 203,
+    "sha256": "e773730d22ab4dccd8235bfac32fae2dc18b0ab59ebd1a0784fbbbdd0c4df52a"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "doc_a0be947aa6fa706f",
+  "path": "wiki/characters/axions/제페토/support/appearance.md",
+  "wiki_path": "characters/axions/제페토/support/appearance.md",
+  "title": "제페토 외형",
+  "summary": "제페토의 60대 사냥 장로 실루엣, 우락부락한 몸, 목각인형 전면 가면, 수지와 고치와 사냥 도구를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "제페토 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "사냥 장로"
+    },
+    {
+      "level": 2,
+      "title": "목각인형 가면"
+    },
+    {
+      "level": 2,
+      "title": "소품과 압력"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    }
+  ],
+  "sha256": "597ba6143925958a285772b105f4076382d6762c2cc99b26d5c444410ff4015f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a0be947aa6fa706f.json",
+  "chunks": [
+    {
+      "id": "doc_a0be947aa6fa706f:000",
+      "section": "제페토 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_000.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_a0be947aa6fa706f:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_001.json",
+      "char_count": 287
+    },
+    {
+      "id": "doc_a0be947aa6fa706f:002",
+      "section": "사냥 장로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_002.json",
+      "char_count": 155
+    },
+    {
+      "id": "doc_a0be947aa6fa706f:003",
+      "section": "목각인형 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_003.json",
+      "char_count": 158
+    },
+    {
+      "id": "doc_a0be947aa6fa706f:004",
+      "section": "소품과 압력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_004.json",
+      "char_count": 179
+    },
+    {
+      "id": "doc_a0be947aa6fa706f:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_005.json",
+      "char_count": 99
+    },
+    {
+      "id": "doc_a0be947aa6fa706f:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_006.json",
+      "char_count": 92
+    }
+  ]
+}

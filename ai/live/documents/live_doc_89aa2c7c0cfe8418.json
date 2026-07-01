@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_89aa2c7c0cfe8418",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX06_02_ELPIS.txt",
+  "title": "엘피스",
+  "summary": "엘피스",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "a6a8954d57cedb5bd716fe2ca23a03a723bd801b8ff991954b780061fcb1ec2f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_89aa2c7c0cfe8418.json",
+  "chunks": [
+    {
+      "id": "live_doc_89aa2c7c0cfe8418:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_89aa2c7c0cfe8418_000.json",
+      "char_count": 1778
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:048",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] persona | 메피스토 심층 주도권 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_048.json",
+  "text": "## [2026-06-28] persona | 메피스토 심층 주도권 보강\n\n[메피스토](characters/personas/메피스토/index.md)를 오아시스, 파우스트, 아포라투스 LIVE WC claim과 대조했다. 표층 인터페이스는 떠돌이 설화 수집가와 시스템의 음성 안내로 두고, 심층 주도권은 영원의 보물인 요술램프에 놓았다.\n\n메피스토의 왜곡 목적은 영원으로 이끌어 멸망하지 않는 구원을 실현하는 일로 정리했다. 파우스트의 요술램프 호출권은 세 번째 길의 선택지로 포장되고, 오아시스의 자유는 새 미래와 검증된 현재의 영원한 반복 사이에서 갈라지는 구조로 보강했다.",
+  "metadata": {
+    "char_count": 323,
+    "sha256": "806f83202e80453c2de9a2d2170b05f0596a275a484e18ac23e7bcb3d657a800"
+  }
+}

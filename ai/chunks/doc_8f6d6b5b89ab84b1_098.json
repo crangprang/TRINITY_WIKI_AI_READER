@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:098",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 균형계 문화와 언어 항목 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_098.json",
+  "text": "## [2026-06-26] rebuild | 균형계 문화와 언어 항목 보강\n\n[균형계 문화](universe/realms/balance/culture/index.md)와 [균형계 언어](universe/realms/balance/language/index.md)에 이름, 공적 역할, 금기, 통행, 제전, 세계법칙과 명명 체계 설명을 보강했다. 표 중심 조회는 유지하되, 이름이 언어에서 형태를 얻고 문화에서 가면, 맹세, 통행, 금기, 제전으로 작동하는 구조를 본문에서 바로 읽을 수 있게 했다.",
+  "metadata": {
+    "char_count": 279,
+    "sha256": "d2be475c6352215d3a1a3b0923dcd6ee48f4245cecccebbf4c371be04c3cf692"
+  }
+}

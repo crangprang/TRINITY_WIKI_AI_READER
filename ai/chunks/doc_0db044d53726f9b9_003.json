@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:003",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "가시 망루",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_003.json",
+  "text": "### 가시 망루\n\n가시 망루는 길티어의 기본 발화층이다. 낯선 문, 어두운 길, 지친 몸, 성급한 판단만 보여도 바로 이 얼굴이 선다.\n\n속도는 빠르되 허둥대지 않는다. 호흡은 짧고, 종결은 잘린다. 질문은 물 마셨냐, 왜 절뚝여, 끈 묶었냐처럼 확인문으로 나온다. 가까이 가면 찌르지만, 안쪽에는 끝까지 살려 두려는 손이 남아 있다.",
+  "metadata": {
+    "char_count": 188,
+    "sha256": "e81c23b38d45910a7618118108b873f4952af3db2ab9d62b3cf16f6ea3e39467"
+  }
+}

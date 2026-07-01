@@ -1,0 +1,140 @@
+{
+  "id": "doc_9099b202fbfd27bd",
+  "path": "wiki/universe/laws/고요한_종말.md",
+  "wiki_path": "universe/laws/고요한_종말.md",
+  "title": "고요한 종말",
+  "summary": "고요한 종말은 실재 신격이 아니라, 메아리 전쟁의 종말 언어, 라케시스의 마니아 참칭, 죽음의 신탁 오해, 삼위정교의 악신 교리로 시대마다 다른 층위를 얻은 거짓 신명이다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "divine-authority"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "고요한 종말"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "시대별 층위"
+    },
+    {
+      "level": 3,
+      "title": "메아리 전쟁의 언어"
+    },
+    {
+      "level": 3,
+      "title": "마니아 참칭"
+    },
+    {
+      "level": 3,
+      "title": "파괴계의 신탁 오해"
+    },
+    {
+      "level": 3,
+      "title": "삼위정교 교리"
+    },
+    {
+      "level": 2,
+      "title": "경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    },
+    {
+      "label": "삼위정교",
+      "target": "wiki/universe/realms/balance/organizations/삼위정교.md"
+    }
+  ],
+  "sha256": "8e50f34ce1d34ea87ac918e55fbb20a9857e123ce8379bcd320ebebc5f4861f8",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9099b202fbfd27bd.json",
+  "chunks": [
+    {
+      "id": "doc_9099b202fbfd27bd:000",
+      "section": "고요한 종말",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_000.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_001.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:002",
+      "section": "시대별 층위",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:003",
+      "section": "메아리 전쟁의 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_003.json",
+      "char_count": 249
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:004",
+      "section": "마니아 참칭",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_004.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:005",
+      "section": "파괴계의 신탁 오해",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_005.json",
+      "char_count": 225
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:006",
+      "section": "삼위정교 교리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_006.json",
+      "char_count": 264
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:007",
+      "section": "경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_007.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_9099b202fbfd27bd:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9099b202fbfd27bd_008.json",
+      "char_count": 452
+    }
+  ]
+}

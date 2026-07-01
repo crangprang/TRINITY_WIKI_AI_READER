@@ -1,0 +1,211 @@
+{
+  "id": "doc_12c240cf3e3a9ccc",
+  "path": "wiki/characters/trineads/절제의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/절제의_트리네아드/index.md",
+  "title": "절제의 트리네아드",
+  "summary": "절제의 트리네아드는 순수의 보물에서 태어난 균형계 상위 신격이다. 그녀는 균형과 감정의 축에서 과열과 침범을 억제하는 심판관이었으며, 아조트가 번 시간 속에서 아홉 지도자에게 나뉜 위상은 엑시온 질서의 기원이 되었다. 이후 대공명기 파괴계 압력이 실제 균열로 드러나자 절제의문을 세우며 인격을 잃고 위상 안정의 잔향을 남겼다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-30",
+  "category": "characters:trineads",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "절제의 트리네아드"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 3,
+      "title": "순수의 심판관"
+    },
+    {
+      "level": 3,
+      "title": "절제의문의 안정축"
+    },
+    {
+      "level": 3,
+      "title": "엑시온 위상"
+    },
+    {
+      "level": 2,
+      "title": "잔향과 장면"
+    },
+    {
+      "level": 2,
+      "title": "능력과 제약"
+    },
+    {
+      "level": 3,
+      "title": "위상 억제"
+    },
+    {
+      "level": 3,
+      "title": "인과율 안정"
+    },
+    {
+      "level": 3,
+      "title": "제약"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "라케시스"
+    },
+    {
+      "level": 3,
+      "title": "용기의 트리네아드"
+    },
+    {
+      "level": 3,
+      "title": "엑시온과 절제의 백성"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "절제의문",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "트리네아드",
+      "target": "wiki/characters/trineads/index.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "용기의 트리네아드",
+      "target": "wiki/characters/trineads/용기의_트리네아드/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    }
+  ],
+  "sha256": "bffb3e71a4c0dfba9c5268f56799fa2fe48980cf5c4073d5baac29d5442252cd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_12c240cf3e3a9ccc.json",
+  "chunks": [
+    {
+      "id": "doc_12c240cf3e3a9ccc:000",
+      "section": "절제의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_000.json",
+      "char_count": 208
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_001.json",
+      "char_count": 630
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:003",
+      "section": "순수의 심판관",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_003.json",
+      "char_count": 275
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:004",
+      "section": "절제의문의 안정축",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_004.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:005",
+      "section": "엑시온 위상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_005.json",
+      "char_count": 401
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:006",
+      "section": "잔향과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_006.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:007",
+      "section": "능력과 제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_007.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:008",
+      "section": "위상 억제",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_008.json",
+      "char_count": 197
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:009",
+      "section": "인과율 안정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_009.json",
+      "char_count": 128
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:010",
+      "section": "제약",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_010.json",
+      "char_count": 197
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:011",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_011.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:012",
+      "section": "라케시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_012.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:013",
+      "section": "용기의 트리네아드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_013.json",
+      "char_count": 153
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:014",
+      "section": "엑시온과 절제의 백성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_014.json",
+      "char_count": 189
+    },
+    {
+      "id": "doc_12c240cf3e3a9ccc:015",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_12c240cf3e3a9ccc_015.json",
+      "char_count": 346
+    }
+  ]
+}

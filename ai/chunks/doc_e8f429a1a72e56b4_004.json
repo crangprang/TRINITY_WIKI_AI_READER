@@ -1,0 +1,24 @@
+{
+  "id": "doc_e8f429a1a72e56b4:004",
+  "document_id": "doc_e8f429a1a72e56b4",
+  "path": "wiki/universe/realms/balance/organizations/아웃로.md",
+  "wiki_path": "universe/realms/balance/organizations/아웃로.md",
+  "title": "아웃로",
+  "section": "관련 문서",
+  "summary": "아웃로는 오르딜리아 기반의 기능조직으로, 공식 운송망이 닿지 않는 곳에서 사람과 짐, 정보와 비공식 구난을 옮기는 하층 물류망이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e8f429a1a72e56b4_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 아웃로가 놓이는 조직 색인.\n- [오르딜리아](../nations/오르딜리아.md) - 아웃로의 기반 국가.\n- [발데마르](../../../../characters/savior_candidates/발데마르/index.md) - 아웃로와 연결된 오르딜리아 구세주 후보.\n- [마텔다](../../../../characters/axions/마텔다/index.md) - 오르딜리아 엑시온.",
+  "metadata": {
+    "char_count": 248,
+    "sha256": "5d3128532ef5e93cf7ff63cc2863d26ef3c056069755ab66adbe11d65bab1886"
+  }
+}

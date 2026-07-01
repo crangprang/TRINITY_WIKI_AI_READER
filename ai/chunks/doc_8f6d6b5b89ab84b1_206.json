@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:206",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] visual update | 옌 2층위 하의 연속성",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_206.json",
+  "text": "## [2026-06-23] visual update | 옌 2층위 하의 연속성\n\n옌의 2층위 외형에서 흰 외피는 사라지지만, 밝은 흰/회백 바지는 유지되는 것으로 보강했다.\n\n- 반영: [옌](characters/main_party/옌/index.md)\n- 주요 판단: 2층위 변화의 핵심은 검은 고딕 하이넥과 얇은 케이프렛이 전면으로 드러나는 것이며, 전신이 검은 옷으로 닫히면 1층위와의 연결이 약해진다.",
+  "metadata": {
+    "char_count": 229,
+    "sha256": "28a8aa4127efa6f4522384bac9be34e49849222e5c4ee7baa68fdef09044da5c"
+  }
+}

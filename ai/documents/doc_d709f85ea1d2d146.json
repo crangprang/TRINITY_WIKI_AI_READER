@@ -1,0 +1,146 @@
+{
+  "id": "doc_d709f85ea1d2d146",
+  "path": "wiki/characters/savior_candidates/캘리번/index.md",
+  "wiki_path": "characters/savior_candidates/캘리번/index.md",
+  "title": "캘리번",
+  "summary": "마사오트의 구세주 후보이자 탐험가 길드 우니오네 지부장. 호탕하고 시끄러운 탐험가지만, 금지 심층과 프로스페로의 감시선에 걸린 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:savior_candidates",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "캘리번"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "우니오네 지부장"
+    },
+    {
+      "level": 2,
+      "title": "금지 심층과 감시선"
+    },
+    {
+      "level": 2,
+      "title": "마사오트와 탐험가 길드"
+    },
+    {
+      "level": 2,
+      "title": "미란다"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "캘리번 외형",
+      "target": "wiki/characters/savior_candidates/캘리번/support/appearance.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "프로스페로",
+      "target": "wiki/characters/axions/프로스페로/index.md"
+    }
+  ],
+  "sha256": "0f72e5d56dc574e2f2fd9ff1079b721b6762ec02bbac23f5f8afff2351bb9ab4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d709f85ea1d2d146.json",
+  "chunks": [
+    {
+      "id": "doc_d709f85ea1d2d146:000",
+      "section": "캘리번",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_000.json",
+      "char_count": 382
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_001.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:002",
+      "section": "우니오네 지부장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_002.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:003",
+      "section": "금지 심층과 감시선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_003.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:004",
+      "section": "마사오트와 탐험가 길드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_004.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:005",
+      "section": "미란다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_005.json",
+      "char_count": 237
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:006",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_006.json",
+      "char_count": 186
+    },
+    {
+      "id": "doc_d709f85ea1d2d146:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d709f85ea1d2d146_007.json",
+      "char_count": 380
+    }
+  ]
+}

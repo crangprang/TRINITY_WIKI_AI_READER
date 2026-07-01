@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:343",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] ingest | 4등급 판타즈마 임계 조건 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_343.json",
+  "text": "## [2026-06-28] ingest | 4등급 판타즈마 임계 조건 정리\n\n`아포라투스_HANDOFF.txt`의 4등급 판타즈마 claim을 대조해 [아포라투스](universe/realms/balance/apparatus/index.md)와 [판타즈마](beings/phantasmas/index.md)에 페르소나 관리 논리 퇴장, 용 잔재 척수 반사 구동, 보물 심장 부정 이데아 박동이 함께 한계점에 닿는 공통 임계 구조를 보강했다. 염한은 현재 근거가 충분한 예시로 [증오의 판타즈마](beings/phantasmas/증오의_판타즈마.md)에 황 노인 퇴장, 아곤 제어 붕괴, 시산혈해의 증오 응집을 연결했고, 염한 외 국가별 임계값은 새로 만들지 않았다.",
+  "metadata": {
+    "char_count": 373,
+    "sha256": "2b5a7983428984d22b93c54ce7cc0f56d066447dda9ed69ba22a34c3ab1ba0a9"
+  }
+}

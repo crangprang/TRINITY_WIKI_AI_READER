@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_eee2baeea64a1c1f",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_03_EVENTS.txt",
+  "title": "3.사건",
+  "summary": "3.사건",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "47649e1b45ea08439987c6052ecf50506a27479f0a3042c6f6671c93dfc10046",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_eee2baeea64a1c1f.json",
+  "chunks": [
+    {
+      "id": "live_doc_eee2baeea64a1c1f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_eee2baeea64a1c1f_000.json",
+      "char_count": 4917
+    }
+  ]
+}

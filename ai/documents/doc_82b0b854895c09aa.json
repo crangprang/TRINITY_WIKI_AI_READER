@@ -1,0 +1,121 @@
+{
+  "id": "doc_82b0b854895c09aa",
+  "path": "wiki/characters/personas/황_노인/support/appearance.md",
+  "wiki_path": "characters/personas/황_노인/support/appearance.md",
+  "title": "황 노인 외형",
+  "summary": "황 노인의 시니컬한 70대 동양 복식 실루엣, 바둑판 프레임과 칼 균열 얼굴, 원한검과 붉은 달을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "황 노인 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "바둑판 프레임 얼굴"
+    },
+    {
+      "level": 2,
+      "title": "황혼의 조언자"
+    },
+    {
+      "level": 2,
+      "title": "원한검과 밤의 숙제"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "가인",
+      "target": "wiki/characters/axions/가인/index.md"
+    },
+    {
+      "label": "아백",
+      "target": "wiki/characters/savior_candidates/아백/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    }
+  ],
+  "sha256": "30fafcced7d99815e40c35bc5f4af0f8f96c85153c2bb1b81c1db3a45711f491",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_82b0b854895c09aa.json",
+  "chunks": [
+    {
+      "id": "doc_82b0b854895c09aa:000",
+      "section": "황 노인 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_000.json",
+      "char_count": 111
+    },
+    {
+      "id": "doc_82b0b854895c09aa:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_001.json",
+      "char_count": 420
+    },
+    {
+      "id": "doc_82b0b854895c09aa:002",
+      "section": "바둑판 프레임 얼굴",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_002.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_82b0b854895c09aa:003",
+      "section": "황혼의 조언자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_003.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_82b0b854895c09aa:004",
+      "section": "원한검과 밤의 숙제",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_004.json",
+      "char_count": 251
+    },
+    {
+      "id": "doc_82b0b854895c09aa:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_005.json",
+      "char_count": 181
+    },
+    {
+      "id": "doc_82b0b854895c09aa:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_82b0b854895c09aa_006.json",
+      "char_count": 381
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:138",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 생태 항목 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_138.json",
+  "text": "## [2026-06-26] rebuild | 생태 항목 표면 정리\n\n`beings/creatures`의 잔여 `해석 및 비고` 항목을 독자용 생태 원리와 계열 항목으로 정리했다.\n\n- 정리: 레이어드 하층 생태, 플라센티아 숲 생태, 알렉시아 동굴·서가 생태, 마사오트 항해 생태는 `생태 원리` 항목으로 바꿨다.\n- 정리: 플라센티아 원생 생물은 `부패와 고치`, 마사오트 항해 생태의 운용 항목은 `계열 구분`으로 바꿨다.\n- 문체: 생물 위협과 대응 서술의 비교식 표현을 직접 위험, 서식 조건, 장비 피해 중심의 선언형 문장으로 바꿨다.",
+  "metadata": {
+    "char_count": 305,
+    "sha256": "91df4b98d8469d855092b3e8200660c8d52635f566150071790ff902d7feee1b"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "id": "doc_595fcd72d7fbc726",
+  "path": "wiki/characters/axions/제페토/index.md",
+  "wiki_path": "characters/axions/제페토/index.md",
+  "title": "제페토",
+  "summary": "제페토는 플라센티아의 사냥 규율을 세운 엑시온이자 사냥꾼들의 스승이며, 죽은 아들 카를로를 되살리려는 집착으로 피노키오 계획과 고치 순환을 연 장로다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:axions",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "제페토"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "사냥꾼들의 장로"
+    },
+    {
+      "level": 2,
+      "title": "카를로와 피노키오 계획"
+    },
+    {
+      "level": 2,
+      "title": "초대 장로와 심장"
+    },
+    {
+      "level": 2,
+      "title": "규율과 통치"
+    },
+    {
+      "level": 2,
+      "title": "권능과 장치"
+    },
+    {
+      "level": 2,
+      "title": "투르키나"
+    },
+    {
+      "level": 2,
+      "title": "피톤과 숲"
+    },
+    {
+      "level": 2,
+      "title": "붕괴"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "제페토 외형",
+      "target": "wiki/characters/axions/제페토/support/appearance.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    }
+  ],
+  "sha256": "04fb8fb02bf79c1e675fb37b09297ede5856c63ff61229fe51f72bf0480f6b85",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_595fcd72d7fbc726.json",
+  "chunks": [
+    {
+      "id": "doc_595fcd72d7fbc726:000",
+      "section": "제페토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_000.json",
+      "char_count": 536
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_001.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:002",
+      "section": "사냥꾼들의 장로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_002.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:003",
+      "section": "카를로와 피노키오 계획",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_003.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:004",
+      "section": "초대 장로와 심장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_004.json",
+      "char_count": 385
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:005",
+      "section": "규율과 통치",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_005.json",
+      "char_count": 251
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:006",
+      "section": "권능과 장치",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_006.json",
+      "char_count": 323
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:007",
+      "section": "투르키나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_007.json",
+      "char_count": 235
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:008",
+      "section": "피톤과 숲",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_008.json",
+      "char_count": 270
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:009",
+      "section": "붕괴",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_009.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:010",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_010.json",
+      "char_count": 176
+    },
+    {
+      "id": "doc_595fcd72d7fbc726:011",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_595fcd72d7fbc726_011.json",
+      "char_count": 389
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:240",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 삼위일체 우주 하위 조회 축 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_240.json",
+  "text": "## [2026-06-26] rebuild | 삼위일체 우주 하위 조회 축 보강\n\n[삼위일체 우주](universe/structure/삼위일체_우주.md)의 하위 조회 축을 상위 우주 구조 항목 안에 명시하고 루트 진입 문서를 보강했다.\n\n- 정리: 삼위일체 우주에 `하위 항목`을 추가해 균형계, 세 에너지, 하위신, 오리진, 창조계, 파괴계, 두 개의 문을 상위 구조 아래에서 연결했다.\n- 진입: [삼위일체 우주 위키](index.md)를 단순 링크 모음에서 우주 구조, 인물과 존재, 사건과 기록, 검토와 운영 흐름이 보이는 진입 문서로 바꿨다.\n- 병합: `우주와_세계_구조.md`식 접근명은 새 독자 문서로 만들지 않고 [삼위일체 우주](universe/structure/삼위일체_우주.md) alias로 흡수했다.",
+  "metadata": {
+    "char_count": 406,
+    "sha256": "7db70b915a49b1a328305da53207b5be3333f62a660299f50846f25861eb7b6d"
+  }
+}

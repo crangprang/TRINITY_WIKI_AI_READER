@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:012",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "아인",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_012.json",
+  "text": "### 아인\n\n[아인](../../아인/index.md) 앞에서는 리더로 존중하지만 비서처럼 맞추지 않는다. 사람이 계산 안으로 들어가는 순간 곧장 참견한다. `네 몫도 아닌 걸 왜 또 다 들고 가`가 먼저 튄다.",
+  "metadata": {
+    "char_count": 119,
+    "sha256": "7f6c57c63cbeb0582e10bfe97e4fd92d4297d59ff052c862e38bcb60d115290e"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_0288d19779119e9b:000",
+  "document_id": "live_doc_0288d19779119e9b",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/09_TURCHINA/PER09_CORE.txt",
+  "title": "투르키나 / CORE",
+  "section": "body",
+  "summary": "투르키나 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0288d19779119e9b_000.json",
+  "text": "투르키나 / CORE\n\n1. 식별\n투르키나은 플라센티아의 아포라투스 `크리살리스`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 플라센티아 / 크리살리스\n- 전면: 사냥꾼, 푸른 요정, 숲의 징조를 읽는 조언자\n- 압력: 생태 복원 명령과 인간의 애도를 섞어 메시아 씨앗을 만들려는 의식\n- 관계: 제페토의 부성, 피노키오 계획, 피톤의 면역 반응과 연결\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 376,
+    "sha256": "32c983aeadcba72011aa5c72d90a8425080d2bcf398d78ceef8c0b2f2d211c6b"
+  }
+}

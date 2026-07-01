@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:211",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-24] visual lock | 옌 체구 표현 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_211.json",
+  "text": "## [2026-06-24] visual lock | 옌 체구 표현 보정\n\n옌 외형 잠금에서 키 수치와 체구 축소 강조를 제거하고, 17~18세 후기 청소년 비율과 성인에 가까운 머리-몸/손발 비율을 기준으로 다시 정리했다.\n\n- 반영: [옌](characters/main_party/옌/index.md)\n- 주요 판단: 큰 흰옷, 맨발, 둥근 눈, 손 프레임 구도는 이미지 생성에서 유아화 신호로 강하게 작동할 수 있으므로, 체구의 작음보다 후기 청소년 비율, 긴 사지, 또렷한 콧대와 턱선, 조용한 관찰성을 먼저 고정한다.",
+  "metadata": {
+    "char_count": 294,
+    "sha256": "a098a2b9bdbbd9b9fd6bc842c44fa63626170f32a7fdbb02221f52050f6b10b6"
+  }
+}

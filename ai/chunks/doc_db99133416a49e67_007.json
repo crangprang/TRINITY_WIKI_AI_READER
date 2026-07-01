@@ -1,0 +1,23 @@
+{
+  "id": "doc_db99133416a49e67:007",
+  "document_id": "doc_db99133416a49e67",
+  "path": "wiki/characters/savior_candidates/랄/index.md",
+  "wiki_path": "characters/savior_candidates/랄/index.md",
+  "title": "랄",
+  "section": "말투와 태도",
+  "summary": "자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db99133416a49e67_007.json",
+  "text": "## 말투와 태도\n\n랄의 말투는 무심하고 건조하다. 천재성은 선언보다 즉시 계산을 시작하는 태도에서 드러난다.\n\n\"저쪽은 재해네.\"라는 말은 계산 가능한 문제와 재해를 구분하는 태도다. \"이기는 수는 있어. 문제는 그 수를 두기 전에 내가 두 번쯤 죽는다는 거고.\"라는 문장은 위험을 수로 보는 랄의 습관을 보여 준다. \"중요했으면 적어 놨겠지. 안 그래?\"와 \"아인? 기록에는 있어.\"는 망각과 기록 사이에 선 그녀의 거리감을 드러낸다.",
+  "metadata": {
+    "char_count": 245,
+    "sha256": "488fc6f5cf9d477375705fc2c3eadfd41923e185cb93277b1118a493ec92f505"
+  }
+}

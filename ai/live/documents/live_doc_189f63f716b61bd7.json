@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_189f63f716b61bd7",
+  "path": "04_MAIN_CHARACTER/06_SAVIOR_CANDIDATE/SC08_LUCIRIEL.txt",
+  "title": "루시리엘",
+  "summary": "루시리엘",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:06_SAVIOR_CANDIDATE",
+  "suffix": ".txt",
+  "sha256": "c8e1b85735bca5889edb1d69413bd904245994a7f27a6ad747ad7f3ceb8a8d66",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_189f63f716b61bd7.json",
+  "chunks": [
+    {
+      "id": "live_doc_189f63f716b61bd7:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_189f63f716b61bd7_000.json",
+      "char_count": 1023
+    }
+  ]
+}

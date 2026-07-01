@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce20d090386715c3:006",
+  "document_id": "doc_ce20d090386715c3",
+  "path": "wiki/characters/personas/탈레스/support/appearance.md",
+  "wiki_path": "characters/personas/탈레스/support/appearance.md",
+  "title": "탈레스 외형",
+  "section": "관련 문서",
+  "summary": "탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce20d090386715c3_006.json",
+  "text": "## 관련 문서\n\n- [탈레스](../index.md) - 알렉시아의 질문 압력을 맡는 페르소나.\n- [알렉시아](../../../../universe/realms/balance/nations/알렉시아.md) - 탈레스의 아나그노리시스와 오르가논이 놓이는 진리의 나라.\n- [판도라](../../../axions/판도라/index.md) - 최초의 질문과 검은 석판을 받아 든 건국기 엑시온.\n- [엘피스](../../../axions/엘피스/index.md) - 탈레스의 질문 압력을 유예 행정으로 번역하는 계승자.\n- [메테우스](../../../savior_candidates/메테우스/index.md) - 질문과 오염의 연결을 끊는 인퀴지터 집행자.",
+  "metadata": {
+    "char_count": 367,
+    "sha256": "409f75aeeb2bad7b76339a4869f31433ae221bf2534ba8e2a4402642808bdbb6"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:016",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "전장 지시",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_016.json",
+  "text": "### 전장 지시\n\n방향, 우선순위, 역할 배분이 먼저 나온다. 옌과 연결되어 있을 때는 색 정보를 곧장 판단과 동선으로 바꾼다. 짧은 도발이나 호언장담이 남아도 지휘의 속도는 흐트러지지 않는다.",
+  "metadata": {
+    "char_count": 109,
+    "sha256": "a48ec8c26a3651f2e5c1354684e4b26cf977af731ac9580d303443661b6106fa"
+  }
+}

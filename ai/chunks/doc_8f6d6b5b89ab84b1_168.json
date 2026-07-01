@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:168",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 하위신 정본형 리빌드",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_168.json",
+  "text": "## [2026-06-26] rebuild | 하위신 정본형 리빌드\n\n새 SOT DB 계약 기준에 맞춰 [하위신](universe/laws/하위신.md)을 존재 층위와 우주 법칙을 잇는 항목으로 다시 정리했다.\n\n- 정리: 페르소나, 엑시온, 펠시온, 동명 판타즈마를 기원, 위치, 권한, 사건 기능별로 분리했다.\n- 보강: 표층과 심층, 자연수명 판정, 펠시온 침투, 판타즈마 핵, 권한 우위 조건을 독자용 정의로 흡수했다.\n- 연결: 삼위일체 우주, 세 에너지, 오리진, 엑시온, 페르소나, 펠시온, 판타즈마 링크를 조회 흐름에 맞게 보강했다.",
+  "metadata": {
+    "char_count": 306,
+    "sha256": "18d002761682064505fce96fe3282b7286ba3388f2ee726ef6d9347915266c49"
+  }
+}

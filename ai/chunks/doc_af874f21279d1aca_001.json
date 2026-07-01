@@ -1,0 +1,24 @@
+{
+  "id": "doc_af874f21279d1aca:001",
+  "document_id": "doc_af874f21279d1aca",
+  "path": "wiki/characters/axions/마이더스/support/appearance.md",
+  "wiki_path": "characters/axions/마이더스/support/appearance.md",
+  "title": "마이더스 외형",
+  "section": "외형 기준",
+  "summary": "마이더스의 50대 건장한 수트 실루엣, 금색 눈, 금이 간 황금 사자 신용 가면, 황금 의수와 계약 소품을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_af874f21279d1aca_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 나이 | 50대, 서양식으로 길게 이어진 턱수염이 어울리는 인상 |\n| 실루엣 | 건장한 중년, 수트 기반의 회장과 판타지 통치자 |\n| 눈색 | 금색 |\n| 의상 | 수트 기반, 레이어드의 수직 시장과 계약 권위와 황금 번개가 섞인 통치자 복식 |\n| 가면 | 금이 간 황금 사자 신용 가면, 회장과 엑시온의 전면 얼굴가림 |\n| 소품 | 황금 의수, 계약 서명, 신용 장부, 담보 표식, 황금 정전기 |",
+  "metadata": {
+    "char_count": 280,
+    "sha256": "d3a5592b82c8d52182d7392c090995e1da03eacdb494470df2e1ce0779a7da23"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_7610e3feb05faa0c:011",
+  "document_id": "doc_7610e3feb05faa0c",
+  "path": "wiki/characters/main_party/스칼렛/support/appearance.md",
+  "wiki_path": "characters/main_party/스칼렛/support/appearance.md",
+  "title": "스칼렛 외형",
+  "section": "관련 문서",
+  "summary": "스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_011.json",
+  "text": "## 관련 문서\n\n- [스칼렛](../index.md) - 공포 연출, 보호 본능, 블랑을 대신하는 전면성이 외형의 공격성과 무대성을 이루는 인물.\n- [스칼렛 보이스](voice.md) - 층위별 위협, 추적, 비 오는 오후의 낮은 목소리가 외형과 맞물리는 보이스 항목.\n- [블랑](../../블랑/index.md) - 스칼렛이 지키려는 같은 몸의 다른 전면이자 죄책감의 중심.\n- [엘리자베스](../../엘리자베스/index.md) - 블랑과 스칼렛의 공용 몸과 이름 충돌을 묶는 이름.",
+  "metadata": {
+    "char_count": 276,
+    "sha256": "38ef489e4fbda289f63e70f95112afb748f0910025bf69436542a8849b5ab4e1"
+  }
+}

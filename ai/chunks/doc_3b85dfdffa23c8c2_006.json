@@ -1,0 +1,24 @@
+{
+  "id": "doc_3b85dfdffa23c8c2:006",
+  "document_id": "doc_3b85dfdffa23c8c2",
+  "path": "wiki/characters/personas/빈센트/support/appearance.md",
+  "wiki_path": "characters/personas/빈센트/support/appearance.md",
+  "title": "빈센트 외형",
+  "section": "관련 문서",
+  "summary": "빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_006.json",
+  "text": "## 관련 문서\n\n- [빈센트](../index.md) - 우니오네의 아름다운 출구와 재연의 축을 맡는 페르소나.\n- [우니오네](../../../../universe/realms/balance/nations/우니오네.md) - 빈센트의 미메시스와 마고리아가 놓이는 예술의 나라.\n- [유리디스 도리안 드 발루아](../../../axions/유리디스_도리안_드_발루아/index.md) - 빈센트에게 아름다운 도피의 틈을 내주는 우니오네의 여왕.\n- [엘리자베스](../../../main_party/엘리자베스/index.md) - 빈센트의 아틀리에와 재연이 남은 공용 몸.\n- [블랑](../../../main_party/블랑/index.md) - 재연이 의사와 피해자 자리로 세우는 전면.\n- [스칼렛](../../../main_party/스칼렛/index.md) - 재연이 위험과 악역 자리로 밀어 넣는 전면.",
+  "metadata": {
+    "char_count": 457,
+    "sha256": "8dcda983294443ff4eb5bbe0b34782b6c52659452a875c9dd05a714142ff098a"
+  }
+}

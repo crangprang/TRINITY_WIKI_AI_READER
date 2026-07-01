@@ -1,0 +1,24 @@
+{
+  "id": "doc_5d291f1a26b8e9fd:001",
+  "document_id": "doc_5d291f1a26b8e9fd",
+  "path": "wiki/characters/ensemble/배신의_펠시온/support/appearance.md",
+  "wiki_path": "characters/ensemble/배신의_펠시온/support/appearance.md",
+  "title": "배신의 펠시온 외형",
+  "section": "외형 기준",
+  "summary": "배신의 펠시온의 후드 로브, 전갈 백골 가면, 은발과 보라 눈, 숨긴 가위 비수, 맨얼굴의 신뢰 유도 인상을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5d291f1a26b8e9fd_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 인상 | 20대 중반 |\n| 머리색 | 은색 |\n| 눈색 | 보라색 |\n| 의상 | 후드가 얼굴을 가까이 감싸는 검은 로브 |\n| 가면 | 후드 안쪽에 들어갈 정도로 작은 창백한 뼈색/미색 전갈 백골 가면 |\n| 소품 | 로브 안이나 가슴 접힘 안에 숨긴 가위 모티프 비수 |\n| 인상 | 수수하고 처연한 아름다움, 신뢰를 유도하는 맨얼굴 |\n| 팔레트/질감 | 검은 로브, 창백한 뼈색, 은색 머리, 보라 눈, 차가운 피부 |",
+  "metadata": {
+    "char_count": 295,
+    "sha256": "861ae3ed404a5c407aba12e2def2b9e48c33357f9594dd5a1b8222675cafa3e2"
+  }
+}

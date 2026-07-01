@@ -1,0 +1,23 @@
+{
+  "id": "doc_fae9b6a12ec29dda:019",
+  "document_id": "doc_fae9b6a12ec29dda",
+  "path": "wiki/characters/main_party/세레나/index.md",
+  "wiki_path": "characters/main_party/세레나/index.md",
+  "title": "세레나",
+  "section": "월광",
+  "summary": "세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fae9b6a12ec29dda_019.json",
+  "text": "### 월광\n\n저주 `월광`은 보름달 아래에서 세레나를 용을 닮은 흉폭한 야수로 밀어 넣는다. 달빛, 밤, 피 맛, 본능적 공포가 회로를 당기면 피가 이름을 잃고 야수 쪽으로 흐른다. 잠시 동안 이성이 남을 수 있지만, 피 맛이 닿으면 통제는 급격히 무너진다.\n\n겉으로는 가장 붉은 상태지만, 세레나가 빠져나올 수 있는 푸른 길의 씨앗도 이 저주 쪽에 남아 있다. 치명상, 출혈, 공포에 대한 저항은 비정상적으로 높아지며, 그 저항은 세레나를 살게 하면서도 제대로 멈추지도 죽지도 못하게 만든다.",
+  "metadata": {
+    "char_count": 277,
+    "sha256": "99216d88ecb5f5e406ff0c8fd67707f39a8a8ea7ccc5096cf9c5fef7c4943c07"
+  }
+}

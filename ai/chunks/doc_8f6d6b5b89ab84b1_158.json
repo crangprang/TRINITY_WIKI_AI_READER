@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:158",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rename | 특이점 사건 항목명 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_158.json",
+  "text": "## [2026-06-26] rename | 특이점 사건 항목명 정리\n\n`events/singularities`의 수집형 특이점 파일명을 실제 사건명 중심으로 리네임했다.\n\n- 리네임: 더 나은 내일, 건곤일척, 생사불문, 백해무익, Fahrenheit 451, 삼라만상, 몽환포영, 일월성신, 사상누각을 독립 사건명으로 정리했다.\n- 표면: 각 문서의 `title`, H1, 이름 표기를 사건명 중심으로 바꾸고 영어명과 보조명은 별칭 행으로 낮췄다.\n- 연결: 특이점 색인, 판타즈마 관련 링크, 줄거리의 특이점 축 라벨, alias, relations 경로를 새 이름에 맞췄다.",
+  "metadata": {
+    "char_count": 325,
+    "sha256": "594e257b3e957f2266b977d5a8494830389751f28aaeb2981e9e8bd3dc3d82a3"
+  }
+}

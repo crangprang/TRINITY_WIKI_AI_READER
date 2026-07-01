@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:172",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 아인 셔츠색 잠금 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_172.json",
+  "text": "## [2026-06-26] maintenance | 아인 셔츠색 잠금 반영\n\n아인의 1·2층위 선택본을 기준으로 안쪽 셔츠색과 스카프색 분리 기준을 외형 support에 반영했다.\n\n- 잠금: 안쪽 셔츠는 먼지 낀 따뜻한 스톤 그레이/회베이지 리넨으로 둔다.\n- 분리: 스카프와 조끼는 어두운 차콜/먹색 계열로 남기고, 셔츠색과 섞지 않는다.\n- 운용: 1층위에서는 셔츠가 스카프와 외투 사이에 작게만 비치고, 2층위에서는 외투가 사라진 뒤 셔츠와 소매가 더 명확히 드러난다.",
+  "metadata": {
+    "char_count": 267,
+    "sha256": "30cd218ac0638dc29031cfd7b36b78bdfeda29aa368bcb3c18bfc692e39affa1"
+  }
+}

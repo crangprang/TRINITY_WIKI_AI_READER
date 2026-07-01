@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_d9bc368563407240",
+  "path": "02_LORE/L06_TRUTH/L06_CORE.txt",
+  "title": "L06_알렉시아 / CORE",
+  "summary": "L06_알렉시아 / CORE",
+  "root": "02_LORE",
+  "category": "02_LORE:L06_TRUTH",
+  "suffix": ".txt",
+  "sha256": "cbca69c3554c0e0e68f11cd183e4d3f814e69571acf1aad0fdc8a84eda1b0ccc",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_d9bc368563407240.json",
+  "chunks": [
+    {
+      "id": "live_doc_d9bc368563407240:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_d9bc368563407240_000.json",
+      "char_count": 2524
+    }
+  ]
+}

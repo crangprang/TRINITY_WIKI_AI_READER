@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_c9c7b9403c998494",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_CORE.txt",
+  "title": "빈센트 / CORE",
+  "summary": "빈센트 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "1f302000940119bf4c47de9c6401f43f9524065e74a259e4601f734d3c971514",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_c9c7b9403c998494.json",
+  "chunks": [
+    {
+      "id": "live_doc_c9c7b9403c998494:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_c9c7b9403c998494_000.json",
+      "char_count": 383
+    }
+  ]
+}

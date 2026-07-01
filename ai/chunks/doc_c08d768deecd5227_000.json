@@ -1,0 +1,23 @@
+{
+  "id": "doc_c08d768deecd5227:000",
+  "document_id": "doc_c08d768deecd5227",
+  "path": "wiki/characters/savior_candidates/메테우스/index.md",
+  "wiki_path": "characters/savior_candidates/메테우스/index.md",
+  "title": "메테우스",
+  "section": "메테우스",
+  "summary": "메테우스는 알렉시아의 구세주 후보이자 인퀴지터 집행자로, 판도라가 남긴 질문과 도시의 오염 사이에서 연결을 끊는 불을 든다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c08d768deecd5227_000.json",
+  "text": "# 메테우스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 메테우스 |\n| 성별/프레젠테이션 | 남성 |\n| 소속/지역 | 진리의 나라 [알렉시아](../../../universe/realms/balance/nations/알렉시아.md) |\n| 직책/역할 | 구세주 후보 / 인퀴지터 집행자 |\n| 기능조직 | [인퀴지터](../../../universe/realms/balance/organizations/인퀴지터.md) |\n| 주요 관계 | [판도라](../../axions/판도라/index.md), [엘피스](../../axions/엘피스/index.md) |",
+  "metadata": {
+    "char_count": 333,
+    "sha256": "67c361dab7428645773650f0d24978c6f6a3bc15aef3eb3f856e676370961396"
+  }
+}

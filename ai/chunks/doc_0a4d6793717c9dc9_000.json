@@ -1,0 +1,23 @@
+{
+  "id": "doc_0a4d6793717c9dc9:000",
+  "document_id": "doc_0a4d6793717c9dc9",
+  "path": "wiki/characters/personas/미노스/index.md",
+  "wiki_path": "characters/personas/미노스/index.md",
+  "title": "미노스",
+  "section": "미노스",
+  "summary": "미노스는 오르딜리아의 페르소나로, 페리페테이아와 파놉티콘을 통해 정의와 질서를 하나의 재판 무대로 압축하는 연출자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0a4d6793717c9dc9_000.json",
+  "text": "# 미노스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 미노스 |\n| 소속/지역 | 정의의 나라 [오르딜리아](../../../universe/realms/balance/nations/오르딜리아.md) |\n| 연결된 아포라투스 | 페리페테이아 |\n| 제어기관 | 파놉티콘 |\n| 표층 인터페이스 | 방랑자의 귀환 / 고결한 멘토 / 재판 연출자 |\n| 심층 주도권 | 공간의 필로시온, 우라니아 |\n| 왜곡 목적 | 오르딜리아 전체를 이용해 자신을 속이고 버린 감독을 넘어서는 극한의 카타르시스를 연출한다 |\n| 주요 관계 | [마텔다](../../axions/마텔다/index.md), [단테](../../main_party/단테/index.md) |",
+  "metadata": {
+    "char_count": 382,
+    "sha256": "5dcd7f67d499ab6373355e2664436143c71610706b31b7ccc4d974e0e7395654"
+  }
+}

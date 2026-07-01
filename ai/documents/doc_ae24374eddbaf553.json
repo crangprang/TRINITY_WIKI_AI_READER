@@ -1,0 +1,113 @@
+{
+  "id": "doc_ae24374eddbaf553",
+  "path": "wiki/universe/realms/balance/organizations/인퀴지터.md",
+  "wiki_path": "universe/realms/balance/organizations/인퀴지터.md",
+  "title": "인퀴지터",
+  "summary": "인퀴지터는 알렉시아 기반의 기능조직으로, 판타즈마와 원생물, 오염 기록과 벌레를 봉쇄하고 태우는 재난 토벌 조직이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "인퀴지터"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "봉쇄와 소각"
+    },
+    {
+      "level": 2,
+      "title": "국가와 후보"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "메테우스",
+      "target": "wiki/characters/savior_candidates/메테우스/index.md"
+    },
+    {
+      "label": "엘피스",
+      "target": "wiki/characters/axions/엘피스/index.md"
+    },
+    {
+      "label": "판도라",
+      "target": "wiki/characters/axions/판도라/index.md"
+    }
+  ],
+  "sha256": "96c538b020e88849636789c86615d58a8c54e2242cfa732ee0b63a83a694ffa9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ae24374eddbaf553.json",
+  "chunks": [
+    {
+      "id": "doc_ae24374eddbaf553:000",
+      "section": "인퀴지터",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_000.json",
+      "char_count": 361
+    },
+    {
+      "id": "doc_ae24374eddbaf553:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_001.json",
+      "char_count": 262
+    },
+    {
+      "id": "doc_ae24374eddbaf553:002",
+      "section": "봉쇄와 소각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_002.json",
+      "char_count": 281
+    },
+    {
+      "id": "doc_ae24374eddbaf553:003",
+      "section": "국가와 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_003.json",
+      "char_count": 245
+    },
+    {
+      "id": "doc_ae24374eddbaf553:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ae24374eddbaf553_004.json",
+      "char_count": 311
+    }
+  ]
+}

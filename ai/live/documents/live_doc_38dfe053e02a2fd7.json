@@ -1,0 +1,25 @@
+{
+  "id": "live_doc_38dfe053e02a2fd7",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_07_GEOGRAPHY_AND_TERRAIN.txt",
+  "title": "7.지리, 지형",
+  "summary": "7.지리, 지형",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "bdcb2d79e81f304cfc597efb77404cf1d9704f5c743074420f0859104a879138",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_38dfe053e02a2fd7.json",
+  "chunks": [
+    {
+      "id": "live_doc_38dfe053e02a2fd7:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_38dfe053e02a2fd7_000.json",
+      "char_count": 11967
+    },
+    {
+      "id": "live_doc_38dfe053e02a2fd7:001",
+      "section": "body (2)",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_38dfe053e02a2fd7_001.json",
+      "char_count": 8159
+    }
+  ]
+}

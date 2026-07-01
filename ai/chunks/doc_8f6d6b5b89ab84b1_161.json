@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:161",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rename | 등급 판타즈마 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_161.json",
+  "text": "## [2026-06-26] rename | 등급 판타즈마 항목 정리\n\n`beings/phantasmas`의 후보형 등급 판타즈마 제목을 국가별 정본 항목으로 정리했다.\n\n- 이동: 네 나라의 `2등급 판타즈마 후보`와 `3등급 판타즈마 후보` 문서를 각각 `2등급 판타즈마`, `3등급 판타즈마` 항목으로 옮겼다.\n- 정리: 현장명과 전승명 표현을 정리하고, 비교 부정형 설명을 선언형 본문으로 바꿨다.\n- 연결: 기존 후보형 경로와 평면 article 경로는 alias로 새 항목에 도달하게 했다.",
+  "metadata": {
+    "char_count": 280,
+    "sha256": "eeaabb34eea76af5595de60fd14b8709ff2c9e04f794658029b74aa0787f0012"
+  }
+}

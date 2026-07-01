@@ -1,0 +1,23 @@
+{
+  "id": "doc_7a417733898806fe:000",
+  "document_id": "doc_7a417733898806fe",
+  "path": "wiki/characters/personas/카론/index.md",
+  "wiki_path": "characters/personas/카론/index.md",
+  "title": "카론",
+  "section": "카론",
+  "summary": "카론은 레이어드의 페르소나로, 카타바시스와 스틱스를 통해 인간의 불과 가능성을 담보로 잡는 영혼의 전당포 주인이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a417733898806fe_000.json",
+  "text": "# 카론\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 카론 |\n| 나이 | 20대 중반 |\n| 소속/지역 | 거래의 나라 [레이어드](../../../universe/realms/balance/nations/레이어드.md) |\n| 연결된 아포라투스 | 카타바시스 |\n| 중심 공간 | 스틱스 |\n| 표층 인터페이스 | 영혼의 전당포 주인 / 도시전설 속 대부업자 / 점잖은 안내자 |\n| 심층 주도권 | 무한의 보물, 마이더스의 황금 의수 |\n| 왜곡 목적 | 지상으로 나아갈 가능성을 가진 인간을 선별하고 시험한다 |\n| 주요 관계 | [마이더스](../../axions/마이더스/index.md), [케르베로스](../../savior_candidates/케르베로스/index.md) |",
+  "metadata": {
+    "char_count": 403,
+    "sha256": "12f85f3b6294f113ab549152557007036e28599c817ef08a0322be3fb2b64a0d"
+  }
+}

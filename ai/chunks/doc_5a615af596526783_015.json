@@ -1,0 +1,24 @@
+{
+  "id": "doc_5a615af596526783:015",
+  "document_id": "doc_5a615af596526783",
+  "path": "wiki/characters/trineads/용기의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/용기의_트리네아드/index.md",
+  "title": "용기의 트리네아드",
+  "section": "관련 문서",
+  "summary": "용기의 트리네아드는 불멸의 보물에서 태어난 균형계 상위 신격이다. 그녀는 균형과 본능의 축에서 약자를 지키려는 직선적인 수호신이었으며, 아조트가 번 시간 속에서 아홉 지도자에게 나뉜 위상은 엑시온 체계의 기원이 되었다. 이후 용기는 창조계 방향의 경계인 용기의문을 세우며 인격을 잃고 불굴의 방벽에 잔향을 남겼다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5a615af596526783_015.json",
+  "text": "## 관련 문서\n\n- [트리네아드](../index.md) - 용기가 속한 균형계 트리네아드의 공통 기원과 계통.\n- [라케시스](../라케시스/index.md) - 용기와 절제의 희생을 지킨다는 부채감으로 세계를 조작하기 시작한 관찰자.\n- [절제의 트리네아드](../절제의_트리네아드/index.md) - 용기와 함께 세계 경계에 남은 미덕.\n- [엑시온](../../axions/index.md) - 용기의 힘과 위상이 나라의 지도자 권한으로 내려온 하위신 계열.\n- [하위신](../../../universe/laws/하위신.md) - 트리네아드 위상이 엑시온과 다른 존재층으로 번역되는 법칙.",
+  "metadata": {
+    "char_count": 336,
+    "sha256": "c4aa6b675f2532002848b9edc64ea29e796186c1436a5022b13538ab1b9e692e"
+  }
+}

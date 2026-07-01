@@ -1,0 +1,110 @@
+{
+  "id": "doc_d56b4e334a3680dd",
+  "path": "wiki/beings/phantasmas/레이어드_2등급_판타즈마.md",
+  "wiki_path": "beings/phantasmas/레이어드_2등급_판타즈마.md",
+  "title": "레이어드 2등급 판타즈마",
+  "summary": "부도, 추심, 한도, 시세를 중심으로 구성된 레이어드의 2등급 판타즈마군.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:phantasmas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "레이어드 2등급 판타즈마"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "위협 방식"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "외곽 개념"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    }
+  ],
+  "sha256": "4018c3204afe30fc4e38be8684c8ea3d0356a26bdfea271c71b385f9ed9518a4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d56b4e334a3680dd.json",
+  "chunks": [
+    {
+      "id": "doc_d56b4e334a3680dd:000",
+      "section": "레이어드 2등급 판타즈마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_000.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_001.json",
+      "char_count": 99
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_002.json",
+      "char_count": 81
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_003.json",
+      "char_count": 267
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:004",
+      "section": "위협 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_004.json",
+      "char_count": 290
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:005",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_005.json",
+      "char_count": 127
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:006",
+      "section": "외곽 개념",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_006.json",
+      "char_count": 76
+    },
+    {
+      "id": "doc_d56b4e334a3680dd:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d56b4e334a3680dd_007.json",
+      "char_count": 103
+    }
+  ]
+}

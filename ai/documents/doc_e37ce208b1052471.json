@@ -1,0 +1,226 @@
+{
+  "id": "doc_e37ce208b1052471",
+  "path": "wiki/beings/dragonkin/아홉_용.md",
+  "wiki_path": "beings/dragonkin/아홉_용.md",
+  "title": "아홉 용",
+  "summary": "아홉 용은 용왕의 권능이 자연의 공포와 경외를 입고 갈라진 1시대의 원본 용들이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "dragonkin",
+    "world-history"
+  ],
+  "updated": "2026-06-29",
+  "category": "beings:dragonkin",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아홉 용"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "용왕과 분열"
+    },
+    {
+      "level": 2,
+      "title": "원초 용과 후대 대응"
+    },
+    {
+      "level": 2,
+      "title": "용과 인간의 시대"
+    },
+    {
+      "level": 2,
+      "title": "용살과 오리진"
+    },
+    {
+      "level": 2,
+      "title": "후대 4등급 판타즈마와의 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아난케",
+      "target": "wiki/characters/historical/아난케.md"
+    },
+    {
+      "label": "4등급 판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "증오의 판타즈마",
+      "target": "wiki/beings/phantasmas/증오의_판타즈마.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "외면의 판타즈마",
+      "target": "wiki/beings/phantasmas/외면의_판타즈마.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "운명의 판타즈마",
+      "target": "wiki/beings/phantasmas/운명의_판타즈마.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "탐욕의 판타즈마",
+      "target": "wiki/beings/phantasmas/탐욕의_판타즈마.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "오만의 판타즈마",
+      "target": "wiki/beings/phantasmas/오만의_판타즈마.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "망상의 판타즈마",
+      "target": "wiki/beings/phantasmas/망상의_판타즈마.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "분노의 판타즈마",
+      "target": "wiki/beings/phantasmas/분노의_판타즈마.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "위선의 판타즈마",
+      "target": "wiki/beings/phantasmas/위선의_판타즈마.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    },
+    {
+      "label": "용인",
+      "target": "wiki/beings/dragonkin/용인.md"
+    },
+    {
+      "label": "용 계열",
+      "target": "wiki/beings/dragonkin/index.md"
+    },
+    {
+      "label": "용인",
+      "target": "wiki/beings/dragonkin/용인.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "오피온",
+      "target": "wiki/characters/ensemble/오피온/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    }
+  ],
+  "sha256": "2ce0b09c635cdf103cbb6eec0f76e8b81eb2a0bad25fe9ae56e3bf6e5985baf3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e37ce208b1052471.json",
+  "chunks": [
+    {
+      "id": "doc_e37ce208b1052471:000",
+      "section": "아홉 용",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_000.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_e37ce208b1052471:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_001.json",
+      "char_count": 398
+    },
+    {
+      "id": "doc_e37ce208b1052471:002",
+      "section": "용왕과 분열",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_002.json",
+      "char_count": 411
+    },
+    {
+      "id": "doc_e37ce208b1052471:003",
+      "section": "원초 용과 후대 대응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_003.json",
+      "char_count": 1376
+    },
+    {
+      "id": "doc_e37ce208b1052471:004",
+      "section": "용과 인간의 시대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_004.json",
+      "char_count": 352
+    },
+    {
+      "id": "doc_e37ce208b1052471:005",
+      "section": "용살과 오리진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_005.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_e37ce208b1052471:006",
+      "section": "후대 4등급 판타즈마와의 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_006.json",
+      "char_count": 351
+    },
+    {
+      "id": "doc_e37ce208b1052471:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e37ce208b1052471_007.json",
+      "char_count": 524
+    }
+  ]
+}

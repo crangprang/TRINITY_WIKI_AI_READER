@@ -1,0 +1,71 @@
+{
+  "id": "doc_acaaf1e3ed3d2505",
+  "path": "wiki/characters/trineads/라케시스/support/appearance.md",
+  "wiki_path": "characters/trineads/라케시스/support/appearance.md",
+  "title": "라케시스 외형",
+  "summary": "라케시스의 소피아 계승 외형, 흰빛 인상, 가면별 외형 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:trineads",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "라케시스 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "원형과 인상"
+    },
+    {
+      "level": 2,
+      "title": "가면별 얼굴"
+    }
+  ],
+  "links": [
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    }
+  ],
+  "sha256": "48fe1f31a486c9159e092cdf4159366c6e46d0d096743739b1df09f76b69b4ae",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_acaaf1e3ed3d2505.json",
+  "chunks": [
+    {
+      "id": "doc_acaaf1e3ed3d2505:000",
+      "section": "라케시스 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_acaaf1e3ed3d2505_000.json",
+      "char_count": 80
+    },
+    {
+      "id": "doc_acaaf1e3ed3d2505:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_acaaf1e3ed3d2505_001.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_acaaf1e3ed3d2505:002",
+      "section": "원형과 인상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_acaaf1e3ed3d2505_002.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_acaaf1e3ed3d2505:003",
+      "section": "가면별 얼굴",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_acaaf1e3ed3d2505_003.json",
+      "char_count": 205
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_5ebd5dd51acade03:002",
+  "document_id": "doc_5ebd5dd51acade03",
+  "path": "wiki/characters/savior_candidates/카스파르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/카스파르/support/appearance.md",
+  "title": "카스파르 외형",
+  "section": "현장 지휘자",
+  "summary": "카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_002.json",
+  "text": "## 현장 지휘자\n\n카스파르는 현장 지휘자로 보인다. 몸은 출발 전 장비와 사람 배치를 확인하는 위치에 선다. 눈은 가면과 장비를 지나 숲의 표식과 사냥단의 동선을 먼저 읽는다.\n\n의상의 중심은 야전 코트와 장비 벨트다. 흙, 긁힌 금속, 닳은 가죽, 여러 번 접힌 현장 지시서가 카스파르의 운영형 사냥꾼 인상을 만든다.",
+  "metadata": {
+    "char_count": 179,
+    "sha256": "8baada25e2dfaca1b3ae9bef11eb179c9811af27d5477e16cb0d4d0b867172e6"
+  }
+}

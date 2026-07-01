@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f9c8a892d4a5c365",
+  "path": "02_LORE/L07_JUSTICE/L07_CORE.txt",
+  "title": "L07_오르딜리아 / CORE",
+  "summary": "L07_오르딜리아 / CORE",
+  "root": "02_LORE",
+  "category": "02_LORE:L07_JUSTICE",
+  "suffix": ".txt",
+  "sha256": "062e1a78b76d258584f5501aed02f6aacae945cdee0fab264da6b5c9a957864b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f9c8a892d4a5c365.json",
+  "chunks": [
+    {
+      "id": "live_doc_f9c8a892d4a5c365:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f9c8a892d4a5c365_000.json",
+      "char_count": 2045
+    }
+  ]
+}

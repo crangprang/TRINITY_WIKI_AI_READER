@@ -1,0 +1,24 @@
+{
+  "id": "doc_3ef789818633e3db:004",
+  "document_id": "doc_3ef789818633e3db",
+  "path": "wiki/characters/main_party/아인/support/appearance.md",
+  "wiki_path": "characters/main_party/아인/support/appearance.md",
+  "title": "아인 외형",
+  "section": "끝칸의 죽은 말",
+  "summary": "아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_004.json",
+  "text": "## 끝칸의 죽은 말\n\n3층위 `끝칸의 죽은 말`에서는 코트, 스카프, 조끼, 손목시계, 가방, 손바닥 토큰, 부츠가 빠진다. 상체에는 먼지 낀 회베이지 리넨 셔츠만 헐겁게 남고, 하의는 어두운 여행 바지를 유지하며, 발은 맨발이다.\n\n스카프에 가려지던 캐릭터 기준 왼쪽 목에는 작은 검은 실험체 바코드가 드러난다. 이 표식은 피부에 직접 찍힌 단순한 세로 막대 흔적이다. 손목 카운트다운은 과시되지 않는다. 한 손이 반대쪽 안쪽 손목을 강하게 붙잡아 카운트다운 자리를 가리고, 몸은 서 있기 힘겨운 듯 안쪽으로 무너진다.\n\n이 층위의 표정은 수치심과 반발을 이를 악물고 붙드는 얼굴이다. 병약함의 장식을 앞세우지 않고 폐기장 판정과 보호 대상으로 밀리는 공포가 먼저 읽힌다.",
+  "metadata": {
+    "char_count": 378,
+    "sha256": "67c632a66d57ba66976a3db6a219dfa41c443a3e5d7a4bda6472ce0a9abe289e"
+  }
+}

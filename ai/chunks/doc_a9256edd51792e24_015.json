@@ -1,0 +1,24 @@
+{
+  "id": "doc_a9256edd51792e24:015",
+  "document_id": "doc_a9256edd51792e24",
+  "path": "wiki/characters/trineads/자연의_트리네아드/index.md",
+  "wiki_path": "characters/trineads/자연의_트리네아드/index.md",
+  "title": "자연의 트리네아드",
+  "section": "관련 문서",
+  "summary": "자연의 트리네아드는 창조계에서 환경, 계절, 재해, 산출과 소모의 균형을 굴리는 시스템 관리자다. 그녀는 감독의 비극 무대가 오래 지속되도록 지형과 순환을 깔고, 4등급 판타즈마를 세계의 노폐물을 뒤집는 거대한 태풍처럼 읽는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character",
+    "trinead"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9256edd51792e24_015.json",
+  "text": "## 관련 문서\n\n- [트리네아드](../index.md) - 자연이 속한 창조계 트리네아드의 공통 기원과 계통.\n- [감독](../감독/index.md) - 자연이 보좌하는 창조계 총책임자와 그랜드 디자인의 설계자.\n- [생명의 트리네아드](../생명의_트리네아드/index.md) - 자연의 환경층과 함께 창조물의 몸과 생태를 맡는 자매.\n- [판타즈마](../../../beings/phantasmas/index.md) - 자연의 순환 압력이 괴생태와 재난의 몸으로 드러나는 존재 축.",
+  "metadata": {
+    "char_count": 274,
+    "sha256": "52d432b31306479f62321cc895bffdfc3fddcd3e89636adb50b3c07fda3f40ef"
+  }
+}

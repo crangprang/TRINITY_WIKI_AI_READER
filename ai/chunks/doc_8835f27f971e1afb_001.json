@@ -1,0 +1,24 @@
+{
+  "id": "doc_8835f27f971e1afb:001",
+  "document_id": "doc_8835f27f971e1afb",
+  "path": "wiki/characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md",
+  "wiki_path": "characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md",
+  "title": "니그리스 알비우스 시트리노 외형",
+  "section": "외형 기준",
+  "summary": "니그리스 알비우스 시트리노의 계약자 육체, 후드, 재, 불씨 눈빛, 불지기 실루엣을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8835f27f971e1afb_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 신체 고정성 | 고정 육체 없음, 계약자의 몸을 빌려 활동 |\n| 공통 인상 | 후드, 재, 건조한 분위기, 오래 탄 불씨 같은 눈빛 |\n| 실루엣 | 낡은 망토와 두건, 실용 장비, 오래 이동한 은둔자 |\n| 손 | 불빛을 오래 쬔 거친 손, 연성과 생존 도구를 다룬 흔적 |\n| 의상 | 오래된 망토, 두건, 현장 장비, 단정한 낡음 |\n| 자세 | 한 발 물러선 관찰자, 필요할 때만 앞으로 나오는 보호자 |\n| 팔레트/질감 | 재색, 검은 숯, 오래된 천, 마른 가죽, 낮은 불빛 |",
+  "metadata": {
+    "char_count": 308,
+    "sha256": "0cd2598f9b98fdb2377dcb180b360233771408d49bcc02ed4e26f20513064b93"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:243",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rename | 마사오트 조우 실패와 알렉시아 기록 추적",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_243.json",
+  "text": "## [2026-06-26] rename | 마사오트 조우 실패와 알렉시아 기록 추적\n\n[탐험국 미스와 진리국 재라우팅](events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md)을 실제 사건명 중심의 [마사오트 조우 실패와 알렉시아 기록 추적](events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md)으로 리네임했다.\n\n- 정리: 아홉 나라의 시대, 줄거리, 에레모스, 메인 파티의 관련 문구와 링크를 새 사건명 기준으로 맞췄다.\n- 병합: 이전 경로와 패키지식 접근명은 `_aliases.json`에서 새 사건 항목으로 흡수했다.\n- 관계: `_relations.json`의 사건 노드와 링크 출처명을 새 제목과 파일 경로로 동기화했다.",
+  "metadata": {
+    "char_count": 401,
+    "sha256": "84f94e22bd79ff5bfc151ff9f9ee89736a4c4bd4345ff877ae33f3eae7e6991c"
+  }
+}

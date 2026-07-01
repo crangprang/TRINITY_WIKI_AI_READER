@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:015",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "흥정판",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_015.json",
+  "text": "### 흥정판\n\n계산서가 한쪽으로 몰리면 진은 바로 끼어든다. 공짜, 봉, 손해, 정산이라는 단어가 먼저 나오고, 농담은 그 뒤에 붙는다.",
+  "metadata": {
+    "char_count": 77,
+    "sha256": "0d2ad7a08348f711808ce27106a176584691cd30fd52ee04d82b2fad67746187"
+  }
+}

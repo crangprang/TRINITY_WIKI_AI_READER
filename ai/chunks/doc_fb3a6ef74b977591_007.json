@@ -1,0 +1,23 @@
+{
+  "id": "doc_fb3a6ef74b977591:007",
+  "document_id": "doc_fb3a6ef74b977591",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md",
+  "title": "마사오트 조우 실패와 알렉시아 기록 추적",
+  "section": "관련 문서",
+  "summary": "아인이 위조 유령 의뢰로 반응선을 되던지고, 스트레인저와 라케의 개입을 거친 뒤 마사오트 조우가 실패하면서 알렉시아 기록 추적으로 방향을 바꾸는 에피소드.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb3a6ef74b977591_007.json",
+  "text": "## 관련 문서\n\n- [파티](../../../../characters/main_party/파티/index.md) - 위조 의뢰 제작, 추적, 루트 전환을 함께 수행하는 초반 공조 집단.\n- [아인](../../../../characters/main_party/아인/index.md) - 위조 의뢰를 던지고 마사오트 실패 뒤 알렉시아로 선회하는 판단 주체.\n- [마사오트](../../../../universe/realms/balance/nations/마사오트.md) - 파티가 눈앞에서 놓치는 능동 탐색 루트.\n- [에레모스](../../../../universe/realms/balance/nations/에레모스.md) - 스트레인저, 불편지, 이단 밀고, 봉쇄가 반응선을 만드는 바깥 권역.\n- [블랑](../../../../characters/main_party/블랑/index.md) - 위조 의뢰 제작과 추적 과정에 섬세함을 보태는 파티 구성원.\n- [알렉시아](../../../../universe/realms/balance/nations/알렉시아.md) - 마사오트 조우 실패 뒤 선택되는 기록 추적지.\n- [라케시스](../../../../characters/trineads/라케시스/index.md) - 라케 가면으로 거래, 증거 회수, 방향 전환에 관여하는 조작자.",
+  "metadata": {
+    "char_count": 663,
+    "sha256": "84fbcb44bd97838a82f6db2d9efcca29d3ada3397b53347d0686c203c09a93d2"
+  }
+}

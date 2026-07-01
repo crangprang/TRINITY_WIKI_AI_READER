@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:296",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 국가 항목 시간 대비문 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_296.json",
+  "text": "## [2026-06-26] style | 국가 항목 시간 대비문 정리\n\n아홉 나라 항목의 `현재의`식 하위 표제를 사냥과 생존의 질서, 질문과 벌레의 질서, 유랑 국가의 질서, 신용과 계약의 질서, 복제된 자유처럼 항목형 표제로 바꿨다. 필로시온 기능 설명의 `본래/지금` 대비문은 장치 안에서 비틀린 정본 서술로 다시 썼다.",
+  "metadata": {
+    "char_count": 183,
+    "sha256": "179b2661d77fcf7126fea4798fd26d4a6d8fda85dcabdd76de800c994bce8fd3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_f393bc73e56329a4:009",
+  "document_id": "doc_f393bc73e56329a4",
+  "path": "wiki/review/worldbuilding_development_todo.md",
+  "wiki_path": "review/worldbuilding_development_todo.md",
+  "title": "세계관 개발 TODO",
+  "section": "잔여 핸드오프 ingest: 아홉 나라 명명 체계",
+  "summary": "기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "todo",
+    "worldbuilding"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f393bc73e56329a4_009.json",
+  "text": "### 잔여 핸드오프 ingest: 아홉 나라 명명 체계\n\n- [x] `TRINITY_아홉나라_명명체계_HANDOFF.txt`의 비극층, 신화층, 문명층, 서사층 구분을 현재 WIKI 정본명 기준으로 [균형계 언어](../universe/realms/balance/language/index.md)에 반영한다.\n- [x] 교체 전 국가명과 아포라투스명, 탈락 후보명은 독자용 본문에 보존하지 않고, 현재 WIKI의 마사오트, 카타바시스, 엑소도스, 페리아크토이, 아나그노리시스, 페리페테이아 기준을 유지한다.\n- [x] [사용자 잠금](user_locks.md)에 교체 전 명칭을 사용자 명시 없이 별칭이나 판단 선택지로 남기지 않는 운영 기준을 추가한다.\n- [x] 기능조직의 대외명과 현지명은 같은 층위 별칭이 아니라 역할이 다른 이름일 때만 개별 국가 문서에서 검토한다. 평화 기능조직은 `필그림즈`, 진리 기능조직은 `인퀴지터`로 정본화했다. 마사오트 `탐험가 길드`와 캘리번 `우니오네 지부장`은 충돌하지 않으며, 마스크맨은 전설 사냥단과 계약 사냥단이 같은 기능조직명으로 이어진다. 유랑 서커스, 그레트헨 연구소, 아웃로는 기능조직명으로 둔다.\n- [x] 대륙 위탁 조직 범주는 [균형계 조직](../universe/realms/balance/organizations/index.md)의 기능조직으로 통일하고, 아홉 기능조직을 독립 문서로 분리했다.\n- [x] 삼위정교 공인 조직, 이레귤러 헌터, 이단 세력 여섯 축은 [균형계 조직](../universe/realms/balance/organizations/index.md) 아래 독립 항목과 색인으로 정리했다.\n- [x] 각 나라의 왕관, 수도, 하층, 3강 이름은 현재 WIKI 본문과 대조했다. 염한, 레이어드, 마사오트, 알렉시아, 오르딜리아, 오아시스, 우니오네, 파라디소, 플라센티아의 현재 본문 슬롯을 우선하고, 파라디소 상부 내핵은 [균형계 언어](../universe/realms/balance/language/index.md)의 잔존 충돌을 `엠포리오`로 보정했다. 이후 세부 지명 추가나 3강 재해석은 개별 국가 리뉴얼 범위에서만 다룬다.\n- [x] 기능조직 표와 구세주 후보 표는 현재 WIKI 캐릭터 문서를 우선해 대조하고, 후보 대문과 개별 후보 정보표를 기능조직 독립 문서로 연결했다.",
+  "metadata": {
+    "char_count": 1161,
+    "sha256": "cee20d2d55661224656284e4e3c0389119b3273007bb2388c0a1ed60c41a5767"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:223",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 진 캐릭터 패키지 분기",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_223.json",
+  "text": "## [2026-06-26] rebuild | 진 캐릭터 패키지 분기\n\n[진](characters/main_party/진/index.md)의 본문, 외형, 말투 지원 문서를 캐릭터 패키지 구조로 정리했다.\n\n- 정리: 본문은 사라, 워크맨, 저당잡힌 이름, 약속 저주, 적응, 동기화, 관계를 담당하게 하고 말투와 지원 운용은 [진 / 말투](characters/main_party/진/support/voice.md), [진 / 외형](characters/main_party/진/support/appearance.md)으로 분기했다.\n- 문체: 번호형 하위 제목, 장기 운영 문구, 출처형 경로, 금지형 목록을 제거하고 선언형 위키 항목으로 바꿨다.\n- 관계: 블랑, 스칼렛, 세레나, 단테, 아인, 길티어, 마이더스, 레이어드를 진의 거래, 약속, 내일, 워크맨 구조와 연결했다.",
+  "metadata": {
+    "char_count": 437,
+    "sha256": "831f2a2d862b3c96d6e7328fef24928b366a5289a4a74a8855f3eede144d0e50"
+  }
+}

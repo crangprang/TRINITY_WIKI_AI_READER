@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:056",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] trinead | 죽음의 트리네아드 LIVE WC 상세화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_056.json",
+  "text": "## [2026-06-28] trinead | 죽음의 트리네아드 LIVE WC 상세화\n\n[죽음의 트리네아드](characters/trineads/죽음의_트리네아드/index.md)를 LIVE WC 파괴계 트리네아드/펠시온 claim과 대조했다. 죽음은 `파괴 X 이성` 축으로 두고, 죽음 군단이 정복·기근·역병의 세 집행 얼굴로 파괴계 서열을 수행하는 구조를 보강했다.\n\nLIVE의 파괴계 침투 경계 설명은 현재 WIKI의 용기의문·절제의문 구조를 우선해 해석했다. 죽음의 직접 침투 제한과 펠시온·균열·절제의문·침공 계획을 통한 우회 구조는 기존 본문을 유지하며 문체만 보정했다.",
+  "metadata": {
+    "char_count": 326,
+    "sha256": "92cf825ec2e13ef2c974b65e0c8c2ec38a54666f34f4b3ad1fdcacb0db72b3b1"
+  }
+}

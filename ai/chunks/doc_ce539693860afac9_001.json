@@ -1,0 +1,24 @@
+{
+  "id": "doc_ce539693860afac9:001",
+  "document_id": "doc_ce539693860afac9",
+  "path": "wiki/characters/axions/엘피스/support/appearance.md",
+  "wiki_path": "characters/axions/엘피스/support/appearance.md",
+  "title": "엘피스 외형",
+  "section": "외형 기준",
+  "summary": "엘피스의 청색 머리와 회색 눈, 피로한 관리자 실루엣, 작은 촛불과 질문 기록, 푸른 제어광을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ce539693860afac9_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 젊은 성인. 유아형 비율과 소녀형 체구를 피한다. |\n| 실루엣 | 서 있는 인물. 작은 희망의 표지를 품은 관리자형 실루엣. |\n| 머리색 | 청색 |\n| 눈색 | 회색 |\n| 의상 | 차갑고 피로한 관리자처럼 보이는 절제된 의상 |\n| 소품 | 작은 촛불, 질문 기록, 검은 석판의 잔향, 푸른 제어광 |\n| 배경 | 지하 기록도시, 촛불, 사슬 달린 책장, 색인 고리 |\n| 표정/자세 | 작은 촛불을 보호하면서도 움츠러들지 않는 선 자세 |",
+  "metadata": {
+    "char_count": 308,
+    "sha256": "9144410bef312c970026536778bebe997583442de1df135345a0895f46dc2d7f"
+  }
+}

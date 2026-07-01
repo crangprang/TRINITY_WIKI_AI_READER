@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:335",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] ingest | 가인 외형 시기별 기준 확장",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_335.json",
+  "text": "## [2026-06-27] ingest | 가인 외형 시기별 기준 확장\n\n`염한_가인_외형_가면_시기별_핸드오프.md`를 대조해 [가인 외형](characters/axions/가인/support/appearance.md)에 공통 디자인 원칙, 현재 여제, 어린 가인, 황녀 가인, 즉위 순간, 특이점 외형 기준을 확장했다. 장문 이미지 프롬프트는 본문으로 옮기지 않고 시각 기준과 금지선만 남겼다.",
+  "metadata": {
+    "char_count": 223,
+    "sha256": "36357f3f1400793cb548b6969165b6df71a1bba091c298ffb86643735a55902a"
+  }
+}

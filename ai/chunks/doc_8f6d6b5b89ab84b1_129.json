@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:129",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 기만의 펠시온 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_129.json",
+  "text": "## [2026-06-26] rebuild | 기만의 펠시온 항목 정리\n\n[기만의 펠시온](characters/fellsions/기만의_펠시온/index.md)의 중복 개요와 `기본 정보` 표면을 인물 기사 구조로 정리했다.\n\n- 정리: 정체와 역할, 공허와 생존 전쟁, 사냥 철칙, 변환자재 마니아, 훔친 기술, 사냥 절차, 안나와 본모습, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 외형: [기만의 펠시온 외형](characters/fellsions/기만의_펠시온/support/appearance.md)의 관리 문구와 번호형 항목을 제거하고 안나 위장, 그림자형 덫 사냥꾼 본모습, 거미 백골 가면, 실과 정신 독 중심으로 다시 세웠다.\n- 색인: 펠시온 색인의 기만의 펠시온 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 403,
+    "sha256": "7cc281e8af9243650ce3055d479c50efb17858ed16c7c793451dccf47a3fbc5f"
+  }
+}

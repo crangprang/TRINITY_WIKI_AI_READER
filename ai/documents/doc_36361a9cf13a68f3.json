@@ -1,0 +1,146 @@
+{
+  "id": "doc_36361a9cf13a68f3",
+  "path": "wiki/characters/historical/아난케.md",
+  "wiki_path": "characters/historical/아난케.md",
+  "title": "아난케",
+  "summary": "아난케는 필연의 물레 아트락토스를 돌려 우주를 짜던 창조주이며, 풀림과 끊김 사이의 장력 딜레마 끝에 마지막 우주를 남긴 방직공이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "characters",
+    "historical",
+    "world-history"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:historical",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아난케"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "장력 딜레마"
+    },
+    {
+      "level": 2,
+      "title": "침묵과 마지막 우주"
+    },
+    {
+      "level": 2,
+      "title": "오리진과 용왕"
+    },
+    {
+      "level": 2,
+      "title": "에마나치온 이후의 통찰"
+    },
+    {
+      "level": 2,
+      "title": "후대 이름 사용"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "아조트",
+      "target": "wiki/universe/structure/아조트.md"
+    },
+    {
+      "label": "아홉 용",
+      "target": "wiki/beings/dragonkin/아홉_용.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    }
+  ],
+  "sha256": "b8cde6b5f8dfeaf70f541fb496b144f11b90d423d28f9aa9fa54ecff84b0b016",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_36361a9cf13a68f3.json",
+  "chunks": [
+    {
+      "id": "doc_36361a9cf13a68f3:000",
+      "section": "아난케",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_000.json",
+      "char_count": 185
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_001.json",
+      "char_count": 355
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:002",
+      "section": "장력 딜레마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_002.json",
+      "char_count": 324
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:003",
+      "section": "침묵과 마지막 우주",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_003.json",
+      "char_count": 299
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:004",
+      "section": "오리진과 용왕",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_004.json",
+      "char_count": 331
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:005",
+      "section": "에마나치온 이후의 통찰",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_005.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:006",
+      "section": "후대 이름 사용",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_006.json",
+      "char_count": 158
+    },
+    {
+      "id": "doc_36361a9cf13a68f3:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_36361a9cf13a68f3_007.json",
+      "char_count": 569
+    }
+  ]
+}

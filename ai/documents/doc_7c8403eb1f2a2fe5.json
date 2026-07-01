@@ -1,0 +1,189 @@
+{
+  "id": "doc_7c8403eb1f2a2fe5",
+  "path": "wiki/characters/personas/index.md",
+  "wiki_path": "characters/personas/index.md",
+  "title": "페르소나",
+  "summary": "페르소나는 아홉 아타노르 잔재, 보물, 프로토타입 필로시온이 합성되어 태어난 장치 심층 관리자 의식이자 표층 대변자 인격이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "personas",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "category": "characters:personas",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "페르소나"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "재조립 재료"
+    },
+    {
+      "level": 2,
+      "title": "심층과 표층"
+    },
+    {
+      "level": 2,
+      "title": "공개 표면과 인지 조건"
+    },
+    {
+      "level": 2,
+      "title": "엑시온과 신앙"
+    },
+    {
+      "level": 2,
+      "title": "관리자 의식과 대변자"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "황 노인",
+      "target": "wiki/characters/personas/황_노인/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "에어리얼",
+      "target": "wiki/characters/personas/에어리얼/index.md"
+    },
+    {
+      "label": "카론",
+      "target": "wiki/characters/personas/카론/index.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    },
+    {
+      "label": "탈레스",
+      "target": "wiki/characters/personas/탈레스/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "투르키나",
+      "target": "wiki/characters/personas/투르키나/index.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "신격과 신적 권위",
+      "target": "wiki/universe/laws/신격과_신적_권위.md"
+    },
+    {
+      "label": "필로시온",
+      "target": "wiki/universe/laws/필로시온.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    }
+  ],
+  "sha256": "05ff8aaba8d638c5970f6f2e8064bef90c5b5efc88aa0dce001f03be9c54f357",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7c8403eb1f2a2fe5.json",
+  "chunks": [
+    {
+      "id": "doc_7c8403eb1f2a2fe5:000",
+      "section": "페르소나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_000.json",
+      "char_count": 326
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_001.json",
+      "char_count": 598
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:002",
+      "section": "재조립 재료",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_002.json",
+      "char_count": 572
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:003",
+      "section": "심층과 표층",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_003.json",
+      "char_count": 268
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:004",
+      "section": "공개 표면과 인지 조건",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_004.json",
+      "char_count": 502
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:005",
+      "section": "엑시온과 신앙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_005.json",
+      "char_count": 363
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:006",
+      "section": "관리자 의식과 대변자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_006.json",
+      "char_count": 292
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:007",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_007.json",
+      "char_count": 852
+    },
+    {
+      "id": "doc_7c8403eb1f2a2fe5:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7c8403eb1f2a2fe5_008.json",
+      "char_count": 562
+    }
+  ]
+}

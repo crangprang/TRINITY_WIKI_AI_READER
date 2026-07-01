@@ -1,0 +1,24 @@
+{
+  "id": "doc_ebf8e0cfd0427a7b:002",
+  "document_id": "doc_ebf8e0cfd0427a7b",
+  "path": "wiki/universe/realms/balance/organizations/이레귤러_헌터.md",
+  "wiki_path": "universe/realms/balance/organizations/이레귤러_헌터.md",
+  "title": "이레귤러 헌터",
+  "section": "세 공인 조직의 운용",
+  "summary": "이레귤러 헌터는 정교가 저주 보유자에게 열어 둔 속죄 통로처럼 선전하는 공개 소모품 제도이며, 실제로는 이레귤러가 다른 이레귤러를 추적하게 만드는 현장 장치다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_system"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ebf8e0cfd0427a7b_002.json",
+  "text": "## 세 공인 조직의 운용\n\n구세군은 이레귤러 헌터의 현장 운용과 무력 투입을 맡는다. 위험 지역 진입, 추적선 확보, 충돌 시 제압은 구세군의 현장 명령과 연결된다.\n\n파르마콘은 저주 상태의 관리와 등급화, 처치 가능성 판정을 맡는다. 누가 헌터로 굴러 들어갈 수 있는지, 누가 격리나 폐기 대상인지, 누가 선전용 복권 사례가 될 수 있는지 파르마콘의 판정이 길을 연다.\n\n크로니클은 복무 기록과 선전, 복권 성공담을 만든다. 완전 복권자는 실제 제도 성과보다 선전용 이야기로 쓰이기 쉽고, 사망자의 미화, 생존자 조각의 합성, 기록에서 사라진 사람의 귀환 포장이 함께 붙는다.",
+  "metadata": {
+    "char_count": 324,
+    "sha256": "60efba2119b17812e101d34dac6e90fb8a86dec3e3b58663d05343cb761e60c1"
+  }
+}

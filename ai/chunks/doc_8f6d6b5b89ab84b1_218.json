@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:218",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] visual lock | 아인 3층위 목 바코드와 손목 은폐 기준 반영",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_218.json",
+  "text": "## [2026-06-26] visual lock | 아인 3층위 목 바코드와 손목 은폐 기준 반영\n\n아인 3층위 `끝칸의 죽은 말`의 전신 앵커를 코트, 스카프, 조끼, 시계, 가방, 토큰, 부츠가 빠진 상태로 정리하고, 왼쪽 목의 실험체 바코드와 손목 카운트다운 은폐 자세를 외형 잠금에 추가했다.\n\n- 반영: [아인](characters/main_party/아인/index.md)\n- 주요 판단: 3층위는 카운트다운을 과시하는 컷이 아니라, 서 있기 힘든 몸으로 반대쪽 안쪽 손목을 강하게 붙잡아 카운트다운 자리를 가리는 컷이다. 스카프로 가려져 있던 캐릭터 기준 왼쪽 목의 작은 검은 바코드는 실험체 흔적이어야 하며, 사이버펑크 문신이나 읽을 수 있는 일련번호처럼 커지면 안 된다.",
+  "metadata": {
+    "char_count": 385,
+    "sha256": "30b22331ff1615d8e96bca7771e490dbefa02e3430ee63f6d57268e1834c0e57"
+  }
+}

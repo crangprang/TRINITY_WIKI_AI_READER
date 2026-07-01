@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_83bcd6579ef7c5cf:002",
+  "document_id": "live_doc_83bcd6579ef7c5cf",
+  "path": "05_PLOT_AND_SCENE/01_PLOT_AND_SCENE_README.txt",
+  "title": "05_PLOT_AND_SCENE",
+  "section": "Reading Order",
+  "summary": "`05_PLOT_AND_SCENE` is the live surface for plot order, episode flow, and scene beats.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:01_PLOT_AND_SCENE_README.txt",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_83bcd6579ef7c5cf_002.json",
+  "text": "## Reading Order\n\n1. `GOAL.txt`\n2. `AGENTS.md`\n3. this root guide\n4. the active part guide, such as `PART1_NINE_NATIONS_ERA/PART1_README.txt`\n5. the live chapter, episode, and template files",
+  "metadata": {
+    "char_count": 190,
+    "sha256": "7f05df1125fd9e4a0649c9e87431010ebd65d1abf767339d6f97f0a30b1a2275"
+  }
+}

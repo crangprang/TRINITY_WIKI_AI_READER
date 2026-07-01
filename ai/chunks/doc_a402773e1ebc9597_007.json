@@ -1,0 +1,24 @@
+{
+  "id": "doc_a402773e1ebc9597:007",
+  "document_id": "doc_a402773e1ebc9597",
+  "path": "wiki/characters/main_party/진/support/appearance.md",
+  "wiki_path": "characters/main_party/진/support/appearance.md",
+  "title": "진 외형",
+  "section": "관련 문서",
+  "summary": "진의 더티 블론드, 바랜 선글라스, 구겨진 현장복, 워크맨과 카세트, 먼저 움직이는 발끝을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a402773e1ebc9597_007.json",
+  "text": "## 관련 문서\n\n- [진](../index.md) - 거래의 나라 해결사, 사라의 워크맨, 외상달린 영수증이 외형의 생활감을 이루는 인물.\n- [진 보이스](voice.md) - 소란, 정산, 워크맨 리듬이 말투와 관계별 어조로 드러나는 보이스 항목.\n- [진 음악](music.md) - 워크맨과 빌려 피운 번갯불이 장르 변주와 전투 박자로 이어지는 음악 항목.",
+  "metadata": {
+    "char_count": 204,
+    "sha256": "c936b576cb6a50685fa642b13b76f77dfc33b1049c7f11777562e145afc0dc30"
+  }
+}

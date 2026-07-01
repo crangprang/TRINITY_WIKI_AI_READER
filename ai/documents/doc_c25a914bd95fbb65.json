@@ -1,0 +1,113 @@
+{
+  "id": "doc_c25a914bd95fbb65",
+  "path": "wiki/characters/axions/파우스트/support/appearance.md",
+  "wiki_path": "characters/axions/파우스트/support/appearance.md",
+  "title": "파우스트 외형",
+  "summary": "파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:axions",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "파우스트 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "왕의 실루엣"
+    },
+    {
+      "level": 2,
+      "title": "데스마스크와 열린 왕관"
+    },
+    {
+      "level": 2,
+      "title": "모래 출력과 물 배급"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "메피스토",
+      "target": "wiki/characters/personas/메피스토/index.md"
+    }
+  ],
+  "sha256": "9e812e37704b22023105d163a00e111e630f6fab749dc540908ac4b98576d5d7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c25a914bd95fbb65.json",
+  "chunks": [
+    {
+      "id": "doc_c25a914bd95fbb65:000",
+      "section": "파우스트 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_000.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_c25a914bd95fbb65:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_001.json",
+      "char_count": 355
+    },
+    {
+      "id": "doc_c25a914bd95fbb65:002",
+      "section": "왕의 실루엣",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_002.json",
+      "char_count": 209
+    },
+    {
+      "id": "doc_c25a914bd95fbb65:003",
+      "section": "데스마스크와 열린 왕관",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_003.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_c25a914bd95fbb65:004",
+      "section": "모래 출력과 물 배급",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_004.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_c25a914bd95fbb65:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_005.json",
+      "char_count": 172
+    },
+    {
+      "id": "doc_c25a914bd95fbb65:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_006.json",
+      "char_count": 229
+    }
+  ]
+}

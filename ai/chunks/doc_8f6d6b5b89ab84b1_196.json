@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:196",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-14] capture | 캐릭터 음악 키워드 / 명사 물성",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_196.json",
+  "text": "## [2026-06-14] capture | 캐릭터 음악 키워드 / 명사 물성\n\nSOUND 보컬 테마 작업 중 정리된 P01 아인과 P07 단테의 음악 해석 메모를 WIKI-first 주제 문서로 추가했다.\n\n- 색인: 음악 키워드 / 명사 물성\n- 아인: [P01 아인 / 음악 키워드와 명사 물성](characters/main_party/아인/support/music.md)\n- 단테: [P07 단테 / 음악 키워드와 명사 물성](characters/main_party/단테/support/music.md)\n- 상태: `pending_review`\n- LIVE CANON 원문은 수정하지 않았다.",
+  "metadata": {
+    "char_count": 336,
+    "sha256": "f7bc6f0464638fcc32dff208b2e37fc5a2c6851ce80a72c7a6d9b82a8e0102b7"
+  }
+}

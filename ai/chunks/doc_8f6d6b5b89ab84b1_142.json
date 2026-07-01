@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:142",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 트리네아드 외형 support 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_142.json",
+  "text": "## [2026-06-26] maintenance | 트리네아드 외형 support 정리\n\n트리네아드 support 문서에 섞여 있던 설정 해석 단락을 총론으로 옮기고, 외형 support를 외형 기준 전용 문서로 정리했다.\n\n- 병합: [트리네아드](characters/trineads/index.md)에 정보 불균형, 하마르티아와 에르 항목을 추가했다.\n- 정리: [트리네아드 외형](characters/trineads/index.md#외형-원리), [감독 외형](characters/trineads/감독/support/appearance.md), [라케시스 외형](characters/trineads/라케시스/support/appearance.md), [에르고 외형](characters/trineads/에르고/support/appearance.md)의 번호형 표면과 지시형 표면을 제거했다.\n- 문체: [감독](characters/trineads/감독/index.md)에 남은 비교형 문장을 선언형으로 정리했다.\n- 기준: support는 외형 원리와 시각 운용을 맡고, 세계 해석과 관계 원리는 본문 총론이 맡는다.",
+  "metadata": {
+    "char_count": 573,
+    "sha256": "d05cb2883197e472c70711a9ebf3d0d53d332a896e34c59fc259d4c1e947b9c5"
+  }
+}

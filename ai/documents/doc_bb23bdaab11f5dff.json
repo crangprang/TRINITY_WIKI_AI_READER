@@ -1,0 +1,261 @@
+{
+  "id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "단테 보이스"
+    },
+    {
+      "level": 2,
+      "title": "기본 톤"
+    },
+    {
+      "level": 2,
+      "title": "층위별 발화"
+    },
+    {
+      "level": 3,
+      "title": "일확천금의 현지 가이드"
+    },
+    {
+      "level": 3,
+      "title": "이겨 버린 패배자"
+    },
+    {
+      "level": 3,
+      "title": "한 사람 앞의 칼"
+    },
+    {
+      "level": 3,
+      "title": "순례자와 마지막 질문"
+    },
+    {
+      "level": 2,
+      "title": "관계별 어조"
+    },
+    {
+      "level": 3,
+      "title": "세레나"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "아인"
+    },
+    {
+      "level": 3,
+      "title": "루시아"
+    },
+    {
+      "level": 3,
+      "title": "권위와 다수의 시선"
+    },
+    {
+      "level": 2,
+      "title": "상황별 발화"
+    },
+    {
+      "level": 3,
+      "title": "낯선 골목 안내"
+    },
+    {
+      "level": 3,
+      "title": "공개 칭찬"
+    },
+    {
+      "level": 3,
+      "title": "더러운 선택"
+    },
+    {
+      "level": 3,
+      "title": "결투 구도"
+    },
+    {
+      "level": 3,
+      "title": "별과 마지막 질문"
+    },
+    {
+      "level": 2,
+      "title": "위기 발화"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "단테 외형",
+      "target": "wiki/characters/main_party/단테/support/appearance.md"
+    },
+    {
+      "label": "단테 음악",
+      "target": "wiki/characters/main_party/단테/support/music.md"
+    }
+  ],
+  "sha256": "b35286686db17d2fde001069741f396614a79e76285c207a98462bbc8f0ed8da",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bb23bdaab11f5dff.json",
+  "chunks": [
+    {
+      "id": "doc_bb23bdaab11f5dff:000",
+      "section": "단테 보이스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_000.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:001",
+      "section": "기본 톤",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_001.json",
+      "char_count": 364
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:002",
+      "section": "층위별 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_002.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:003",
+      "section": "일확천금의 현지 가이드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_003.json",
+      "char_count": 290
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:004",
+      "section": "이겨 버린 패배자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_004.json",
+      "char_count": 257
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:005",
+      "section": "한 사람 앞의 칼",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_005.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:006",
+      "section": "순례자와 마지막 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_006.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:007",
+      "section": "관계별 어조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_007.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:008",
+      "section": "세레나",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_008.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:009",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_009.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:010",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_010.json",
+      "char_count": 196
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:011",
+      "section": "루시아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_011.json",
+      "char_count": 174
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:012",
+      "section": "권위와 다수의 시선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_012.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:013",
+      "section": "상황별 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_013.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:014",
+      "section": "낯선 골목 안내",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_014.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:015",
+      "section": "공개 칭찬",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_015.json",
+      "char_count": 106
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:016",
+      "section": "더러운 선택",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_016.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:017",
+      "section": "결투 구도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_017.json",
+      "char_count": 115
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:018",
+      "section": "별과 마지막 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_018.json",
+      "char_count": 102
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:019",
+      "section": "위기 발화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_019.json",
+      "char_count": 173
+    },
+    {
+      "id": "doc_bb23bdaab11f5dff:020",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_020.json",
+      "char_count": 210
+    }
+  ]
+}

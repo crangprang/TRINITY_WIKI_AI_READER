@@ -1,0 +1,24 @@
+{
+  "id": "doc_b2acc8e62f50d057:001",
+  "document_id": "doc_b2acc8e62f50d057",
+  "path": "wiki/characters/personas/카론/support/appearance.md",
+  "wiki_path": "characters/personas/카론/support/appearance.md",
+  "title": "카론 외형",
+  "section": "외형 기준",
+  "summary": "카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성형 표면 / 여성형 사라 아바타 표면 |\n| 나이 | 20대 중반 |\n| 실루엣 | 젊은 전당포 채권자이자 문턱 안내자. 카운터 뒤에 정중히 서고, 악마처럼 값을 매긴다. |\n| 의상 | 비에 젖은 어두운 코트, 장갑, 카운터 뒤의 단정한 실루엣 |\n| 가면 | 검은 법랑 또는 젖은 흑금속 전당표 봉인 가면 |\n| 소품 | 장부, 계약 봉인, 담보 불꽃, 크레딧 빛, 검은 잔, 긴 바 스푼, 담보 갈고리 |\n| 배경 | 레이어드/카타바시스의 문턱 카운터, 전당포와 바가 겹친 내부, 검은 물 반사, 비 오는 수직 도시의 낮은 불빛 |\n| 표정/자세 | 금빛 입 틈과 정중한 손짓으로 읽힌다. 담보 불꽃이나 장부를 조용히 받아 자격을 계산하는 자세. |",
+  "metadata": {
+    "char_count": 414,
+    "sha256": "4624b0581d019080bb4343aac121560809b8dceb5f0e58aa5479e0766d5fd1fe"
+  }
+}

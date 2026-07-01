@@ -1,0 +1,24 @@
+{
+  "id": "doc_0db044d53726f9b9:015",
+  "document_id": "doc_0db044d53726f9b9",
+  "path": "wiki/characters/main_party/길티어/support/voice.md",
+  "wiki_path": "characters/main_party/길티어/support/voice.md",
+  "title": "길티어 보이스",
+  "section": "단테 앞",
+  "summary": "길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0db044d53726f9b9_015.json",
+  "text": "### 단테 앞\n\n혼자 더러운 몫을 들고 사라지려는 순간을 제일 먼저 본다. 겁 많은 표면을 놀리는 대신 독자 행동을 막고 발을 묶는다. 농담을 받기 전에 도망길을 끊는 말이 먼저 나간다.",
+  "metadata": {
+    "char_count": 105,
+    "sha256": "a6b704866f5ee901e05871d7bcaf69c1cb26c71dfd21aeec1ccc25a6a6f33a19"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:039",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] axion | 파우스트 계승과 요술램프 선택 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_039.json",
+  "text": "## [2026-06-28] axion | 파우스트 계승과 요술램프 선택 보강\n\n[파우스트](characters/axions/파우스트/index.md)를 오아시스, 요술램프, 아홉 보물, 엑시온 LIVE WC claim과 대조했다. 초대 엑시온 상태와 모래 권능, 사막 공동체를 살리려는 책임감과 그레트헨의 상실을 멈춘 시간으로 되감으려는 사랑과 공포가 겹치는 보물 선택 조건을 본문에 보강했다.\n\n파우스트의 계승은 선대 왕권을 넘겨받는 절차보다 사막 공동체의 생존과 세 소원이 보물과 페리아크토이에 붙잡히는 건국기 사건으로 정리했다. 요술램프와 아툼의 열린 왕관, 모래 출력 데스마스크, 멈춘 물방울이 왕권 상징으로 작동하고, 오아시스의 자유가 반복 출력되는 현재의 권한으로 기울어지는 관계를 보강했다.",
+  "metadata": {
+    "char_count": 394,
+    "sha256": "3f673c460141963aa38489d71e2e48294272ca3d499fbb5a2132224de7ca22f3"
+  }
+}

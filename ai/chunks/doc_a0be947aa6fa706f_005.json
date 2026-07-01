@@ -1,0 +1,24 @@
+{
+  "id": "doc_a0be947aa6fa706f:005",
+  "document_id": "doc_a0be947aa6fa706f",
+  "path": "wiki/characters/axions/제페토/support/appearance.md",
+  "wiki_path": "characters/axions/제페토/support/appearance.md",
+  "title": "제페토 외형",
+  "section": "시각 경계",
+  "summary": "제페토의 60대 사냥 장로 실루엣, 우락부락한 몸, 목각인형 전면 가면, 수지와 고치와 사냥 도구를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0be947aa6fa706f_005.json",
+  "text": "## 시각 경계\n\n- 목수 장인복만 남으면 제페토의 사냥 장로성이 약해진다.\n- 귀여운 인형 소품은 고치와 사냥의 압력을 흐린다.\n- 목각인형 가면은 전면 얼굴가림으로 유지된다.",
+  "metadata": {
+    "char_count": 99,
+    "sha256": "361eb047412949438519a036ea3168eae39ea6ec51b60d5f63b2f614868afccb"
+  }
+}

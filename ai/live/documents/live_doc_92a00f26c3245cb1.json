@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_92a00f26c3245cb1",
+  "path": "04_MAIN_CHARACTER/01_ENSEMBLE/E02_WISDOM_LACHESIS.txt",
+  "title": "E02_지혜의 트리네아드_라케시스",
+  "summary": "E02_지혜의 트리네아드_라케시스",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:01_ENSEMBLE",
+  "suffix": ".txt",
+  "sha256": "1d85157a1d169a112fafbbe07058107789701f500b61d5789904001e0945e8d0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_92a00f26c3245cb1.json",
+  "chunks": [
+    {
+      "id": "live_doc_92a00f26c3245cb1:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_92a00f26c3245cb1_000.json",
+      "char_count": 6719
+    }
+  ]
+}

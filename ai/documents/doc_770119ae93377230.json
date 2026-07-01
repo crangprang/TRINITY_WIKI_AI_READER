@@ -1,0 +1,396 @@
+{
+  "id": "doc_770119ae93377230",
+  "path": "wiki/characters/main_party/옌/index.md",
+  "wiki_path": "characters/main_party/옌/index.md",
+  "title": "옌",
+  "summary": "옌은 감정과 분위기와 욕망의 움직임을 색으로 너무 빨리 읽는 아이다. 흰 성녀의 조용한 사회어는 생존용 막이며, 그 막이 깨지면 숨은 색을 끌어내고 싶어 하는 화가의 호기심이 전면으로 튄다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-30",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "옌"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "하얀 성녀"
+    },
+    {
+      "level": 3,
+      "title": "하얀 악마"
+    },
+    {
+      "level": 2,
+      "title": "세계와 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "색이 먼저 오는 세계"
+    },
+    {
+      "level": 3,
+      "title": "너무나 궁금했던 흰색"
+    },
+    {
+      "level": 3,
+      "title": "딸이라는 이름"
+    },
+    {
+      "level": 3,
+      "title": "검은색이 나의 구원이다"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "하얀 성녀"
+    },
+    {
+      "level": 3,
+      "title": "빛을 섞는 화가"
+    },
+    {
+      "level": 3,
+      "title": "덧칠된 무지개"
+    },
+    {
+      "level": 3,
+      "title": "너무나 궁금한"
+    },
+    {
+      "level": 3,
+      "title": "아빠와 엄마"
+    },
+    {
+      "level": 2,
+      "title": "능력과 색"
+    },
+    {
+      "level": 3,
+      "title": "색깔"
+    },
+    {
+      "level": 3,
+      "title": "백색"
+    },
+    {
+      "level": 3,
+      "title": "조색"
+    },
+    {
+      "level": 3,
+      "title": "아인의 검은색"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "아인"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "스칼렛"
+    },
+    {
+      "level": 3,
+      "title": "파티"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "옌 보이스",
+      "target": "wiki/characters/main_party/옌/support/voice.md"
+    },
+    {
+      "label": "옌 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "옌 음악",
+      "target": "wiki/characters/main_party/옌/support/music.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "옌 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "옌 보이스",
+      "target": "wiki/characters/main_party/옌/support/voice.md"
+    },
+    {
+      "label": "옌 음악",
+      "target": "wiki/characters/main_party/옌/support/music.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "설리반",
+      "target": "wiki/characters/axions/설리반/index.md"
+    }
+  ],
+  "sha256": "9651d257ac8dcc7a0fefefb28033d4dc31ab98a717a56d10855694f93928940b",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_770119ae93377230.json",
+  "chunks": [
+    {
+      "id": "doc_770119ae93377230:000",
+      "section": "옌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_000.json",
+      "char_count": 206
+    },
+    {
+      "id": "doc_770119ae93377230:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_001.json",
+      "char_count": 439
+    },
+    {
+      "id": "doc_770119ae93377230:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_770119ae93377230:003",
+      "section": "하얀 성녀",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_003.json",
+      "char_count": 277
+    },
+    {
+      "id": "doc_770119ae93377230:004",
+      "section": "하얀 악마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_004.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_770119ae93377230:005",
+      "section": "세계와 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_005.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_770119ae93377230:006",
+      "section": "색이 먼저 오는 세계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_006.json",
+      "char_count": 256
+    },
+    {
+      "id": "doc_770119ae93377230:007",
+      "section": "너무나 궁금했던 흰색",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_007.json",
+      "char_count": 201
+    },
+    {
+      "id": "doc_770119ae93377230:008",
+      "section": "딸이라는 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_008.json",
+      "char_count": 183
+    },
+    {
+      "id": "doc_770119ae93377230:009",
+      "section": "검은색이 나의 구원이다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_009.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_770119ae93377230:010",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_010.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_770119ae93377230:011",
+      "section": "하얀 성녀",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_011.json",
+      "char_count": 230
+    },
+    {
+      "id": "doc_770119ae93377230:012",
+      "section": "빛을 섞는 화가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_012.json",
+      "char_count": 267
+    },
+    {
+      "id": "doc_770119ae93377230:013",
+      "section": "덧칠된 무지개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_013.json",
+      "char_count": 264
+    },
+    {
+      "id": "doc_770119ae93377230:014",
+      "section": "너무나 궁금한",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_014.json",
+      "char_count": 114
+    },
+    {
+      "id": "doc_770119ae93377230:015",
+      "section": "아빠와 엄마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_015.json",
+      "char_count": 118
+    },
+    {
+      "id": "doc_770119ae93377230:016",
+      "section": "능력과 색",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_016.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_770119ae93377230:017",
+      "section": "색깔",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_017.json",
+      "char_count": 218
+    },
+    {
+      "id": "doc_770119ae93377230:018",
+      "section": "백색",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_018.json",
+      "char_count": 103
+    },
+    {
+      "id": "doc_770119ae93377230:019",
+      "section": "조색",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_019.json",
+      "char_count": 219
+    },
+    {
+      "id": "doc_770119ae93377230:020",
+      "section": "아인의 검은색",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_020.json",
+      "char_count": 234
+    },
+    {
+      "id": "doc_770119ae93377230:021",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_021.json",
+      "char_count": 611
+    },
+    {
+      "id": "doc_770119ae93377230:022",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_022.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_770119ae93377230:023",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_023.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_770119ae93377230:024",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_024.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_770119ae93377230:025",
+      "section": "스칼렛",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_025.json",
+      "char_count": 136
+    },
+    {
+      "id": "doc_770119ae93377230:026",
+      "section": "파티",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_026.json",
+      "char_count": 333
+    },
+    {
+      "id": "doc_770119ae93377230:027",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_027.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_770119ae93377230:028",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_770119ae93377230_028.json",
+      "char_count": 580
+    }
+  ]
+}

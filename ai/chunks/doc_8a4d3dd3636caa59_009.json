@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:009",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "3층 핵심 프롬프트",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_009.json",
+  "text": "### 3층 핵심 프롬프트\n\n```text\n옌 단독, 진주빛 흰 웨이브 단발 안쪽과 끝에서 청록 파랑 보라 자홍 노랑 초록 작은 주황색이 새어 나옴, 흰 덧칠 획이 남은 머리, 한쪽 눈의 오팔빛 컬러휠 홍채, 작은 살아 있는 동공, 강렬한 색에 이끌리는 조용한 몰입, 흰 여행 스목, 느슨한 허리끈, 큰 소매, 밝은 흰색/회백색 테이퍼드 바지, 검은 세로 옆선과 분리된 단추열, 맨발, 손과 옷과 발에 남은 마른 색 안료와 흰 덧칠 자국, 양손 엄지와 검지로 한쪽 눈과 콧대 일부를 담는 작은 사각 프레임\n```",
+  "metadata": {
+    "char_count": 286,
+    "sha256": "fdfcfbd990aa8487e317df1a5fa442a7f6e102ee68bf52ad3e621f957932970a"
+  }
+}

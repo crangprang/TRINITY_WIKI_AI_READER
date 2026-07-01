@@ -1,0 +1,49 @@
+{
+  "id": "live_doc_6bc34d92d4aee30f",
+  "path": "CREATIVE_RULES.md",
+  "title": "CREATIVE_RULES",
+  "summary": "- 이 파일은 TRINITY_LIVE의 문장, 장면, 캐릭터, 국가/도시 소개, 외형 번역 QA 기준을 소유한다.",
+  "root": "CREATIVE_RULES.md",
+  "category": "CREATIVE_RULES.md",
+  "suffix": ".md",
+  "sha256": "2c93ef51741222e6863b8ecc47e4ab509485b1954ebadcae9e27873e2f5f4b18",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_6bc34d92d4aee30f.json",
+  "chunks": [
+    {
+      "id": "live_doc_6bc34d92d4aee30f:000",
+      "section": "CREATIVE_RULES",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_000.json",
+      "char_count": 200
+    },
+    {
+      "id": "live_doc_6bc34d92d4aee30f:001",
+      "section": "공통 문장 QA",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_001.json",
+      "char_count": 264
+    },
+    {
+      "id": "live_doc_6bc34d92d4aee30f:002",
+      "section": "장면 QA",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_002.json",
+      "char_count": 212
+    },
+    {
+      "id": "live_doc_6bc34d92d4aee30f:003",
+      "section": "캐릭터 QA",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_003.json",
+      "char_count": 209
+    },
+    {
+      "id": "live_doc_6bc34d92d4aee30f:004",
+      "section": "국가와 도시 QA",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_004.json",
+      "char_count": 195
+    },
+    {
+      "id": "live_doc_6bc34d92d4aee30f:005",
+      "section": "외형 번역 QA",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_6bc34d92d4aee30f_005.json",
+      "char_count": 264
+    }
+  ]
+}

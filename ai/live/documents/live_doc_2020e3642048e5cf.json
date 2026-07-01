@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_2020e3642048e5cf",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/02_VINCENT/PER02_REFERENCE.txt",
+  "title": "빈센트 / REFERENCE",
+  "summary": "빈센트 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "suffix": ".txt",
+  "sha256": "c9b91512117a72cfb6f96349512bd5629bd000bb64afc20a4aafb9e3900b660e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_2020e3642048e5cf.json",
+  "chunks": [
+    {
+      "id": "live_doc_2020e3642048e5cf:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_2020e3642048e5cf_000.json",
+      "char_count": 312
+    }
+  ]
+}

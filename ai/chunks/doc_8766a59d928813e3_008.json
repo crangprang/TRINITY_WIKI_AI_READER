@@ -1,0 +1,24 @@
+{
+  "id": "doc_8766a59d928813e3:008",
+  "document_id": "doc_8766a59d928813e3",
+  "path": "wiki/universe/realms/balance/organizations/index.md",
+  "wiki_path": "universe/realms/balance/organizations/index.md",
+  "title": "균형계 조직",
+  "section": "관련 문서",
+  "summary": "균형계 조직은 삼위정교, 공인 조직, 기능조직, 이레귤러 헌터, 외지 공동체, 이단 세력이 세계 압력을 실무와 신앙 권력으로 바꾸는 조직 색인이다.",
+  "status": "draft",
+  "type": "organization_index",
+  "tags": [
+    "universe",
+    "balance",
+    "organizations",
+    "index"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8766a59d928813e3_008.json",
+  "text": "## 관련 문서\n\n- [균형계](../index.md) - 조직이 놓이는 중심 세계.\n- [균형계 언어](../language/index.md) - 기능조직명, 정교 기록명, 현지 호칭이 갈라지는 명명 층위.\n- [삼위정교](삼위정교.md) - 교리, 공좌, 공의회, 면허 체계, 이단 분류의 상위 구조.\n- [구세주 후보](../../../../characters/savior_candidates/index.md) - 정교와 기능조직의 압력을 받는 후보 집단.\n- [에레모스](../nations/에레모스.md) - 스트레인저와 외지 공동체가 움직이는 바깥 권역.\n- [균형계 문화](../culture/index.md) - 공인조직, 공적 가면, 이름 맹세가 생활 규범으로 작동하는 문화 항목.",
+  "metadata": {
+    "char_count": 390,
+    "sha256": "8dc3010be06cffc51ffa6ac3fda03570c02d38c74ea8badaa1cc7fc4bc4897cc"
+  }
+}

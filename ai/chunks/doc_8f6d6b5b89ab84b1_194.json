@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:194",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-05-31] ingest | LIVE CANON 전체 미러",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_194.json",
+  "text": "## [2026-05-31] ingest | LIVE CANON 전체 미러\n\n`TRINITY_LIVE`에서 243개 원문 문서를 읽어 당시 위키 미러와 raw 스냅샷을 생성했다. 이 구조는 2026-06-24에 제거되었다.\n\n- 당시 repo 원천: `raw/live_canon_snapshots/latest` (현재 제거됨)\n- RUN 증거 스냅샷: `RUN/TRINITY_WIKI/20260531/ingest/20260531_010232/live_canon_snapshot`\n- 당시 위키 진입점: `wiki/live_canon/README.md` (현재 제거됨)\n- LIVE CANON 자체는 수정하지 않았다.",
+  "metadata": {
+    "char_count": 344,
+    "sha256": "66a81fe3dfc373de884add16fda39b468ccba18e6037ca7ed7bfaf8f5821ce09"
+  }
+}

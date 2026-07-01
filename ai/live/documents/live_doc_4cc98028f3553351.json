@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_4cc98028f3553351",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX05_FAUST.txt",
+  "title": "파우스트",
+  "summary": "파우스트",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "707a01d04fc550bcd23da416612a41769fec016a1051bae8efaf121bc764c70d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_4cc98028f3553351.json",
+  "chunks": [
+    {
+      "id": "live_doc_4cc98028f3553351:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4cc98028f3553351_000.json",
+      "char_count": 1734
+    }
+  ]
+}

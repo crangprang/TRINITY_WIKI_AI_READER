@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:006",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "복식과 장비",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_006.json",
+  "text": "## 복식과 장비\n\n세레나의 복식은 중갑 기사 계열 대신 변방 순례자와 교차 여밈 검객의 차림으로 선다. 바깥에는 검은 순례자 망토와 감긴 천이 있고, 안쪽에는 먹청이나 깊은 군청의 교차 여밈 상의, 움직임이 되는 긴 하의, 검집걸이 벨트, 장화, 전완 보호대가 놓인다.\n\n장갑은 금속 건틀릿 대신 얇은 가죽 장갑이나 천을 감은 손이 맞다. 머리끈은 오래 쓴 부족식 직조끈이 어울리며, 가까이서야 읽히는 매듭과 문양을 품을 수 있다.\n\n패턴과 장식은 바깥에서 거의 드러나지 않는다. 문양이 있더라도 안감, 허리끈, 안쪽 자수처럼 가까이서 읽히는 구조가 세레나다. 숫돌, 기름, 천, 두루마리, 작은 기록 노트는 전사와 기록자가 같이 남아 있는 소품이다.",
+  "metadata": {
+    "char_count": 365,
+    "sha256": "fa6288f77a67378843d3cc963d5bb8f2d675c60bcecd417354f8c9b791f29165"
+  }
+}

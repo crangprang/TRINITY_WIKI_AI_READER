@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:005",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "시각 경계",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_005.json",
+  "text": "## 시각 경계\n\n- 인간형 윤곽은 유지하되, 민낯 초상은 가면 뒤로 잠긴다.\n- 매력적인 악마 얼굴, 입가리개만 있는 마스크, 과장된 궁정 악마 의상은 메피스토의 시스템 안내자 감각을 약하게 만든다.\n- 램프는 보조 소품으로 쓰고, 설계도와 퀘스트 태그를 1차 소품으로 둔다.\n- 사막 배경은 짧게 쓰고, 반복되는 현재를 접는 청사진과 선택지 표식을 앞세운다.",
+  "metadata": {
+    "char_count": 202,
+    "sha256": "be19e0a37279646588ef0ae66a095aed1ce69ac35aa4b76f4dfcd7d66a1e8a8e"
+  }
+}

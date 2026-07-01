@@ -1,0 +1,24 @@
+{
+  "id": "doc_e38cf4f3fc61468f:001",
+  "document_id": "doc_e38cf4f3fc61468f",
+  "path": "wiki/characters/main_party/진/support/music.md",
+  "wiki_path": "characters/main_party/진/support/music.md",
+  "title": "진 음악",
+  "section": "음악 콘셉트",
+  "summary": "진의 워크맨, 빌려 피운 번갯불, 약속, 오늘과 내일, 장르 변주를 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_001.json",
+  "text": "## 음악 콘셉트\n\n진의 테마곡은 워크맨이 멋대로 켜지는 순간부터 시작된다. 재즈, 팝, 발라드, 디스코, 로드 록, 블루스, 인더스트리얼 같은 장르는 진이 고른 무드가 아니라 저주받은 약속이 현장에 던지는 박자다. 그래서 곡은 한 장르로 매끈하게 고정되기보다, 웃고 떠들던 사람이 갑자기 비와 번갯불 속으로 끌려 들어가는 낙차를 가져야 한다.\n\n핵심 이미지는 `빌려 피운 번갯불`이다. 진은 자기 힘만으로 더 나은 내일을 만들 수 없다는 사실을 안다. 그래도 워크맨이 켜지고 박자가 맞는 순간, 그는 남의 빛과 빌린 힘까지 긁어 와서 다시 몸을 던진다. 이 움직임은 멋있는 각성보다, 포기하고 싶어도 약속 때문에 한 번 더 뛰쳐나가는 거친 몸의 반사에 가깝다.\n\n음악은 진이 워크맨에 끌려가는지, 아니면 사실 그 선곡을 기다리고 있었는지 애매해야 한다. 그는 곡을 싫어하고 투덜대지만, 음악이 시작되면 이미 발끝과 어깨가 박자를 따라간다. 고문과 닻, 저주와 구원이 같은 카세트 안에서 돌아간다.",
+  "metadata": {
+    "char_count": 502,
+    "sha256": "9f58583e2ee4e7531452532d4c8d6e380d45b8ef37e10eb019006fddf555cd78"
+  }
+}

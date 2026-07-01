@@ -1,0 +1,23 @@
+{
+  "id": "doc_db99133416a49e67:000",
+  "document_id": "doc_db99133416a49e67",
+  "path": "wiki/characters/savior_candidates/랄/index.md",
+  "wiki_path": "characters/savior_candidates/랄/index.md",
+  "title": "랄",
+  "section": "랄",
+  "summary": "자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db99133416a49e67_000.json",
+  "text": "# 랄\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 랄 |\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 20대 초반 |\n| 머리색 | 코랄 |\n| 눈색 | 흰색 |\n| 소속/지역 | 자유의 나라 [오아시스](../../../universe/realms/balance/nations/오아시스.md) |\n| 직책/역할 | 그레트헨 연구소장 / 구세주 후보 |\n| 기능조직 | [그레트헨 연구소](../../../universe/realms/balance/organizations/그레트헨_연구소.md) |\n| 축복 | 생각의 축복 |\n| 저주 | 망각의 저주 |\n| 주요 관계 | [아인](../../main_party/아인/index.md), [파우스트](../../axions/파우스트/index.md), [메피스토](../../personas/메피스토/index.md) |",
+  "metadata": {
+    "char_count": 451,
+    "sha256": "3b56150ff395a6f1988ead0fa0bdfdaa18bbf128dd736e36fe43eec93a6294a1"
+  }
+}

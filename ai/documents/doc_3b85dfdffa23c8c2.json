@@ -1,0 +1,125 @@
+{
+  "id": "doc_3b85dfdffa23c8c2",
+  "path": "wiki/characters/personas/빈센트/support/appearance.md",
+  "wiki_path": "characters/personas/빈센트/support/appearance.md",
+  "title": "빈센트 외형",
+  "summary": "빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:personas",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "빈센트 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "신사와 조각가"
+    },
+    {
+      "level": 2,
+      "title": "액자 프레임 가면"
+    },
+    {
+      "level": 2,
+      "title": "아틀리에와 수면"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "유리디스 도리안 드 발루아",
+      "target": "wiki/characters/axions/유리디스_도리안_드_발루아/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    }
+  ],
+  "sha256": "a942935db9ad6ff9ccbf9caa56151191cf75fa76f13c49e9a0bbb0c752a16937",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3b85dfdffa23c8c2.json",
+  "chunks": [
+    {
+      "id": "doc_3b85dfdffa23c8c2:000",
+      "section": "빈센트 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_000.json",
+      "char_count": 104
+    },
+    {
+      "id": "doc_3b85dfdffa23c8c2:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_001.json",
+      "char_count": 438
+    },
+    {
+      "id": "doc_3b85dfdffa23c8c2:002",
+      "section": "신사와 조각가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_002.json",
+      "char_count": 254
+    },
+    {
+      "id": "doc_3b85dfdffa23c8c2:003",
+      "section": "액자 프레임 가면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_003.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_3b85dfdffa23c8c2:004",
+      "section": "아틀리에와 수면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_004.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_3b85dfdffa23c8c2:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_005.json",
+      "char_count": 191
+    },
+    {
+      "id": "doc_3b85dfdffa23c8c2:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3b85dfdffa23c8c2_006.json",
+      "char_count": 457
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "doc_247b1e27f24852b3:005",
+  "document_id": "doc_247b1e27f24852b3",
+  "path": "wiki/beings/index.md",
+  "wiki_path": "beings/index.md",
+  "title": "존재",
+  "section": "하위 항목",
+  "summary": "존재는 하급 생물, 지역 생태, 용 계열, 판타즈마처럼 생명, 괴생태, 현상체의 작동으로 읽히는 대상이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_247b1e27f24852b3_005.json",
+  "text": "## 하위 항목\n\n| 항목 | 역할 |\n|---|---|\n| [하급 생물](creatures/index.md) | 국가별 생활권, 원생 생물, 작은 위협, 전조 생물이 만드는 바닥 생태. |\n| [용 계열](dragonkin/index.md) | 용왕, 아홉 용, 용인처럼 환상과 마니아, 용 혈통으로 이어지는 존재 축. |\n| [판타즈마](phantasmas/index.md) | 부정 이데아와 이름, 지역 공포, 용의 잔해가 괴생태로 현현한 재앙. |",
+  "metadata": {
+    "char_count": 254,
+    "sha256": "775606c3b21e51d1c4384b497aba184fe16e730c7276a101dc81457e7de3bde3"
+  }
+}

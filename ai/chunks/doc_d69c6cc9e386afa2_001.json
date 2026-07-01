@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:001",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "기본 톤",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_001.json",
+  "text": "## 기본 톤\n\n아인의 기본 발화는 여유롭고 초연한 반말이다. 그는 상황이 무너지는 순간에도 먼저 숨을 고르고, 이미 답을 본 사람처럼 결론을 놓는다. 말의 목적은 친밀감 확보에 머물지 않고 시선을 자기 쪽으로 모으는 데 있다.\n\n아인은 길게 설명할 수 있어도 먼저 짧게 못 박는다. 결론을 놓고 이유를 짧게 붙이며, 위기 앞에서는 절제된 웃음, 가벼운 농담, 한마디 도발로 공기를 한 박자 늦춘다. 다정하게 눕히는 말 대신 아직 길이 남았다는 감각을 주는 말이 어울린다.",
+  "metadata": {
+    "char_count": 264,
+    "sha256": "106d847be52214347e463ed55da7cbb87fa383846d045d00aabea1c7129355f1"
+  }
+}

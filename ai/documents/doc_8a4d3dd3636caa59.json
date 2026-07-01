@@ -1,0 +1,173 @@
+{
+  "id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "옌 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "하얀 성녀"
+    },
+    {
+      "level": 2,
+      "title": "빛을 섞는 화가"
+    },
+    {
+      "level": 2,
+      "title": "덧칠된 무지개"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "이미지 생성 기준"
+    },
+    {
+      "level": 3,
+      "title": "1층 핵심 프롬프트"
+    },
+    {
+      "level": 3,
+      "title": "2층 핵심 프롬프트"
+    },
+    {
+      "level": 3,
+      "title": "3층 핵심 프롬프트"
+    },
+    {
+      "level": 3,
+      "title": "배제 프롬프트"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌 보이스",
+      "target": "wiki/characters/main_party/옌/support/voice.md"
+    },
+    {
+      "label": "옌 음악",
+      "target": "wiki/characters/main_party/옌/support/music.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    }
+  ],
+  "sha256": "98cbed886e084bacd0cae9c86914333226b0cc91e57ba98a15f308c835e8526c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a4d3dd3636caa59.json",
+  "chunks": [
+    {
+      "id": "doc_8a4d3dd3636caa59:000",
+      "section": "옌 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_000.json",
+      "char_count": 6
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_001.json",
+      "char_count": 529
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:002",
+      "section": "하얀 성녀",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_002.json",
+      "char_count": 582
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:003",
+      "section": "빛을 섞는 화가",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_003.json",
+      "char_count": 629
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:004",
+      "section": "덧칠된 무지개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_004.json",
+      "char_count": 742
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_005.json",
+      "char_count": 251
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:006",
+      "section": "이미지 생성 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_006.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:007",
+      "section": "1층 핵심 프롬프트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_007.json",
+      "char_count": 283
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:008",
+      "section": "2층 핵심 프롬프트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_008.json",
+      "char_count": 265
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:009",
+      "section": "3층 핵심 프롬프트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_009.json",
+      "char_count": 286
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:010",
+      "section": "배제 프롬프트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_010.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:011",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_011.json",
+      "char_count": 366
+    },
+    {
+      "id": "doc_8a4d3dd3636caa59:012",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_012.json",
+      "char_count": 267
+    }
+  ]
+}

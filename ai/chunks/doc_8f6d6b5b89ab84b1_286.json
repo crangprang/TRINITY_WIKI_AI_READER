@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:286",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 짧은 관계 설명 잔여 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_286.json",
+  "text": "## [2026-06-26] style | 짧은 관계 설명 잔여 정리\n\n트리네아드, 펠시온, 블랑 지원 항목의 관련 목록에서 짧은 역할 라벨을 상위 신격, 이름 판결, 공용 몸 전환, 관찰 관계가 드러나는 문장으로 바꿨다.",
+  "metadata": {
+    "char_count": 124,
+    "sha256": "8240c92a447764de664a6e18495fabc78bb62e263144ce2fd3d7387e42f9544e"
+  }
+}

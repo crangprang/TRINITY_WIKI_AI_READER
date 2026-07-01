@@ -1,0 +1,23 @@
+{
+  "id": "doc_6c1b4be6614275d9:006",
+  "document_id": "doc_6c1b4be6614275d9",
+  "path": "wiki/characters/personas/메피스토/index.md",
+  "wiki_path": "characters/personas/메피스토/index.md",
+  "title": "메피스토",
+  "section": "랄과 기억 보관자",
+  "summary": "메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6c1b4be6614275d9_006.json",
+  "text": "## 랄과 기억 보관자\n\n[랄](../../savior_candidates/랄/index.md)은 오아시스의 구세주 후보이자 그레트헨 연구소장이다. 메피스토는 랄에게 기억을 대신 보관해 주는 어머니 같은 얼굴로 작동한다. 랄은 겉으로 메피스토를 심심풀이 장난감처럼 다루지만, 망각의 저주를 버티기 위해 기록과 보관자의 얼굴에 의지한다.\n\n랄의 선택지, 스코어링, 기록 습관은 오아시스의 시스템 언어와 맞물린다. 메피스토는 그녀에게 잃어버린 것을 다시 찾을 수 있다는 약속보다, 기록되어 있으니 괜찮다는 절차를 내민다. 이 절차는 랄의 생존 장치가 되며 동시에 오아시스가 사람을 현재 안에 붙드는 방식이 된다.",
+  "metadata": {
+    "char_count": 340,
+    "sha256": "e331ec2d8e394f423c8cddbd82084afe7d1104e6acf8313d420439d524f96ff4"
+  }
+}

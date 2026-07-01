@@ -1,0 +1,23 @@
+{
+  "id": "doc_ffab697840829384:029",
+  "document_id": "doc_ffab697840829384",
+  "path": "wiki/characters/main_party/스칼렛/index.md",
+  "wiki_path": "characters/main_party/스칼렛/index.md",
+  "title": "스칼렛",
+  "section": "관련 문서",
+  "summary": "스칼렛은 같은 몸 안에서 더러운 역할과 시선의 무게를 먼저 떠안는 배우이자 탐정이다. 위험한 웃음과 무대성은 블랑에게 향하는 시선을 자기 쪽으로 돌리는 생존 장치이며, 엘리자베스라는 이름 밑에서 지워지지 않으려는 사람의 버팀이 함께 남는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_029.json",
+  "text": "## 관련 문서\n\n- [엘리자베스](../엘리자베스/index.md) - 블랑과 스칼렛의 전환, 공용 몸, 이름 충돌을 묶는 공용 이름.\n- [블랑](../블랑/index.md) - 스칼렛이 지키려는 같은 몸의 다른 전면이자 죄책감의 중심.\n- [빈센트](../../personas/빈센트/index.md) - 아틀리에와 재연을 통해 스칼렛의 보호 본능과 공포 연출을 뒤틀어 놓는 페르소나.\n- [우니오네](../../../universe/realms/balance/nations/우니오네.md) - 스칼렛의 공연성, 아틀리에, 왕실 비극이 겹치는 예술의 나라.\n- [파티](../파티/index.md) - 스칼렛의 공포 연출이 동료를 지키는 안전거리로 작동하는 이동 집단.",
+  "metadata": {
+    "char_count": 377,
+    "sha256": "7114e79a2349e12663feb0f730e277d091acfcea587e75d5cb3406aaa67f7082"
+  }
+}

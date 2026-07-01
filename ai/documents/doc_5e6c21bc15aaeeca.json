@@ -1,0 +1,147 @@
+{
+  "id": "doc_5e6c21bc15aaeeca",
+  "path": "wiki/events/index.md",
+  "wiki_path": "events/index.md",
+  "title": "사건",
+  "summary": "사건은 삼위일체 우주의 역사, 시대, 서사 진행, 국가별 전환점을 시간과 인과로 잇는 이야기 인과다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "category": "events:index.md",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "사건"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "인과와 다음 상태"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "신들의 시대",
+      "target": "wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md"
+    },
+    {
+      "label": "초인의 시대",
+      "target": "wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "세계사/1시대",
+      "target": "wiki/events/world_history/1시대_태초에서_에마나치온까지.md"
+    },
+    {
+      "label": "세계사/2시대",
+      "target": "wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md"
+    },
+    {
+      "label": "세계사/3시대",
+      "target": "wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md"
+    },
+    {
+      "label": "알레인의 동화책",
+      "target": "wiki/events/world_history/알레인의_동화책.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "삼위의 군상/2부/신들의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md"
+    },
+    {
+      "label": "삼위의 군상/3부/초인의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "인물",
+      "target": "wiki/characters/index.md"
+    },
+    {
+      "label": "존재",
+      "target": "wiki/beings/index.md"
+    }
+  ],
+  "sha256": "e755c0e30f013df7c510232df3378d7fd981ac8a6e2f2f9c1ec20c338efae8c3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5e6c21bc15aaeeca.json",
+  "chunks": [
+    {
+      "id": "doc_5e6c21bc15aaeeca:000",
+      "section": "사건",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5e6c21bc15aaeeca_000.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_5e6c21bc15aaeeca:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5e6c21bc15aaeeca_001.json",
+      "char_count": 738
+    },
+    {
+      "id": "doc_5e6c21bc15aaeeca:002",
+      "section": "인과와 다음 상태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5e6c21bc15aaeeca_002.json",
+      "char_count": 316
+    },
+    {
+      "id": "doc_5e6c21bc15aaeeca:003",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5e6c21bc15aaeeca_003.json",
+      "char_count": 1002
+    },
+    {
+      "id": "doc_5e6c21bc15aaeeca:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5e6c21bc15aaeeca_004.json",
+      "char_count": 376
+    }
+  ]
+}

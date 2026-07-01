@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_81b51e90d40f9a34",
+  "path": "03_WORLD/04_CREATURE/C06_TRUTH/01_NONSAPI/01_BEAST/C06_BEAST_BRANCH_IDEA.txt",
+  "title": "C06_TRUTH / BEAST_BRANCH_IDEA",
+  "summary": "C06_TRUTH / BEAST_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "de0c969d25be0089afe499cf86b826f8ca762a094e46d2e0276b85f94a991782",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_81b51e90d40f9a34.json",
+  "chunks": [
+    {
+      "id": "live_doc_81b51e90d40f9a34:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_81b51e90d40f9a34_000.json",
+      "char_count": 2661
+    }
+  ]
+}

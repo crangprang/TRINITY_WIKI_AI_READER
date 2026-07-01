@@ -1,0 +1,24 @@
+{
+  "id": "doc_7610e3feb05faa0c:010",
+  "document_id": "doc_7610e3feb05faa0c",
+  "path": "wiki/characters/main_party/스칼렛/support/appearance.md",
+  "wiki_path": "characters/main_party/스칼렛/support/appearance.md",
+  "title": "스칼렛 외형",
+  "section": "시각 경계",
+  "summary": "스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7610e3feb05faa0c_010.json",
+  "text": "## 시각 경계\n\n- 같은 몸과 같은 얼굴 조형이 유지되어야 한다.\n- 오른쪽 녹색 눈, 왼쪽 붉은 홍채와 작은 녹색 중심부가 썸네일 크기에서도 분명해야 한다.\n- 흰 블라우스와 레이어드 스커트의 중세 판타지풍 계열이 유지되어야 한다.\n- 검은 조끼, 코르셋 드레스, 악역 가운, 현대 점퍼드레스, 가죽 의상으로 바뀌면 기각한다.\n- 고정핀 슬릿은 같은 검은 시어 겉치마를 걷어 올린 결과여야 한다. 별도 미니스커트면 기각한다.\n- 붉은 언더스커트는 안쪽 레이어로 드러나야 하며, 넓은 붉은 겉치마로 바뀌면 기각한다.\n- 어깨선은 덮여 있어야 한다. 오프숄더와 맨어깨 노출은 기각한다.\n- 위험한 생기는 시선, 입꼬리, 자세, 혈조 도구에서 나와야 한다. 짙은 화장과 다크서클 중심의 위험 인상은 기각한다.\n- 치맛단은 발목선에서 끝난다. 바닥에 끌리는 트레인형 길이는 기각한다.\n- 소품은 피로 만든 가위, 바늘, 메스, 단검 계열이다. 총 중심 구도는 스칼렛 전면 구도에서 기각한다.",
+  "metadata": {
+    "char_count": 496,
+    "sha256": "cf95f17cfda581aa9f5728de11a0a8d83695344c3abcb6dc95955d80b3dcb1db"
+  }
+}

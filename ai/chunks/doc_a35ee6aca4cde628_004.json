@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:004",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "2026-06-29 신격과 신적 권위",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_004.json",
+  "text": "## 2026-06-29 신격과 신적 권위\n\n- 독자용 분류 소유자는 [신격과 신적 권위](../universe/laws/신격과_신적_권위.md)다.\n- 해당 항목은 힘의 서열표가 아니라 실재성, 의지, 행위성, 계열, 현재 상태를 기준으로 신적 권위의 종류를 구분하는 우주 법칙 조회어로 운영한다.\n- 신격처럼 보이는 존재를 같은 층위로 평균내지 않는다. 아난케, 오리진, 거짓 신명, 아홉 용, 트리네아드, 하위신 계열, 판타즈마는 각각 다른 발생 경로와 서술 소유자를 가진다.",
+  "metadata": {
+    "char_count": 269,
+    "sha256": "c472ed38d835679b7ce60d4fafe6bd5349d9d210a5366bd4b04dfceb26055e82"
+  }
+}

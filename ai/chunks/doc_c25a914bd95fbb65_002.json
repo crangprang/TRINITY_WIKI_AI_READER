@@ -1,0 +1,24 @@
+{
+  "id": "doc_c25a914bd95fbb65:002",
+  "document_id": "doc_c25a914bd95fbb65",
+  "path": "wiki/characters/axions/파우스트/support/appearance.md",
+  "wiki_path": "characters/axions/파우스트/support/appearance.md",
+  "title": "파우스트 외형",
+  "section": "왕의 실루엣",
+  "summary": "파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c25a914bd95fbb65_002.json",
+  "text": "## 왕의 실루엣\n\n파우스트는 완성된 왕의 실루엣으로 선다. 어깨와 자세에는 나라를 세운 사람의 자신감이 있고, 얼굴과 손끝에는 애도를 오래 닫아 둔 정지가 남는다.\n\n의상은 스팀펑크 귀족복의 기계적 선과 사막 왕의 장식을 함께 사용한다. 장식의 중심에는 오아시스의 출력 문명과 공학 질서가 놓인다. 금속 프레임, 물길을 닮은 장식선, 모래 출력층의 패턴이 왕복에 들어간다.",
+  "metadata": {
+    "char_count": 209,
+    "sha256": "294e1fa206b6b636e87a9accbdc825fb8be150502e66a840c80e26d7f7833b35"
+  }
+}

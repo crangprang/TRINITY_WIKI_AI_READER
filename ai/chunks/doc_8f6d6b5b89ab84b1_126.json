@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:126",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 판도라 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_126.json",
+  "text": "## [2026-06-26] rebuild | 판도라 항목 정리\n\n[판도라](characters/axions/판도라/index.md)의 운용 메모형 `기본 정보` 표면을 엑시온 인물 기사 구조로 정리했다.\n\n- 정리: 최초의 질문, 맹인 학장, 질문과 통치, 권능과 장치, 탈레스, 메테우스와 엘피스, 붕괴, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [판도라 외형](characters/axions/판도라/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 맹인 학장, 검은 석판, 푸른 수정빛, 촛불 중심으로 다시 세웠다.\n- 색인: 엑시온 색인의 판도라 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 360,
+    "sha256": "77d013043209f0efab043bf137410bcc27852763f5e335488538ba29e207a50d"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:016",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "후퇴",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_016.json",
+  "text": "### 후퇴\n\n후퇴를 치욕처럼 말하지 않는다. 숨을 고르고, 검집을 다시 매고, 다음 자리를 잡는 식으로 후퇴를 받아들인다. 자존심을 세우기 전에 질서를 먼저 세운다.",
+  "metadata": {
+    "char_count": 93,
+    "sha256": "5276ee7b660c5085ad0a3decf35d72d45929d1379477db3ac022735ebdce264e"
+  }
+}

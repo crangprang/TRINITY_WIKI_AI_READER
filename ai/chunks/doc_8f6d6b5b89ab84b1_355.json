@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:355",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 세계사 시대 문체 조정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_355.json",
+  "text": "## [2026-06-29] worldhistory | 세계사 시대 문체 조정\n\n[세계사/1시대](events/world_history/1시대_태초에서_에마나치온까지.md), [세계사/2시대](events/world_history/2시대_아홉_영웅과_칼시네이션.md), [세계사/3시대](events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md)의 본문을 정의문 중심 서술에서 사건 진행과 전환이 먼저 읽히는 문체로 조정했다. 아난케의 장력 딜레마, 니그리스의 배신 오해, 알비우스와 아홉 영웅의 장기 의식, 지혜의 창조주 참칭과 감독의 타락, 대공명과 삼위정교 성립 구간은 사실관계를 유지한 채 줄거리·행적형 호흡으로 다듬었다.",
+  "metadata": {
+    "char_count": 366,
+    "sha256": "1dc2b4fa2826488b1236d88c1882f23ca9c94712671e3d7ac5035fac18246bfc"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:001",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "기본 톤",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_001.json",
+  "text": "## 기본 톤\n\n진의 기본 발화는 시끄럽고 빠른 현장 해결사다. 입이 먼저 튀고, 반응이 바로 따라붙는다. 농담, 태클, 짜증, 감탄이 한 문장 안에서 같이 튈 수 있다.\n\n그 소란은 장식으로 끝나지 않는다. 진은 누가 봉이 되는지 읽는 순간 어깨가 먼저 들어간다. 도덕의 이름을 꺼내기 전에 빚, 몫, 값, 손해, 정산을 먼저 말한다. 불안할수록 농담과 별명이 늘고, 진짜 위험을 느끼면 말이 줄고 몸이 먼저 나간다.",
+  "metadata": {
+    "char_count": 234,
+    "sha256": "2cf7f3404d0b607bc8392f1efb8c607aff64a2feb8d4bf667c7131a7d72a7a1c"
+  }
+}

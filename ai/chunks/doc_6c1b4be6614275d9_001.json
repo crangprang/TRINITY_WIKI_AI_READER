@@ -1,0 +1,23 @@
+{
+  "id": "doc_6c1b4be6614275d9:001",
+  "document_id": "doc_6c1b4be6614275d9",
+  "path": "wiki/characters/personas/메피스토/index.md",
+  "wiki_path": "characters/personas/메피스토/index.md",
+  "title": "메피스토",
+  "section": "개요",
+  "summary": "메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_6c1b4be6614275d9_001.json",
+  "text": "## 개요\n\n메피스토는 오아시스의 아포라투스 `페리아크토이`와 장치 요소 `피라미디온`에 연결된 페르소나다. 그는 상실을 견디지 못하는 인간에게 세 번째 길을 속삭이고, 끝난 장면을 현재에 붙들어 두는 일을 구원의 서사로 바꾼다.\n\n메피스토의 표층 인터페이스는 떠돌이 설화 수집가와 시스템의 음성 안내다. 그는 명령보다 선택지를 내밀고, 협박보다 그럴듯한 이유를 먼저 준다. 그 선택지는 미래를 여는 문처럼 열리고, 검증된 과거를 다시 출력해 현재를 정교하게 반복시키는 길로 이어진다.",
+  "metadata": {
+    "char_count": 271,
+    "sha256": "3fd5cf092b7b7bde6f32f8cf786f8066463a67a08aa84e25e6c137019efeaecc"
+  }
+}

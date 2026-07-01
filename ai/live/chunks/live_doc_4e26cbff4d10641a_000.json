@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_4e26cbff4d10641a:000",
+  "document_id": "live_doc_4e26cbff4d10641a",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/04_CHARON/PER04_FACT_DETAIL.txt",
+  "title": "카론 / FACT_DETAIL",
+  "section": "body",
+  "summary": "카론 / FACT_DETAIL",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4e26cbff4d10641a_000.json",
+  "text": "카론 / FACT_DETAIL\n\n1. 현재 운용\n이 파일은 `PER04_CORE.txt`와 같은 truth rank지만, 지금은 확장본이 아니라 보존 앵커 카드로만 쓴다.\n\n2. 보존할 기록\n- 계약, 담보, 크레딧, 불, 지상으로 갈 자격.\n- 값보다 남은 가능성을 먼저 보는 중개인.\n\n3. 개발 상태\n- 이전의 동일 패턴형 개입 방식/장면 압박/말투/붕괴 문단은 확정 fact로 쓰지 않는다.\n- 후속 일괄 개발 때 실제 장면, 관계 압력, voice를 새로 작성한다.",
+  "metadata": {
+    "char_count": 265,
+    "sha256": "0da498d4c75bf19dbb53e16aed3679a98b5389f30586affa17a076d9070dea9b"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_29558cba45a64379:000",
+  "document_id": "doc_29558cba45a64379",
+  "path": "wiki/universe/realms/balance/organizations/염객방.md",
+  "wiki_path": "universe/realms/balance/organizations/염객방.md",
+  "title": "염객방",
+  "section": "염객방",
+  "summary": "염객방은 염한 기반의 기능조직으로, 개인 무력과 전략가, 소수 수행원을 외국 현장으로 보내는 직업 용병과 군사고문 망이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_29558cba45a64379_000.json",
+  "text": "# 염객방\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 기능조직 |\n| 기반 국가 | [염한](../nations/염한.md) |\n| 주요 업무 | 직업 용병 / 군사고문 / 호위 / 전장 처리 / 무인 파견 |\n| 정교 관계 | 삼위정교 면허를 받은 국가 기반 위탁 조직 |\n| 대표 구세주 후보 | [아백](../../../../characters/savior_candidates/아백/index.md) |\n| 관련 엑시온 | [가인](../../../../characters/axions/가인/index.md) |",
+  "metadata": {
+    "char_count": 295,
+    "sha256": "d908eec3a505ebdfb680ebad3e8c5c5bf59c7bb1e66c2122ee7a7fbb22310c5d"
+  }
+}

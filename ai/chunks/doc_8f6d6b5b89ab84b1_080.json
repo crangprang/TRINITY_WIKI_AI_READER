@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:080",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] style | 염한 목차 번호 헤딩 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_080.json",
+  "text": "## [2026-06-27] style | 염한 목차 번호 헤딩 정리\n\n[염한](universe/realms/balance/nations/염한.md)의 큰 본문 섹션에 번호를 붙여 목차에서 문서 흐름이 보이도록 정리했다. 관련 문서는 WIKI 표준 하단 네비게이션으로 유지했다. 독자 문서 감사 도구는 `## 개요`와 `## 1. 개요`를 모두 필수 개요 섹션으로 인정하도록 맞췄다.",
+  "metadata": {
+    "char_count": 214,
+    "sha256": "3aec02c30d3fd6bc86553e19eff7a4128f723cb72ce8b805380e7eac582f042b"
+  }
+}

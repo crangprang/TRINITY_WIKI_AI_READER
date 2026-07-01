@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:018",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "커튼콜의 괴물",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_018.json",
+  "text": "### 커튼콜의 괴물\n\n- `[첫 등판 / 시선을 끌 때]` `거기까지. 더 오면 내가 싫어져.`\n- `[겁먹은 적 앞]` `무서우면 뒤로 물러서. 그게 네가 오늘 할 일이지.`\n- `[의학 용어로 위협할 때]` `지금 손 떨리는 거 보였어. 더 늦기 전에 멈춰.`\n- `[도망치는 등을 볼 때]` `도망쳐도 돼. 대신 저쪽은 건드리지 마.`\n- `[피를 닦아 보이며]` `이건 내가 처리할게. 넌 입 다물고 있어.`\n- `[엘리자베스라는 이름을 끊을 때]` `그 이름은 쉽게 부르지 마.`\n- `[공포를 자기 쪽으로 몰 때]` `그래, 나를 봐. 그게 훨씬 편하잖아.`",
+  "metadata": {
+    "char_count": 319,
+    "sha256": "e32332001552893bf31114be2661a6fe5fe415d0321458221326012b495c9829"
+  }
+}

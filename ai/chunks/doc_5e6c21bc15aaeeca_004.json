@@ -1,0 +1,22 @@
+{
+  "id": "doc_5e6c21bc15aaeeca:004",
+  "document_id": "doc_5e6c21bc15aaeeca",
+  "path": "wiki/events/index.md",
+  "wiki_path": "events/index.md",
+  "title": "사건",
+  "section": "관련 문서",
+  "summary": "사건은 삼위일체 우주의 역사, 시대, 서사 진행, 국가별 전환점을 시간과 인과로 잇는 이야기 인과다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "events",
+    "index"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5e6c21bc15aaeeca_004.json",
+  "text": "## 관련 문서\n\n- [삼위일체 우주](../universe/structure/삼위일체_우주.md) - 사건 인과가 발생하는 상위 세계 구조.\n- [예언](../universe/laws/예언.md) - 비극예언, 구세주예언, 배신자예언이 사건을 특정 방향으로 기울이는 방식.\n- [아홉 나라](../universe/realms/balance/nations/index.md) - 사건이 국가별 장치와 이념의 전환으로 드러나는 균형계 국가 질서.\n- [인물](../characters/index.md) - 사건을 선택, 실패, 증언, 추적으로 움직이는 행위자.\n- [존재](../beings/index.md) - 판타즈마와 생태가 사건의 물리적 압력으로 드러나는 생명과 현상.",
+  "metadata": {
+    "char_count": 376,
+    "sha256": "daf90483a7f16dfbac66996371b24c23bcdb6569c36f67ede0f3ff30d38e5128"
+  }
+}

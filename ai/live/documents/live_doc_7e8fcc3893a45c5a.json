@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_7e8fcc3893a45c5a",
+  "path": "02_LORE/L01_STRUGGLE/L01_REFERENCE.txt",
+  "title": "L01_염한 / REFERENCE",
+  "summary": "L01_염한 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L01_STRUGGLE",
+  "suffix": ".txt",
+  "sha256": "8115a997fc4c5c8b76c9fad0cdd3f9fa698a9ec5a8164cdcdc0a9c616b282199",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_7e8fcc3893a45c5a.json",
+  "chunks": [
+    {
+      "id": "live_doc_7e8fcc3893a45c5a:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_7e8fcc3893a45c5a_000.json",
+      "char_count": 852
+    }
+  ]
+}

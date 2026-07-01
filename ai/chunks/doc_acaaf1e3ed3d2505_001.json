@@ -1,0 +1,24 @@
+{
+  "id": "doc_acaaf1e3ed3d2505:001",
+  "document_id": "doc_acaaf1e3ed3d2505",
+  "path": "wiki/characters/trineads/라케시스/support/appearance.md",
+  "wiki_path": "characters/trineads/라케시스/support/appearance.md",
+  "title": "라케시스 외형",
+  "section": "외형 기준",
+  "summary": "라케시스의 소피아 계승 외형, 흰빛 인상, 가면별 외형 기준을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_acaaf1e3ed3d2505_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 기준 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 인상 | 불멸자이지만 20대 초반의 젊은 인상 |\n| 머리색 | 백은색 / 긴 머리 |\n| 눈색 | 머리와 이어지는 흰빛 계열 |\n| 인상 | 차갑고 정돈된 구조감 |\n| 사회적 가면 | 초라한 정보상, 잔꾀 많은 사기꾼, 별 볼 일 없는 여행자 |",
+  "metadata": {
+    "char_count": 195,
+    "sha256": "3a211ec78d9129b2b2c9e2eac402d05f6908210c90d49b457019446dd23c451c"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_63ed970e5135d17b",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_CORE.txt",
+  "title": "P05_엘리자베스 / CORE",
+  "summary": "P05_엘리자베스 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "c43a6eace2b5a886b5af77249d152f21690c6230bf14b70bd61a3e49b2b56f97",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_63ed970e5135d17b.json",
+  "chunks": [
+    {
+      "id": "live_doc_63ed970e5135d17b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_63ed970e5135d17b_000.json",
+      "char_count": 2883
+    }
+  ]
+}

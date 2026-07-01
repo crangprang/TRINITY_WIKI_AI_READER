@@ -1,0 +1,23 @@
+{
+  "id": "doc_f68980e46e78f3fc:007",
+  "document_id": "doc_f68980e46e78f3fc",
+  "path": "wiki/beings/phantasmas/분노의_판타즈마.md",
+  "wiki_path": "beings/phantasmas/분노의_판타즈마.md",
+  "title": "분노의 판타즈마",
+  "section": "관련 문서",
+  "summary": "분노가 얼음과 불을 한 몸에 꿰어 압축한 채 폭발 직전으로 유지되는 판타즈마.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f68980e46e78f3fc_007.json",
+  "text": "## 관련 문서\n\n- [판타즈마](index.md) - 이름, 부정 이데아, 장소와 핵이 판타즈마를 만드는 공통 발생 구조.\n- [오르딜리아](../../universe/realms/balance/nations/오르딜리아.md) - 분노와 정의 축이 응축되는 대응 국가.\n- [마텔다](../../characters/axions/마텔다/index.md) - 오르딜리아의 질서와 판정 압력을 대표하는 엑시온.\n- [생사불문](../../events/singularities/생사불문.md) - 분노의 판타즈마 현현과 연결되는 특이점.",
+  "metadata": {
+    "char_count": 297,
+    "sha256": "61c02047b211b6b0c28f1e90f678e847bf8b42c50e3b2e1f5c7b3673f6edc516"
+  }
+}

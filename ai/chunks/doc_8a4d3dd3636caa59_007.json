@@ -1,0 +1,24 @@
+{
+  "id": "doc_8a4d3dd3636caa59:007",
+  "document_id": "doc_8a4d3dd3636caa59",
+  "path": "wiki/characters/main_party/옌/support/appearance.md",
+  "wiki_path": "characters/main_party/옌/support/appearance.md",
+  "title": "옌 외형",
+  "section": "1층 핵심 프롬프트",
+  "summary": "옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8a4d3dd3636caa59_007.json",
+  "text": "### 1층 핵심 프롬프트\n\n```text\n옌 단독, 17-18세 젊은 여성, 성인형 비율, 진주빛 흰 웨이브 단발, 오팔/진주빛 흰 눈, 살아 있는 동공, 조용히 관찰하는 눈, 약한 미소, 후드 없는 흰 여행 스목, 짧은 망토형 겹옷, 큰 소매, 검은 고딕 하이넥 이너, 검은 레이스 커프, 갈색 대각선 크로스백, 얇고 넓은 스케치북, 밝은 흰색/회백색 테이퍼드 바지, 검은 세로 옆선, 분리된 작은 검은 단추열, 하단 다이아몬드 포인트, 흑회색 차콜 여행용 앵클부츠, 진주와 구름 같은 무광 질감\n```",
+  "metadata": {
+    "char_count": 283,
+    "sha256": "fe133409ebeedfe5d51745e1343445da06738f709c5ee934b5fc16f8160c3d1d"
+  }
+}

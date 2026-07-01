@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_203b174244ee9692",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P07_DANTE/P07_REFERENCE.txt",
+  "title": "P07_단테 / REFERENCE",
+  "summary": "P07_단테 / REFERENCE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "b02ef168f14aa00af0fd84608387224a3da596ab036aa11a05403d863a957c2d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_203b174244ee9692.json",
+  "chunks": [
+    {
+      "id": "live_doc_203b174244ee9692:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_203b174244ee9692_000.json",
+      "char_count": 1338
+    }
+  ]
+}

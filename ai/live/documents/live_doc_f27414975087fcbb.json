@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f27414975087fcbb",
+  "path": "03_WORLD/04_CREATURE/C09_HARMONY/02_FANTASMA/03_GRADE_3/C09_GRADE_3_FANTASMA_BRANCH_IDEA.txt",
+  "title": "C09_HARMONY / GRADE_3_FANTASMA_BRANCH_IDEA",
+  "summary": "C09_HARMONY / GRADE_3_FANTASMA_BRANCH_IDEA",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "bbb2dc7c41678f01032a850336f09d17e9b0b3c02b1cb03b173404c7af412393",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f27414975087fcbb.json",
+  "chunks": [
+    {
+      "id": "live_doc_f27414975087fcbb:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f27414975087fcbb_000.json",
+      "char_count": 576
+    }
+  ]
+}

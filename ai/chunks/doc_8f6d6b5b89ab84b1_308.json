@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:308",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 인물 축 상위 항목 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_308.json",
+  "text": "## [2026-06-26] rebuild | 인물 축 상위 항목 보강\n\n[인물](characters/index.md), [앙상블](characters/ensemble/index.md), [트리네아드 인물군](characters/trineads/index.md)에 역할과 관계, 작동 방식, 세계와 인격 설명을 보강했다. 상위 인물 항목이 단순 분류면으로만 읽히지 않도록 이름, 책임, 세계사 압력, 세 세계의 신격 번역 구조를 본문에 배치했다.",
+  "metadata": {
+    "char_count": 249,
+    "sha256": "4a0df4b868afe43f9d220e84aec4ffe898d2abcb8b45fb974395857f71278b22"
+  }
+}

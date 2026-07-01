@@ -1,0 +1,25 @@
+{
+  "id": "live_doc_da2660e9e6f6d52a",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/02_SINGULARITY_EPISODE/00_SINGULARITY_TEMPLATE.txt",
+  "title": "Writing Rule",
+  "summary": "SINGULARITY_EPISODE_TEMPLATE",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "suffix": ".txt",
+  "sha256": "ca2a0d4b7adc0fd1a4e8e00bff5c1924c270cb7c02adae99e71366a1a3a81a1c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_da2660e9e6f6d52a.json",
+  "chunks": [
+    {
+      "id": "live_doc_da2660e9e6f6d52a:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_da2660e9e6f6d52a_000.json",
+      "char_count": 119
+    },
+    {
+      "id": "live_doc_da2660e9e6f6d52a:001",
+      "section": "Writing Rule",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_da2660e9e6f6d52a_001.json",
+      "char_count": 174
+    }
+  ]
+}

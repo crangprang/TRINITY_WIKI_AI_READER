@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:019",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] nation | 레이어드 언어권과 조직층 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_019.json",
+  "text": "## [2026-06-28] nation | 레이어드 언어권과 조직층 보강\n\n[레이어드](universe/realms/balance/nations/레이어드.md)를 LIVE `L04_TRADE`, [균형계 언어](universe/realms/balance/language/index.md), [글로벌 코텍스](universe/realms/balance/organizations/글로벌_코텍스.md)와 대조했다. L02_ART는 우니오네 원천이므로 레이어드 반영 근거에서 제외하고, L04_TRADE의 장치명 표기는 현재 WIKI 정본명인 카타바시스로 정규화했다.\n\n언어권은 영어/광둨어 계열과 계약 언어로 보강하고, 기능조직은 글로벌 코텍스로 연결했다. 구룡과 까마귀는 주요 인물 아래에서 조직과 집단 섹션으로 옮겼다. 대응 펠시온은 L04_TRADE core/fact/reference와 현재 WIKI 펠시온 문서에서 직접 연결이 없어 새 본문값으로 만들지 않았다.",
+  "metadata": {
+    "char_count": 485,
+    "sha256": "37092432c9eb0463afd329a12421ad918199ab59f3148a94f9626eb3606390c7"
+  }
+}

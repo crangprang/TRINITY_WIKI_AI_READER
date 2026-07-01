@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:032",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] fellsion | 기근 침투와 죽음 군단 수탈 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_032.json",
+  "text": "## [2026-06-28] fellsion | 기근 침투와 죽음 군단 수탈 보강\n\n[기근의 펠시온](characters/fellsions/기근의_펠시온/index.md)을 펠시온 총론, 죽음의 트리네아드, 침식의 펠시온, LIVE WC 펠시온·가면·대붕괴 claim과 대조했다. 죽음의 트리네아드가 내린 기근 이름 낙인, 죽음의 침략 계획으로 균형계에 진입한 뒤 대붕괴 후 단독 수탈 행동으로 흩어지는 침투 상태를 본문에 보강했다.\n\n기근이 전장과 피난지와 물길을 반복 수확 가능한 농장으로 바꾸는 균형계 상처와, 메뚜기 백골 가면·징수 장부·말라붙은 곡물·세금 봉인의 가면/소품 기준을 정리했다. 관련 문서에 남아 있던 에르고 연결은 현재 정본 기준에 맞춰 죽음의 트리네아드로 보정했다.",
+  "metadata": {
+    "char_count": 386,
+    "sha256": "c2ff17c2c84084abb1538016de6be45d6d0f9488768aa0f2932ecf2b7c8b5363"
+  }
+}

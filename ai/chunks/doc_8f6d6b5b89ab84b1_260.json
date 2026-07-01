@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:260",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 앙상블과 펠시온 외형 support 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_260.json",
+  "text": "## [2026-06-26] style | 앙상블과 펠시온 외형 support 표면 정리\n\n앙상블과 펠시온 appearance support의 도입부와 일부 본문 관련 문서 설명에서 `시각 기준` 표현을 제거하고 외형 하위 항목의 실제 표지를 적었다.\n\n- 배신의 펠시온, 니그리스 알비우스 시트리노, 침식, 기근, 정적, 역병, 속박, 정복, 기만, 모방의 appearance support 도입부를 외형 하위 항목 서술로 바꿨다.\n- 기만과 모방 본문의 관련 문서 설명을 안나 위장, 그림자형 본모습, 광대 배우 위장, 굶주린 기술자 본모습의 기능과 연결했다.",
+  "metadata": {
+    "char_count": 315,
+    "sha256": "df820cc67e7ce776c97e4e0a08af2f07a26e04945cff64b430c3d9d57dbb6931"
+  }
+}

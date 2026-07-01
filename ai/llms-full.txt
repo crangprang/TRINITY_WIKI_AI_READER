@@ -1,0 +1,709 @@
+# TRINITY_WIKI Full AI Reader Catalog
+
+This file combines the boot pack, generated topic indexes, and a compact document catalog. Topic indexes are navigation aids only; use chunk URLs or document JSON for source text.
+
+# TRINITY_WIKI AI Boot Pack
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents: `248`
+- Chunks: `3294`
+
+## 역할
+
+이 pack은 ChatGPT나 다른 web AI가 TRINITY_WIKI를 빠르게 훑고, 필요한 항목을 깊게 fetch하도록 만든 읽기 전용 표면이다. 원본 SOT는 `wiki/`의 Markdown 파일이며, 이 pack은 자동 생성된 파생 표면이다.
+
+## 읽기 순서
+
+1. 이 `bootpack.md`를 먼저 읽는다.
+2. `manifest.json`, MCP `list_documents`, 또는 `search-index.json`에서 후보 문서와 chunk를 고른다.
+3. 깊게 확인해야 할 때 `documents/*.json`, `chunks/*.json`, MCP `fetch_document`, 또는 MCP `fetch`로 원문을 읽는다.
+4. `briefings/index.md`와 `wiki_brief`는 선택적 주제 인덱스다. 자동 요약이나 canon 근거로 쓰지 않는다.
+
+## 상태 해석
+
+- `wiki/universe`, `wiki/characters`, `wiki/beings`, `wiki/events`는 reader-facing DB 표면이다.
+- `wiki/review`는 결정 요청, 충돌, 보강 대상 같은 action layer다. 검토 문서를 확정 canon처럼 쓰지 말고 판단 필요 항목으로 취급한다.
+- `status: draft`는 WIKI-local 작업 상태이며, 반드시 폐기/비정본이라는 뜻은 아니다.
+- `status: needs_decision` 또는 `needs_reconciliation`은 사용자 판단이나 충돌 해소가 필요한 항목이다.
+- character `support/` 파일은 별도 주제가 아니라 같은 character entry의 세부층이다.
+
+## 주요 진입점
+
+- [Manifest](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/manifest.json)
+- [Search Index](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/search-index.json)
+- [Topic Index](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/index.md): optional navigation map, not evidence.
+- [Combined Cache Manifest](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/cache_manifest.json)
+- [Combined Cache ZIP](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/trinity_wiki_cache_full.zip)
+
+## 현재 범위 요약
+
+- Reader-facing documents: `239`
+- Primary reader documents: `176`
+- Review/action documents: `7`
+- Support documents: `63`
+- Other generated documents: `2`
+- 세부 원문은 chunk 단위로 나뉘며, 검색 결과는 `id`, `title`, `section`, `url`을 반환한다.
+
+## Count 정의
+
+- `documents`: AI Reader pack에 포함된 전체 generated Markdown document 수.
+- `chunks`: 모든 generated document에서 만들어진 fetch 가능한 text chunk 수.
+- `reader_facing_documents`: `wiki/universe`, `wiki/characters`, `wiki/beings`, `wiki/events` 아래 문서 수. support 문서를 포함한다.
+- `primary_reader_documents`: reader-facing 문서 중 support 문서를 제외한 주요 진입 문서 수.
+- `review_documents`: `wiki/review` 아래 action/review 문서 수.
+- `support_documents`: primary entry 아래에 붙는 세부 support-layer 문서 수.
+- `other_documents`: reader-facing root와 review 밖의 generated 문서 수.
+
+# Topic Indexes
+
+# AI Reader Topic Index
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `185`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## 사용법
+
+이 인덱스는 작업 범위를 고르는 탐색 지도다. 설정 판단은 `search-index.json`, MCP `search`, `fetch_document`, `fetch`, 또는 cache ZIP의 source Markdown으로 확인한다.
+
+## Topic Indexes
+
+- [세계법칙과 상위 구조 인덱스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/world_laws.md)
+- [균형계와 아홉 나라 인덱스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/balance_realm.md)
+- [인물 인덱스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/characters.md)
+- [존재와 생태 인덱스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/beings.md)
+- [사건과 줄거리 인덱스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/events.md)
+- [검토와 결정 요청 인덱스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/briefings/review_actions.md)
+
+## Core Entrypoints
+
+- [존재](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_247b1e27f24852b3.json) (`wiki/beings/index.md`, type=being, status=draft) - 탐색 힌트: 존재는 하급 생물, 지역 생태, 용 계열, 판타즈마처럼 생명, 괴생태, 현상체의 작동으로 읽히는 대상이다.
+- [인물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_106a600b3fdaef81.json) (`wiki/characters/index.md`, type=overview, status=draft) - 탐색 힌트: 인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.
+
+# 세계법칙과 상위 구조 인덱스
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `16`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## universe
+
+- [고요한 종말](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9099b202fbfd27bd.json) (`wiki/universe/laws/고요한_종말.md`, type=universe, status=draft) - 탐색 힌트: 고요한 종말은 실재 신격이 아니라, 메아리 전쟁의 종말 언어, 라케시스의 마니아 참칭, 죽음의 신탁 오해, 삼위정교의 악신 교리로 시대마다 다른 층위를 얻은 거짓 신명이다.
+- [기적](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_30744c44c6b6ba7a.json) (`wiki/universe/laws/기적.md`, type=universe, status=draft) - 탐색 힌트: 기적은 비술과 같은 인간 출력 물리를 삼위정교의 이름, 전례, 성물, 신앙, 관리 주체 아래 공인한 출력이다.
+- [비술](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_689e101dac69a5f8.json) (`wiki/universe/laws/비술.md`, type=universe, status=draft) - 탐색 힌트: 비술은 개인의 Own 에너지를 의식적으로 운용해 Other 에너지에 연결하고, 물들이고, 꼬아 넣는 후천 기술이다.
+- [세 에너지](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_10c7f801edec7e48.json) (`wiki/universe/laws/세_에너지.md`, type=universe, status=draft) - 탐색 힌트: 에테르, 이데아, 마니아가 이름과 신앙과 몸을 현실 압력으로 바꾸는 우주 법칙.
+- [신격과 신적 권위](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0dfefc7cf87c8208.json) (`wiki/universe/laws/신격과_신적_권위.md`, type=universe, status=draft) - 탐색 힌트: 신격과 신적 권위는 아난케, 오리진, 거짓 신명, 아홉 용, 트리네아드, 하위신 계열이 각각 어떤 방식으로 신처럼 취급되는지 구분하는 우주 법칙 항목이다.
+- [예언](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56acdf37f31095a1.json) (`wiki/universe/laws/예언.md`, type=universe, status=draft) - 탐색 힌트: 예언은 미래를 단순히 맞히는 문장이 아니라, 오리진의 기억과 세 에너지, 신앙, 이름 압력이 얽혀 세계의 방향성을 기울이는 장치다.
+- [저주](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_933f3ca9cff676ab.json) (`wiki/universe/laws/저주.md`, type=universe, status=draft) - 탐색 힌트: 저주는 강렬한 부정 이데아가 작은 생명의 의지와 반응해 신체와 정신에 남는 영구 제약이며, 비슷한 간섭을 포식하고 그 대가로 악화될 수 있다.
+- [축복](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb530a9cbf6577b1.json) (`wiki/universe/laws/축복.md`, type=universe, status=draft) - 탐색 힌트: 축복은 세 에너지가 개인의 기질과 생명필터에 안정적으로 맞물려 나타나는 자연 출력이자 고유한 삶의 방식이다.
+- [태초의 불꽃](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_58ee2eddf345062d.json) (`wiki/universe/laws/태초의_불꽃.md`, type=universe, status=draft) - 탐색 힌트: 태초의 불꽃은 메아리 전쟁의 전쟁 언어를 라케시스가 대공명 이후 기억에서 되살려 창조계 권위와 삼위정교 교리로 재가공한 거짓 신명이다.
+- [필로시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f796f218b466ef9a.json) (`wiki/universe/laws/필로시온.md`, type=universe, status=draft) - 탐색 힌트: 필로시온은 창조계 오리진 조각의 설계도와 에테르로 생산되는 인공 신격체이며, 아홉 프로토타입은 균형계에서 아포라투스와 페르소나의 심층 기반이 되었다.
+- [하위신](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b86ea76b897eb631.json) (`wiki/universe/laws/하위신.md`, type=universe, status=draft) - 탐색 힌트: 하위신은 필로시온, 엑시온, 펠시온이 트리네아드의 제작, 계승, 이름 낙인으로 성립하고, 페르소나가 필로시온 파생으로 장치 관리에 참여하는 존재 층위다.
+- [삼위일체 우주](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4c5c1b86d5d17b4a.json) (`wiki/universe/structure/삼위일체_우주.md`, type=universe, status=draft) - 탐색 힌트: 창조계, 균형계, 파괴계가 서로 다른 위상에서 맞물리고 용기의문과 절제의문으로 직접 침투를 제한하는 우주.
+- [삼위일체 우주 대응표](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7ff0d5dc2052323f.json) (`wiki/universe/structure/삼위일체_우주_대응표.md`, type=universe, status=draft) - 탐색 힌트: 삼위일체 우주 대응표는 세계, 세 에너지, 오리진, 보물, 트리네아드, 하위신, 아포라투스, 아홉 용, 아홉 나라의 구성값을 모은 조회 항목이다.
+- [아조트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7a3ec5953fccb88c.json) (`wiki/universe/structure/아조트.md`, type=universe, status=draft) - 탐색 힌트: 아조트는 용왕의 허물에서 나온 오리진 그릇이며, 니그리스의 검과 라케시스의 바늘로 시대를 잇는 오리진 계열 유물이다.
+- [아홉 보물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7c9dbdc64244bda7.json) (`wiki/universe/structure/아홉_보물.md`, type=universe, status=draft) - 탐색 힌트: 아홉 보물은 세 오리진 조각의 공명을 붙잡던 제어장치였고, 칼시네이션 뒤에는 트리네아드, 엑시온, 아포라투스, 아홉 나라의 비극 구조를 잇는 빈 그릇으로 남았다.
+- [오리진](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_842a3c76729c88bf.json) (`wiki/universe/structure/오리진.md`, type=universe, status=draft) - 탐색 힌트: 오리진은 창조주가 우주를 창조할 당시 가졌던 환상 인식의 근원이며, 세 에너지와 섭리의 회전을 움직이는 무의지 근원 매듭이다.
+
+# 균형계와 아홉 나라 인덱스
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `37`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## universe
+
+- [아포라투스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_57b15876d1681c43.json) (`wiki/universe/realms/balance/apparatus/index.md`, type=realm, status=draft) - 탐색 힌트: 아포라투스는 아홉 아타노르 잔재, 빈 아홉 보물, 프로토타입 필로시온, 국가 환경과 부정 이데아가 대공명에서 결합해 발아한 균형계 국가 장치다.
+- [균형계 문화](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1a14934f9eecd2ec.json) (`wiki/universe/realms/balance/culture/index.md`, type=realm, status=draft) - 탐색 힌트: 균형계에서 이름, 공적 가면, 이름 맹세, 모닥불 유예, 죽은 자의 잔불, 금기와 통행이 사회적 역할과 의례로 작동하는 방식.
+- [균형계](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_510676c8bb8f9db3.json) (`wiki/universe/realms/balance/index.md`, type=realm, status=draft) - 탐색 힌트: 인간 공동체와 아홉 나라가 자리하며 창조계와 파괴계의 압력을 이름, 신앙, 국가, 장치로 번역하는 중심 세계.
+- [균형계 언어](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce0d01fc2c7dd5a2.json) (`wiki/universe/realms/balance/language/index.md`, type=realm, status=draft) - 탐색 힌트: 균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.
+- [균형계 조직](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8766a59d928813e3.json) (`wiki/universe/realms/balance/organizations/index.md`, type=organization_index, status=draft) - 탐색 힌트: 균형계 조직은 삼위정교, 공인 조직, 기능조직, 이레귤러 헌터, 외지 공동체, 이단 세력이 세계 압력을 실무와 신앙 권력으로 바꾸는 조직 색인이다.
+- [구세군](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3be46c6b7a69dc1d.json) (`wiki/universe/realms/balance/organizations/구세군.md`, type=organization, status=draft) - 탐색 힌트: 구세군은 삼위정교 공인 조직으로, 용기의 이름 아래 파괴계 침공과 전조 대응, 구조, 치안, 현장 무력 투입을 수행한다.
+- [그레트헨 연구소](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b8a1f4b7640b37cf.json) (`wiki/universe/realms/balance/organizations/그레트헨_연구소.md`, type=organization, status=draft) - 탐색 힌트: 그레트헨 연구소는 오아시스 기반의 기능조직으로, 기술고문, 유물 감정, 고대 기술 해석, 비술 흔적 판독을 대륙 실무로 맡는다.
+- [글로벌 코텍스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d805b70e5ac4d39b.json) (`wiki/universe/realms/balance/organizations/글로벌_코텍스.md`, type=organization, status=draft) - 탐색 힌트: 글로벌 코텍스는 레이어드 기반의 기능조직으로, 크레딧 유통과 청산, 계열 사업, 전속 용병 운용을 통해 거래의 나라 기능을 대륙 실무로 공급한다.
+- [드래그니즘](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_eb47f553d06edbe8.json) (`wiki/universe/realms/balance/organizations/드래그니즘.md`, type=organization, status=draft) - 탐색 힌트: 드래그니즘은 용인 공동체의 전통, 역사, 신앙, 생존 기술을 묶는 이단 축으로, 염한의 박해와 에레모스의 잔존 공동체를 통해 이어진다.
+- [디아도코이](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8307212d3ffab2a7.json) (`wiki/universe/realms/balance/organizations/디아도코이.md`, type=organization, status=draft) - 탐색 힌트: 디아도코이는 사라질 비술을 한 사람의 생애 형상으로 보고, 그 이름과 발동 조건과 실패 기록을 스승과 제자 사이로 이어 가는 이단 세력이다.
+- [마스크맨](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_db6afd7ec56ea94e.json) (`wiki/universe/realms/balance/organizations/마스크맨.md`, type=organization, status=draft) - 탐색 힌트: 마스크맨은 플라센티아 기반의 기능조직으로, 역할 가면과 사냥 절차를 통해 판타즈마와 위험 생태를 대륙 실무로 사냥한다.
+- [매니악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f757c27b4d95ee39.json) (`wiki/universe/realms/balance/organizations/매니악.md`, type=organization, status=draft) - 탐색 힌트: 매니악은 본능과 파괴의 해방을 구원으로 보는 이단 세력으로, 금지 의식과 폭력, 광란을 통해 질서의 붕괴를 신앙화한다.
+- [삼위정교](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_acc64fec99270006.json) (`wiki/universe/realms/balance/organizations/삼위정교.md`, type=organization, status=draft) - 탐색 힌트: 삼위정교는 대공명 이후 아홉 나라가 공포와 생존 계약을 하나의 교리, 공좌, 공의회, 면허 체계로 묶어 세운 균형계의 중앙 정교 체계다.
+- [스트레인저](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_05eed2faa24f12f6.json) (`wiki/universe/realms/balance/organizations/스트레인저.md`, type=organization, status=draft) - 탐색 힌트: 스트레인저는 퍼시스 사건 이후 아홉 나라의 정주민 질서와 정교 체계 바깥으로 밀려난 사람들을 서로 잃어버리지 않게 붙드는 외지 공동체이자 정교가 배신자로 분류하는 이단 축이다.
+- [아웃로](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e8f429a1a72e56b4.json) (`wiki/universe/realms/balance/organizations/아웃로.md`, type=organization, status=draft) - 탐색 힌트: 아웃로는 오르딜리아 기반의 기능조직으로, 공식 운송망이 닿지 않는 곳에서 사람과 짐, 정보와 비공식 구난을 옮기는 하층 물류망이다.
+- [에이티스트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1f7ebaf4956e3c31.json) (`wiki/universe/realms/balance/organizations/에이티스트.md`, type=organization, status=draft) - 탐색 힌트: 에이티스트는 신앙이 사회 운영의 전제가 되는 질서에 맞서 행정 독점과 면허 독점을 논리와 기록으로 공격하는 이단 세력이다.
+- [염객방](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_29558cba45a64379.json) (`wiki/universe/realms/balance/organizations/염객방.md`, type=organization, status=draft) - 탐색 힌트: 염객방은 염한 기반의 기능조직으로, 개인 무력과 전략가, 소수 수행원을 외국 현장으로 보내는 직업 용병과 군사고문 망이다.
+- [유랑 서커스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_64a46976159d72bb.json) (`wiki/universe/realms/balance/organizations/유랑_서커스.md`, type=organization, status=draft) - 탐색 힌트: 유랑 서커스는 우니오네 기반의 기능조직으로, 순회 공연 면허와 흥행망을 통해 공연, 후원자 접촉, 정보 수집을 함께 수행한다.
+- [이레귤러 헌터](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ebf8e0cfd0427a7b.json) (`wiki/universe/realms/balance/organizations/이레귤러_헌터.md`, type=organization, status=draft) - 탐색 힌트: 이레귤러 헌터는 정교가 저주 보유자에게 열어 둔 속죄 통로처럼 선전하는 공개 소모품 제도이며, 실제로는 이레귤러가 다른 이레귤러를 추적하게 만드는 현장 장치다.
+- [인퀴지터](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ae24374eddbaf553.json) (`wiki/universe/realms/balance/organizations/인퀴지터.md`, type=organization, status=draft) - 탐색 힌트: 인퀴지터는 알렉시아 기반의 기능조직으로, 판타즈마와 원생물, 오염 기록과 벌레를 봉쇄하고 태우는 재난 토벌 조직이다.
+- [크로니클](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c683fea4ab1b9018.json) (`wiki/universe/realms/balance/organizations/크로니클.md`, type=organization, status=draft) - 탐색 힌트: 크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.
+- [탐험가 길드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_497b84cd0ed3f44a.json) (`wiki/universe/realms/balance/organizations/탐험가_길드.md`, type=organization, status=draft) - 탐색 힌트: 탐험가 길드는 마사오트 기반의 기능조직으로, 의뢰와 보수를 중심으로 탐사, 운반, 구조, 지부 파견을 중개한다.
+- [파르마콘](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dc263951b5df53e4.json) (`wiki/universe/realms/balance/organizations/파르마콘.md`, type=organization, status=draft) - 탐색 힌트: 파르마콘은 삼위정교 공인 조직으로, 절제의 이름 아래 연구, 의료, 검역, 보건, 저주와 감염과 이레귤러 상태 판정을 맡는다.
+- [필그림즈](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a0165c9c3ce03a5e.json) (`wiki/universe/realms/balance/organizations/필그림즈.md`, type=organization, status=draft) - 탐색 힌트: 필그림즈는 파라디소 기반의 기능조직으로, 오멜라스의 구조를 아는 이들과 외부 봉사자가 나라 밖 재난 현장에 나서는 순례망이다.
+- [흉조](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1ab110626b2192ee.json) (`wiki/universe/realms/balance/organizations/흉조.md`, type=organization, status=draft) - 탐색 힌트: 흉조는 고요한 종말을 피할 수 없는 예정으로 선포하고, 균열과 저주와 판타즈마를 징조로 읽어 대중 불안을 조직하는 이단 세력이다.
+
+## universe:nations
+
+- [아홉 나라](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_94b6135c454a4d5a.json) (`wiki/universe/realms/balance/nations/index.md`, type=realm, status=draft) - 탐색 힌트: 아홉 나라는 균형계에서 보물, 아포라투스, 엑시온, 페르소나, 부정 이데아가 국가 질서와 권역 구조로 굳은 세계 표면이다.
+- [레이어드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4dc5e40c778f9444.json) (`wiki/universe/realms/balance/nations/레이어드.md`, type=nation, status=draft) - 탐색 힌트: 레이어드는 지하 공동 속에 층층이 박힌 거래의 나라다. 네메아의 황금 왕관, 지상으로 향하던 바벨의 상승 역사, 피뢰침처럼 솟은 헤드포인트 1~9, 비와 광고와 금융이 뒤엉킨 기업도시의 광휘가 외지인에게는 \"여기서는 과거 대신 기회가 통한다\"는 약속처럼 보인다.
+- [마사오트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8506b92a8e4c7b16.json) (`wiki/universe/realms/balance/nations/마사오트.md`, type=nation, status=draft) - 탐색 힌트: 마사오트는 노틸러스호 본선을 중심으로 8척의 길드선이 도는 하늘 위 함대국가다. 본선 갑판의 풍차와 출항 준비, 구베르나의 탐험가 길드 본진, 우편 꾸러미와 비공정 함대가 이 나라의 좋은 말이며, 사람들은 땅보다 더 넓은 하늘길을 자기 국토처럼 여긴다.
+- [알렉시아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cef1737a1a08b3c9.json) (`wiki/universe/realms/balance/nations/알렉시아.md`, type=nation, status=draft) - 탐색 힌트: 알렉시아는 푸른 수정과 촛불이 밤을 버티는 질문의 지하 도시다.
+- [에레모스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_920497070d83f1fc.json) (`wiki/universe/realms/balance/nations/에레모스.md`, type=nation, status=draft) - 탐색 힌트: 에레모스는 아홉 나라 바깥에서 길과 야영지와 구난 루트가 살아 움직이는 외지 권역이다. 돌로 닦인 길 대신 살아 돌아온 발걸음이 길을 만들고, 국경 대신 장막과 통과구와 임시 야영지가 생활권을 잇는다. 스트레인저, 용인 공동체, 떠돌이 기술자 같은 바깥의 사람들이 서로를 경계하면서도 끝내 길과 구조를 이어 붙인다.
+- [염한](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cbd3312372597099.json) (`wiki/universe/realms/balance/nations/염한.md`, type=nation, status=draft) - 탐색 힌트: 염한은 천검산이라는 거대한 화산 산군 위에 선 무인의 제국이다. 다섯 화산, 사방의 국경 요새, 붉은 성벽과 황혼의 비무, 산 아래 균열에서 천궁까지 이어지는 108계단이 한 나라의 얼굴을 이룬다.
+- [오르딜리아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0a200e2c67ab5c43.json) (`wiki/universe/realms/balance/nations/오르딜리아.md`, type=nation, status=draft) - 탐색 힌트: 오르딜리아는 얼음 돔 아래에서 반지와 고백, 결투 재판, 자기감시로 질서를 세우는 정의의 나라다. 낙원 1과 푸르가토리오 7탑, 코큐토스의 얼음 판정핵, 프라우돌렌티 8노선이 위와 아래를 정반처럼 맞물리고, 시민은 정의를 말하기 전에 먼저 스스로를 절제하고 감시하도록 배운다.
+- [오아시스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7e4b0e3a6d1a0dcb.json) (`wiki/universe/realms/balance/nations/오아시스.md`, type=nation, status=draft) - 탐색 힌트: 오아시스는 끝없는 사막 한가운데서도 누구나 마실 물과 머물 자리, 내일을 계획할 만큼의 삶을 약속하는 자유의 나라다. 영원의 오아시스와 거대한 물레방아, 태양을 정복한 수도 라의 황금과 흰 수로는 왕궁보다 먼저 공공의 안락함과 분배의 기적을 보여 준다. 이 나라가 자랑하는 자유는 우선 `오늘을 버틸 수 있다`는 안도에서 시작된다.
+- [올림피아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ffb6539b73c9815d.json) (`wiki/universe/realms/balance/nations/올림피아.md`, type=nation, status=draft) - 탐색 힌트: 올림피아는 빈 옥좌와 제전이 대륙의 시선을 끌어당기는 중앙 성도다. 이곳의 첫 얼굴은 흰 기둥, 긴 계단, 성가와 환호, 승화회랑과 성화단의 광휘가 한 장면으로 겹치는 눈부신 성역이며, 각국은 결국 자기 이름과 신앙과 패배와 희망을 이 무대 앞으로 들고 올라온다.
+- [우니오네](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d200f82780a9906c.json) (`wiki/universe/realms/balance/nations/우니오네.md`, type=nation, status=draft) - 탐색 힌트: 우니오네는 현실과 꿈이 붉은 수면을 사이에 두고 서로를 눌러 찍은 예술의 나라다. 연회와 가면, 샹들리에와 유리잔, 유랑 극단과 수몰 도시의 가스등이 물 위에 떠 있고, 수면 아래에서는 같은 몸짓이 비극과 악몽으로 번진다. 이 나라의 첫 얼굴은 퇴폐보다도 `현실이 허락하지 않은 결말을 가장 아름답게 다시 보여 주는 힘`으로 드러난다.
+- [파라디소](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_72605e0615031400.json) (`wiki/universe/realms/balance/nations/파라디소.md`, type=nation, status=draft) - 탐색 힌트: 파라디소는 9개의 궤도 고리와 9개의 궤도도시가 흰 빛을 중심으로 서로 다른 각도로 도는 평화의 나라다. 구름과 무지개, 백색 성역과 성가, 병원과 관제소가 하나의 질서처럼 이어지고, 시민들은 자기 순수와 절제가 하늘을 떠받친다고 믿는다. 이 나라의 첫 얼굴은 검은 비보다 먼저 눈부신 백색 낙원과 알고도 유지하는 미소다.
+- [플라센티아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b622bc1efcf2e840.json) (`wiki/universe/realms/balance/nations/플라센티아.md`, type=nation, status=draft) - 탐색 힌트: 플라센티아는 거신의 갈비뼈와 생체 숲이 맞물린 사냥의 나라다.
+
+# 인물 인덱스
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `132`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## axions
+
+- [엑시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e95598294421f084.json) (`wiki/characters/axions/index.md`, type=character_group, status=draft) - 탐색 힌트: 엑시온은 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권, 통치, 역사로 번역하는 하위신급 통치 얼굴이다.
+- [가인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_42e7297b9c172923.json) (`wiki/characters/axions/가인/index.md`, type=character, status=draft) - 탐색 힌트: 가인은 염한의 여제이자 황제 성좌의 엑시온으로, 혈육을 베고 천명을 쥐었으나 마지막 비무의 정당성을 계속 심문받는 패도의 통치자다.
+- [가인 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9c11d6ca14ab2130.json) (`wiki/characters/axions/가인/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 가인의 검은 머리와 붉은 눈, 몸보다 큰 여제 예복, 굴레의 가면, 원한검, 시기별 외형 변화를 다루는 외형 항목.
+- [마이더스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1f563c5ccb98f878.json) (`wiki/characters/axions/마이더스/index.md`, type=character, status=draft) - 탐색 힌트: 마이더스는 레이어드의 엑시온이자 글로벌 코텍스의 회장으로, 바벨의 상승 야망과 황금 의수의 절대 신용을 통해 도시를 기회와 담보의 시장으로 굴리는 폭군이다.
+- [마이더스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_af874f21279d1aca.json) (`wiki/characters/axions/마이더스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 마이더스의 50대 건장한 수트 실루엣, 금색 눈, 금이 간 황금 사자 신용 가면, 황금 의수와 계약 소품을 다루는 외형 항목.
+- [마텔다](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_354313d4f2acf424.json) (`wiki/characters/axions/마텔다/index.md`, type=character, status=draft) - 탐색 힌트: 마텔다는 오르딜리아의 엑시온이자 심판관으로, 무법의 공포를 막기 위해 반지와 결투 재판과 감시를 법으로 세우고 자기 자신까지 얼린 통치자다.
+- [마텔다 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_09b37b2397c017ce.json) (`wiki/characters/axions/마텔다/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 마텔다의 20대 중반 심판관 실루엣, 금발과 푸른 눈, 법정복과 군복의 혼합, 서리 파프니르 기사 바이저를 다루는 외형 항목.
+- [설리반](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_efcf35abbcccd479.json) (`wiki/characters/axions/설리반/index.md`, type=character, status=draft) - 탐색 힌트: 설리반은 파라디소의 엑시온이자 대주교로, 검은 비와 오멜라스의 비용을 공개해 평화를 유지하면서도 생존을 위해 감정과 사람을 선별하는 통치자다.
+- [설리반 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_373052d4497a7e94.json) (`wiki/characters/axions/설리반/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.
+- [엘피스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_792fad7d2b067212.json) (`wiki/characters/axions/엘피스/index.md`, type=character, status=draft) - 탐색 힌트: 엘피스는 판도라가 남긴 질문과 메테우스의 소각 사이에서 알렉시아의 하루를 유예로 버티게 만드는 계승자이자 진리 성좌의 엑시온이다.
+- [엘피스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce539693860afac9.json) (`wiki/characters/axions/엘피스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 엘피스의 청색 머리와 회색 눈, 피로한 관리자 실루엣, 작은 촛불과 질문 기록, 푸른 제어광을 다루는 외형 항목.
+- [유리디스 도리안 드 발루아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ebce86f03c6cf436.json) (`wiki/characters/axions/유리디스_도리안_드_발루아/index.md`, type=character, status=draft) - 탐색 힌트: 유리디스 도리안 드 발루아는 우니오네의 엑시온이자 스푸마토 왕실의 여왕으로, 꿈의 독성을 알면서도 침몰하는 현실을 견딜 만한 아름다운 장면으로 연출한다.
+- [유리디스 도리안 드 발루아 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_943db507f37a3cf5.json) (`wiki/characters/axions/유리디스_도리안_드_발루아/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 유리디스 도리안 드 발루아의 우아한 30~40대 여왕 실루엣, 금색 머리와 녹색 눈, 데칼코마니 무도회 가면, 붉은 수면과 젖은 소품을 다루는 외형 항목.
+- [제페토](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_595fcd72d7fbc726.json) (`wiki/characters/axions/제페토/index.md`, type=character, status=draft) - 탐색 힌트: 제페토는 플라센티아의 사냥 규율을 세운 엑시온이자 사냥꾼들의 스승이며, 죽은 아들 카를로를 되살리려는 집착으로 피노키오 계획과 고치 순환을 연 장로다.
+- [제페토 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a0be947aa6fa706f.json) (`wiki/characters/axions/제페토/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 제페토의 60대 사냥 장로 실루엣, 우락부락한 몸, 목각인형 전면 가면, 수지와 고치와 사냥 도구를 다루는 외형 항목.
+- [파우스트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5a90950680f4798e.json) (`wiki/characters/axions/파우스트/index.md`, type=character, status=draft) - 탐색 힌트: 파우스트는 오아시스의 왕이자 자유 성좌의 엑시온으로, 그레트헨의 상실 때문에 나라 전체를 반복되는 현재에 묶은 통치자다.
+- [파우스트 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c25a914bd95fbb65.json) (`wiki/characters/axions/파우스트/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.
+- [판도라](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4b66cf2c590d7211.json) (`wiki/characters/axions/판도라/index.md`, type=character, status=draft) - 탐색 힌트: 판도라는 알렉시아 건국기의 최초 질문을 오르가논에 입력한 맹인 학장이며, 나라를 살린 빛과 벌레의 재앙을 함께 연 건국기 엑시온이다.
+- [판도라 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b3bed979b42677a7.json) (`wiki/characters/axions/판도라/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.
+- [프로스페로](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c8e05d47909a1fef.json) (`wiki/characters/axions/프로스페로/index.md`, type=character, status=draft) - 탐색 힌트: 프로스페로는 마사오트의 엑시온이자 노틸러스의 선장으로, 탐험가 길드망과 바람 권능으로 유랑 국가를 이끌며 티폰의 추격을 자기 세대에서 끝내려는 복수자다.
+- [프로스페로 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_663c7c05554a0840.json) (`wiki/characters/axions/프로스페로/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 프로스페로의 40대 선장 실루엣, 긴 코트와 큰 모자, 찢어진 돛과 선장 해골표식이 합쳐진 전면 가면, 항로 소품을 다루는 외형 항목.
+
+## ensemble
+
+- [앙상블](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56f587c4cb5fd5fd.json) (`wiki/characters/ensemble/index.md`, type=character_group, status=draft) - 탐색 힌트: 앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.
+- [니그리스 알비우스 시트리노](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_31942f7facef1758.json) (`wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md`, type=character, status=draft) - 탐색 힌트: 용살자 니그리스, 중재자 알비우스, 불지기 시트리노로 이어지는 장수한 이데아 영체. 두 번의 세계 단절을 기억하며 저주받은 자들을 거두고 신 추방을 준비한다.
+- [니그리스 알비우스 시트리노 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8835f27f971e1afb.json) (`wiki/characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 니그리스 알비우스 시트리노의 계약자 육체, 후드, 재, 불씨 눈빛, 불지기 실루엣을 다루는 외형 항목.
+- [배신의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_014e1928ea621963.json) (`wiki/characters/ensemble/배신의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 공허 군단의 무명에서 붕괴의 참모, 죽음의 낙인, 균형계 탈주자로 이어진 파괴계 인물. 결과만을 증명으로 삼으며 에르고에게 새 이름을 요구한다.
+- [배신의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5d291f1a26b8e9fd.json) (`wiki/characters/ensemble/배신의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 배신의 펠시온의 후드 로브, 전갈 백골 가면, 은발과 보라 눈, 숨긴 가위 비수, 맨얼굴의 신뢰 유도 인상을 다루는 외형 항목.
+- [소피아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3c23e7d88b4ecc9d.json) (`wiki/characters/ensemble/소피아/index.md`, type=character, status=draft) - 탐색 힌트: 소피아는 용과 인간의 시대에 니그리스, 오피온과 함께 최초의 삼위를 이룬 인물이며, 에마나치온 이후 니그리스의 기억에 이성의 형태로 남아 지혜의 트리네아드 기원이 된다.
+- [오피온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5044dace44377f80.json) (`wiki/characters/ensemble/오피온/index.md`, type=character, status=draft) - 탐색 힌트: 오피온은 용왕의 의지가 흰 뱀으로 남은 존재이며, 니그리스와 소피아와 함께 최초의 삼위를 이룬 뒤 에마나치온 이후 부러진 아조트에 본능과 의지로 깃든다.
+
+## fellsions
+
+- [펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_09fc33f28d61cfb1.json) (`wiki/characters/fellsions/index.md`, type=character_group, status=draft) - 탐색 힌트: 펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이며, 균형계에 침투해 각 나라의 상처와 혼란을 파괴계 언어로 벌리는 존재다.
+- [기근의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d0b1739c815fe288.json) (`wiki/characters/fellsions/기근의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 기근의 펠시온은 살아 있는 세계를 농장으로 보고 생명력, 에너지, 수분을 반복 수확하는 죽음 군단의 수탈자다.
+- [기근의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fa7ab47137d7d077.json) (`wiki/characters/fellsions/기근의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 기근의 펠시온의 마른 세리형 실루엣, 작은 얼굴판, 장부와 빈 공간, 가뭄과 수탈의 건조한 인상을 다루는 외형 항목.
+- [기만의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c79dbf5afee5d615.json) (`wiki/characters/fellsions/기만의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 기만의 펠시온은 공허 출신의 덫 사냥꾼이며, 변환자재 마니아를 실, 정신 독, 안개, 경화 무기로 바꾸어 강자의 정신 에너지와 경험을 사냥한다.
+- [기만의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_73a5a621060c653a.json) (`wiki/characters/fellsions/기만의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 기만의 펠시온의 안나 위장, 그림자형 덫 사냥꾼 본모습, 거미 백골 가면, 실과 정신 독을 다루는 외형 항목.
+- [모방의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cf3c85a6624506df.json) (`wiki/characters/fellsions/모방의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 모방의 펠시온은 공허 출신의 학습형 약탈자이며, 만화경의 눈으로 강자의 움직임과 에너지 흐름을 분해해 기술을 자기 방식으로 재조합한다.
+- [모방의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6bf7ab38a59f19b9.json) (`wiki/characters/fellsions/모방의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 모방의 펠시온의 20대 중후반 남성 실루엣, 광대 배우 위장, 사마귀 백골 전면 가면, 사마귀 쌍곡도를 다루는 외형 항목.
+- [속박의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f08c033bd0d7327c.json) (`wiki/characters/fellsions/속박의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 속박의 펠시온은 사령공예로 업연을 만든 장인이며, 자기 피로 벼린 사슬을 통해 걸작에게 역으로 조종당하는 인형사다.
+- [속박의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_38a08c06ec485871.json) (`wiki/characters/fellsions/속박의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 속박의 펠시온의 굽은 인형사 실루엣, 업연이 주도권을 쥔 이인무, 지네 백골 가면, 업연과 피사슬을 다루는 외형 항목.
+- [역병의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5a1c5946c02bcfe8.json) (`wiki/characters/fellsions/역병의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 역병의 펠시온은 생명을 질병으로 해석하고 부패를 죽음의 안식으로 돌려보내는 의식으로 믿는 죽음 군단의 대주교다.
+- [역병의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fe1eb6b47941b747.json) (`wiki/characters/fellsions/역병의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 역병의 펠시온의 검은 대주교 실루엣, 동충하초 백골 부리 가면, 포자향, 균사와 부패의 복음 인상을 다루는 외형 항목.
+- [정복의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_30190349d013877e.json) (`wiki/characters/fellsions/정복의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 정복의 펠시온은 죽음 군단의 첫 번째 검이자 방패로, 골화 갑주와 정면 돌파를 통해 죽음의 질서를 수행하는 대장군이다.
+- [정복의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_919b5792ba46d0d6.json) (`wiki/characters/fellsions/정복의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 정복의 펠시온의 거대한 대장군 실루엣, 백골 갑주, 장수풍뎅이형 백골 투구, 뼈 무기, 죽음 군단의 지휘 압력을 다루는 외형 항목.
+- [정적의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4d2d67118c4f975b.json) (`wiki/characters/fellsions/정적의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 정적의 펠시온은 절대청각이 만든 소리 지옥 속에서 붕괴의 선율과 찰나의 정적을 갈망하는 검귀다.
+- [정적의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_67d9ff6fc9cb90f9.json) (`wiki/characters/fellsions/정적의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 정적의 펠시온의 검은 무사복, 머리를 수평으로 관통한 귀마개 검, 닫힌 입의 귀뚜라미 백골 가면, 발도 직전의 정적을 다루는 외형 항목.
+- [침식의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_20fe87f0aa507d31.json) (`wiki/characters/fellsions/침식의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 침식의 펠시온은 자기 육체를 부적이자 감옥으로 삼아 내면의 파괴신 수라를 봉인한 죄수다.
+- [침식의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b021d4f35369b635.json) (`wiki/characters/fellsions/침식의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 침식의 펠시온의 금욕적 죄수 실루엣, 송장벌레 백골 가면, 붉은 봉인 문신, 검은 침식 문신, 수라가 새어 나오는 몸의 감옥 인상을 다루는 외형 항목.
+
+## historical
+
+- [역사적 행위자](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fcbc929a66142766.json) (`wiki/characters/historical/index.md`, type=overview, status=draft) - 탐색 힌트: 역사적 행위자는 본편 이전 세계사의 큰 구조를 움직인 창조주, 태고 행위자, 시대 전환의 주체를 모으는 인물 하위 항목이다.
+- [아난케](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_36361a9cf13a68f3.json) (`wiki/characters/historical/아난케.md`, type=character, status=draft) - 탐색 힌트: 아난케는 필연의 물레 아트락토스를 돌려 우주를 짜던 창조주이며, 풀림과 끊김 사이의 장력 딜레마 끝에 마지막 우주를 남긴 방직공이다.
+
+## index.md
+
+- [인물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_106a600b3fdaef81.json) (`wiki/characters/index.md`, type=overview, status=draft) - 탐색 힌트: 인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.
+
+## main_party
+
+- [주인공 파티](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3088cbcc7dfd698c.json) (`wiki/characters/main_party/index.md`, type=character_group, status=draft) - 탐색 힌트: 주인공 파티는 삼위의 군상 1부에서 아홉 나라의 균열을 따라 이동하며 세계의 법칙과 각자의 판결을 함께 드러내는 주인공 집단이다.
+- [길티어](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_df8592bd4f90cb57.json) (`wiki/characters/main_party/길티어/index.md`, type=character, status=draft) - 탐색 힌트: 길티어는 전설적인 사냥단 마스크맨의 전 리더이자 파티의 감시자다. 그는 곧 다칠 사람을 먼저 보고, 물통과 식사, 장비와 도주선을 확인하며, 한 번 더 밀어붙이면 누가 쓰러질지 보이는 순간 제일 먼저 몸을 들이민다.
+- [길티어 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2c83b15ea036dc88.json) (`wiki/characters/main_party/길티어/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 길티어의 30대 현장 사냥꾼 인상, 마스크맨 잔재, 천이 감긴 사냥용 장총, 낡은 생활 장비를 다루는 외형 항목.
+- [길티어 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0db044d53726f9b9.json) (`wiki/characters/main_party/길티어/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.
+- [단테](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_08d2d2331ddb4265.json) (`wiki/characters/main_party/단테/index.md`, type=character, status=draft) - 탐색 힌트: 단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.
+- [단테 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_01e73c6063b957a1.json) (`wiki/characters/main_party/단테/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 단테의 접힌 지하 생존자 실루엣, 눌린 녹색 머리와 흐린 벽안, 한 사람 앞에서 살아나는 기사선을 다루는 외형 항목.
+- [단테 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f7b77db2f8074d10.json) (`wiki/characters/main_party/단테/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 단테의 진흙, 얼음, 별, 죄, 결투재판, 광견성을 테마곡과 가사 모티프로 다루는 음악 항목.
+- [단테 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bb23bdaab11f5dff.json) (`wiki/characters/main_party/단테/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.
+- [블랑](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2060ee2608647347.json) (`wiki/characters/main_party/블랑/index.md`, type=character, status=draft) - 탐색 힌트: 블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.
+- [블랑 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7207679bfb299b59.json) (`wiki/characters/main_party/블랑/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 블랑의 공용 몸, 녹안, 검은 조끼, 닫힌 레이어드 스커트, 의료가방, 리볼버, 이미지 생성 기준을 다루는 외형 항목.
+- [블랑 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_48f777360caf1d92.json) (`wiki/characters/main_party/블랑/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.
+- [세레나](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fae9b6a12ec29dda.json) (`wiki/characters/main_party/세레나/index.md`, type=character, status=draft) - 탐색 힌트: 세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.
+- [세레나 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f0c7c514f997ded0.json) (`wiki/characters/main_party/세레나/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.
+- [세레나 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f5dc185063336a8f.json) (`wiki/characters/main_party/세레나/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.
+- [스칼렛](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ffab697840829384.json) (`wiki/characters/main_party/스칼렛/index.md`, type=character, status=draft) - 탐색 힌트: 스칼렛은 같은 몸 안에서 더러운 역할과 시선의 무게를 먼저 떠안는 배우이자 탐정이다. 위험한 웃음과 무대성은 블랑에게 향하는 시선을 자기 쪽으로 돌리는 생존 장치이며, 엘리자베스라는 이름 밑에서 지워지지 않으려는 사람의 버팀이 함께 남는다.
+- [스칼렛 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7610e3feb05faa0c.json) (`wiki/characters/main_party/스칼렛/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.
+- [스칼렛 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5fbbe6ba28a6c6fc.json) (`wiki/characters/main_party/스칼렛/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.
+- [아인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f6a85596e4016a32.json) (`wiki/characters/main_party/아인/index.md`, type=character, status=draft) - 탐색 힌트: 아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.
+- [아인 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3ef789818633e3db.json) (`wiki/characters/main_party/아인/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.
+- [아인 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_682ebab80cc6f6e1.json) (`wiki/characters/main_party/아인/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.
+- [아인 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d69c6cc9e386afa2.json) (`wiki/characters/main_party/아인/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.
+- [엘리자베스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_58f4a49eba94a74f.json) (`wiki/characters/main_party/엘리자베스/index.md`, type=character, status=draft) - 탐색 힌트: 엘리자베스는 마고리아가 하나의 꿈과 세 시신으로 재구성한 공용 몸이다. 블랑과 스칼렛은 그 몸 안에서 서로 다른 전면으로 서며, 몸의 상처와 피로는 이어지고 시선과 말투와 의지는 교체된다.
+- [엘리자베스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_80e6bc6e2a9c33bb.json) (`wiki/characters/main_party/엘리자베스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.
+- [옌](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_770119ae93377230.json) (`wiki/characters/main_party/옌/index.md`, type=character, status=draft) - 탐색 힌트: 옌은 감정과 분위기와 욕망의 움직임을 색으로 너무 빨리 읽는 아이다. 흰 성녀의 조용한 사회어는 생존용 막이며, 그 막이 깨지면 숨은 색을 끌어내고 싶어 하는 화가의 호기심이 전면으로 튄다.
+- [옌 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a4d3dd3636caa59.json) (`wiki/characters/main_party/옌/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.
+- [옌 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d286cf09133e2694.json) (`wiki/characters/main_party/옌/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 옌의 흰 막, 색을 섞는 손, 덧칠된 무지개, 악기 탈락 문법을 테마곡과 가사 모티프로 다루는 음악 항목.
+- [옌 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed72ad75168c3550.json) (`wiki/characters/main_party/옌/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.
+- [진](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f2c48f15acbf5026.json) (`wiki/characters/main_party/진/index.md`, type=character, status=draft) - 탐색 힌트: 진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.
+- [진 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a402773e1ebc9597.json) (`wiki/characters/main_party/진/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 진의 더티 블론드, 바랜 선글라스, 구겨진 현장복, 워크맨과 카세트, 먼저 움직이는 발끝을 다루는 외형 항목.
+- [진 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e38cf4f3fc61468f.json) (`wiki/characters/main_party/진/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 진의 워크맨, 빌려 피운 번갯불, 약속, 오늘과 내일, 장르 변주를 테마곡과 가사 모티프로 다루는 음악 항목.
+- [진 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b3415037cf355fd1.json) (`wiki/characters/main_party/진/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.
+- [파티](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ae9b5359d2e08055.json) (`wiki/characters/main_party/파티/index.md`, type=character_group, status=draft) - 탐색 힌트: 파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.
+- [파티 시각 문법](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb228cc2fc5c46cb.json) (`wiki/characters/main_party/파티/support/visual_grammar.md`, type=character_support, status=draft) - 탐색 힌트: 파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.
+
+## personas
+
+- [페르소나](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7c8403eb1f2a2fe5.json) (`wiki/characters/personas/index.md`, type=character_group, status=draft) - 탐색 힌트: 페르소나는 아홉 아타노르 잔재, 보물, 프로토타입 필로시온이 합성되어 태어난 장치 심층 관리자 의식이자 표층 대변자 인격이다.
+- [메피스토](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6c1b4be6614275d9.json) (`wiki/characters/personas/메피스토/index.md`, type=character, status=draft) - 탐색 힌트: 메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.
+- [메피스토 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_485ebeac831724c5.json) (`wiki/characters/personas/메피스토/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.
+- [미노스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0a4d6793717c9dc9.json) (`wiki/characters/personas/미노스/index.md`, type=character, status=draft) - 탐색 힌트: 미노스는 오르딜리아의 페르소나로, 페리페테이아와 파놉티콘을 통해 정의와 질서를 하나의 재판 무대로 압축하는 연출자다.
+- [미노스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_13351a3343adfca7.json) (`wiki/characters/personas/미노스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.
+- [빈센트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e4d6c40bf3d0405d.json) (`wiki/characters/personas/빈센트/index.md`, type=character, status=draft) - 탐색 힌트: 빈센트는 우니오네의 페르소나로, 미메시스와 마고리아를 통해 가장 아름다운 출구를 열고 현실을 꿈 쪽으로 기울이는 꿈의 큐레이터다.
+- [빈센트 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3b85dfdffa23c8c2.json) (`wiki/characters/personas/빈센트/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.
+- [에어리얼](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3959b6f64a3562f5.json) (`wiki/characters/personas/에어리얼/index.md`, type=character, status=draft) - 탐색 힌트: 에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.
+- [에어리얼 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_298c9cc88c749347.json) (`wiki/characters/personas/에어리얼/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.
+- [카론](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7a417733898806fe.json) (`wiki/characters/personas/카론/index.md`, type=character, status=draft) - 탐색 힌트: 카론은 레이어드의 페르소나로, 카타바시스와 스틱스를 통해 인간의 불과 가능성을 담보로 잡는 영혼의 전당포 주인이다.
+- [카론 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b2acc8e62f50d057.json) (`wiki/characters/personas/카론/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.
+- [탈레스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_76092106a329d77e.json) (`wiki/characters/personas/탈레스/index.md`, type=character, status=draft) - 탐색 힌트: 탈레스는 알렉시아의 페르소나로, 아나그노리시스와 오르가논을 통해 질문을 멈추지 못하게 만들고 인간과 도시를 연산 자원으로 바라보게 하는 질문당의 목소리다.
+- [탈레스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce20d090386715c3.json) (`wiki/characters/personas/탈레스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.
+- [투르키나](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_31bf3c95c90b0aa1.json) (`wiki/characters/personas/투르키나/index.md`, type=character, status=draft) - 탐색 힌트: 투르키나는 플라센티아의 페르소나로, 코레이아와 크리살리스에서 생태 복원 명령과 인간의 애도를 섞어 메시아 씨앗을 만들려는 푸른 요정의 얼굴이다.
+- [투르키나 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2dbce8f4840ba35a.json) (`wiki/characters/personas/투르키나/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 투르키나의 뒤틀린 엄격한 안내자 실루엣, 푸른 요정 표면, 사냥꾼 소품, 메시아 씨앗과 숲 매듭을 다루는 외형 항목.
+- [헬렌](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_21b88812e0f05aff.json) (`wiki/characters/personas/헬렌/index.md`, type=character, status=draft) - 탐색 힌트: 헬렌은 파라디소의 페르소나로, 카타르시스와 에우카리스에서 보이지 않는 고통을 아래로 배분해 평화로운 표면을 유지하는 하얀 성녀의 선별자다.
+- [헬렌 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8672d068085e9c91.json) (`wiki/characters/personas/헬렌/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 헬렌의 10대 중반 하얀 상담자 실루엣, 눈가 천, 지팡이, 손 접촉, 물결 반응, 흰 낙원과 검은 비를 다루는 외형 항목.
+- [황 노인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f493d4656267b7e8.json) (`wiki/characters/personas/황_노인/index.md`, type=character, status=draft) - 탐색 힌트: 황 노인은 염한의 페르소나로, 아곤의 시지기와 원한검의 천명 심문을 사람의 얼굴로 만들고 상처를 황제의 자격으로 번역하는 밤의 조언자다.
+- [황 노인 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_82b0b854895c09aa.json) (`wiki/characters/personas/황_노인/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 황 노인의 시니컬한 70대 동양 복식 실루엣, 바둑판 프레임과 칼 균열 얼굴, 원한검과 붉은 달을 다루는 외형 항목.
+
+## savior_candidates
+
+- [구세주 후보](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_830bfdb501cc3309.json) (`wiki/characters/savior_candidates/index.md`, type=character_group, status=draft) - 탐색 힌트: 아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.
+- [랄](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_db99133416a49e67.json) (`wiki/characters/savior_candidates/랄/index.md`, type=character, status=draft) - 탐색 힌트: 자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.
+- [랄 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5078ebf75c346448.json) (`wiki/characters/savior_candidates/랄/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 랄의 20대 초반 슬림 실루엣, 코랄 머리와 흰 눈, 기록 태그, `1위를 유지하라` 메모, 체스 습관을 다루는 외형 항목.
+- [로렌초 카발리에리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_67d2ed6c73f5444d.json) (`wiki/characters/savior_candidates/로렌초_카발리에리/index.md`, type=character, status=draft) - 탐색 힌트: 로렌초 카발리에리는 우니오네의 구세주 후보이자 유랑 서커스 단장으로, 꿈과 공연을 빌려 주고 관객을 현실로 돌려보내는 책임을 진다.
+- [로렌초 카발리에리 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8b8aebcd789c73d7.json) (`wiki/characters/savior_candidates/로렌초_카발리에리/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 로렌초 카발리에리의 떠돌이 서커스 단장 실루엣, 낡은 연극적 얼굴 가림, 초대장과 공연 허가, 쇼 이후 책임을 다루는 외형 항목.
+- [루시리엘](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f99e444cfa997a79.json) (`wiki/characters/savior_candidates/루시리엘/index.md`, type=character, status=draft) - 탐색 힌트: 루시리엘은 파라디소의 구세주 후보이자 성기사로, 평화와 자비를 몸으로 실행하며 올림피아 순위로 약소국의 하늘을 떠받치는 현실적 방패다.
+- [루시리엘 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_848328c54a36fd1a.json) (`wiki/characters/savior_candidates/루시리엘/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 루시리엘의 백금발 성기사 실루엣, 작은 방패, 닳은 장갑, 환자에게 뻗은 손, 파라디소의 현실적 방패성을 다루는 외형 항목.
+- [메테우스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c08d768deecd5227.json) (`wiki/characters/savior_candidates/메테우스/index.md`, type=character, status=draft) - 탐색 힌트: 메테우스는 알렉시아의 구세주 후보이자 인퀴지터 집행자로, 판도라가 남긴 질문과 도시의 오염 사이에서 연결을 끊는 불을 든다.
+- [메테우스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9fce2e34e4c1cd04.json) (`wiki/characters/savior_candidates/메테우스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.
+- [발데마르](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb5f27504f302c2e.json) (`wiki/characters/savior_candidates/발데마르/index.md`, type=character, status=draft) - 탐색 힌트: 발데마르는 오르딜리아의 구세주 후보이자 추방된 중앙기사로, 루시아 사건과 단테에게 남긴 저주를 사과로 짊어지는 낡은 기사다.
+- [발데마르 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4a1743b219395638.json) (`wiki/characters/savior_candidates/발데마르/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 발데마르의 60~70대 추방 중앙기사 실루엣, 낡은 중앙기사 코트, 오래 관리한 검, 낮은 사과 자세를 다루는 외형 항목.
+- [아백](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9eb2054c223ee828.json) (`wiki/characters/savior_candidates/아백/index.md`, type=character, status=draft) - 탐색 힌트: 아백은 염한의 대장군이자 구세주 후보로, 올림피아 순수 무력 1위이며 가인의 옥좌와 용인 병사의 명예를 함께 떠받치는 강함의 기준이다.
+- [아백 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b92fc6bafd29c32b.json) (`wiki/characters/savior_candidates/아백/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 아백의 용 같은 인간 실루엣, 이무기 용기사 가면, 낮은 중심, 무거운 손과 전장의 흔적을 다루는 외형 항목.
+- [카스파르](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7bf6597c8642d4dd.json) (`wiki/characters/savior_candidates/카스파르/index.md`, type=character, status=draft) - 탐색 힌트: 카스파르는 플라센티아의 구세주 후보이자 마스크맨 현 리더로, 길티어가 남긴 실패와 역할 가면을 계약 사냥단 체계로 재건한 운영형 사냥꾼이다.
+- [카스파르 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5ebd5dd51acade03.json) (`wiki/characters/savior_candidates/카스파르/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.
+- [캘리번](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d709f85ea1d2d146.json) (`wiki/characters/savior_candidates/캘리번/index.md`, type=character, status=draft) - 탐색 힌트: 마사오트의 구세주 후보이자 탐험가 길드 우니오네 지부장. 호탕하고 시끄러운 탐험가지만, 금지 심층과 프로스페로의 감시선에 걸린 인물이다.
+- [캘리번 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c2878456edb36318.json) (`wiki/characters/savior_candidates/캘리번/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.
+- [케르베로스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b41a51d599acb4b2.json) (`wiki/characters/savior_candidates/케르베로스/index.md`, type=character, status=draft) - 탐색 힌트: 케르베로스는 레이어드의 구세주 후보이자 마이더스 전속 용병으로, 자기 가치를 가격화한 올림피아 2위이며 카론의 헤라클레스 조건에 묶여 있다.
+- [케르베로스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_83ed8d3098a35abb.json) (`wiki/characters/savior_candidates/케르베로스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.
+
+## trineads
+
+- [트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed488eec4d90ec3a.json) (`wiki/characters/trineads/index.md`, type=character_group, status=draft) - 탐색 힌트: 트리네아드는 세 세계의 상위 신격과 미덕, 왕권이 이름과 사건으로 드러나는 존재 층위다.
+- [감독](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d916d1997fb02d74.json) (`wiki/characters/trineads/감독/index.md`, type=character, status=draft) - 탐색 힌트: 감독은 창조계의 총책임자이자 균형계를 거대한 비극 무대로 재설계한 연출가다. 그녀는 창조주로 믿은 지혜에게 도구처럼 소모되었다는 배신감 속에서 구원, 희망, 사랑, 미래를 거짓으로 판정하고, 파국 앞에서 폭발하는 순간의 감정만을 현실의 진실로 여긴다.
+- [감독 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a9937415fe8842ac.json) (`wiki/characters/trineads/감독/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 감독의 알레인 원형, 백안의 공작 가면, 창조계 총책임자의 외형 표지를 다루는 외형 항목.
+- [공허의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d257dd9c8dd1303c.json) (`wiki/characters/trineads/공허의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 공허의 트리네아드는 꿈의 보물에서 태어난 파괴계의 나태한 왕이다. 그는 파괴와 감정의 축에서 이름과 지배를 피하려는 자유, 아무것도 하지 않는 방치, 약자가 살아남기 위해 익힌 생존기술의 원천을 함께 품는다.
+- [라케시스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b58aee9254f51d0c.json) (`wiki/characters/trineads/라케시스/index.md`, type=character, status=draft) - 탐색 힌트: 라케시스는 이해의 보물에서 태어난 지혜의 트리네아드다. 그녀는 인격을 유지한 관찰자이며, 아조트와 세 가면, 조작된 역사, 구세주예언을 통해 풀림을 넘어설 초인을 찾으려 한다.
+- [라케시스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_acaaf1e3ed3d2505.json) (`wiki/characters/trineads/라케시스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 라케시스의 소피아 계승 외형, 흰빛 인상, 가면별 외형 기준을 다루는 외형 항목.
+- [생명의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7163bad6c5786817.json) (`wiki/characters/trineads/생명의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 생명의 트리네아드는 창조계에서 생체, 식생, 키메라, 4등급 판타즈마의 생명 계통을 붙드는 크리에이터다. 그녀의 판단 중심은 치유보다 창조에 있으며, 책임과 윤리보다 죽음을 넘어 살아 움직이는 성취에 먼저 반응한다.
+- [에르고](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_15aa137894db4c42.json) (`wiki/characters/trineads/에르고/index.md`, type=character, status=draft) - 탐색 힌트: 에르고는 리그레드의 이상이 파괴계 방식으로 뒤틀리고 육화된 왕이다. 그는 눈앞에 세워진 불가능이라는 벽을 직접 깨뜨리는 행위에 존재 이유를 둔다. 시스템, 운명, 서열, 법칙, 세계 구조까지도 도전 대상이며, 붕괴는 불가능하다는 판정 자체를 찢는 신격이다.
+- [에르고 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ec2bd84bc2b48b8b.json) (`wiki/characters/trineads/에르고/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 에르고의 리그레드 원형, 흑사자 왕권, 백골 가면, 균형계 강림 뒤의 외형 표지를 다루는 외형 항목.
+- [용기의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5a615af596526783.json) (`wiki/characters/trineads/용기의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 용기의 트리네아드는 불멸의 보물에서 태어난 균형계 상위 신격이다. 그녀는 균형과 본능의 축에서 약자를 지키려는 직선적인 수호신이었으며, 아조트가 번 시간 속에서 아홉 지도자에게 나뉜 위상은 엑시온 체계의 기원이 되었다. 이후 용기는 창조계 방향의 경계인 용기의문을 세우며 인격을 잃고 불굴의 방벽에 잔향을 남겼다.
+- [자연의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a9256edd51792e24.json) (`wiki/characters/trineads/자연의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 자연의 트리네아드는 창조계에서 환경, 계절, 재해, 산출과 소모의 균형을 굴리는 시스템 관리자다. 그녀는 감독의 비극 무대가 오래 지속되도록 지형과 순환을 깔고, 4등급 판타즈마를 세계의 노폐물을 뒤집는 거대한 태풍처럼 읽는다.
+- [절제의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_12c240cf3e3a9ccc.json) (`wiki/characters/trineads/절제의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 절제의 트리네아드는 순수의 보물에서 태어난 균형계 상위 신격이다. 그녀는 균형과 감정의 축에서 과열과 침범을 억제하는 심판관이었으며, 아조트가 번 시간 속에서 아홉 지도자에게 나뉜 위상은 엑시온 질서의 기원이 되었다. 이후 대공명기 파괴계 압력이 실제 균열로 드러나자 절제의문을 세우며 인격을 잃고 위상 안정의 잔향을 남겼다.
+- [죽음의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8d2e06cde5315617.json) (`wiki/characters/trineads/죽음의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 죽음의 트리네아드는 영원의 보물에서 태어난 파괴계의 절대 왕이다. 그는 파괴와 이성의 축에서 고요한 종말의 신탁을 받드는 사도로 자신을 세우고, 생존 전쟁 끝에 죽음 군단과 파괴계의 서열을 정리한 뒤 균형계 침공을 준비한다.
+
+# 존재와 생태 인덱스
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `31`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## beings:creatures
+
+- [하급 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d6a2c0f1a14f3640.json) (`wiki/beings/creatures/index.md`, type=being, status=draft) - 탐색 힌트: 하급 생물은 아홉 나라의 자연, 도시, 생활 환경이 낳은 원생 생물, 생활 생물, 직접 위협 생물이다.
+- [레이어드 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_301401584ebbfe8d.json) (`wiki/beings/creatures/레이어드_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 잔류젤, 수은근, 금열포, 계약해면이 누전·배관·폐기물 주변에서 이루는 레이어드 하층 미시 생태.
+- [레이어드 하층 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_aa6b0473432621d7.json) (`wiki/beings/creatures/레이어드_하층_생태.md`, type=being, status=draft) - 탐색 힌트: 전도막, 장부좀, 한도쥐 등이 비와 전선과 장부 주변에서 이루는 레이어드 하층 생활 생태.
+- [마사오트 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a07b6c7f699e9532.json) (`wiki/beings/creatures/마사오트_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 난류젤리, 증기근, 무게포가 선체와 하늘 항로의 열·기류·무게 조건에서 이루는 마사오트 미시 생태.
+- [마사오트 항해 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed45f7097518fa4c.json) (`wiki/beings/creatures/마사오트_항해_생태.md`, type=being, status=draft) - 탐색 힌트: 구름쌀, 돛막균, 봉투돛새 등이 노틸러스호와 길드선 주변에서 이루는 마사오트 항해 생태.
+- [알렉시아 동굴·서가 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a95a9ffa523f3fa.json) (`wiki/beings/creatures/알렉시아_동굴_서가_생태.md`, type=being, status=draft) - 탐색 힌트: 청막균, 색인좀, 에키드나 벌레군 등이 푸른 냉광과 서가와 산란계 주변에서 이루는 알렉시아 동굴·서가 생태.
+- [알렉시아 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ac7a1dc793b8b1d4.json) (`wiki/beings/creatures/알렉시아_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 척삭군, 유리근막, 흑수해면이 지하 수분과 수정벽과 잉크 배수로 주변에서 이루는 알렉시아 미시 군체.
+- [플라센티아 숲 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_578529c9721dc00c.json) (`wiki/beings/creatures/플라센티아_숲_생태.md`, type=being, status=draft) - 탐색 힌트: 갈비이끼, 거죽피막, 매듭덩굴 등이 인간 신호와 사냥 숲 주변에서 이루는 플라센티아 숲 생태.
+- [플라센티아 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2b50a63bc7af3c9a.json) (`wiki/beings/creatures/플라센티아_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 살덧막, 헛발점균, 양분젤 등이 고치와 심층 분해층 주변에서 이루는 플라센티아 숲 심층 미시 생태.
+
+## beings:dragonkin
+
+- [용 계열](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7f1095070e0de710.json) (`wiki/beings/dragonkin/index.md`, type=being, status=draft) - 탐색 힌트: 용 계열은 용왕과 아홉 용, 용인처럼 환상과 마니아, 용의 질서에 닿은 존재들을 묶는 존재 축이다.
+- [아홉 용](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e37ce208b1052471.json) (`wiki/beings/dragonkin/아홉_용.md`, type=being, status=draft) - 탐색 힌트: 아홉 용은 용왕의 권능이 자연의 공포와 경외를 입고 갈라진 1시대의 원본 용들이다.
+- [용인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dee63af2813a3416.json) (`wiki/beings/dragonkin/용인.md`, type=being, status=draft) - 탐색 힌트: 용인은 용과 인간의 시대에 형성된 용인 혈통이 삼계 환경에 적응하며 분화한 지성체 집단이다.
+
+## beings:index.md
+
+- [존재](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_247b1e27f24852b3.json) (`wiki/beings/index.md`, type=being, status=draft) - 탐색 힌트: 존재는 하급 생물, 지역 생태, 용 계열, 판타즈마처럼 생명, 괴생태, 현상체의 작동으로 읽히는 대상이다.
+
+## beings:phantasmas
+
+- [판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8eab91959751ac58.json) (`wiki/beings/phantasmas/index.md`, type=being, status=draft) - 탐색 힌트: 판타즈마는 부정 이데아, 이름, 국가 환경, 용의 잔해가 몸과 재생 조건을 얻은 괴생태 존재다.
+- [레이어드 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d56b4e334a3680dd.json) (`wiki/beings/phantasmas/레이어드_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 부도, 추심, 한도, 시세를 중심으로 구성된 레이어드의 2등급 판타즈마군.
+- [레이어드 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4039b7adc0492e65.json) (`wiki/beings/phantasmas/레이어드_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 크레스트, 미라쥬, 키사라기 권역의 역사적 판타즈마를 중심으로 구성된 레이어드의 3등급 판타즈마군.
+- [마사오트 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7614d08a87f94d90.json) (`wiki/beings/phantasmas/마사오트_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 미착, 접현, 추락을 중심으로 구성된 마사오트의 2등급 판타즈마군.
+- [마사오트 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_61fa5fe5463aad97.json) (`wiki/beings/phantasmas/마사오트_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 호출, 좌초, 표류, 강탈을 중심으로 구성된 마사오트의 3등급 판타즈마군.
+- [망상의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_851c33a5de58d867.json) (`wiki/beings/phantasmas/망상의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 망상이 자애로운 여인의 미끼를 매단 채 어둠 속에서 끝없이 새끼를 뿌려 대는 판타즈마.
+- [부패의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bee0d2046bcee5dd.json) (`wiki/beings/phantasmas/부패의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 부패가 숲과 바위와 시체를 한 심장에 뒤엉켜 끝없이 다시 자라나는 판타즈마.
+- [분노의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f68980e46e78f3fc.json) (`wiki/beings/phantasmas/분노의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 분노가 얼음과 불을 한 몸에 꿰어 압축한 채 폭발 직전으로 유지되는 판타즈마.
+- [알렉시아 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6483f200921f343b.json) (`wiki/beings/phantasmas/알렉시아_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 타음, 정답, 백지를 중심으로 구성된 알렉시아의 2등급 판타즈마군.
+- [알렉시아 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b9368270d29c91ac.json) (`wiki/beings/phantasmas/알렉시아_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 문답, 응시, 미궁, 불사를 중심으로 구성된 알렉시아의 3등급 판타즈마군.
+- [오만의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a5742741922e8531.json) (`wiki/beings/phantasmas/오만의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 오만이 자기 꼬리를 물고 끝없이 굴러가며 삶의 진행을 짓이기는 판타즈마.
+- [외면의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_43885516faf11f07.json) (`wiki/beings/phantasmas/외면의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 악몽이 별빛 가죽을 걸친 채 꿈의 가장 깊은 수면 아래서 유영하는 외면의 판타즈마.
+- [운명의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1262ad204526d985.json) (`wiki/beings/phantasmas/운명의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 끝이 보이지 않는 폭풍 그 자체가 살아 있는 운명처럼 쫓아오는 판타즈마.
+- [위선의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56f327bda210f45a.json) (`wiki/beings/phantasmas/위선의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 위선이 빛나는 상체와 검은 그림자 하체로 찢어진 채 서로를 검은 비로만 이어 붙인 판타즈마.
+- [증오의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e44d414ae905153b.json) (`wiki/beings/phantasmas/증오의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 증오가 전장의 잔철과 바다의 소금을 뒤집어쓴 채 끝없이 씹어 삼키는 판타즈마.
+- [탐욕의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_22d649f3e94c83ba.json) (`wiki/beings/phantasmas/탐욕의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 탐욕이 자본 흐름과 전력망을 먹고 도시 전체로 뻗어 나간 시스템형 판타즈마.
+- [플라센티아 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dae634a72b8a75c0.json) (`wiki/beings/phantasmas/플라센티아_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 오보, 매듭, 미끼, 허물, 귀환, 허언을 중심으로 구성된 플라센티아의 2등급 판타즈마군.
+- [플라센티아 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a572e7d284c85de.json) (`wiki/beings/phantasmas/플라센티아_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 사냥, 변태, 변목, 메아리를 중심으로 구성된 플라센티아의 3등급 판타즈마군.
+
+# 사건과 줄거리 인덱스
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `23`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## events:index.md
+
+- [사건](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5e6c21bc15aaeeca.json) (`wiki/events/index.md`, type=event, status=draft) - 탐색 힌트: 사건은 삼위일체 우주의 역사, 시대, 서사 진행, 국가별 전환점을 시간과 인과로 잇는 이야기 인과다.
+
+## events:singularities
+
+- [Fahrenheit 451](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_62b2ba5cc1d72c0a.json) (`wiki/events/singularities/Fahrenheit_451.md`, type=event, status=draft) - 탐색 힌트: 기록과 해석을 태우려는 압력이 도시의 지식 장치를 뒤집는 특이점.
+- [특이점](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a8008addca890c82.json) (`wiki/events/singularities/index.md`, type=event, status=draft) - 탐색 힌트: 특이점은 아홉 나라의 이념과 장치가 임계에 닿아 국가 질서와 파티의 인식을 다음 상태로 넘기는 전환 사건이다.
+- [건곤일척](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c5f1f3ae6fad3c51.json) (`wiki/events/singularities/건곤일척.md`, type=event, status=draft) - 탐색 힌트: 장기 정보 수집 끝에 티폰 토벌을 건 건곤일척의 원정 특이점.
+- [더 나은 내일](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed01729ee8122b11.json) (`wiki/events/singularities/더_나은_내일.md`, type=event, status=draft) - 탐색 힌트: 진과 사라, 구룡 CEO들의 하이스트, 마이더스의 황금 의수가 얽히며 레이어드가 신용의 도시에서 담보의 강가로 바뀌는 특이점.
+- [몽환포영](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fba08e6c9eb03cf9.json) (`wiki/events/singularities/몽환포영.md`, type=event, status=draft) - 탐색 힌트: 엘리자베스의 정체성 혼란과 두 엑시온의 독백이 겹치며, 무대와 현실의 경계가 흐려지는 특이점.
+- [백해무익](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2e542fd964d0a38a.json) (`wiki/events/singularities/백해무익.md`, type=event, status=draft) - 탐색 힌트: 인내가 무너질 때 백색 제어가 붕괴하고, 하늘과 지상이 함께 추락하는 특이점.
+- [사상누각](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_896599606f3359ce.json) (`wiki/events/singularities/사상누각.md`, type=event, status=draft) - 탐색 힌트: 프로젝트 아툼과 시간의 문이 폭주하고, 사막의 자유가 시간 루프로 뒤집히는 특이점.
+- [삼라만상](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a5ea13ab1afac7ac.json) (`wiki/events/singularities/삼라만상.md`, type=event, status=draft) - 탐색 힌트: 피노키오의 탄생과 피톤의 현현이 겹치며, 구원과 부패가 한몸이 되는 특이점.
+- [생사불문](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0832578badd999c9.json) (`wiki/events/singularities/생사불문.md`, type=event, status=draft) - 탐색 힌트: 마스터 링이 벗겨진 순간 스노우볼 디오라마가 세계의 뒤집힘으로 동기화되는 특이점.
+- [일월성신](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f98cb062f09b8f07.json) (`wiki/events/singularities/일월성신.md`, type=event, status=draft) - 탐색 힌트: 외세의 침공과 내부 저주가 겹치며, 1:1 비무가 만인대만인의 전장으로 번지는 특이점.
+
+## events:world_history
+
+- [세계사/1시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d6e388e5be5eb116.json) (`wiki/events/world_history/1시대_태초에서_에마나치온까지.md`, type=event, status=draft) - 탐색 힌트: 1시대는 아난케의 장력 딜레마, 끄트머리 우주, 세계수, 아홉 용, 최초의 삼위, 에마나치온까지 이어지는 세계사의 첫 붕괴 인과다.
+- [세계사/2시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1cbadb9aa9631d82.json) (`wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md`, type=event, status=draft) - 탐색 힌트: 2시대는 에마나치온 이후 메아리 전쟁, 아홉 영웅, 아홉 아타노르와 아홉 보물, 불지피기 의식, 칼시네이션까지 이어지는 두 번째 구원 실패의 시대다.
+- [세계사/3시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_eb0326149ddeb791.json) (`wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md`, type=event, status=draft) - 탐색 힌트: 3시대는 칼시네이션 이후 삼위일체 우주 재창조, 지혜의 창조주 참칭, 감독의 타락, 혼돈의 시대, 대공명, 삼위정교, 스트레인저, 대붕괴까지 이어지는 아홉 나라 체제 성립의 시대다.
+- [세계사](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f06d7466dd40dd4b.json) (`wiki/events/world_history/index.md`, type=event, status=draft) - 탐색 힌트: 세계사는 1시대, 2시대, 3시대 세계사 문서로 이어지는 프리퀄 인과 허브다.
+- [알레인의 동화책](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a68823035d6d8828.json) (`wiki/events/world_history/알레인의_동화책.md`, type=event_artifact, status=draft) - 탐색 힌트: 알레인의 동화책은 공포를 아이가 부를 수 있는 이름으로 다시 번역한 이야기 체계이며, 아홉 아타노르의 이름과 아홉 나라의 오독으로 이어지는 세계사 핵심 서사 물건이다.
+
+## events:삼위의_군상
+
+- [삼위의 군상/1부/아홉 나라의 시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d947fef64340dc04.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md`, type=event, status=draft) - 탐색 힌트: 삼위의 군상 1부에서 아홉 나라의 비극 구조가 파티 초반 사건, 기록 추적, 특이점 축으로 펼쳐지는 시대.
+- [마사오트 조우 실패와 알렉시아 기록 추적](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb3a6ef74b977591.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md`, type=event, status=draft) - 탐색 힌트: 아인이 위조 유령 의뢰로 반응선을 되던지고, 스트레인저와 라케의 개입을 거친 뒤 마사오트 조우가 실패하면서 알렉시아 기록 추적으로 방향을 바꾸는 에피소드.
+- [백색 폐허와 유령 의뢰](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2f364c42326b48d4.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md`, type=event, status=draft) - 탐색 힌트: 각기 다른 유령 의뢰를 받은 세 그룹이 백색 폐허의 지하 의식장에서 처음 충돌하고, 리그레드의 제지와 거래를 거쳐 임시 공조의 최소 조건을 얻는 시작 에피소드.
+- [삼위의 군상 프롤로그](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4933f878a0a0efbd.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md`, type=event, status=draft) - 탐색 힌트: 삼위의 군상 프롤로그는 아홉 나라의 비극 구조를 먼저 선언하는 도입 사건이다.
+- [삼위의 군상/1부/아홉 나라의 시대/줄거리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_da6fc6149289175b.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md`, type=story, status=draft) - 탐색 힌트: 삼위의 군상 1부 아홉 나라의 시대에서 아홉 나라 비극 구조, 파티 결성, 유령 의뢰, 마사오트 조우 실패, 알렉시아 기록 추적으로 이어지는 줄거리.
+- [삼위의 군상/2부/신들의 시대/줄거리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_efc482071b704108.json) (`wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md`, type=story, status=draft) - 탐색 힌트: 아홉 나라의 시대 이후 열린 삼계 무대에서, 신격과 계승자들이 오리진의 완성을 두고 충돌하는 2부의 큰 줄거리다.
+- [삼위의 군상/3부/초인의 시대/줄거리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cd047a94dc1d7724.json) (`wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md`, type=story, status=draft) - 탐색 힌트: 두 번째 불지피기 이후 완성된 오리진이 누구에게도 소유되지 않으면서, 초인적 선택들이 충돌하는 3부의 큰 줄거리다.
+
+# 검토와 결정 요청 인덱스
+
+- Generated: `2026-07-01T16:52:46Z`
+- Documents listed: `7`
+- 이 파일은 자동 요약이나 canon 근거가 아니라 탐색용 주제 인덱스다.
+- 항목의 탐색 힌트는 frontmatter summary 또는 첫 본문 문장에서 온다.
+- 설정 판단, 인용, 창작 반영 전에는 반드시 linked document/chunk를 fetch해서 원문을 확인한다.
+
+## review:contradictions.md
+
+- [충돌 기록](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_835e7131d0d928a0.json) (`wiki/review/contradictions.md`, type=review, status=draft) - 탐색 힌트: 알려진 모순, 긴장, 양립하기 어려운 해석을 기록하는 문서.
+
+## review:decision_requests
+
+- [판단 요청](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56c6da211a6067ae.json) (`wiki/review/decision_requests/index.md`, type=review, status=draft) - 탐색 힌트: 사용자 판단, 제안 승인, 상태 정리가 필요한 WIKI 항목 색인.
+
+## review:index.md
+
+- [검토와 결정 요청](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_54d059fd7a8308fb.json) (`wiki/review/index.md`, type=review, status=draft) - 탐색 힌트: WIKI 운영 중 필요한 판단 요청, 충돌, 항목 소유권 잠금, 본문 보강 대상 진입점.
+
+## review:ownership_locks.md
+
+- [항목 소유권 잠금](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7193dc9e34ed2540.json) (`wiki/review/ownership_locks.md`, type=review, status=user_locked) - 탐색 힌트: 비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.
+
+## review:template_gaps.md
+
+- [본문 보강 대상](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bb715ad1ad9d7128.json) (`wiki/review/template_gaps.md`, type=review, status=draft) - 탐색 힌트: 독자용 WIKI 항목에서 빈 섹션을 만들지 않기 위해 남겨 둔 활성 보강 대상과 리뉴얼 슬롯.
+
+## review:user_locks.md
+
+- [사용자 잠금과 창작 철학 메모](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a35ee6aca4cde628.json) (`wiki/review/user_locks.md`, type=review, status=user_locked) - 탐색 힌트: 위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.
+
+## review:worldbuilding_development_todo.md
+
+- [세계관 개발 TODO](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f393bc73e56329a4.json) (`wiki/review/worldbuilding_development_todo.md`, type=review, status=draft) - 탐색 힌트: 기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.
+
+# Compact Document Catalog
+
+- [하급 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d6a2c0f1a14f3640.json) (`wiki/beings/creatures/index.md`, type=being, status=draft) - 탐색 힌트: 하급 생물은 아홉 나라의 자연, 도시, 생활 환경이 낳은 원생 생물, 생활 생물, 직접 위협 생물이다.
+- [레이어드 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_301401584ebbfe8d.json) (`wiki/beings/creatures/레이어드_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 잔류젤, 수은근, 금열포, 계약해면이 누전·배관·폐기물 주변에서 이루는 레이어드 하층 미시 생태.
+- [레이어드 하층 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_aa6b0473432621d7.json) (`wiki/beings/creatures/레이어드_하층_생태.md`, type=being, status=draft) - 탐색 힌트: 전도막, 장부좀, 한도쥐 등이 비와 전선과 장부 주변에서 이루는 레이어드 하층 생활 생태.
+- [마사오트 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a07b6c7f699e9532.json) (`wiki/beings/creatures/마사오트_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 난류젤리, 증기근, 무게포가 선체와 하늘 항로의 열·기류·무게 조건에서 이루는 마사오트 미시 생태.
+- [마사오트 항해 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed45f7097518fa4c.json) (`wiki/beings/creatures/마사오트_항해_생태.md`, type=being, status=draft) - 탐색 힌트: 구름쌀, 돛막균, 봉투돛새 등이 노틸러스호와 길드선 주변에서 이루는 마사오트 항해 생태.
+- [알렉시아 동굴·서가 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a95a9ffa523f3fa.json) (`wiki/beings/creatures/알렉시아_동굴_서가_생태.md`, type=being, status=draft) - 탐색 힌트: 청막균, 색인좀, 에키드나 벌레군 등이 푸른 냉광과 서가와 산란계 주변에서 이루는 알렉시아 동굴·서가 생태.
+- [알렉시아 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ac7a1dc793b8b1d4.json) (`wiki/beings/creatures/알렉시아_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 척삭군, 유리근막, 흑수해면이 지하 수분과 수정벽과 잉크 배수로 주변에서 이루는 알렉시아 미시 군체.
+- [플라센티아 숲 생태](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_578529c9721dc00c.json) (`wiki/beings/creatures/플라센티아_숲_생태.md`, type=being, status=draft) - 탐색 힌트: 갈비이끼, 거죽피막, 매듭덩굴 등이 인간 신호와 사냥 숲 주변에서 이루는 플라센티아 숲 생태.
+- [플라센티아 원생 생물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2b50a63bc7af3c9a.json) (`wiki/beings/creatures/플라센티아_원생_생물.md`, type=being, status=draft) - 탐색 힌트: 살덧막, 헛발점균, 양분젤 등이 고치와 심층 분해층 주변에서 이루는 플라센티아 숲 심층 미시 생태.
+- [용 계열](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7f1095070e0de710.json) (`wiki/beings/dragonkin/index.md`, type=being, status=draft) - 탐색 힌트: 용 계열은 용왕과 아홉 용, 용인처럼 환상과 마니아, 용의 질서에 닿은 존재들을 묶는 존재 축이다.
+- [아홉 용](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e37ce208b1052471.json) (`wiki/beings/dragonkin/아홉_용.md`, type=being, status=draft) - 탐색 힌트: 아홉 용은 용왕의 권능이 자연의 공포와 경외를 입고 갈라진 1시대의 원본 용들이다.
+- [용인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dee63af2813a3416.json) (`wiki/beings/dragonkin/용인.md`, type=being, status=draft) - 탐색 힌트: 용인은 용과 인간의 시대에 형성된 용인 혈통이 삼계 환경에 적응하며 분화한 지성체 집단이다.
+- [존재](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_247b1e27f24852b3.json) (`wiki/beings/index.md`, type=being, status=draft) - 탐색 힌트: 존재는 하급 생물, 지역 생태, 용 계열, 판타즈마처럼 생명, 괴생태, 현상체의 작동으로 읽히는 대상이다.
+- [판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8eab91959751ac58.json) (`wiki/beings/phantasmas/index.md`, type=being, status=draft) - 탐색 힌트: 판타즈마는 부정 이데아, 이름, 국가 환경, 용의 잔해가 몸과 재생 조건을 얻은 괴생태 존재다.
+- [레이어드 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d56b4e334a3680dd.json) (`wiki/beings/phantasmas/레이어드_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 부도, 추심, 한도, 시세를 중심으로 구성된 레이어드의 2등급 판타즈마군.
+- [레이어드 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4039b7adc0492e65.json) (`wiki/beings/phantasmas/레이어드_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 크레스트, 미라쥬, 키사라기 권역의 역사적 판타즈마를 중심으로 구성된 레이어드의 3등급 판타즈마군.
+- [마사오트 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7614d08a87f94d90.json) (`wiki/beings/phantasmas/마사오트_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 미착, 접현, 추락을 중심으로 구성된 마사오트의 2등급 판타즈마군.
+- [마사오트 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_61fa5fe5463aad97.json) (`wiki/beings/phantasmas/마사오트_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 호출, 좌초, 표류, 강탈을 중심으로 구성된 마사오트의 3등급 판타즈마군.
+- [망상의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_851c33a5de58d867.json) (`wiki/beings/phantasmas/망상의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 망상이 자애로운 여인의 미끼를 매단 채 어둠 속에서 끝없이 새끼를 뿌려 대는 판타즈마.
+- [부패의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bee0d2046bcee5dd.json) (`wiki/beings/phantasmas/부패의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 부패가 숲과 바위와 시체를 한 심장에 뒤엉켜 끝없이 다시 자라나는 판타즈마.
+- [분노의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f68980e46e78f3fc.json) (`wiki/beings/phantasmas/분노의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 분노가 얼음과 불을 한 몸에 꿰어 압축한 채 폭발 직전으로 유지되는 판타즈마.
+- [알렉시아 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6483f200921f343b.json) (`wiki/beings/phantasmas/알렉시아_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 타음, 정답, 백지를 중심으로 구성된 알렉시아의 2등급 판타즈마군.
+- [알렉시아 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b9368270d29c91ac.json) (`wiki/beings/phantasmas/알렉시아_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 문답, 응시, 미궁, 불사를 중심으로 구성된 알렉시아의 3등급 판타즈마군.
+- [오만의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a5742741922e8531.json) (`wiki/beings/phantasmas/오만의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 오만이 자기 꼬리를 물고 끝없이 굴러가며 삶의 진행을 짓이기는 판타즈마.
+- [외면의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_43885516faf11f07.json) (`wiki/beings/phantasmas/외면의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 악몽이 별빛 가죽을 걸친 채 꿈의 가장 깊은 수면 아래서 유영하는 외면의 판타즈마.
+- [운명의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1262ad204526d985.json) (`wiki/beings/phantasmas/운명의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 끝이 보이지 않는 폭풍 그 자체가 살아 있는 운명처럼 쫓아오는 판타즈마.
+- [위선의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56f327bda210f45a.json) (`wiki/beings/phantasmas/위선의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 위선이 빛나는 상체와 검은 그림자 하체로 찢어진 채 서로를 검은 비로만 이어 붙인 판타즈마.
+- [증오의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e44d414ae905153b.json) (`wiki/beings/phantasmas/증오의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 증오가 전장의 잔철과 바다의 소금을 뒤집어쓴 채 끝없이 씹어 삼키는 판타즈마.
+- [탐욕의 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_22d649f3e94c83ba.json) (`wiki/beings/phantasmas/탐욕의_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 탐욕이 자본 흐름과 전력망을 먹고 도시 전체로 뻗어 나간 시스템형 판타즈마.
+- [플라센티아 2등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dae634a72b8a75c0.json) (`wiki/beings/phantasmas/플라센티아_2등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 오보, 매듭, 미끼, 허물, 귀환, 허언을 중심으로 구성된 플라센티아의 2등급 판타즈마군.
+- [플라센티아 3등급 판타즈마](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a572e7d284c85de.json) (`wiki/beings/phantasmas/플라센티아_3등급_판타즈마.md`, type=being, status=draft) - 탐색 힌트: 사냥, 변태, 변목, 메아리를 중심으로 구성된 플라센티아의 3등급 판타즈마군.
+- [엑시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e95598294421f084.json) (`wiki/characters/axions/index.md`, type=character_group, status=draft) - 탐색 힌트: 엑시온은 보물이 선택한 인간 숙주이자 나라와 아포라투스의 힘을 왕권, 통치, 역사로 번역하는 하위신급 통치 얼굴이다.
+- [가인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_42e7297b9c172923.json) (`wiki/characters/axions/가인/index.md`, type=character, status=draft) - 탐색 힌트: 가인은 염한의 여제이자 황제 성좌의 엑시온으로, 혈육을 베고 천명을 쥐었으나 마지막 비무의 정당성을 계속 심문받는 패도의 통치자다.
+- [가인 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9c11d6ca14ab2130.json) (`wiki/characters/axions/가인/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 가인의 검은 머리와 붉은 눈, 몸보다 큰 여제 예복, 굴레의 가면, 원한검, 시기별 외형 변화를 다루는 외형 항목.
+- [마이더스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1f563c5ccb98f878.json) (`wiki/characters/axions/마이더스/index.md`, type=character, status=draft) - 탐색 힌트: 마이더스는 레이어드의 엑시온이자 글로벌 코텍스의 회장으로, 바벨의 상승 야망과 황금 의수의 절대 신용을 통해 도시를 기회와 담보의 시장으로 굴리는 폭군이다.
+- [마이더스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_af874f21279d1aca.json) (`wiki/characters/axions/마이더스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 마이더스의 50대 건장한 수트 실루엣, 금색 눈, 금이 간 황금 사자 신용 가면, 황금 의수와 계약 소품을 다루는 외형 항목.
+- [마텔다](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_354313d4f2acf424.json) (`wiki/characters/axions/마텔다/index.md`, type=character, status=draft) - 탐색 힌트: 마텔다는 오르딜리아의 엑시온이자 심판관으로, 무법의 공포를 막기 위해 반지와 결투 재판과 감시를 법으로 세우고 자기 자신까지 얼린 통치자다.
+- [마텔다 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_09b37b2397c017ce.json) (`wiki/characters/axions/마텔다/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 마텔다의 20대 중반 심판관 실루엣, 금발과 푸른 눈, 법정복과 군복의 혼합, 서리 파프니르 기사 바이저를 다루는 외형 항목.
+- [설리반](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_efcf35abbcccd479.json) (`wiki/characters/axions/설리반/index.md`, type=character, status=draft) - 탐색 힌트: 설리반은 파라디소의 엑시온이자 대주교로, 검은 비와 오멜라스의 비용을 공개해 평화를 유지하면서도 생존을 위해 감정과 사람을 선별하는 통치자다.
+- [설리반 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_373052d4497a7e94.json) (`wiki/characters/axions/설리반/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.
+- [엘피스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_792fad7d2b067212.json) (`wiki/characters/axions/엘피스/index.md`, type=character, status=draft) - 탐색 힌트: 엘피스는 판도라가 남긴 질문과 메테우스의 소각 사이에서 알렉시아의 하루를 유예로 버티게 만드는 계승자이자 진리 성좌의 엑시온이다.
+- [엘피스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce539693860afac9.json) (`wiki/characters/axions/엘피스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 엘피스의 청색 머리와 회색 눈, 피로한 관리자 실루엣, 작은 촛불과 질문 기록, 푸른 제어광을 다루는 외형 항목.
+- [유리디스 도리안 드 발루아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ebce86f03c6cf436.json) (`wiki/characters/axions/유리디스_도리안_드_발루아/index.md`, type=character, status=draft) - 탐색 힌트: 유리디스 도리안 드 발루아는 우니오네의 엑시온이자 스푸마토 왕실의 여왕으로, 꿈의 독성을 알면서도 침몰하는 현실을 견딜 만한 아름다운 장면으로 연출한다.
+- [유리디스 도리안 드 발루아 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_943db507f37a3cf5.json) (`wiki/characters/axions/유리디스_도리안_드_발루아/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 유리디스 도리안 드 발루아의 우아한 30~40대 여왕 실루엣, 금색 머리와 녹색 눈, 데칼코마니 무도회 가면, 붉은 수면과 젖은 소품을 다루는 외형 항목.
+- [제페토](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_595fcd72d7fbc726.json) (`wiki/characters/axions/제페토/index.md`, type=character, status=draft) - 탐색 힌트: 제페토는 플라센티아의 사냥 규율을 세운 엑시온이자 사냥꾼들의 스승이며, 죽은 아들 카를로를 되살리려는 집착으로 피노키오 계획과 고치 순환을 연 장로다.
+- [제페토 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a0be947aa6fa706f.json) (`wiki/characters/axions/제페토/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 제페토의 60대 사냥 장로 실루엣, 우락부락한 몸, 목각인형 전면 가면, 수지와 고치와 사냥 도구를 다루는 외형 항목.
+- [파우스트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5a90950680f4798e.json) (`wiki/characters/axions/파우스트/index.md`, type=character, status=draft) - 탐색 힌트: 파우스트는 오아시스의 왕이자 자유 성좌의 엑시온으로, 그레트헨의 상실 때문에 나라 전체를 반복되는 현재에 묶은 통치자다.
+- [파우스트 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c25a914bd95fbb65.json) (`wiki/characters/axions/파우스트/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 파우스트의 50대 왕 실루엣, 검은 머리와 검은 눈, 모래 출력 데스마스크, 열린 왕관, 물 배급 장치를 다루는 외형 항목.
+- [판도라](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4b66cf2c590d7211.json) (`wiki/characters/axions/판도라/index.md`, type=character, status=draft) - 탐색 힌트: 판도라는 알렉시아 건국기의 최초 질문을 오르가논에 입력한 맹인 학장이며, 나라를 살린 빛과 벌레의 재앙을 함께 연 건국기 엑시온이다.
+- [판도라 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b3bed979b42677a7.json) (`wiki/characters/axions/판도라/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 판도라의 60대 맹인 학장 실루엣, 회색 머리, 검은 석판, 푸른 수정빛, 촛불과 질문 기록을 다루는 외형 항목.
+- [프로스페로](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c8e05d47909a1fef.json) (`wiki/characters/axions/프로스페로/index.md`, type=character, status=draft) - 탐색 힌트: 프로스페로는 마사오트의 엑시온이자 노틸러스의 선장으로, 탐험가 길드망과 바람 권능으로 유랑 국가를 이끌며 티폰의 추격을 자기 세대에서 끝내려는 복수자다.
+- [프로스페로 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_663c7c05554a0840.json) (`wiki/characters/axions/프로스페로/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 프로스페로의 40대 선장 실루엣, 긴 코트와 큰 모자, 찢어진 돛과 선장 해골표식이 합쳐진 전면 가면, 항로 소품을 다루는 외형 항목.
+- [앙상블](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56f587c4cb5fd5fd.json) (`wiki/characters/ensemble/index.md`, type=character_group, status=draft) - 탐색 힌트: 앙상블은 주인공 집단 바깥에서 세계사, 스트레인저, 파괴계 이름 판결, 장기 계획을 움직이는 핵심 인물이다.
+- [니그리스 알비우스 시트리노](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_31942f7facef1758.json) (`wiki/characters/ensemble/니그리스_알비우스_시트리노/index.md`, type=character, status=draft) - 탐색 힌트: 용살자 니그리스, 중재자 알비우스, 불지기 시트리노로 이어지는 장수한 이데아 영체. 두 번의 세계 단절을 기억하며 저주받은 자들을 거두고 신 추방을 준비한다.
+- [니그리스 알비우스 시트리노 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8835f27f971e1afb.json) (`wiki/characters/ensemble/니그리스_알비우스_시트리노/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 니그리스 알비우스 시트리노의 계약자 육체, 후드, 재, 불씨 눈빛, 불지기 실루엣을 다루는 외형 항목.
+- [배신의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_014e1928ea621963.json) (`wiki/characters/ensemble/배신의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 공허 군단의 무명에서 붕괴의 참모, 죽음의 낙인, 균형계 탈주자로 이어진 파괴계 인물. 결과만을 증명으로 삼으며 에르고에게 새 이름을 요구한다.
+- [배신의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5d291f1a26b8e9fd.json) (`wiki/characters/ensemble/배신의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 배신의 펠시온의 후드 로브, 전갈 백골 가면, 은발과 보라 눈, 숨긴 가위 비수, 맨얼굴의 신뢰 유도 인상을 다루는 외형 항목.
+- [소피아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3c23e7d88b4ecc9d.json) (`wiki/characters/ensemble/소피아/index.md`, type=character, status=draft) - 탐색 힌트: 소피아는 용과 인간의 시대에 니그리스, 오피온과 함께 최초의 삼위를 이룬 인물이며, 에마나치온 이후 니그리스의 기억에 이성의 형태로 남아 지혜의 트리네아드 기원이 된다.
+- [오피온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5044dace44377f80.json) (`wiki/characters/ensemble/오피온/index.md`, type=character, status=draft) - 탐색 힌트: 오피온은 용왕의 의지가 흰 뱀으로 남은 존재이며, 니그리스와 소피아와 함께 최초의 삼위를 이룬 뒤 에마나치온 이후 부러진 아조트에 본능과 의지로 깃든다.
+- [펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_09fc33f28d61cfb1.json) (`wiki/characters/fellsions/index.md`, type=character_group, status=draft) - 탐색 힌트: 펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이며, 균형계에 침투해 각 나라의 상처와 혼란을 파괴계 언어로 벌리는 존재다.
+- [기근의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d0b1739c815fe288.json) (`wiki/characters/fellsions/기근의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 기근의 펠시온은 살아 있는 세계를 농장으로 보고 생명력, 에너지, 수분을 반복 수확하는 죽음 군단의 수탈자다.
+- [기근의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fa7ab47137d7d077.json) (`wiki/characters/fellsions/기근의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 기근의 펠시온의 마른 세리형 실루엣, 작은 얼굴판, 장부와 빈 공간, 가뭄과 수탈의 건조한 인상을 다루는 외형 항목.
+- [기만의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c79dbf5afee5d615.json) (`wiki/characters/fellsions/기만의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 기만의 펠시온은 공허 출신의 덫 사냥꾼이며, 변환자재 마니아를 실, 정신 독, 안개, 경화 무기로 바꾸어 강자의 정신 에너지와 경험을 사냥한다.
+- [기만의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_73a5a621060c653a.json) (`wiki/characters/fellsions/기만의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 기만의 펠시온의 안나 위장, 그림자형 덫 사냥꾼 본모습, 거미 백골 가면, 실과 정신 독을 다루는 외형 항목.
+- [모방의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cf3c85a6624506df.json) (`wiki/characters/fellsions/모방의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 모방의 펠시온은 공허 출신의 학습형 약탈자이며, 만화경의 눈으로 강자의 움직임과 에너지 흐름을 분해해 기술을 자기 방식으로 재조합한다.
+- [모방의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6bf7ab38a59f19b9.json) (`wiki/characters/fellsions/모방의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 모방의 펠시온의 20대 중후반 남성 실루엣, 광대 배우 위장, 사마귀 백골 전면 가면, 사마귀 쌍곡도를 다루는 외형 항목.
+- [속박의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f08c033bd0d7327c.json) (`wiki/characters/fellsions/속박의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 속박의 펠시온은 사령공예로 업연을 만든 장인이며, 자기 피로 벼린 사슬을 통해 걸작에게 역으로 조종당하는 인형사다.
+- [속박의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_38a08c06ec485871.json) (`wiki/characters/fellsions/속박의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 속박의 펠시온의 굽은 인형사 실루엣, 업연이 주도권을 쥔 이인무, 지네 백골 가면, 업연과 피사슬을 다루는 외형 항목.
+- [역병의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5a1c5946c02bcfe8.json) (`wiki/characters/fellsions/역병의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 역병의 펠시온은 생명을 질병으로 해석하고 부패를 죽음의 안식으로 돌려보내는 의식으로 믿는 죽음 군단의 대주교다.
+- [역병의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fe1eb6b47941b747.json) (`wiki/characters/fellsions/역병의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 역병의 펠시온의 검은 대주교 실루엣, 동충하초 백골 부리 가면, 포자향, 균사와 부패의 복음 인상을 다루는 외형 항목.
+- [정복의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_30190349d013877e.json) (`wiki/characters/fellsions/정복의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 정복의 펠시온은 죽음 군단의 첫 번째 검이자 방패로, 골화 갑주와 정면 돌파를 통해 죽음의 질서를 수행하는 대장군이다.
+- [정복의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_919b5792ba46d0d6.json) (`wiki/characters/fellsions/정복의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 정복의 펠시온의 거대한 대장군 실루엣, 백골 갑주, 장수풍뎅이형 백골 투구, 뼈 무기, 죽음 군단의 지휘 압력을 다루는 외형 항목.
+- [정적의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4d2d67118c4f975b.json) (`wiki/characters/fellsions/정적의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 정적의 펠시온은 절대청각이 만든 소리 지옥 속에서 붕괴의 선율과 찰나의 정적을 갈망하는 검귀다.
+- [정적의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_67d9ff6fc9cb90f9.json) (`wiki/characters/fellsions/정적의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 정적의 펠시온의 검은 무사복, 머리를 수평으로 관통한 귀마개 검, 닫힌 입의 귀뚜라미 백골 가면, 발도 직전의 정적을 다루는 외형 항목.
+- [침식의 펠시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_20fe87f0aa507d31.json) (`wiki/characters/fellsions/침식의_펠시온/index.md`, type=character, status=draft) - 탐색 힌트: 침식의 펠시온은 자기 육체를 부적이자 감옥으로 삼아 내면의 파괴신 수라를 봉인한 죄수다.
+- [침식의 펠시온 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b021d4f35369b635.json) (`wiki/characters/fellsions/침식의_펠시온/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 침식의 펠시온의 금욕적 죄수 실루엣, 송장벌레 백골 가면, 붉은 봉인 문신, 검은 침식 문신, 수라가 새어 나오는 몸의 감옥 인상을 다루는 외형 항목.
+- [역사적 행위자](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fcbc929a66142766.json) (`wiki/characters/historical/index.md`, type=overview, status=draft) - 탐색 힌트: 역사적 행위자는 본편 이전 세계사의 큰 구조를 움직인 창조주, 태고 행위자, 시대 전환의 주체를 모으는 인물 하위 항목이다.
+- [아난케](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_36361a9cf13a68f3.json) (`wiki/characters/historical/아난케.md`, type=character, status=draft) - 탐색 힌트: 아난케는 필연의 물레 아트락토스를 돌려 우주를 짜던 창조주이며, 풀림과 끊김 사이의 장력 딜레마 끝에 마지막 우주를 남긴 방직공이다.
+- [인물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_106a600b3fdaef81.json) (`wiki/characters/index.md`, type=overview, status=draft) - 탐색 힌트: 인물은 삼위일체 우주에서 이름, 역할, 국가, 신격, 장치, 사건을 몸으로 드러내는 행위자 전체다.
+- [주인공 파티](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3088cbcc7dfd698c.json) (`wiki/characters/main_party/index.md`, type=character_group, status=draft) - 탐색 힌트: 주인공 파티는 삼위의 군상 1부에서 아홉 나라의 균열을 따라 이동하며 세계의 법칙과 각자의 판결을 함께 드러내는 주인공 집단이다.
+- [길티어](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_df8592bd4f90cb57.json) (`wiki/characters/main_party/길티어/index.md`, type=character, status=draft) - 탐색 힌트: 길티어는 전설적인 사냥단 마스크맨의 전 리더이자 파티의 감시자다. 그는 곧 다칠 사람을 먼저 보고, 물통과 식사, 장비와 도주선을 확인하며, 한 번 더 밀어붙이면 누가 쓰러질지 보이는 순간 제일 먼저 몸을 들이민다.
+- [길티어 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2c83b15ea036dc88.json) (`wiki/characters/main_party/길티어/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 길티어의 30대 현장 사냥꾼 인상, 마스크맨 잔재, 천이 감긴 사냥용 장총, 낡은 생활 장비를 다루는 외형 항목.
+- [길티어 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0db044d53726f9b9.json) (`wiki/characters/main_party/길티어/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 길티어의 층위별 말투, 관계별 호칭, 위기 상황의 짧은 현장 지시를 다루는 보이스 항목.
+- [단테](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_08d2d2331ddb4265.json) (`wiki/characters/main_party/단테/index.md`, type=character, status=draft) - 탐색 힌트: 단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.
+- [단테 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_01e73c6063b957a1.json) (`wiki/characters/main_party/단테/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 단테의 접힌 지하 생존자 실루엣, 눌린 녹색 머리와 흐린 벽안, 한 사람 앞에서 살아나는 기사선을 다루는 외형 항목.
+- [단테 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f7b77db2f8074d10.json) (`wiki/characters/main_party/단테/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 단테의 진흙, 얼음, 별, 죄, 결투재판, 광견성을 테마곡과 가사 모티프로 다루는 음악 항목.
+- [단테 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bb23bdaab11f5dff.json) (`wiki/characters/main_party/단테/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.
+- [블랑](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2060ee2608647347.json) (`wiki/characters/main_party/블랑/index.md`, type=character, status=draft) - 탐색 힌트: 블랑은 진료가방을 든 귀한 집 아가씨의 생기와 젊은 의사의 결심을 함께 지닌 인물이다. 아픔에 이름을 붙이고 고통을 끝내려는 믿음은 그녀를 살리는 손으로 세우며, 같은 몸 안의 스칼렛을 병처럼 읽게 만드는 오진의 위험도 함께 품는다.
+- [블랑 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7207679bfb299b59.json) (`wiki/characters/main_party/블랑/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 블랑의 공용 몸, 녹안, 검은 조끼, 닫힌 레이어드 스커트, 의료가방, 리볼버, 이미지 생성 기준을 다루는 외형 항목.
+- [블랑 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_48f777360caf1d92.json) (`wiki/characters/main_party/블랑/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.
+- [세레나](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fae9b6a12ec29dda.json) (`wiki/characters/main_party/세레나/index.md`, type=character, status=draft) - 탐색 힌트: 세레나는 푸른 달 부족의 마지막 생존자이자 마지막 증언자다. 낡은 전사의 말투와 꼿꼿한 자세는 야수화와 동족 포식의 기억을 눌러 두는 갑옷이며, 검 너머에 남은 푸른 달의 이야기는 그녀가 아직 내려놓지 못한 삶의 형태다.
+- [세레나 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f0c7c514f997ded0.json) (`wiki/characters/main_party/세레나/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.
+- [세레나 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f5dc185063336a8f.json) (`wiki/characters/main_party/세레나/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.
+- [스칼렛](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ffab697840829384.json) (`wiki/characters/main_party/스칼렛/index.md`, type=character, status=draft) - 탐색 힌트: 스칼렛은 같은 몸 안에서 더러운 역할과 시선의 무게를 먼저 떠안는 배우이자 탐정이다. 위험한 웃음과 무대성은 블랑에게 향하는 시선을 자기 쪽으로 돌리는 생존 장치이며, 엘리자베스라는 이름 밑에서 지워지지 않으려는 사람의 버팀이 함께 남는다.
+- [스칼렛 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7610e3feb05faa0c.json) (`wiki/characters/main_party/스칼렛/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 스칼렛의 공용 몸, 녹/적 오드아이, 고정핀 슬릿, 혈조 도구, 이미지 생성 기준을 다루는 외형 항목.
+- [스칼렛 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5fbbe6ba28a6c6fc.json) (`wiki/characters/main_party/스칼렛/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.
+- [아인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f6a85596e4016a32.json) (`wiki/characters/main_party/아인/index.md`, type=character, status=draft) - 탐색 힌트: 아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.
+- [아인 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3ef789818633e3db.json) (`wiki/characters/main_party/아인/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.
+- [아인 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_682ebab80cc6f6e1.json) (`wiki/characters/main_party/아인/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.
+- [아인 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d69c6cc9e386afa2.json) (`wiki/characters/main_party/아인/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.
+- [엘리자베스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_58f4a49eba94a74f.json) (`wiki/characters/main_party/엘리자베스/index.md`, type=character, status=draft) - 탐색 힌트: 엘리자베스는 마고리아가 하나의 꿈과 세 시신으로 재구성한 공용 몸이다. 블랑과 스칼렛은 그 몸 안에서 서로 다른 전면으로 서며, 몸의 상처와 피로는 이어지고 시선과 말투와 의지는 교체된다.
+- [엘리자베스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_80e6bc6e2a9c33bb.json) (`wiki/characters/main_party/엘리자베스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 엘리자베스의 공용 몸, 이어지는 신체 흔적, 블랑과 스칼렛의 전면별 시각 차이를 다루는 외형 항목.
+- [옌](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_770119ae93377230.json) (`wiki/characters/main_party/옌/index.md`, type=character, status=draft) - 탐색 힌트: 옌은 감정과 분위기와 욕망의 움직임을 색으로 너무 빨리 읽는 아이다. 흰 성녀의 조용한 사회어는 생존용 막이며, 그 막이 깨지면 숨은 색을 끌어내고 싶어 하는 화가의 호기심이 전면으로 튄다.
+- [옌 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8a4d3dd3636caa59.json) (`wiki/characters/main_party/옌/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 옌의 하얀 성녀, 빛을 섞는 화가, 덧칠된 무지개의 외형 기준과 층위별 시각 경계를 다루는 외형 항목.
+- [옌 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d286cf09133e2694.json) (`wiki/characters/main_party/옌/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 옌의 흰 막, 색을 섞는 손, 덧칠된 무지개, 악기 탈락 문법을 테마곡과 가사 모티프로 다루는 음악 항목.
+- [옌 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed72ad75168c3550.json) (`wiki/characters/main_party/옌/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.
+- [진](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f2c48f15acbf5026.json) (`wiki/characters/main_party/진/index.md`, type=character, status=draft) - 탐색 힌트: 진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.
+- [진 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a402773e1ebc9597.json) (`wiki/characters/main_party/진/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 진의 더티 블론드, 바랜 선글라스, 구겨진 현장복, 워크맨과 카세트, 먼저 움직이는 발끝을 다루는 외형 항목.
+- [진 음악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e38cf4f3fc61468f.json) (`wiki/characters/main_party/진/support/music.md`, type=character_support, status=draft) - 탐색 힌트: 진의 워크맨, 빌려 피운 번갯불, 약속, 오늘과 내일, 장르 변주를 테마곡과 가사 모티프로 다루는 음악 항목.
+- [진 보이스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b3415037cf355fd1.json) (`wiki/characters/main_party/진/support/voice.md`, type=character_support, status=draft) - 탐색 힌트: 진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.
+- [파티](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ae9b5359d2e08055.json) (`wiki/characters/main_party/파티/index.md`, type=character_group, status=draft) - 탐색 힌트: 파티는 자신을 배신자라고 판결한 인물들이 마지막 보루를 서로 붙들고 이동하는 주인공 집단이다.
+- [파티 시각 문법](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb228cc2fc5c46cb.json) (`wiki/characters/main_party/파티/support/visual_grammar.md`, type=character_support, status=draft) - 탐색 힌트: 파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.
+- [페르소나](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7c8403eb1f2a2fe5.json) (`wiki/characters/personas/index.md`, type=character_group, status=draft) - 탐색 힌트: 페르소나는 아홉 아타노르 잔재, 보물, 프로토타입 필로시온이 합성되어 태어난 장치 심층 관리자 의식이자 표층 대변자 인격이다.
+- [메피스토](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_6c1b4be6614275d9.json) (`wiki/characters/personas/메피스토/index.md`, type=character, status=draft) - 탐색 힌트: 메피스토는 오아시스의 페르소나로, 페리아크토이와 피라미디온을 통해 반복되는 현재를 구원의 이야기로 포장하는 세 번째 길의 목소리다.
+- [메피스토 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_485ebeac831724c5.json) (`wiki/characters/personas/메피스토/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.
+- [미노스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0a4d6793717c9dc9.json) (`wiki/characters/personas/미노스/index.md`, type=character, status=draft) - 탐색 힌트: 미노스는 오르딜리아의 페르소나로, 페리페테이아와 파놉티콘을 통해 정의와 질서를 하나의 재판 무대로 압축하는 연출자다.
+- [미노스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_13351a3343adfca7.json) (`wiki/characters/personas/미노스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 미노스의 제복 판관 실루엣, 황소/판관 가면, 파놉티콘의 시민 시선, 마스터 링 위의 스노우볼 보석을 다루는 외형 항목.
+- [빈센트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e4d6c40bf3d0405d.json) (`wiki/characters/personas/빈센트/index.md`, type=character, status=draft) - 탐색 힌트: 빈센트는 우니오네의 페르소나로, 미메시스와 마고리아를 통해 가장 아름다운 출구를 열고 현실을 꿈 쪽으로 기울이는 꿈의 큐레이터다.
+- [빈센트 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3b85dfdffa23c8c2.json) (`wiki/characters/personas/빈센트/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 빈센트의 유럽 신사와 조각가 실루엣, 액자 프레임 가면, 아틀리에와 가스등 수로를 다루는 외형 항목.
+- [에어리얼](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3959b6f64a3562f5.json) (`wiki/characters/personas/에어리얼/index.md`, type=character, status=draft) - 탐색 힌트: 에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.
+- [에어리얼 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_298c9cc88c749347.json) (`wiki/characters/personas/에어리얼/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.
+- [카론](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7a417733898806fe.json) (`wiki/characters/personas/카론/index.md`, type=character, status=draft) - 탐색 힌트: 카론은 레이어드의 페르소나로, 카타바시스와 스틱스를 통해 인간의 불과 가능성을 담보로 잡는 영혼의 전당포 주인이다.
+- [카론 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b2acc8e62f50d057.json) (`wiki/characters/personas/카론/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.
+- [탈레스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_76092106a329d77e.json) (`wiki/characters/personas/탈레스/index.md`, type=character, status=draft) - 탐색 힌트: 탈레스는 알렉시아의 페르소나로, 아나그노리시스와 오르가논을 통해 질문을 멈추지 못하게 만들고 인간과 도시를 연산 자원으로 바라보게 하는 질문당의 목소리다.
+- [탈레스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce20d090386715c3.json) (`wiki/characters/personas/탈레스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 탈레스의 질문 의지 실루엣, 작은 전면 얼굴판, 검은 석판과 촛불, 질문 기하와 색인 고리를 다루는 외형 항목.
+- [투르키나](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_31bf3c95c90b0aa1.json) (`wiki/characters/personas/투르키나/index.md`, type=character, status=draft) - 탐색 힌트: 투르키나는 플라센티아의 페르소나로, 코레이아와 크리살리스에서 생태 복원 명령과 인간의 애도를 섞어 메시아 씨앗을 만들려는 푸른 요정의 얼굴이다.
+- [투르키나 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2dbce8f4840ba35a.json) (`wiki/characters/personas/투르키나/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 투르키나의 뒤틀린 엄격한 안내자 실루엣, 푸른 요정 표면, 사냥꾼 소품, 메시아 씨앗과 숲 매듭을 다루는 외형 항목.
+- [헬렌](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_21b88812e0f05aff.json) (`wiki/characters/personas/헬렌/index.md`, type=character, status=draft) - 탐색 힌트: 헬렌은 파라디소의 페르소나로, 카타르시스와 에우카리스에서 보이지 않는 고통을 아래로 배분해 평화로운 표면을 유지하는 하얀 성녀의 선별자다.
+- [헬렌 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8672d068085e9c91.json) (`wiki/characters/personas/헬렌/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 헬렌의 10대 중반 하얀 상담자 실루엣, 눈가 천, 지팡이, 손 접촉, 물결 반응, 흰 낙원과 검은 비를 다루는 외형 항목.
+- [황 노인](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f493d4656267b7e8.json) (`wiki/characters/personas/황_노인/index.md`, type=character, status=draft) - 탐색 힌트: 황 노인은 염한의 페르소나로, 아곤의 시지기와 원한검의 천명 심문을 사람의 얼굴로 만들고 상처를 황제의 자격으로 번역하는 밤의 조언자다.
+- [황 노인 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_82b0b854895c09aa.json) (`wiki/characters/personas/황_노인/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 황 노인의 시니컬한 70대 동양 복식 실루엣, 바둑판 프레임과 칼 균열 얼굴, 원한검과 붉은 달을 다루는 외형 항목.
+- [구세주 후보](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_830bfdb501cc3309.json) (`wiki/characters/savior_candidates/index.md`, type=character_group, status=draft) - 탐색 힌트: 아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.
+- [랄](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_db99133416a49e67.json) (`wiki/characters/savior_candidates/랄/index.md`, type=character, status=draft) - 탐색 힌트: 자유의 나라 구세주 후보이자 그레트헨 연구소장. 망각의 저주와 내부 스코어링 체계 속에서 아인과의 기억을 붙드는 인물이다.
+- [랄 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5078ebf75c346448.json) (`wiki/characters/savior_candidates/랄/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 랄의 20대 초반 슬림 실루엣, 코랄 머리와 흰 눈, 기록 태그, `1위를 유지하라` 메모, 체스 습관을 다루는 외형 항목.
+- [로렌초 카발리에리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_67d2ed6c73f5444d.json) (`wiki/characters/savior_candidates/로렌초_카발리에리/index.md`, type=character, status=draft) - 탐색 힌트: 로렌초 카발리에리는 우니오네의 구세주 후보이자 유랑 서커스 단장으로, 꿈과 공연을 빌려 주고 관객을 현실로 돌려보내는 책임을 진다.
+- [로렌초 카발리에리 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8b8aebcd789c73d7.json) (`wiki/characters/savior_candidates/로렌초_카발리에리/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 로렌초 카발리에리의 떠돌이 서커스 단장 실루엣, 낡은 연극적 얼굴 가림, 초대장과 공연 허가, 쇼 이후 책임을 다루는 외형 항목.
+- [루시리엘](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f99e444cfa997a79.json) (`wiki/characters/savior_candidates/루시리엘/index.md`, type=character, status=draft) - 탐색 힌트: 루시리엘은 파라디소의 구세주 후보이자 성기사로, 평화와 자비를 몸으로 실행하며 올림피아 순위로 약소국의 하늘을 떠받치는 현실적 방패다.
+- [루시리엘 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_848328c54a36fd1a.json) (`wiki/characters/savior_candidates/루시리엘/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 루시리엘의 백금발 성기사 실루엣, 작은 방패, 닳은 장갑, 환자에게 뻗은 손, 파라디소의 현실적 방패성을 다루는 외형 항목.
+- [메테우스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c08d768deecd5227.json) (`wiki/characters/savior_candidates/메테우스/index.md`, type=character, status=draft) - 탐색 힌트: 메테우스는 알렉시아의 구세주 후보이자 인퀴지터 집행자로, 판도라가 남긴 질문과 도시의 오염 사이에서 연결을 끊는 불을 든다.
+- [메테우스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9fce2e34e4c1cd04.json) (`wiki/characters/savior_candidates/메테우스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 메테우스의 중후한 인퀴지터 실루엣, 재난 봉인 버너, 집행자 장비, 보라 조명과 알렉시아 봉쇄 현장을 다루는 외형 항목.
+- [발데마르](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb5f27504f302c2e.json) (`wiki/characters/savior_candidates/발데마르/index.md`, type=character, status=draft) - 탐색 힌트: 발데마르는 오르딜리아의 구세주 후보이자 추방된 중앙기사로, 루시아 사건과 단테에게 남긴 저주를 사과로 짊어지는 낡은 기사다.
+- [발데마르 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4a1743b219395638.json) (`wiki/characters/savior_candidates/발데마르/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 발데마르의 60~70대 추방 중앙기사 실루엣, 낡은 중앙기사 코트, 오래 관리한 검, 낮은 사과 자세를 다루는 외형 항목.
+- [아백](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9eb2054c223ee828.json) (`wiki/characters/savior_candidates/아백/index.md`, type=character, status=draft) - 탐색 힌트: 아백은 염한의 대장군이자 구세주 후보로, 올림피아 순수 무력 1위이며 가인의 옥좌와 용인 병사의 명예를 함께 떠받치는 강함의 기준이다.
+- [아백 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b92fc6bafd29c32b.json) (`wiki/characters/savior_candidates/아백/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 아백의 용 같은 인간 실루엣, 이무기 용기사 가면, 낮은 중심, 무거운 손과 전장의 흔적을 다루는 외형 항목.
+- [카스파르](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7bf6597c8642d4dd.json) (`wiki/characters/savior_candidates/카스파르/index.md`, type=character, status=draft) - 탐색 힌트: 카스파르는 플라센티아의 구세주 후보이자 마스크맨 현 리더로, 길티어가 남긴 실패와 역할 가면을 계약 사냥단 체계로 재건한 운영형 사냥꾼이다.
+- [카스파르 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5ebd5dd51acade03.json) (`wiki/characters/savior_candidates/카스파르/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.
+- [캘리번](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d709f85ea1d2d146.json) (`wiki/characters/savior_candidates/캘리번/index.md`, type=character, status=draft) - 탐색 힌트: 마사오트의 구세주 후보이자 탐험가 길드 우니오네 지부장. 호탕하고 시끄러운 탐험가지만, 금지 심층과 프로스페로의 감시선에 걸린 인물이다.
+- [캘리번 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c2878456edb36318.json) (`wiki/characters/savior_candidates/캘리번/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.
+- [케르베로스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b41a51d599acb4b2.json) (`wiki/characters/savior_candidates/케르베로스/index.md`, type=character, status=draft) - 탐색 힌트: 케르베로스는 레이어드의 구세주 후보이자 마이더스 전속 용병으로, 자기 가치를 가격화한 올림피아 2위이며 카론의 헤라클레스 조건에 묶여 있다.
+- [케르베로스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_83ed8d3098a35abb.json) (`wiki/characters/savior_candidates/케르베로스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 케르베로스의 프로 용병 실루엣, 세 방향 감시 이미지, 서로 다른 세 무기, 느와르 풍 도시 배경을 다루는 외형 항목.
+- [트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed488eec4d90ec3a.json) (`wiki/characters/trineads/index.md`, type=character_group, status=draft) - 탐색 힌트: 트리네아드는 세 세계의 상위 신격과 미덕, 왕권이 이름과 사건으로 드러나는 존재 층위다.
+- [감독](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d916d1997fb02d74.json) (`wiki/characters/trineads/감독/index.md`, type=character, status=draft) - 탐색 힌트: 감독은 창조계의 총책임자이자 균형계를 거대한 비극 무대로 재설계한 연출가다. 그녀는 창조주로 믿은 지혜에게 도구처럼 소모되었다는 배신감 속에서 구원, 희망, 사랑, 미래를 거짓으로 판정하고, 파국 앞에서 폭발하는 순간의 감정만을 현실의 진실로 여긴다.
+- [감독 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a9937415fe8842ac.json) (`wiki/characters/trineads/감독/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 감독의 알레인 원형, 백안의 공작 가면, 창조계 총책임자의 외형 표지를 다루는 외형 항목.
+- [공허의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d257dd9c8dd1303c.json) (`wiki/characters/trineads/공허의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 공허의 트리네아드는 꿈의 보물에서 태어난 파괴계의 나태한 왕이다. 그는 파괴와 감정의 축에서 이름과 지배를 피하려는 자유, 아무것도 하지 않는 방치, 약자가 살아남기 위해 익힌 생존기술의 원천을 함께 품는다.
+- [라케시스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b58aee9254f51d0c.json) (`wiki/characters/trineads/라케시스/index.md`, type=character, status=draft) - 탐색 힌트: 라케시스는 이해의 보물에서 태어난 지혜의 트리네아드다. 그녀는 인격을 유지한 관찰자이며, 아조트와 세 가면, 조작된 역사, 구세주예언을 통해 풀림을 넘어설 초인을 찾으려 한다.
+- [라케시스 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_acaaf1e3ed3d2505.json) (`wiki/characters/trineads/라케시스/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 라케시스의 소피아 계승 외형, 흰빛 인상, 가면별 외형 기준을 다루는 외형 항목.
+- [생명의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7163bad6c5786817.json) (`wiki/characters/trineads/생명의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 생명의 트리네아드는 창조계에서 생체, 식생, 키메라, 4등급 판타즈마의 생명 계통을 붙드는 크리에이터다. 그녀의 판단 중심은 치유보다 창조에 있으며, 책임과 윤리보다 죽음을 넘어 살아 움직이는 성취에 먼저 반응한다.
+- [에르고](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_15aa137894db4c42.json) (`wiki/characters/trineads/에르고/index.md`, type=character, status=draft) - 탐색 힌트: 에르고는 리그레드의 이상이 파괴계 방식으로 뒤틀리고 육화된 왕이다. 그는 눈앞에 세워진 불가능이라는 벽을 직접 깨뜨리는 행위에 존재 이유를 둔다. 시스템, 운명, 서열, 법칙, 세계 구조까지도 도전 대상이며, 붕괴는 불가능하다는 판정 자체를 찢는 신격이다.
+- [에르고 외형](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ec2bd84bc2b48b8b.json) (`wiki/characters/trineads/에르고/support/appearance.md`, type=character_support, status=draft) - 탐색 힌트: 에르고의 리그레드 원형, 흑사자 왕권, 백골 가면, 균형계 강림 뒤의 외형 표지를 다루는 외형 항목.
+- [용기의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5a615af596526783.json) (`wiki/characters/trineads/용기의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 용기의 트리네아드는 불멸의 보물에서 태어난 균형계 상위 신격이다. 그녀는 균형과 본능의 축에서 약자를 지키려는 직선적인 수호신이었으며, 아조트가 번 시간 속에서 아홉 지도자에게 나뉜 위상은 엑시온 체계의 기원이 되었다. 이후 용기는 창조계 방향의 경계인 용기의문을 세우며 인격을 잃고 불굴의 방벽에 잔향을 남겼다.
+- [자연의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a9256edd51792e24.json) (`wiki/characters/trineads/자연의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 자연의 트리네아드는 창조계에서 환경, 계절, 재해, 산출과 소모의 균형을 굴리는 시스템 관리자다. 그녀는 감독의 비극 무대가 오래 지속되도록 지형과 순환을 깔고, 4등급 판타즈마를 세계의 노폐물을 뒤집는 거대한 태풍처럼 읽는다.
+- [절제의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_12c240cf3e3a9ccc.json) (`wiki/characters/trineads/절제의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 절제의 트리네아드는 순수의 보물에서 태어난 균형계 상위 신격이다. 그녀는 균형과 감정의 축에서 과열과 침범을 억제하는 심판관이었으며, 아조트가 번 시간 속에서 아홉 지도자에게 나뉜 위상은 엑시온 질서의 기원이 되었다. 이후 대공명기 파괴계 압력이 실제 균열로 드러나자 절제의문을 세우며 인격을 잃고 위상 안정의 잔향을 남겼다.
+- [죽음의 트리네아드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8d2e06cde5315617.json) (`wiki/characters/trineads/죽음의_트리네아드/index.md`, type=character, status=draft) - 탐색 힌트: 죽음의 트리네아드는 영원의 보물에서 태어난 파괴계의 절대 왕이다. 그는 파괴와 이성의 축에서 고요한 종말의 신탁을 받드는 사도로 자신을 세우고, 생존 전쟁 끝에 죽음 군단과 파괴계의 서열을 정리한 뒤 균형계 침공을 준비한다.
+- [사건](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5e6c21bc15aaeeca.json) (`wiki/events/index.md`, type=event, status=draft) - 탐색 힌트: 사건은 삼위일체 우주의 역사, 시대, 서사 진행, 국가별 전환점을 시간과 인과로 잇는 이야기 인과다.
+- [Fahrenheit 451](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_62b2ba5cc1d72c0a.json) (`wiki/events/singularities/Fahrenheit_451.md`, type=event, status=draft) - 탐색 힌트: 기록과 해석을 태우려는 압력이 도시의 지식 장치를 뒤집는 특이점.
+- [특이점](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a8008addca890c82.json) (`wiki/events/singularities/index.md`, type=event, status=draft) - 탐색 힌트: 특이점은 아홉 나라의 이념과 장치가 임계에 닿아 국가 질서와 파티의 인식을 다음 상태로 넘기는 전환 사건이다.
+- [건곤일척](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c5f1f3ae6fad3c51.json) (`wiki/events/singularities/건곤일척.md`, type=event, status=draft) - 탐색 힌트: 장기 정보 수집 끝에 티폰 토벌을 건 건곤일척의 원정 특이점.
+- [더 나은 내일](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ed01729ee8122b11.json) (`wiki/events/singularities/더_나은_내일.md`, type=event, status=draft) - 탐색 힌트: 진과 사라, 구룡 CEO들의 하이스트, 마이더스의 황금 의수가 얽히며 레이어드가 신용의 도시에서 담보의 강가로 바뀌는 특이점.
+- [몽환포영](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fba08e6c9eb03cf9.json) (`wiki/events/singularities/몽환포영.md`, type=event, status=draft) - 탐색 힌트: 엘리자베스의 정체성 혼란과 두 엑시온의 독백이 겹치며, 무대와 현실의 경계가 흐려지는 특이점.
+- [백해무익](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2e542fd964d0a38a.json) (`wiki/events/singularities/백해무익.md`, type=event, status=draft) - 탐색 힌트: 인내가 무너질 때 백색 제어가 붕괴하고, 하늘과 지상이 함께 추락하는 특이점.
+- [사상누각](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_896599606f3359ce.json) (`wiki/events/singularities/사상누각.md`, type=event, status=draft) - 탐색 힌트: 프로젝트 아툼과 시간의 문이 폭주하고, 사막의 자유가 시간 루프로 뒤집히는 특이점.
+- [삼라만상](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a5ea13ab1afac7ac.json) (`wiki/events/singularities/삼라만상.md`, type=event, status=draft) - 탐색 힌트: 피노키오의 탄생과 피톤의 현현이 겹치며, 구원과 부패가 한몸이 되는 특이점.
+- [생사불문](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0832578badd999c9.json) (`wiki/events/singularities/생사불문.md`, type=event, status=draft) - 탐색 힌트: 마스터 링이 벗겨진 순간 스노우볼 디오라마가 세계의 뒤집힘으로 동기화되는 특이점.
+- [일월성신](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f98cb062f09b8f07.json) (`wiki/events/singularities/일월성신.md`, type=event, status=draft) - 탐색 힌트: 외세의 침공과 내부 저주가 겹치며, 1:1 비무가 만인대만인의 전장으로 번지는 특이점.
+- [세계사/1시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d6e388e5be5eb116.json) (`wiki/events/world_history/1시대_태초에서_에마나치온까지.md`, type=event, status=draft) - 탐색 힌트: 1시대는 아난케의 장력 딜레마, 끄트머리 우주, 세계수, 아홉 용, 최초의 삼위, 에마나치온까지 이어지는 세계사의 첫 붕괴 인과다.
+- [세계사/2시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1cbadb9aa9631d82.json) (`wiki/events/world_history/2시대_아홉_영웅과_칼시네이션.md`, type=event, status=draft) - 탐색 힌트: 2시대는 에마나치온 이후 메아리 전쟁, 아홉 영웅, 아홉 아타노르와 아홉 보물, 불지피기 의식, 칼시네이션까지 이어지는 두 번째 구원 실패의 시대다.
+- [세계사/3시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_eb0326149ddeb791.json) (`wiki/events/world_history/3시대_재창조에서_아홉_나라의_시대까지.md`, type=event, status=draft) - 탐색 힌트: 3시대는 칼시네이션 이후 삼위일체 우주 재창조, 지혜의 창조주 참칭, 감독의 타락, 혼돈의 시대, 대공명, 삼위정교, 스트레인저, 대붕괴까지 이어지는 아홉 나라 체제 성립의 시대다.
+- [세계사](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f06d7466dd40dd4b.json) (`wiki/events/world_history/index.md`, type=event, status=draft) - 탐색 힌트: 세계사는 1시대, 2시대, 3시대 세계사 문서로 이어지는 프리퀄 인과 허브다.
+- [알레인의 동화책](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a68823035d6d8828.json) (`wiki/events/world_history/알레인의_동화책.md`, type=event_artifact, status=draft) - 탐색 힌트: 알레인의 동화책은 공포를 아이가 부를 수 있는 이름으로 다시 번역한 이야기 체계이며, 아홉 아타노르의 이름과 아홉 나라의 오독으로 이어지는 세계사 핵심 서사 물건이다.
+- [삼위의 군상/1부/아홉 나라의 시대](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d947fef64340dc04.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md`, type=event, status=draft) - 탐색 힌트: 삼위의 군상 1부에서 아홉 나라의 비극 구조가 파티 초반 사건, 기록 추적, 특이점 축으로 펼쳐지는 시대.
+- [마사오트 조우 실패와 알렉시아 기록 추적](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb3a6ef74b977591.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/마사오트_조우_실패와_알렉시아_기록_추적.md`, type=event, status=draft) - 탐색 힌트: 아인이 위조 유령 의뢰로 반응선을 되던지고, 스트레인저와 라케의 개입을 거친 뒤 마사오트 조우가 실패하면서 알렉시아 기록 추적으로 방향을 바꾸는 에피소드.
+- [백색 폐허와 유령 의뢰](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2f364c42326b48d4.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md`, type=event, status=draft) - 탐색 힌트: 각기 다른 유령 의뢰를 받은 세 그룹이 백색 폐허의 지하 의식장에서 처음 충돌하고, 리그레드의 제지와 거래를 거쳐 임시 공조의 최소 조건을 얻는 시작 에피소드.
+- [삼위의 군상 프롤로그](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4933f878a0a0efbd.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md`, type=event, status=draft) - 탐색 힌트: 삼위의 군상 프롤로그는 아홉 나라의 비극 구조를 먼저 선언하는 도입 사건이다.
+- [삼위의 군상/1부/아홉 나라의 시대/줄거리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_da6fc6149289175b.json) (`wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md`, type=story, status=draft) - 탐색 힌트: 삼위의 군상 1부 아홉 나라의 시대에서 아홉 나라 비극 구조, 파티 결성, 유령 의뢰, 마사오트 조우 실패, 알렉시아 기록 추적으로 이어지는 줄거리.
+- [삼위의 군상/2부/신들의 시대/줄거리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_efc482071b704108.json) (`wiki/events/삼위의_군상/2부/신들의_시대/줄거리.md`, type=story, status=draft) - 탐색 힌트: 아홉 나라의 시대 이후 열린 삼계 무대에서, 신격과 계승자들이 오리진의 완성을 두고 충돌하는 2부의 큰 줄거리다.
+- [삼위의 군상/3부/초인의 시대/줄거리](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cd047a94dc1d7724.json) (`wiki/events/삼위의_군상/3부/초인의_시대/줄거리.md`, type=story, status=draft) - 탐색 힌트: 두 번째 불지피기 이후 완성된 오리진이 누구에게도 소유되지 않으면서, 초인적 선택들이 충돌하는 3부의 큰 줄거리다.
+- [삼위일체 우주 대문](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_95c91b0f1eb11ba7.json) (`wiki/index.md`, type=overview, status=draft) - 탐색 힌트: 삼위일체 우주의 세계법칙, 국가, 사건, 인물, 존재를 한곳에서 여는 대문.
+- [기록 로그](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8f6d6b5b89ab84b1.json) (`wiki/log.md`, type=review, status=draft) - 탐색 힌트: 위키 작업을 시간순으로 남기는 문서.
+- [충돌 기록](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_835e7131d0d928a0.json) (`wiki/review/contradictions.md`, type=review, status=draft) - 탐색 힌트: 알려진 모순, 긴장, 양립하기 어려운 해석을 기록하는 문서.
+- [판단 요청](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56c6da211a6067ae.json) (`wiki/review/decision_requests/index.md`, type=review, status=draft) - 탐색 힌트: 사용자 판단, 제안 승인, 상태 정리가 필요한 WIKI 항목 색인.
+- [검토와 결정 요청](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_54d059fd7a8308fb.json) (`wiki/review/index.md`, type=review, status=draft) - 탐색 힌트: WIKI 운영 중 필요한 판단 요청, 충돌, 항목 소유권 잠금, 본문 보강 대상 진입점.
+- [항목 소유권 잠금](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7193dc9e34ed2540.json) (`wiki/review/ownership_locks.md`, type=review, status=user_locked) - 탐색 힌트: 비위키식 독립 항목으로 재생성되기 쉬운 제목의 최종 소유자를 잠근다.
+- [본문 보강 대상](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_bb715ad1ad9d7128.json) (`wiki/review/template_gaps.md`, type=review, status=draft) - 탐색 힌트: 독자용 WIKI 항목에서 빈 섹션을 만들지 않기 위해 남겨 둔 활성 보강 대상과 리뉴얼 슬롯.
+- [사용자 잠금과 창작 철학 메모](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a35ee6aca4cde628.json) (`wiki/review/user_locks.md`, type=review, status=user_locked) - 탐색 힌트: 위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.
+- [세계관 개발 TODO](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f393bc73e56329a4.json) (`wiki/review/worldbuilding_development_todo.md`, type=review, status=draft) - 탐색 힌트: 기존 WIKI 문서 정리 중 정본 본문에 바로 넣지 않고 개발, 보류, 후속 정리가 필요한 항목.
+- [고요한 종말](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_9099b202fbfd27bd.json) (`wiki/universe/laws/고요한_종말.md`, type=universe, status=draft) - 탐색 힌트: 고요한 종말은 실재 신격이 아니라, 메아리 전쟁의 종말 언어, 라케시스의 마니아 참칭, 죽음의 신탁 오해, 삼위정교의 악신 교리로 시대마다 다른 층위를 얻은 거짓 신명이다.
+- [기적](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_30744c44c6b6ba7a.json) (`wiki/universe/laws/기적.md`, type=universe, status=draft) - 탐색 힌트: 기적은 비술과 같은 인간 출력 물리를 삼위정교의 이름, 전례, 성물, 신앙, 관리 주체 아래 공인한 출력이다.
+- [비술](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_689e101dac69a5f8.json) (`wiki/universe/laws/비술.md`, type=universe, status=draft) - 탐색 힌트: 비술은 개인의 Own 에너지를 의식적으로 운용해 Other 에너지에 연결하고, 물들이고, 꼬아 넣는 후천 기술이다.
+- [세 에너지](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_10c7f801edec7e48.json) (`wiki/universe/laws/세_에너지.md`, type=universe, status=draft) - 탐색 힌트: 에테르, 이데아, 마니아가 이름과 신앙과 몸을 현실 압력으로 바꾸는 우주 법칙.
+- [신격과 신적 권위](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0dfefc7cf87c8208.json) (`wiki/universe/laws/신격과_신적_권위.md`, type=universe, status=draft) - 탐색 힌트: 신격과 신적 권위는 아난케, 오리진, 거짓 신명, 아홉 용, 트리네아드, 하위신 계열이 각각 어떤 방식으로 신처럼 취급되는지 구분하는 우주 법칙 항목이다.
+- [예언](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56acdf37f31095a1.json) (`wiki/universe/laws/예언.md`, type=universe, status=draft) - 탐색 힌트: 예언은 미래를 단순히 맞히는 문장이 아니라, 오리진의 기억과 세 에너지, 신앙, 이름 압력이 얽혀 세계의 방향성을 기울이는 장치다.
+- [저주](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_933f3ca9cff676ab.json) (`wiki/universe/laws/저주.md`, type=universe, status=draft) - 탐색 힌트: 저주는 강렬한 부정 이데아가 작은 생명의 의지와 반응해 신체와 정신에 남는 영구 제약이며, 비슷한 간섭을 포식하고 그 대가로 악화될 수 있다.
+- [축복](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fb530a9cbf6577b1.json) (`wiki/universe/laws/축복.md`, type=universe, status=draft) - 탐색 힌트: 축복은 세 에너지가 개인의 기질과 생명필터에 안정적으로 맞물려 나타나는 자연 출력이자 고유한 삶의 방식이다.
+- [태초의 불꽃](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_58ee2eddf345062d.json) (`wiki/universe/laws/태초의_불꽃.md`, type=universe, status=draft) - 탐색 힌트: 태초의 불꽃은 메아리 전쟁의 전쟁 언어를 라케시스가 대공명 이후 기억에서 되살려 창조계 권위와 삼위정교 교리로 재가공한 거짓 신명이다.
+- [필로시온](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f796f218b466ef9a.json) (`wiki/universe/laws/필로시온.md`, type=universe, status=draft) - 탐색 힌트: 필로시온은 창조계 오리진 조각의 설계도와 에테르로 생산되는 인공 신격체이며, 아홉 프로토타입은 균형계에서 아포라투스와 페르소나의 심층 기반이 되었다.
+- [하위신](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b86ea76b897eb631.json) (`wiki/universe/laws/하위신.md`, type=universe, status=draft) - 탐색 힌트: 하위신은 필로시온, 엑시온, 펠시온이 트리네아드의 제작, 계승, 이름 낙인으로 성립하고, 페르소나가 필로시온 파생으로 장치 관리에 참여하는 존재 층위다.
+- [아포라투스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_57b15876d1681c43.json) (`wiki/universe/realms/balance/apparatus/index.md`, type=realm, status=draft) - 탐색 힌트: 아포라투스는 아홉 아타노르 잔재, 빈 아홉 보물, 프로토타입 필로시온, 국가 환경과 부정 이데아가 대공명에서 결합해 발아한 균형계 국가 장치다.
+- [균형계 문화](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1a14934f9eecd2ec.json) (`wiki/universe/realms/balance/culture/index.md`, type=realm, status=draft) - 탐색 힌트: 균형계에서 이름, 공적 가면, 이름 맹세, 모닥불 유예, 죽은 자의 잔불, 금기와 통행이 사회적 역할과 의례로 작동하는 방식.
+- [균형계](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_510676c8bb8f9db3.json) (`wiki/universe/realms/balance/index.md`, type=realm, status=draft) - 탐색 힌트: 인간 공동체와 아홉 나라가 자리하며 창조계와 파괴계의 압력을 이름, 신앙, 국가, 장치로 번역하는 중심 세계.
+- [균형계 언어](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ce0d01fc2c7dd5a2.json) (`wiki/universe/realms/balance/language/index.md`, type=realm, status=draft) - 탐색 힌트: 균형계 아홉 나라의 언어권, 국가명, 아포라투스명, 기관명 명명 원칙.
+- [아홉 나라](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_94b6135c454a4d5a.json) (`wiki/universe/realms/balance/nations/index.md`, type=realm, status=draft) - 탐색 힌트: 아홉 나라는 균형계에서 보물, 아포라투스, 엑시온, 페르소나, 부정 이데아가 국가 질서와 권역 구조로 굳은 세계 표면이다.
+- [레이어드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4dc5e40c778f9444.json) (`wiki/universe/realms/balance/nations/레이어드.md`, type=nation, status=draft) - 탐색 힌트: 레이어드는 지하 공동 속에 층층이 박힌 거래의 나라다. 네메아의 황금 왕관, 지상으로 향하던 바벨의 상승 역사, 피뢰침처럼 솟은 헤드포인트 1~9, 비와 광고와 금융이 뒤엉킨 기업도시의 광휘가 외지인에게는 \"여기서는 과거 대신 기회가 통한다\"는 약속처럼 보인다.
+- [마사오트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8506b92a8e4c7b16.json) (`wiki/universe/realms/balance/nations/마사오트.md`, type=nation, status=draft) - 탐색 힌트: 마사오트는 노틸러스호 본선을 중심으로 8척의 길드선이 도는 하늘 위 함대국가다. 본선 갑판의 풍차와 출항 준비, 구베르나의 탐험가 길드 본진, 우편 꾸러미와 비공정 함대가 이 나라의 좋은 말이며, 사람들은 땅보다 더 넓은 하늘길을 자기 국토처럼 여긴다.
+- [알렉시아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cef1737a1a08b3c9.json) (`wiki/universe/realms/balance/nations/알렉시아.md`, type=nation, status=draft) - 탐색 힌트: 알렉시아는 푸른 수정과 촛불이 밤을 버티는 질문의 지하 도시다.
+- [에레모스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_920497070d83f1fc.json) (`wiki/universe/realms/balance/nations/에레모스.md`, type=nation, status=draft) - 탐색 힌트: 에레모스는 아홉 나라 바깥에서 길과 야영지와 구난 루트가 살아 움직이는 외지 권역이다. 돌로 닦인 길 대신 살아 돌아온 발걸음이 길을 만들고, 국경 대신 장막과 통과구와 임시 야영지가 생활권을 잇는다. 스트레인저, 용인 공동체, 떠돌이 기술자 같은 바깥의 사람들이 서로를 경계하면서도 끝내 길과 구조를 이어 붙인다.
+- [염한](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_cbd3312372597099.json) (`wiki/universe/realms/balance/nations/염한.md`, type=nation, status=draft) - 탐색 힌트: 염한은 천검산이라는 거대한 화산 산군 위에 선 무인의 제국이다. 다섯 화산, 사방의 국경 요새, 붉은 성벽과 황혼의 비무, 산 아래 균열에서 천궁까지 이어지는 108계단이 한 나라의 얼굴을 이룬다.
+- [오르딜리아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0a200e2c67ab5c43.json) (`wiki/universe/realms/balance/nations/오르딜리아.md`, type=nation, status=draft) - 탐색 힌트: 오르딜리아는 얼음 돔 아래에서 반지와 고백, 결투 재판, 자기감시로 질서를 세우는 정의의 나라다. 낙원 1과 푸르가토리오 7탑, 코큐토스의 얼음 판정핵, 프라우돌렌티 8노선이 위와 아래를 정반처럼 맞물리고, 시민은 정의를 말하기 전에 먼저 스스로를 절제하고 감시하도록 배운다.
+- [오아시스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7e4b0e3a6d1a0dcb.json) (`wiki/universe/realms/balance/nations/오아시스.md`, type=nation, status=draft) - 탐색 힌트: 오아시스는 끝없는 사막 한가운데서도 누구나 마실 물과 머물 자리, 내일을 계획할 만큼의 삶을 약속하는 자유의 나라다. 영원의 오아시스와 거대한 물레방아, 태양을 정복한 수도 라의 황금과 흰 수로는 왕궁보다 먼저 공공의 안락함과 분배의 기적을 보여 준다. 이 나라가 자랑하는 자유는 우선 `오늘을 버틸 수 있다`는 안도에서 시작된다.
+- [올림피아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ffb6539b73c9815d.json) (`wiki/universe/realms/balance/nations/올림피아.md`, type=nation, status=draft) - 탐색 힌트: 올림피아는 빈 옥좌와 제전이 대륙의 시선을 끌어당기는 중앙 성도다. 이곳의 첫 얼굴은 흰 기둥, 긴 계단, 성가와 환호, 승화회랑과 성화단의 광휘가 한 장면으로 겹치는 눈부신 성역이며, 각국은 결국 자기 이름과 신앙과 패배와 희망을 이 무대 앞으로 들고 올라온다.
+- [우니오네](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d200f82780a9906c.json) (`wiki/universe/realms/balance/nations/우니오네.md`, type=nation, status=draft) - 탐색 힌트: 우니오네는 현실과 꿈이 붉은 수면을 사이에 두고 서로를 눌러 찍은 예술의 나라다. 연회와 가면, 샹들리에와 유리잔, 유랑 극단과 수몰 도시의 가스등이 물 위에 떠 있고, 수면 아래에서는 같은 몸짓이 비극과 악몽으로 번진다. 이 나라의 첫 얼굴은 퇴폐보다도 `현실이 허락하지 않은 결말을 가장 아름답게 다시 보여 주는 힘`으로 드러난다.
+- [파라디소](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_72605e0615031400.json) (`wiki/universe/realms/balance/nations/파라디소.md`, type=nation, status=draft) - 탐색 힌트: 파라디소는 9개의 궤도 고리와 9개의 궤도도시가 흰 빛을 중심으로 서로 다른 각도로 도는 평화의 나라다. 구름과 무지개, 백색 성역과 성가, 병원과 관제소가 하나의 질서처럼 이어지고, 시민들은 자기 순수와 절제가 하늘을 떠받친다고 믿는다. 이 나라의 첫 얼굴은 검은 비보다 먼저 눈부신 백색 낙원과 알고도 유지하는 미소다.
+- [플라센티아](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b622bc1efcf2e840.json) (`wiki/universe/realms/balance/nations/플라센티아.md`, type=nation, status=draft) - 탐색 힌트: 플라센티아는 거신의 갈비뼈와 생체 숲이 맞물린 사냥의 나라다.
+- [균형계 조직](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8766a59d928813e3.json) (`wiki/universe/realms/balance/organizations/index.md`, type=organization_index, status=draft) - 탐색 힌트: 균형계 조직은 삼위정교, 공인 조직, 기능조직, 이레귤러 헌터, 외지 공동체, 이단 세력이 세계 압력을 실무와 신앙 권력으로 바꾸는 조직 색인이다.
+- [구세군](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3be46c6b7a69dc1d.json) (`wiki/universe/realms/balance/organizations/구세군.md`, type=organization, status=draft) - 탐색 힌트: 구세군은 삼위정교 공인 조직으로, 용기의 이름 아래 파괴계 침공과 전조 대응, 구조, 치안, 현장 무력 투입을 수행한다.
+- [그레트헨 연구소](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_b8a1f4b7640b37cf.json) (`wiki/universe/realms/balance/organizations/그레트헨_연구소.md`, type=organization, status=draft) - 탐색 힌트: 그레트헨 연구소는 오아시스 기반의 기능조직으로, 기술고문, 유물 감정, 고대 기술 해석, 비술 흔적 판독을 대륙 실무로 맡는다.
+- [글로벌 코텍스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d805b70e5ac4d39b.json) (`wiki/universe/realms/balance/organizations/글로벌_코텍스.md`, type=organization, status=draft) - 탐색 힌트: 글로벌 코텍스는 레이어드 기반의 기능조직으로, 크레딧 유통과 청산, 계열 사업, 전속 용병 운용을 통해 거래의 나라 기능을 대륙 실무로 공급한다.
+- [드래그니즘](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_eb47f553d06edbe8.json) (`wiki/universe/realms/balance/organizations/드래그니즘.md`, type=organization, status=draft) - 탐색 힌트: 드래그니즘은 용인 공동체의 전통, 역사, 신앙, 생존 기술을 묶는 이단 축으로, 염한의 박해와 에레모스의 잔존 공동체를 통해 이어진다.
+- [디아도코이](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_8307212d3ffab2a7.json) (`wiki/universe/realms/balance/organizations/디아도코이.md`, type=organization, status=draft) - 탐색 힌트: 디아도코이는 사라질 비술을 한 사람의 생애 형상으로 보고, 그 이름과 발동 조건과 실패 기록을 스승과 제자 사이로 이어 가는 이단 세력이다.
+- [마스크맨](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_db6afd7ec56ea94e.json) (`wiki/universe/realms/balance/organizations/마스크맨.md`, type=organization, status=draft) - 탐색 힌트: 마스크맨은 플라센티아 기반의 기능조직으로, 역할 가면과 사냥 절차를 통해 판타즈마와 위험 생태를 대륙 실무로 사냥한다.
+- [매니악](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f757c27b4d95ee39.json) (`wiki/universe/realms/balance/organizations/매니악.md`, type=organization, status=draft) - 탐색 힌트: 매니악은 본능과 파괴의 해방을 구원으로 보는 이단 세력으로, 금지 의식과 폭력, 광란을 통해 질서의 붕괴를 신앙화한다.
+- [삼위정교](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_acc64fec99270006.json) (`wiki/universe/realms/balance/organizations/삼위정교.md`, type=organization, status=draft) - 탐색 힌트: 삼위정교는 대공명 이후 아홉 나라가 공포와 생존 계약을 하나의 교리, 공좌, 공의회, 면허 체계로 묶어 세운 균형계의 중앙 정교 체계다.
+- [스트레인저](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_05eed2faa24f12f6.json) (`wiki/universe/realms/balance/organizations/스트레인저.md`, type=organization, status=draft) - 탐색 힌트: 스트레인저는 퍼시스 사건 이후 아홉 나라의 정주민 질서와 정교 체계 바깥으로 밀려난 사람들을 서로 잃어버리지 않게 붙드는 외지 공동체이자 정교가 배신자로 분류하는 이단 축이다.
+- [아웃로](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_e8f429a1a72e56b4.json) (`wiki/universe/realms/balance/organizations/아웃로.md`, type=organization, status=draft) - 탐색 힌트: 아웃로는 오르딜리아 기반의 기능조직으로, 공식 운송망이 닿지 않는 곳에서 사람과 짐, 정보와 비공식 구난을 옮기는 하층 물류망이다.
+- [에이티스트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1f7ebaf4956e3c31.json) (`wiki/universe/realms/balance/organizations/에이티스트.md`, type=organization, status=draft) - 탐색 힌트: 에이티스트는 신앙이 사회 운영의 전제가 되는 질서에 맞서 행정 독점과 면허 독점을 논리와 기록으로 공격하는 이단 세력이다.
+- [염객방](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_29558cba45a64379.json) (`wiki/universe/realms/balance/organizations/염객방.md`, type=organization, status=draft) - 탐색 힌트: 염객방은 염한 기반의 기능조직으로, 개인 무력과 전략가, 소수 수행원을 외국 현장으로 보내는 직업 용병과 군사고문 망이다.
+- [유랑 서커스](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_64a46976159d72bb.json) (`wiki/universe/realms/balance/organizations/유랑_서커스.md`, type=organization, status=draft) - 탐색 힌트: 유랑 서커스는 우니오네 기반의 기능조직으로, 순회 공연 면허와 흥행망을 통해 공연, 후원자 접촉, 정보 수집을 함께 수행한다.
+- [이레귤러 헌터](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ebf8e0cfd0427a7b.json) (`wiki/universe/realms/balance/organizations/이레귤러_헌터.md`, type=organization, status=draft) - 탐색 힌트: 이레귤러 헌터는 정교가 저주 보유자에게 열어 둔 속죄 통로처럼 선전하는 공개 소모품 제도이며, 실제로는 이레귤러가 다른 이레귤러를 추적하게 만드는 현장 장치다.
+- [인퀴지터](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ae24374eddbaf553.json) (`wiki/universe/realms/balance/organizations/인퀴지터.md`, type=organization, status=draft) - 탐색 힌트: 인퀴지터는 알렉시아 기반의 기능조직으로, 판타즈마와 원생물, 오염 기록과 벌레를 봉쇄하고 태우는 재난 토벌 조직이다.
+- [크로니클](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_c683fea4ab1b9018.json) (`wiki/universe/realms/balance/organizations/크로니클.md`, type=organization, status=draft) - 탐색 힌트: 크로니클은 삼위정교 공인 조직으로, 지혜의 이름 아래 검열, 공표, 언론, 기록, 면허 갱신과 현장 보고망을 맡는다.
+- [탐험가 길드](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_497b84cd0ed3f44a.json) (`wiki/universe/realms/balance/organizations/탐험가_길드.md`, type=organization, status=draft) - 탐색 힌트: 탐험가 길드는 마사오트 기반의 기능조직으로, 의뢰와 보수를 중심으로 탐사, 운반, 구조, 지부 파견을 중개한다.
+- [파르마콘](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_dc263951b5df53e4.json) (`wiki/universe/realms/balance/organizations/파르마콘.md`, type=organization, status=draft) - 탐색 힌트: 파르마콘은 삼위정교 공인 조직으로, 절제의 이름 아래 연구, 의료, 검역, 보건, 저주와 감염과 이레귤러 상태 판정을 맡는다.
+- [필그림즈](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_a0165c9c3ce03a5e.json) (`wiki/universe/realms/balance/organizations/필그림즈.md`, type=organization, status=draft) - 탐색 힌트: 필그림즈는 파라디소 기반의 기능조직으로, 오멜라스의 구조를 아는 이들과 외부 봉사자가 나라 밖 재난 현장에 나서는 순례망이다.
+- [흉조](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_1ab110626b2192ee.json) (`wiki/universe/realms/balance/organizations/흉조.md`, type=organization, status=draft) - 탐색 힌트: 흉조는 고요한 종말을 피할 수 없는 예정으로 선포하고, 균열과 저주와 판타즈마를 징조로 읽어 대중 불안을 조직하는 이단 세력이다.
+- [삼위일체 우주](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4c5c1b86d5d17b4a.json) (`wiki/universe/structure/삼위일체_우주.md`, type=universe, status=draft) - 탐색 힌트: 창조계, 균형계, 파괴계가 서로 다른 위상에서 맞물리고 용기의문과 절제의문으로 직접 침투를 제한하는 우주.
+- [삼위일체 우주 대응표](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7ff0d5dc2052323f.json) (`wiki/universe/structure/삼위일체_우주_대응표.md`, type=universe, status=draft) - 탐색 힌트: 삼위일체 우주 대응표는 세계, 세 에너지, 오리진, 보물, 트리네아드, 하위신, 아포라투스, 아홉 용, 아홉 나라의 구성값을 모은 조회 항목이다.
+- [아조트](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7a3ec5953fccb88c.json) (`wiki/universe/structure/아조트.md`, type=universe, status=draft) - 탐색 힌트: 아조트는 용왕의 허물에서 나온 오리진 그릇이며, 니그리스의 검과 라케시스의 바늘로 시대를 잇는 오리진 계열 유물이다.
+- [아홉 보물](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_7c9dbdc64244bda7.json) (`wiki/universe/structure/아홉_보물.md`, type=universe, status=draft) - 탐색 힌트: 아홉 보물은 세 오리진 조각의 공명을 붙잡던 제어장치였고, 칼시네이션 뒤에는 트리네아드, 엑시온, 아포라투스, 아홉 나라의 비극 구조를 잇는 빈 그릇으로 남았다.
+- [오리진](https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_842a3c76729c88bf.json) (`wiki/universe/structure/오리진.md`, type=universe, status=draft) - 탐색 힌트: 오리진은 창조주가 우주를 창조할 당시 가졌던 환상 인식의 근원이며, 세 에너지와 섭리의 회전을 움직이는 무의지 근원 매듭이다.

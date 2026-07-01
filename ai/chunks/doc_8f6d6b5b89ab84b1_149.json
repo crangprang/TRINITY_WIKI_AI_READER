@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:149",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 염한 국가 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_149.json",
+  "text": "## [2026-06-26] rebuild | 염한 국가 항목 정리\n\n[염한](universe/realms/balance/nations/염한.md)의 중복 기본 정보 블록과 번호형 하위 제목을 정리했다.\n\n- 정리: 지리와 구조, 역사, 아포라투스와 압력, 정치와 제도, 생활과 문화, 주요 인물, 존재와 수수께끼, 문화와 상징으로 본문 소유권을 재배치했다.\n- 분해: 오봉, 사방, 나락, 108계단, 아곤, 일륜과 월륜, 시지기와 원한검, 구정, 천명비무, 고독항아리, 염객방, 리바이어던을 독립 하위항목으로 세웠다.\n- 표면: `경계 메모`, `레퍼런스 시트`, `금지 및 드리프트 주의` 표면을 제거하고, 108계단 개문과 올림피아 제전의 구분은 정치 제도 하위항목으로 흡수했다.",
+  "metadata": {
+    "char_count": 384,
+    "sha256": "777a3a4efb578c29bb981fefcd0c8d41fd4bd0dd712bf1452099372aa17bf819"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-07-01T16:52:46Z",
+  "base_url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai",
+  "cache_schema_version": "1.0",
+  "cache_root": "trinity_wiki_cache",
+  "target_root": "/mnt/data/trinity_wiki_cache",
+  "source_repo": {
+    "owner": "crangprang",
+    "repo": "TRINITY_WIKI",
+    "branch": "main",
+    "head_sha": "307419205597ec81a5f63575d49c82b865ce8832",
+    "included_paths": [
+      "wiki/**/*.md",
+      "wiki/_aliases.json"
+    ]
+  },
+  "ai_reader": {
+    "owner": "crangprang",
+    "repo": "TRINITY_WIKI_AI_READER",
+    "branch": "main",
+    "generated_at": "2026-07-01T16:52:46Z",
+    "document_count": 248,
+    "chunk_count": 3294,
+    "briefings": [
+      "index",
+      "world_laws",
+      "balance_realm",
+      "characters",
+      "beings",
+      "events",
+      "review_actions"
+    ]
+  },
+  "counts": {
+    "documents": 248,
+    "chunks": 3294,
+    "reader_facing_documents": 239,
+    "primary_reader_documents": 176,
+    "review_documents": 7,
+    "support_documents": 63,
+    "other_documents": 2,
+    "by_root": {
+      "beings": 31,
+      "characters": 132,
+      "events": 23,
+      "index.md": 1,
+      "log.md": 1,
+      "review": 7,
+      "universe": 53
+    },
+    "by_status": {
+      "draft": 246,
+      "user_locked": 2
+    },
+    "by_type": {
+      "being": 31,
+      "character": 59,
+      "character_group": 8,
+      "character_support": 63,
+      "event": 19,
+      "event_artifact": 1,
+      "nation": 11,
+      "organization": 20,
+      "organization_index": 1,
+      "overview": 3,
+      "realm": 5,
+      "review": 8,
+      "story": 3,
+      "universe": 16
+    }
+  },
+  "count_definitions": {
+    "documents": "All generated Markdown documents included in the AI Reader pack.",
+    "chunks": "All generated fetchable text chunks across every generated document.",
+    "reader_facing_documents": "Generated documents under wiki/universe, wiki/characters, wiki/beings, and wiki/events, including support pages.",
+    "primary_reader_documents": "Reader-facing documents excluding character/package support pages.",
+    "review_documents": "Generated documents under wiki/review.",
+    "support_documents": "Generated support-layer documents that belong under a primary reader-facing entry.",
+    "other_documents": "Generated documents outside reader-facing roots and review, such as wiki/index.md or wiki/log.md."
+  },
+  "archives": [
+    {
+      "bundle": "combined",
+      "scope": "full",
+      "format": "zip",
+      "path": "downloads/trinity_wiki_cache_full.zip",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/trinity_wiki_cache_full.zip",
+      "file_name": "trinity_wiki_cache_full.zip",
+      "mime_type": "application/zip",
+      "bytes": 6008472,
+      "sha256": "7d78b3ef0b0ca6d6352b561ca3755fb45199050763834006f8cd49f6e4b8153a",
+      "archive_root": "trinity_wiki_cache",
+      "archive_entry_count": 3809,
+      "source_file_count": 249,
+      "reader_file_count": 3555
+    }
+  ],
+  "hydrate": {
+    "extract_to": "/mnt/data",
+    "expected_top_level_dir": "trinity_wiki_cache",
+    "target_root": "/mnt/data/trinity_wiki_cache",
+    "source_wiki": "/mnt/data/trinity_wiki_cache/source_repo/wiki",
+    "ai_reader_pack": "/mnt/data/trinity_wiki_cache/ai_reader_pack",
+    "indexes": "/mnt/data/trinity_wiki_cache/indexes"
+  },
+  "delivery_modes": [
+    {
+      "mode": "ai_reader_mcp_resource_link",
+      "available": true,
+      "mcp_server": "https://trinity-wiki-ai-mcp.gtrdw2102.workers.dev",
+      "tool": "download_cache_zip",
+      "download_url": "https://trinity-wiki-ai-mcp.gtrdw2102.workers.dev/downloads/trinity_wiki_cache_full.zip",
+      "manifest_url": "https://trinity-wiki-ai-mcp.gtrdw2102.workers.dev/downloads/cache_manifest.json",
+      "artifact_contents": "trinity_wiki_cache/",
+      "artifact_format": "zip",
+      "code_container_dns_independent": true,
+      "requires_user_download_approval": true,
+      "hydrate": {
+        "connector": "TRINITY_WIKI AI Reader",
+        "download": "Call download_cache_zip or export_pack(format=\"zip\"), approve ChatGPT's MCP resource_link download, then use the downloaded ZIP file.",
+        "extract_to": "/mnt/data",
+        "expected_target": "/mnt/data/trinity_wiki_cache"
+      },
+      "fallback_reason_when_unavailable": "Use github_actions_artifact when ChatGPT cannot materialize MCP resource_link files."
+    },
+    {
+      "mode": "github_actions_artifact",
+      "available": true,
+      "repo": "crangprang/TRINITY_WIKI",
+      "workflow": "AI Reader Pages",
+      "run_id": "28533745787",
+      "run_attempt": "1",
+      "artifact_name": "trinity-wiki-cache",
+      "artifact_contents": "trinity_wiki_cache/",
+      "artifact_format": "zip",
+      "dns_independent": true,
+      "hydrate": {
+        "connector": "GitHub",
+        "download": "List workflow run artifacts, select artifact_name, download artifact ZIP through the GitHub connector.",
+        "extract_to": "/mnt/data",
+        "expected_target": "/mnt/data/trinity_wiki_cache"
+      },
+      "fallback_reason_when_unavailable": "GITHUB_RUN_ID is only available in GitHub Actions builds."
+    },
+    {
+      "mode": "public_url",
+      "available": true,
+      "manifest_url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/cache_manifest.json",
+      "archive_url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/downloads/trinity_wiki_cache_full.zip",
+      "dns_independent": false,
+      "hydrate": {
+        "download": "Download archive_url and extract it.",
+        "extract_to": "/mnt/data",
+        "expected_target": "/mnt/data/trinity_wiki_cache"
+      },
+      "limitation": "ChatGPT code containers can fail this route when DNS or outbound URL downloads are blocked."
+    }
+  ],
+  "layer_policy": {
+    "source_repo/wiki/universe": "reader-facing canon surface",
+    "source_repo/wiki/characters": "reader-facing canon surface",
+    "source_repo/wiki/beings": "reader-facing canon surface",
+    "source_repo/wiki/events": "reader-facing canon surface",
+    "source_repo/wiki/review": "action/review layer, not settled canon",
+    "source_repo/wiki/index.md": "source support surface",
+    "source_repo/wiki/log.md": "source operation log",
+    "ai_reader_pack": "generated derivative surface for search/orientation"
+  }
+}

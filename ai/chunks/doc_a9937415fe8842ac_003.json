@@ -1,0 +1,24 @@
+{
+  "id": "doc_a9937415fe8842ac:003",
+  "document_id": "doc_a9937415fe8842ac",
+  "path": "wiki/characters/trineads/감독/support/appearance.md",
+  "wiki_path": "characters/trineads/감독/support/appearance.md",
+  "title": "감독 외형",
+  "section": "백안의 공작 가면",
+  "summary": "감독의 알레인 원형, 백안의 공작 가면, 창조계 총책임자의 외형 표지를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a9937415fe8842ac_003.json",
+  "text": "## 백안의 공작 가면\n\n상징 가면은 백안의 공작 가면이다. 화려하고 과장된 장식, 셀 수 없이 박힌 눈, 모든 것을 보고 계산하는 존재라는 인상이 강하다. 가면을 쓴 상태가 감독의 본체성을 가장 강하게 드러낸다.\n\n가면을 쓴 버전과 얼굴을 드러낸 버전은 장면별로 분리한다. 가면을 쓴 감독은 신격과 총책임자의 권위를 전면에 두고, 얼굴을 드러낸 감독은 버려진 아이와 비극을 사랑하는 연출가의 층위를 더 강하게 드러낸다.",
+  "metadata": {
+    "char_count": 235,
+    "sha256": "0cb05bb4f1d2eaca6fd162cb90b059e189be5014f64aca0acbaac486cf8fd8dc"
+  }
+}

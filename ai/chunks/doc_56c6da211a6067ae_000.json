@@ -1,0 +1,23 @@
+{
+  "id": "doc_56c6da211a6067ae:000",
+  "document_id": "doc_56c6da211a6067ae",
+  "path": "wiki/review/decision_requests/index.md",
+  "wiki_path": "review/decision_requests/index.md",
+  "title": "판단 요청",
+  "section": "판단 요청",
+  "summary": "사용자 판단, 제안 승인, 상태 정리가 필요한 WIKI 항목 색인.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "review",
+    "decisions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56c6da211a6067ae_000.json",
+  "text": "# 판단 요청\n\n판단 요청은 WIKI 안에서 실제 사용자 판단이나 승인 대기가 필요한 항목만 모으는 큐다. `needs_decision` 상태는 활성 판단 항목이나 여기서 연결한 review todo와 대응해야 한다. 단순 초안, 세부 보강 여지, 일반적인 미완성은 `draft`로 둔다.",
+  "metadata": {
+    "char_count": 161,
+    "sha256": "a3175410ba0bd49616f293b1a54c4b30659389a67cb96ea369c129f93f28565e"
+  }
+}

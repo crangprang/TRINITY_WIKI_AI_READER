@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_54bdf8cfc1cc0405",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS05_EROSION.txt",
+  "title": "침식의 펠시온",
+  "summary": "침식의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "1065caf1b94cb0e561b81fe490f0ea0cadefc93d3a09b17a554a88a4707bccbb",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_54bdf8cfc1cc0405.json",
+  "chunks": [
+    {
+      "id": "live_doc_54bdf8cfc1cc0405:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_54bdf8cfc1cc0405_000.json",
+      "char_count": 2420
+    }
+  ]
+}

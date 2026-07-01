@@ -1,0 +1,146 @@
+{
+  "id": "doc_4933f878a0a0efbd",
+  "path": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md",
+  "wiki_path": "events/삼위의_군상/1부/아홉_나라의_시대/삼위의_군상_프롤로그.md",
+  "title": "삼위의 군상 프롤로그",
+  "summary": "삼위의 군상 프롤로그는 아홉 나라의 비극 구조를 먼저 선언하는 도입 사건이다.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:삼위의_군상",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "삼위의 군상 프롤로그"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "사건 구조"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "백색 폐허와 유령 의뢰",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/백색_폐허와_유령_의뢰.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "아홉 나라",
+      "target": "wiki/universe/realms/balance/nations/index.md"
+    },
+    {
+      "label": "세계사",
+      "target": "wiki/events/world_history/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "dea75b3b5cfce10f283ce9808d4926bf6bb41039878460f3bc6862f739779e06",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_4933f878a0a0efbd.json",
+  "chunks": [
+    {
+      "id": "doc_4933f878a0a0efbd:000",
+      "section": "삼위의 군상 프롤로그",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_000.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_001.json",
+      "char_count": 255
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_002.json",
+      "char_count": 287
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_003.json",
+      "char_count": 660
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_004.json",
+      "char_count": 333
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:005",
+      "section": "사건 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_005.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:006",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_006.json",
+      "char_count": 279
+    },
+    {
+      "id": "doc_4933f878a0a0efbd:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_4933f878a0a0efbd_007.json",
+      "char_count": 407
+    }
+  ]
+}

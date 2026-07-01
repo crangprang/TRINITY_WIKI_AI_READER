@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_1f2a56aba3b07b4a:000",
+  "document_id": "live_doc_1f2a56aba3b07b4a",
+  "path": "04_MAIN_CHARACTER/05_PERSONA/07_MINOS/PER07_CORE.txt",
+  "title": "미노스 / CORE",
+  "section": "body",
+  "summary": "미노스 / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:05_PERSONA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_1f2a56aba3b07b4a_000.json",
+  "text": "미노스 / CORE\n\n1. 식별\n미노스은 오르딜리아의 아포라투스 `파놉티콘`와 연결된 페르소나/의식이다. 이 파일은 후속 일괄 개발 전까지 최소 식별 카드로만 운용한다.\n\n2. 현재 고정 앵커\n- 소속: 오르딜리아 / 파놉티콘\n- 전면: 방랑자의 귀환, 고결한 멘토, 스노우볼 속 별을 관리하는 재판 연출자\n- 압력: 정의와 질서를 극한까지 압축해 더 큰 카타르시스를 기다리는 연출가\n- 관계: 쥬디스의 공포 기반 정의, 시민의 시선, 마스터 링과 연결\n\n3. 개발 상태\n- 반복된 AI-only 장면 압박, 흔들림, 붕괴 직전 문단은 live core에서 제거했다.\n- 실제 장면 운용, 대사, counterpart별 말투와 감정선은 후속 persona 일괄 개발 전까지 확정하지 않는다.",
+  "metadata": {
+    "char_count": 386,
+    "sha256": "432820feb69ff1c56446dcfa03cd6990d01f8a2206e231f3a71587b71f1649bd"
+  }
+}

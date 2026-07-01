@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:231",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] cleanup | support 요약과 관계 색인 문체 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_231.json",
+  "text": "## [2026-06-26] cleanup | support 요약과 관계 색인 문체 정리\n\nreader-facing support frontmatter 요약과 본문 도입부, 관계 색인의 잔여 관리 문구를 위키 항목형 서술로 정리했다.\n\n- 정리: character support 요약의 `support 문서` 표현을 항목형 표현으로 바꾸고, 트리네아드와 길티어 support 도입부를 시각·발화 기준 설명으로 바꿨다.\n- 문체: 균형계 문화·언어·국가 문서와 메테우스, 진, 엘리자베스 관련 문장의 비교 부정형과 메타적 관리 문구를 제거했다.\n- 관계: `_relations.json`의 낡은 요약을 선언형 요약으로 바꿔 그래프 조회 표면에서도 같은 문체 기준이 적용되게 했다.\n- 표면: 실제 보존 원천이 없는 빈 `raw/` 디렉터리를 제거했다.",
+  "metadata": {
+    "char_count": 419,
+    "sha256": "1b64e55c2b51397328fb7c72c040a57f359da62dfadd796a7b585832b1c5236c"
+  }
+}

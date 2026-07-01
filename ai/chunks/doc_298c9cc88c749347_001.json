@@ -1,0 +1,24 @@
+{
+  "id": "doc_298c9cc88c749347:001",
+  "document_id": "doc_298c9cc88c749347",
+  "path": "wiki/characters/personas/에어리얼/support/appearance.md",
+  "wiki_path": "characters/personas/에어리얼/support/appearance.md",
+  "title": "에어리얼 외형",
+  "section": "외형 기준",
+  "summary": "에어리얼의 바람 안내자 실루엣, 소용돌이 가면, 편지와 방주 항로, 비행 방주와 구름 항로를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_298c9cc88c749347_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 여성 |\n| 나이 | 30대 초반 |\n| 실루엣 | 바람으로 읽히는 안내자. 자유로운 탐험가의 표면과 항로의 감옥을 견딘 사람의 피로가 함께 선다. |\n| 의상 | 배와 바람의 정령성을 가진 탐험가 의상. 얼굴부와 가면부가 외형의 중심을 잡는다. |\n| 가면 | 소용돌이 모티브를 가진 얇은 전면 가면 또는 얼굴 덮개. 얼굴은 가면 뒤로 잠긴다. |\n| 소품 | 편지, 방주 항로도, 나침반 바늘, 손짓, 바람의 궤적 |\n| 배경 | 비행 방주, 돛, 구름 항로, 브리지, 폭풍 전야의 적색 신호 |\n| 표정/자세 | 손을 뻗거나 바람을 부르는 자세. 명령, 초대, 목소리의 압력이 손짓과 소용돌이 가면, 편지와 항로도로 읽힌다. |",
+  "metadata": {
+    "char_count": 400,
+    "sha256": "fa64612ed062eb827c5accd471a796dcb02c33e7e3bc7a6c51faa19f9478e5e9"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:171",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] restructure | universe term entries and evidence surface cleanup",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_171.json",
+  "text": "## [2026-06-26] restructure | universe term entries and evidence surface cleanup\n\n사용자 승인에 따라 신설 검토 항목을 실제 위키식 조회어로 반영하고, 독자용 문서에서 `sources` 프런트매터와 `원천 문서` 섹션을 제거했다.\n\n- 신설: [하위신](universe/laws/하위신.md), [세 에너지](universe/laws/세_에너지.md), [삼위일체 우주](universe/structure/삼위일체_우주.md), [오리진](universe/structure/오리진.md), [균형계/문화](universe/realms/balance/culture/index.md), [균형계/언어](universe/realms/balance/language/index.md)\n- 분해: `두 개의 문`은 삼위일체 우주 하위 절로 두고, `혼돈에서 현재까지`는 세계사와 삼위의 군상/1부 시대 흐름 및 우주 법칙 문서로 나눴다.\n- 표면 정리: WIKI 앱의 원천 버튼, 토론 브리프 원천 링크, 감사 도구의 원천 섹션 요구를 제거했다.",
+  "metadata": {
+    "char_count": 559,
+    "sha256": "4f9b34587a5b100f6ea04ffeaa87edb040a91a1f0f4f3c9f43284f3639d4b433"
+  }
+}

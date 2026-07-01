@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:181",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | 판단 요청 표면 단일화",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_181.json",
+  "text": "## [2026-06-26] maintenance | 판단 요청 표면 단일화\n\n`needs_decision` 상태가 실제 판단 큐와 연결되도록 review 표면을 정리했다.\n\n- 단일화: 비어 있던 `review/decisions.md` 표면을 제거하고 [판단 요청](review/decision_requests/index.md)을 활성 큐로 사용한다.\n- 정리: 과거 `pending_review` alias는 판단 요청 큐로 이동시켰다.\n- 기준: 단순 초안이나 일반 보강 여지는 `draft`, 사용자 판단이나 승인 대기는 `needs_decision`으로 구분한다.",
+  "metadata": {
+    "char_count": 320,
+    "sha256": "1624d603e6116fa3a5cec11d417eef844bc9c9f6d80816c9a8f5ef7cf85d7f1f"
+  }
+}

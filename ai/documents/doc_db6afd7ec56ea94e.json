@@ -1,0 +1,113 @@
+{
+  "id": "doc_db6afd7ec56ea94e",
+  "path": "wiki/universe/realms/balance/organizations/마스크맨.md",
+  "wiki_path": "universe/realms/balance/organizations/마스크맨.md",
+  "title": "마스크맨",
+  "summary": "마스크맨은 플라센티아 기반의 기능조직으로, 역할 가면과 사냥 절차를 통해 판타즈마와 위험 생태를 대륙 실무로 사냥한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마스크맨"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역할 가면과 사냥 절차"
+    },
+    {
+      "level": 2,
+      "title": "국가와 후보"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "제페토",
+      "target": "wiki/characters/axions/제페토/index.md"
+    }
+  ],
+  "sha256": "817ad360a495df758c77f6c533adca5a6792c23a57bce41c28e1505570dbb2db",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_db6afd7ec56ea94e.json",
+  "chunks": [
+    {
+      "id": "doc_db6afd7ec56ea94e:000",
+      "section": "마스크맨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_000.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_db6afd7ec56ea94e:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_001.json",
+      "char_count": 234
+    },
+    {
+      "id": "doc_db6afd7ec56ea94e:002",
+      "section": "역할 가면과 사냥 절차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_002.json",
+      "char_count": 263
+    },
+    {
+      "id": "doc_db6afd7ec56ea94e:003",
+      "section": "국가와 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_003.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_db6afd7ec56ea94e:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_db6afd7ec56ea94e_004.json",
+      "char_count": 322
+    }
+  ]
+}

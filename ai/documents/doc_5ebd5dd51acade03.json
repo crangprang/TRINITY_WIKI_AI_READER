@@ -1,0 +1,117 @@
+{
+  "id": "doc_5ebd5dd51acade03",
+  "path": "wiki/characters/savior_candidates/카스파르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/카스파르/support/appearance.md",
+  "title": "카스파르 외형",
+  "summary": "카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:savior_candidates",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "카스파르 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "현장 지휘자"
+    },
+    {
+      "level": 2,
+      "title": "역할 가면 세트"
+    },
+    {
+      "level": 2,
+      "title": "피톤 실패의 흔적"
+    },
+    {
+      "level": 2,
+      "title": "시각 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    },
+    {
+      "label": "카스파르",
+      "target": "wiki/characters/savior_candidates/카스파르/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "부패의 판타즈마",
+      "target": "wiki/beings/phantasmas/부패의_판타즈마.md"
+    }
+  ],
+  "sha256": "a10aa2f6cf5f3b61babf8fd2dd881e19ef9765ff6b369ac87af7b27f4595f0ee",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_5ebd5dd51acade03.json",
+  "chunks": [
+    {
+      "id": "doc_5ebd5dd51acade03:000",
+      "section": "카스파르 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_000.json",
+      "char_count": 109
+    },
+    {
+      "id": "doc_5ebd5dd51acade03:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_001.json",
+      "char_count": 366
+    },
+    {
+      "id": "doc_5ebd5dd51acade03:002",
+      "section": "현장 지휘자",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_002.json",
+      "char_count": 179
+    },
+    {
+      "id": "doc_5ebd5dd51acade03:003",
+      "section": "역할 가면 세트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_003.json",
+      "char_count": 242
+    },
+    {
+      "id": "doc_5ebd5dd51acade03:004",
+      "section": "피톤 실패의 흔적",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_004.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_5ebd5dd51acade03:005",
+      "section": "시각 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_005.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_5ebd5dd51acade03:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_006.json",
+      "char_count": 322
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_bc1dcab1b91b644e",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/WC01_DETAILS_02D_PHENOMENA_AND_TECHNIQUE.txt",
+  "title": "WC01_DETAILS_02D_PHENOMENA_AND_TECHNIQUE",
+  "summary": "WC01_DETAILS_02D_PHENOMENA_AND_TECHNIQUE",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "suffix": ".txt",
+  "sha256": "2ad487ef504a109d37895f7035de372f949943ac4c6b6ed500fd922a58e13ccc",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_bc1dcab1b91b644e.json",
+  "chunks": [
+    {
+      "id": "live_doc_bc1dcab1b91b644e:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_bc1dcab1b91b644e_000.json",
+      "char_count": 1147
+    }
+  ]
+}

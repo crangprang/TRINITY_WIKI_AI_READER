@@ -1,0 +1,368 @@
+{
+  "id": "doc_10c7f801edec7e48",
+  "path": "wiki/universe/laws/세_에너지.md",
+  "wiki_path": "universe/laws/세_에너지.md",
+  "title": "세 에너지",
+  "summary": "에테르, 이데아, 마니아가 이름과 신앙과 몸을 현실 압력으로 바꾸는 우주 법칙.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "energy"
+  ],
+  "updated": "2026-07-01",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "세 에너지"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "기본 구조"
+    },
+    {
+      "level": 2,
+      "title": "Own 에너지와 Other 에너지"
+    },
+    {
+      "level": 2,
+      "title": "인간의 생명필터"
+    },
+    {
+      "level": 2,
+      "title": "에테르"
+    },
+    {
+      "level": 2,
+      "title": "이데아"
+    },
+    {
+      "level": 2,
+      "title": "마니아"
+    },
+    {
+      "level": 2,
+      "title": "섭리"
+    },
+    {
+      "level": 2,
+      "title": "잔불"
+    },
+    {
+      "level": 2,
+      "title": "이름과 현실 압력"
+    },
+    {
+      "level": 2,
+      "title": "허구의 이름과 신앙"
+    },
+    {
+      "level": 2,
+      "title": "예언과 이름 압력"
+    },
+    {
+      "level": 2,
+      "title": "인간의 출력"
+    },
+    {
+      "level": 2,
+      "title": "신적 존재의 출력"
+    },
+    {
+      "level": 2,
+      "title": "국가와 존재의 작동"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "창조계",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "파괴계",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "태초의 불꽃",
+      "target": "wiki/universe/laws/태초의_불꽃.md"
+    },
+    {
+      "label": "고요한 종말",
+      "target": "wiki/universe/laws/고요한_종말.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "삼위일체 우주",
+      "target": "wiki/universe/structure/삼위일체_우주.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "축복",
+      "target": "wiki/universe/laws/축복.md"
+    },
+    {
+      "label": "저주",
+      "target": "wiki/universe/laws/저주.md"
+    },
+    {
+      "label": "비술",
+      "target": "wiki/universe/laws/비술.md"
+    },
+    {
+      "label": "기적",
+      "target": "wiki/universe/laws/기적.md"
+    },
+    {
+      "label": "예언",
+      "target": "wiki/universe/laws/예언.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "판타즈마",
+      "target": "wiki/beings/phantasmas/index.md"
+    }
+  ],
+  "sha256": "cc0051f3a6e2cf8d05243416c4d2542bda70ee09201d6b80ebea9aa0a2e25d4d",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_10c7f801edec7e48.json",
+  "chunks": [
+    {
+      "id": "doc_10c7f801edec7e48:000",
+      "section": "세 에너지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_000.json",
+      "char_count": 261
+    },
+    {
+      "id": "doc_10c7f801edec7e48:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_001.json",
+      "char_count": 606
+    },
+    {
+      "id": "doc_10c7f801edec7e48:002",
+      "section": "기본 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_002.json",
+      "char_count": 824
+    },
+    {
+      "id": "doc_10c7f801edec7e48:003",
+      "section": "Own 에너지와 Other 에너지",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_003.json",
+      "char_count": 744
+    },
+    {
+      "id": "doc_10c7f801edec7e48:004",
+      "section": "인간의 생명필터",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_004.json",
+      "char_count": 606
+    },
+    {
+      "id": "doc_10c7f801edec7e48:005",
+      "section": "에테르",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_005.json",
+      "char_count": 643
+    },
+    {
+      "id": "doc_10c7f801edec7e48:006",
+      "section": "이데아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_006.json",
+      "char_count": 499
+    },
+    {
+      "id": "doc_10c7f801edec7e48:007",
+      "section": "마니아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_007.json",
+      "char_count": 471
+    },
+    {
+      "id": "doc_10c7f801edec7e48:008",
+      "section": "섭리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_008.json",
+      "char_count": 369
+    },
+    {
+      "id": "doc_10c7f801edec7e48:009",
+      "section": "잔불",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_009.json",
+      "char_count": 476
+    },
+    {
+      "id": "doc_10c7f801edec7e48:010",
+      "section": "이름과 현실 압력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_010.json",
+      "char_count": 698
+    },
+    {
+      "id": "doc_10c7f801edec7e48:011",
+      "section": "허구의 이름과 신앙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_011.json",
+      "char_count": 387
+    },
+    {
+      "id": "doc_10c7f801edec7e48:012",
+      "section": "예언과 이름 압력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_012.json",
+      "char_count": 324
+    },
+    {
+      "id": "doc_10c7f801edec7e48:013",
+      "section": "인간의 출력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_013.json",
+      "char_count": 513
+    },
+    {
+      "id": "doc_10c7f801edec7e48:014",
+      "section": "신적 존재의 출력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_014.json",
+      "char_count": 364
+    },
+    {
+      "id": "doc_10c7f801edec7e48:015",
+      "section": "국가와 존재의 작동",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_015.json",
+      "char_count": 551
+    },
+    {
+      "id": "doc_10c7f801edec7e48:016",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_10c7f801edec7e48_016.json",
+      "char_count": 582
+    }
+  ]
+}

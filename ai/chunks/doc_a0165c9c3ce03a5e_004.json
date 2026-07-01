@@ -1,0 +1,24 @@
+{
+  "id": "doc_a0165c9c3ce03a5e:004",
+  "document_id": "doc_a0165c9c3ce03a5e",
+  "path": "wiki/universe/realms/balance/organizations/필그림즈.md",
+  "wiki_path": "universe/realms/balance/organizations/필그림즈.md",
+  "title": "필그림즈",
+  "section": "관련 문서",
+  "summary": "필그림즈는 파라디소 기반의 기능조직으로, 오멜라스의 구조를 아는 이들과 외부 봉사자가 나라 밖 재난 현장에 나서는 순례망이다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a0165c9c3ce03a5e_004.json",
+  "text": "## 관련 문서\n\n- [균형계 조직](index.md) - 필그림즈가 놓이는 조직 색인.\n- [파라디소](../nations/파라디소.md) - 필그림즈의 기반 국가.\n- [루시리엘](../../../../characters/savior_candidates/루시리엘/index.md) - 필그림즈의 얼굴이 되는 구세주 후보.\n- [설리반](../../../../characters/axions/설리반/index.md) - 파라디소 엑시온.",
+  "metadata": {
+    "char_count": 245,
+    "sha256": "e8d92a1f4e3ad0787d547494d67f7fb3a9ff275394a19b6fda58eb47f38bf48d"
+  }
+}

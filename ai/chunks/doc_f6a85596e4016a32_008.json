@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:008",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "양보받은 시간",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_008.json",
+  "text": "### 양보받은 시간\n\n`양보받은 시간`은 아인의 중심 기억이다. 살아남은 시간은 혼자 붙잡은 성취가 아니며, 랄이 밀어 준 자리 위에 이어진 시간이다. 이 기억은 감사와 애도만 남기지 않는다. 빚, 조급함, 증명 강박, 다시 버려지는 공포가 함께 붙는다.\n\n아인은 자기 목숨을 편하게 자기 것으로 쓰지 못한다. 지금의 판단 하나, 복수의 한 걸음 하나, 동료를 배치하는 손 하나가 모두 받은 시간을 어떻게 쓰고 있는가와 연결된다.",
+  "metadata": {
+    "char_count": 241,
+    "sha256": "afda597a3619445d199627f4302a0dedb46b43576842826a79e048e3fcd9af0c"
+  }
+}

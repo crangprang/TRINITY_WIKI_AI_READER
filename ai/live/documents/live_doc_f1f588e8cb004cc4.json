@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f1f588e8cb004cc4",
+  "path": "GOAL.txt",
+  "title": "GOAL",
+  "summary": "GOAL",
+  "root": "GOAL.txt",
+  "category": "GOAL.txt",
+  "suffix": ".txt",
+  "sha256": "048578a362a837dca9fff01e2cab6331bf042b9392a25753a9679c1205328ec4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f1f588e8cb004cc4.json",
+  "chunks": [
+    {
+      "id": "live_doc_f1f588e8cb004cc4:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f1f588e8cb004cc4_000.json",
+      "char_count": 2486
+    }
+  ]
+}

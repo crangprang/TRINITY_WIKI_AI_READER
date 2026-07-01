@@ -1,0 +1,24 @@
+{
+  "id": "doc_09fc33f28d61cfb1:001",
+  "document_id": "doc_09fc33f28d61cfb1",
+  "path": "wiki/characters/fellsions/index.md",
+  "wiki_path": "characters/fellsions/index.md",
+  "title": "펠시온",
+  "section": "개요",
+  "summary": "펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이며, 균형계에 침투해 각 나라의 상처와 혼란을 파괴계 언어로 벌리는 존재다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "fellsions",
+    "index"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_09fc33f28d61cfb1_001.json",
+  "text": "## 개요\n\n펠시온은 파괴계 트리네아드의 이름에 구속된 인간형 하위신 계열이다. 이 이름은 칭호와 종족명을 넘어, 파괴계가 한 존재에게 내리는 낙인, 배속, 판결, 존재 고정의 성격을 함께 가진다. 펠시온의 하위신성은 이 이름 판결에서 성립한다.\n\n균형계의 아홉 나라 시대에서 펠시온들은 외부 침투자이자 파괴계 압력의 운반자로 움직인다. 이들은 국가 장치와 왕권의 내부 질서를 관리하는 [페르소나](../personas/index.md), 보물과 나라를 몸으로 잇는 [엑시온](../axions/index.md), 지역 공포가 괴생태로 굳은 [판타즈마](../../beings/phantasmas/index.md)와 다른 자리에서 사건을 벌인다.\n\n펠시온의 몸은 기본적으로 인간형이다. 벌레, 외골격, 기생 생물성은 가면, 의상, 무기, 그림자, 권능 연출을 통해 드러난다. 균형계가 이 이름을 생태적으로 오독하면 같은 이름을 공유하는 동명 판타즈마가 따로 발생한다.\n\n승격 이전 기반은 펠시온의 외형과 기능에 흔적을 남긴다. 트리네아드의 이름을 받는 순간 그 흔적은 새 이름의 개념 아래 재정렬된다. 원생물이나 판타즈마 기반에서 출발한 경우에도 현재의 하위신성은 이름 낙인에서 성립하고, 동명 판타즈마는 별도 괴생태로 남는다.",
+  "metadata": {
+    "char_count": 631,
+    "sha256": "3ab03ce1445489531f72d4ef75a138fe3fc5cd89aa62606c598e6db948505572"
+  }
+}

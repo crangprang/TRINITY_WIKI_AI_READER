@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_fe65563d886e1264:000",
+  "document_id": "live_doc_fe65563d886e1264",
+  "path": "01_CANON/00_WORLD_CANON/WC01_DETAILS/00_WC01_DETAILS_index.json",
+  "title": "{",
+  "section": "body",
+  "summary": "\"index_version\": \"2.4\",",
+  "root": "01_CANON",
+  "category": "01_CANON:00_WORLD_CANON",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_fe65563d886e1264_000.json",
+  "text": "{\n  \"index_version\": \"2.4\",\n  \"generated_at\": \"2026-05-03T00:00:00+09:00\",\n  \"path_relative\": \"01_CANON/00_WORLD_CANON/WC01_DETAILS\",\n  \"folder_name\": \"WC01_DETAILS\",\n  \"depth\": 3,\n  \"file_count\": 14,\n  \"rule_applied\": \"txt_files_only; composition_split_02A_02D\",\n  \"files\": [\n    \"WC01_DETAILS_01_UNIVERSE.txt\",\n    \"WC01_DETAILS_02_COMPOSITION.txt\",\n    \"WC01_DETAILS_02A_DIVINE_SYSTEM.txt\",\n    \"WC01_DETAILS_02B_DRAGONS_RIDDLES_AND_TREASURES.txt\",\n    \"WC01_DETAILS_02C_APPARATUS_SYSTEM.txt\",\n    \"WC01_DETAILS_02D_PHENOMENA_AND_TECHNIQUE.txt\",\n    \"WC01_DETAILS_03_EVENTS.txt\",\n    \"WC01_DETAILS_04_NARRATIVE_DEVICES.txt\",\n    \"WC01_DETAILS_05_ORGANIZATIONS_AND_POWERS.txt\",\n    \"WC01_DETAILS_06_LIFES.txt\",\n    \"WC01_DETAILS_07_GEOGRAPHY_AND_TERRAIN.txt\",\n    \"WC01_DETAILS_08_CIVILIZATION_AND_MATERIAL_BASELINE.txt\",\n    \"WC01_DETAILS_09_CULTURE_AND_TABOOS.txt\",\n    \"WC01_DETAILS_99_SPOILER.txt\"\n  ],\n  \"encoding\": \"UTF-8\"\n}",
+  "metadata": {
+    "char_count": 932,
+    "sha256": "9ddcdad6b43d62ed9ccb8f8d3b3cb078b8fe220a3630d018f242960ad36ca2bc"
+  }
+}

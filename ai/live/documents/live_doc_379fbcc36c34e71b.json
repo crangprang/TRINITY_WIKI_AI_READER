@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_379fbcc36c34e71b",
+  "path": "04_MAIN_CHARACTER/01_ENSEMBLE/E03_REALITY_DIRECTOR.txt",
+  "title": "E03_현실의 트리네아드_감독",
+  "summary": "E03_현실의 트리네아드_감독",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:01_ENSEMBLE",
+  "suffix": ".txt",
+  "sha256": "4abde2387e39ec2b06db2b82c5661441da3cc8bce24454e200d66bfebaa47cb2",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_379fbcc36c34e71b.json",
+  "chunks": [
+    {
+      "id": "live_doc_379fbcc36c34e71b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_379fbcc36c34e71b_000.json",
+      "char_count": 4809
+    }
+  ]
+}

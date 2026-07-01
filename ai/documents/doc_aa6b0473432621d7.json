@@ -1,0 +1,100 @@
+{
+  "id": "doc_aa6b0473432621d7",
+  "path": "wiki/beings/creatures/레이어드_하층_생태.md",
+  "wiki_path": "beings/creatures/레이어드_하층_생태.md",
+  "title": "레이어드 하층 생태",
+  "summary": "전도막, 장부좀, 한도쥐 등이 비와 전선과 장부 주변에서 이루는 레이어드 하층 생활 생태.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "reader",
+    "존재",
+    "being"
+  ],
+  "updated": "2026-06-26",
+  "category": "beings:creatures",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "레이어드 하층 생태"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체"
+    },
+    {
+      "level": 2,
+      "title": "구조와 현현"
+    },
+    {
+      "level": 2,
+      "title": "생태 원리"
+    },
+    {
+      "level": 2,
+      "title": "생활과 생태 반응"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    }
+  ],
+  "sha256": "c628a35649f0ec89c5d6031b069cf0bc0ca0a311297c30f7c41b1e0322438651",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_aa6b0473432621d7.json",
+  "chunks": [
+    {
+      "id": "doc_aa6b0473432621d7:000",
+      "section": "레이어드 하층 생태",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_000.json",
+      "char_count": 93
+    },
+    {
+      "id": "doc_aa6b0473432621d7:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_001.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_aa6b0473432621d7:002",
+      "section": "정체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_002.json",
+      "char_count": 107
+    },
+    {
+      "id": "doc_aa6b0473432621d7:003",
+      "section": "구조와 현현",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_003.json",
+      "char_count": 981
+    },
+    {
+      "id": "doc_aa6b0473432621d7:004",
+      "section": "생태 원리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_004.json",
+      "char_count": 334
+    },
+    {
+      "id": "doc_aa6b0473432621d7:005",
+      "section": "생활과 생태 반응",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_005.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_aa6b0473432621d7:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_aa6b0473432621d7_006.json",
+      "char_count": 106
+    }
+  ]
+}

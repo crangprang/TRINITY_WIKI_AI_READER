@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:270",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] relations | 계열 링크 설명 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_270.json",
+  "text": "## [2026-06-26] relations | 계열 링크 설명 보강\n\n캐릭터와 존재 계열 문서의 관련 문서 설명에서 `상위 항목`, `인물 계통` 같은 약한 라벨을 관계 설명으로 바꿨다.\n\n- 펠시온 개별 문서의 펠시온 링크를 이름 판결과 군단 구조의 관계로 풀었다.\n- 구세주 후보 링크를 후보명, 가면, 국가 시험의 공통 구조로 설명했다.\n- 트리네아드와 판타즈마 계열 링크를 세 세계 상위 신격, 이름, 부정 이데아, 장소, 핵의 발생 구조로 정리했다.",
+  "metadata": {
+    "char_count": 258,
+    "sha256": "3dac87f26659a3d1acd3e606530cb96d8830c7385d32db845f49675eedc81ed8"
+  }
+}

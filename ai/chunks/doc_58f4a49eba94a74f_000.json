@@ -1,0 +1,23 @@
+{
+  "id": "doc_58f4a49eba94a74f:000",
+  "document_id": "doc_58f4a49eba94a74f",
+  "path": "wiki/characters/main_party/엘리자베스/index.md",
+  "wiki_path": "characters/main_party/엘리자베스/index.md",
+  "title": "엘리자베스",
+  "section": "엘리자베스",
+  "summary": "엘리자베스는 마고리아가 하나의 꿈과 세 시신으로 재구성한 공용 몸이다. 블랑과 스칼렛은 그 몸 안에서 서로 다른 전면으로 서며, 몸의 상처와 피로는 이어지고 시선과 말투와 의지는 교체된다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_58f4a49eba94a74f_000.json",
+  "text": "# 엘리자베스\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 인물 |\n| 이름 | 엘리자베스 |\n| 구성 | [블랑](../블랑/index.md) / [스칼렛](../스칼렛/index.md) |\n| 발생 | 마고리아의 재구성 |\n| 출신 | 예술의 나라 우니오네 |\n| 공용 축복 | 섬세 |\n| 공용 저주 | 재연 |\n| 공용 비술 | 혈조 |\n| 중심 축 | 공용 몸 / 전환 / 기억 좌표 |",
+  "metadata": {
+    "char_count": 226,
+    "sha256": "332588fcfa70f357b955ecd4c511e10ac11fd0677488e34d06a4cdddeb5c53c3"
+  }
+}

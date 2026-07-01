@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_472386e73954f9d9",
+  "path": "02_LORE/L07_JUSTICE/L07_REFERENCE.txt",
+  "title": "L07_오르딜리아 / REFERENCE",
+  "summary": "L07_오르딜리아 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L07_JUSTICE",
+  "suffix": ".txt",
+  "sha256": "551db8da62759b3c9f2650a68a7fda0f2dc1c644c76d13e595da59feb70bfcdd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_472386e73954f9d9.json",
+  "chunks": [
+    {
+      "id": "live_doc_472386e73954f9d9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_472386e73954f9d9_000.json",
+      "char_count": 961
+    }
+  ]
+}

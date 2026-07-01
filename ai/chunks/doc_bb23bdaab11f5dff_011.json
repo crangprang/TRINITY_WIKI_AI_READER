@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:011",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "루시아",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_011.json",
+  "text": "### 루시아\n\n루시아의 이름은 단테의 말투를 가장 크게 흔든다. 루시아, 별, 시선, 기사검, 마지막 질문은 한 축으로 묶인다. 이 이름이 가까워질수록 숨이 먼저 걸리고, 문장은 늦게 닫힌다.\n\n단테는 루시아를 추억담처럼 말하지 않는다. 그 이름은 죄, 고마움, 닫히지 않은 질문, 속죄의 길을 동시에 부른다.",
+  "metadata": {
+    "char_count": 174,
+    "sha256": "b3d68d4d3738f73d8d0b055a6704770f28fea2b757c6d6f6493615b9464bdff5"
+  }
+}

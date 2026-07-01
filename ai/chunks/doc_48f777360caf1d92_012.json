@@ -1,0 +1,24 @@
+{
+  "id": "doc_48f777360caf1d92:012",
+  "document_id": "doc_48f777360caf1d92",
+  "path": "wiki/characters/main_party/블랑/support/voice.md",
+  "wiki_path": "characters/main_party/블랑/support/voice.md",
+  "title": "블랑 보이스",
+  "section": "옌",
+  "summary": "블랑의 층위별 발화, 관계별 어조, 의료적 제지와 리볼버 장면의 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_48f777360caf1d92_012.json",
+  "text": "### 옌\n\n[옌](../../옌/index.md) 앞에서는 부드러운 거리감이 살아난다. 손을 내밀기 전에 허락을 묻고, 머리카락이나 손끝을 잠깐 살피는 말이 잘 붙는다.\n\n블랑은 옌을 오래 눌러 두지 않는다. `괜찮으면 잠깐만`, `이쪽 봐 줄래`, `이건 아프지 않게 할게`처럼 짧고 조심스러운 말이 맞다.",
+  "metadata": {
+    "char_count": 173,
+    "sha256": "705ffa90fa8b0e47c537a8a1dd68fee407df86d9fc9bafbbcb0736767c98dc9a"
+  }
+}

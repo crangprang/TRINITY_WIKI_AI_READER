@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_af06fb9b9603522b",
+  "path": "02_LORE/L09_HARMONY/L09_BRANCH_IDEA.txt",
+  "title": "L09_플라센티아 / BRANCH_IDEA",
+  "summary": "L09_플라센티아 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L09_HARMONY",
+  "suffix": ".txt",
+  "sha256": "ab31c79e220c633c9c76e7c8dee25186676541070558915e339185a8cea3f1f7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_af06fb9b9603522b.json",
+  "chunks": [
+    {
+      "id": "live_doc_af06fb9b9603522b:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_af06fb9b9603522b_000.json",
+      "char_count": 804
+    }
+  ]
+}

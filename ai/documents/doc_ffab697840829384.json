@@ -1,0 +1,390 @@
+{
+  "id": "doc_ffab697840829384",
+  "path": "wiki/characters/main_party/스칼렛/index.md",
+  "wiki_path": "characters/main_party/스칼렛/index.md",
+  "title": "스칼렛",
+  "summary": "스칼렛은 같은 몸 안에서 더러운 역할과 시선의 무게를 먼저 떠안는 배우이자 탐정이다. 위험한 웃음과 무대성은 블랑에게 향하는 시선을 자기 쪽으로 돌리는 생존 장치이며, 엘리자베스라는 이름 밑에서 지워지지 않으려는 사람의 버팀이 함께 남는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "스칼렛"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "페티멘토의 외과의사"
+    },
+    {
+      "level": 3,
+      "title": "블랑과 페티멘토의 봄"
+    },
+    {
+      "level": 3,
+      "title": "꿈의 아틀리에"
+    },
+    {
+      "level": 3,
+      "title": "빈센트와 거울"
+    },
+    {
+      "level": 3,
+      "title": "마고리아의 재구성"
+    },
+    {
+      "level": 2,
+      "title": "세계와 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "누구나 가면을 쓰는 무대"
+    },
+    {
+      "level": 3,
+      "title": "주인 없는 세 규칙"
+    },
+    {
+      "level": 3,
+      "title": "엘리자베스라는 이름"
+    },
+    {
+      "level": 3,
+      "title": "나는 저주에서 태어난 인격이다"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "커튼콜의 괴물"
+    },
+    {
+      "level": 3,
+      "title": "주홍글씨"
+    },
+    {
+      "level": 3,
+      "title": "지워진 자화상"
+    },
+    {
+      "level": 3,
+      "title": "비 오는 오후"
+    },
+    {
+      "level": 3,
+      "title": "거울 속의 사람"
+    },
+    {
+      "level": 2,
+      "title": "능력과 재연"
+    },
+    {
+      "level": 3,
+      "title": "섬세"
+    },
+    {
+      "level": 3,
+      "title": "혈조"
+    },
+    {
+      "level": 3,
+      "title": "재연"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "파티와 외부 시선"
+    },
+    {
+      "level": 3,
+      "title": "이름과 시선"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "스칼렛 보이스",
+      "target": "wiki/characters/main_party/스칼렛/support/voice.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "스칼렛 외형",
+      "target": "wiki/characters/main_party/스칼렛/support/appearance.md"
+    },
+    {
+      "label": "스칼렛 보이스",
+      "target": "wiki/characters/main_party/스칼렛/support/voice.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "d29ae8c52584d5df8ea0442c7466dd29f84a23315a4d5508b54b52f30c13d7bd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_ffab697840829384.json",
+  "chunks": [
+    {
+      "id": "doc_ffab697840829384:000",
+      "section": "스칼렛",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_000.json",
+      "char_count": 175
+    },
+    {
+      "id": "doc_ffab697840829384:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_001.json",
+      "char_count": 392
+    },
+    {
+      "id": "doc_ffab697840829384:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_ffab697840829384:003",
+      "section": "페티멘토의 외과의사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_003.json",
+      "char_count": 522
+    },
+    {
+      "id": "doc_ffab697840829384:004",
+      "section": "블랑과 페티멘토의 봄",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_004.json",
+      "char_count": 471
+    },
+    {
+      "id": "doc_ffab697840829384:005",
+      "section": "꿈의 아틀리에",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_005.json",
+      "char_count": 350
+    },
+    {
+      "id": "doc_ffab697840829384:006",
+      "section": "빈센트와 거울",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_006.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_ffab697840829384:007",
+      "section": "마고리아의 재구성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_007.json",
+      "char_count": 274
+    },
+    {
+      "id": "doc_ffab697840829384:008",
+      "section": "세계와 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_008.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_ffab697840829384:009",
+      "section": "누구나 가면을 쓰는 무대",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_009.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_ffab697840829384:010",
+      "section": "주인 없는 세 규칙",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_010.json",
+      "char_count": 210
+    },
+    {
+      "id": "doc_ffab697840829384:011",
+      "section": "엘리자베스라는 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_011.json",
+      "char_count": 229
+    },
+    {
+      "id": "doc_ffab697840829384:012",
+      "section": "나는 저주에서 태어난 인격이다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_012.json",
+      "char_count": 224
+    },
+    {
+      "id": "doc_ffab697840829384:013",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_013.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_ffab697840829384:014",
+      "section": "커튼콜의 괴물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_014.json",
+      "char_count": 217
+    },
+    {
+      "id": "doc_ffab697840829384:015",
+      "section": "주홍글씨",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_015.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_ffab697840829384:016",
+      "section": "지워진 자화상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_016.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_ffab697840829384:017",
+      "section": "비 오는 오후",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_017.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_ffab697840829384:018",
+      "section": "거울 속의 사람",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_018.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_ffab697840829384:019",
+      "section": "능력과 재연",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_019.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_ffab697840829384:020",
+      "section": "섬세",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_020.json",
+      "char_count": 405
+    },
+    {
+      "id": "doc_ffab697840829384:021",
+      "section": "혈조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_021.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_ffab697840829384:022",
+      "section": "재연",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_022.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_ffab697840829384:023",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_023.json",
+      "char_count": 509
+    },
+    {
+      "id": "doc_ffab697840829384:024",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_024.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_ffab697840829384:025",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_025.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_ffab697840829384:026",
+      "section": "파티와 외부 시선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_026.json",
+      "char_count": 220
+    },
+    {
+      "id": "doc_ffab697840829384:027",
+      "section": "이름과 시선",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_027.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_ffab697840829384:028",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_028.json",
+      "char_count": 165
+    },
+    {
+      "id": "doc_ffab697840829384:029",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ffab697840829384_029.json",
+      "char_count": 377
+    }
+  ]
+}

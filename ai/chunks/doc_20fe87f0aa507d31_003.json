@@ -1,0 +1,23 @@
+{
+  "id": "doc_20fe87f0aa507d31:003",
+  "document_id": "doc_20fe87f0aa507d31",
+  "path": "wiki/characters/fellsions/침식의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/침식의_펠시온/index.md",
+  "title": "침식의 펠시온",
+  "section": "수라와 봉인",
+  "summary": "침식의 펠시온은 자기 육체를 부적이자 감옥으로 삼아 내면의 파괴신 수라를 봉인한 죄수다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_20fe87f0aa507d31_003.json",
+  "text": "## 수라와 봉인\n\n붉은 봉인 문신인 `주인`은 침식의 이성이자 퇴마술이다. 온몸을 덮은 봉인 문양은 부적처럼 작동하며, 수라가 몸 밖으로 나오는 것을 막는다.\n\n검은 침식 문신인 `묵식`은 광기와 파괴 본능이다. 봉인의 틈을 비집고 나온 살아 있는 먹물 같은 문양이며, 등과 심장 부근에서 혈관처럼 꿈틀거린다.\n\n침식이 개방되면 붉은 문신에 유리가 깨지듯 금이 가고, 그 틈으로 검은 문신이 붉은 문신을 태우고 지우며 번져 나간다. 전투가 끝난 뒤 침식된 영역은 영구적인 검은 얼룩으로 남아 그의 영혼이 잠식되었음을 드러낸다.\n\n송장벌레 백골 가면은 침식의 얼굴에 감옥과 부패의 표지를 함께 남긴다. 가면의 낮은 윤곽과 백골 질감은 시체를 처리하는 벌레의 이미지를 죄수의 얼굴 가림으로 바꾸고, 붉은 봉인 문신과 검은 침식 문신은 그 아래에서 감옥의 주문과 탈옥의 흔적처럼 맞물린다.",
+  "metadata": {
+    "char_count": 439,
+    "sha256": "540fa30b4ea237baed66b458c4c6fbf5db5b2b7d888e156099d7c6c986d59a68"
+  }
+}

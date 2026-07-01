@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:209",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-24] visual lock | 옌 1·2층위 소품/하의/케이프렛 기준 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_209.json",
+  "text": "## [2026-06-24] visual lock | 옌 1·2층위 소품/하의/케이프렛 기준 보강\n\n옌의 1층위 기준을 갈색 대각선 크로스백, 얇고 넓은 스케치북, 투박한 미술 재료, 구조적으로 말이 되는 흰 여행 스목으로 보강했다. 하의는 검은 세로 옆선과 그 옆의 작은 검은 단추열을 분리된 요소로 잠그고, 신발은 블랑의 메리제인과 겹치지 않는 흑회색/차콜 여행용 앵클부츠로 다시 정리했다.\n\n- 반영: [옌](characters/main_party/옌/index.md)\n- 주요 판단: 2층위는 검은 고딕 하이넥 롱탑과 얇은 검은/흑진주빛 케이프렛을 유지하되, 케이프렛 끝단에 낮은 채도의 오팔 가장자리층을 둘 수 있다. 손끝 표현은 액체 얼룩이나 독처럼 보이지 않게 마른 파스텔 가루, 분필가루, 무광 안료 먼지로 바꾼다.",
+  "metadata": {
+    "char_count": 408,
+    "sha256": "3d2149a033bdaf5a301c51c363ad3b892e860ab24581de3afcbbadba3e5264dd"
+  }
+}

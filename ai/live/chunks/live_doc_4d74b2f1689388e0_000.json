@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_4d74b2f1689388e0:000",
+  "document_id": "live_doc_4d74b2f1689388e0",
+  "path": "02_LORE/L10_EREMOS/L10_BRANCH_IDEA.txt",
+  "title": "L10_에레모스 / BRANCH_IDEA",
+  "section": "body",
+  "summary": "L10_에레모스 / BRANCH_IDEA",
+  "root": "02_LORE",
+  "category": "02_LORE:L10_EREMOS",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_4d74b2f1689388e0_000.json",
+  "text": "L10_에레모스 / BRANCH_IDEA\n\n[이 문서 사용법]\n- 이 파일은 아직 팩트도 정본도 아닌 확장안, 변형안, 대체 해석 메모를 둔다.\n- 현재 정본과 충돌해도 적을 수 있지만, 사실처럼 못 박지 말고 `가설`, `분기`, `실험안`으로 남긴다.\n- 여기서 살아남은 것만 나중에 `L10_CORE.txt`, `L10_FACT_DETAIL.txt`, 혹은 live surface로 승격한다.\n- 작업 경과와 병목은 이 파일이 아니라 별도 process note나 평가 기록에 둔다.\n\n1. 확장 후보\n\n- 계절마다 살아나는 대표 통과구와 죽는 통과구를 사례 중심으로 더 세밀하게 잡는 방향.\n- 스트레인저 야영지와 용인 공동체가 서로 다른 생존 규칙으로 마찰을 빚는 장면을 확장하는 방향.\n- 국경 붕괴 뒤 문명권 정규군이 빠져나간 자리를 외지 구조자들이 이어 받는 구조 장면을 더 다듬는 방향.\n\n2. 미감 확장\n\n- 낡은 장막, 뼈무덤, 얕은 물길, 삭은 표지목, 밤의 신호불이 한 시야 안에서 보이는 표면.\n- 멀리서 들리는 구조 휘파람, 바람에 섞인 균열 냄새, 진창과 말라붙은 풀 냄새가 겹치는 감각층.\n- 위 항목들은 장면 밀도를 높일 수 있지만 현재는 branch 확장안으로만 유지한다.",
+  "metadata": {
+    "char_count": 619,
+    "sha256": "5b20a5e386dc6f638ce68047f78f5f9c2efea8ed7d18245483a02eaa3c9c2e8d"
+  }
+}

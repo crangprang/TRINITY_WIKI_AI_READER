@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_51d784fe627d94dd",
+  "path": "02_LORE/L04_TRADE/L04_REFERENCE.txt",
+  "title": "L04_레이어드 / REFERENCE",
+  "summary": "L04_레이어드 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L04_TRADE",
+  "suffix": ".txt",
+  "sha256": "94a45b2fde38bdc4fdd60a3a0163b1bb886ad82a56a8744c7872d664252011dd",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_51d784fe627d94dd.json",
+  "chunks": [
+    {
+      "id": "live_doc_51d784fe627d94dd:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_51d784fe627d94dd_000.json",
+      "char_count": 793
+    }
+  ]
+}

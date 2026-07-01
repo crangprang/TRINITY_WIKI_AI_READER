@@ -1,0 +1,124 @@
+{
+  "id": "doc_fba08e6c9eb03cf9",
+  "path": "wiki/events/singularities/몽환포영.md",
+  "wiki_path": "events/singularities/몽환포영.md",
+  "title": "몽환포영",
+  "summary": "엘리자베스의 정체성 혼란과 두 엑시온의 독백이 겹치며, 무대와 현실의 경계가 흐려지는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "몽환포영"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "fd3ae72415fe9b3d5051799694eaa20b3be62e2c3ffb319fb4e3258757618bf6",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_fba08e6c9eb03cf9.json",
+  "chunks": [
+    {
+      "id": "doc_fba08e6c9eb03cf9:000",
+      "section": "몽환포영",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_000.json",
+      "char_count": 170
+    },
+    {
+      "id": "doc_fba08e6c9eb03cf9:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_001.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_fba08e6c9eb03cf9:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_002.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_fba08e6c9eb03cf9:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_003.json",
+      "char_count": 240
+    },
+    {
+      "id": "doc_fba08e6c9eb03cf9:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_004.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_fba08e6c9eb03cf9:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_005.json",
+      "char_count": 221
+    },
+    {
+      "id": "doc_fba08e6c9eb03cf9:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fba08e6c9eb03cf9_006.json",
+      "char_count": 325
+    }
+  ]
+}

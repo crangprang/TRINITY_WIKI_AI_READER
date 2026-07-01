@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:264",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | template gap 기록 축소",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_264.json",
+  "text": "## [2026-06-26] maintenance | template gap 기록 축소\n\n문서 양식 공백 기록을 일반 원칙 목록에서 실제 활성 보강 대상 목록으로 줄였다.\n\n- 국가, 페르소나, 아홉 용처럼 이미 기사 구조가 잡힌 항목의 소극적 메모를 제거했다.\n- 특이점 개별 문서와 프롤로그, 국가별 판타즈마군, 지역 생태·원생 생물을 남은 양식 공백으로 좁혔다.\n- 계약과 사용자 잠금이 맡는 일반 양식 기준은 review gap 목록에서 분리했다.",
+  "metadata": {
+    "char_count": 254,
+    "sha256": "d83b770148054521b37a092d3e15ae44072acc158aa566bcbdcefc40e12b9188"
+  }
+}

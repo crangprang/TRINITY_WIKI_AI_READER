@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:101",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 헬렌 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_101.json",
+  "text": "## [2026-06-26] rebuild | 헬렌 항목 정리\n\n[헬렌](characters/personas/헬렌/index.md)의 운용 메모형 `기본 정보` 표면을 페르소나 인물 기사 구조로 정리하고 [파라디소](universe/realms/balance/nations/파라디소.md)의 카타르시스, 에우카리스, 세리엔의 우의, 설리반의 선별 구조에 맞췄다.\n\n- 정리: 하얀 성녀의 선별, 카타르시스와 에우카리스, 설리반의 공리주의, 세리엔의 우의, 루시리엘과 옌, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [헬렌 외형](characters/personas/헬렌/support/appearance.md)의 관리 문구와 `금지 및 드리프트 주의` 표면을 제거하고 하얀 상담자, 촉각과 물결, 흰 낙원과 검은 비 중심으로 다시 세웠다.\n- 색인: 페르소나 색인의 헬렌 요약과 관계 인덱스 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 464,
+    "sha256": "f988b7ea233b8b3131b1b379609c05a765632b8cfc41cad8abeddea79380913c"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_f5dc185063336a8f:023",
+  "document_id": "doc_f5dc185063336a8f",
+  "path": "wiki/characters/main_party/세레나/support/voice.md",
+  "wiki_path": "characters/main_party/세레나/support/voice.md",
+  "title": "세레나 보이스",
+  "section": "푸른 달의 이야기",
+  "summary": "세레나의 층위별 발화, 관계별 어조, 전투와 후퇴와 위기 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f5dc185063336a8f_023.json",
+  "text": "### 푸른 달의 이야기\n\n- `[달 아래 조용한 밤]` `검을 내려놓은 뒤에도 이야기는 오래 남는다. 그래서 더 무겁다.`\n- `[두루마리를 붙들 때]` `이름 하나가 빠지면, 한 사람이 또 죽는다.`\n- `[숫돌과 기름을 챙길 때]` `검도 기록도 방치하면 녹이 슨다.`\n- `[들키고 싶지 않은 바닥]` `웃지 마라. 나도 이런 밤이 필요할 때가 있다.`",
+  "metadata": {
+    "char_count": 201,
+    "sha256": "2f4638cac72203f6c8553f5b42fe175c7efecd03885e749cc8ddacd619c58456"
+  }
+}

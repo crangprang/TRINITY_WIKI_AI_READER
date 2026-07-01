@@ -1,0 +1,146 @@
+{
+  "id": "doc_56acdf37f31095a1",
+  "path": "wiki/universe/laws/예언.md",
+  "wiki_path": "universe/laws/예언.md",
+  "title": "예언",
+  "summary": "예언은 미래를 단순히 맞히는 문장이 아니라, 오리진의 기억과 세 에너지, 신앙, 이름 압력이 얽혀 세계의 방향성을 기울이는 장치다.",
+  "status": "draft",
+  "type": "universe",
+  "tags": [
+    "universe",
+    "laws",
+    "prophecy"
+  ],
+  "updated": "2026-06-30",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "예언"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "작동 원리"
+    },
+    {
+      "level": 2,
+      "title": "비극예언"
+    },
+    {
+      "level": 2,
+      "title": "구세주예언"
+    },
+    {
+      "level": 2,
+      "title": "배신자예언"
+    },
+    {
+      "level": 2,
+      "title": "세 예언의 차이"
+    },
+    {
+      "level": 2,
+      "title": "공개 범위와 제도"
+    },
+    {
+      "level": 2,
+      "title": "예언명과 인물"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "세 에너지",
+      "target": "wiki/universe/laws/세_에너지.md"
+    },
+    {
+      "label": "오리진",
+      "target": "wiki/universe/structure/오리진.md"
+    },
+    {
+      "label": "라케시스",
+      "target": "wiki/characters/trineads/라케시스/index.md"
+    },
+    {
+      "label": "감독",
+      "target": "wiki/characters/trineads/감독/index.md"
+    },
+    {
+      "label": "구세주 후보",
+      "target": "wiki/characters/savior_candidates/index.md"
+    }
+  ],
+  "sha256": "db087a453b349b8df727a3a67b6ad71b413ee3eb8eb1b419c5ce5ec35ece4963",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_56acdf37f31095a1.json",
+  "chunks": [
+    {
+      "id": "doc_56acdf37f31095a1:000",
+      "section": "예언",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_000.json",
+      "char_count": 231
+    },
+    {
+      "id": "doc_56acdf37f31095a1:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_001.json",
+      "char_count": 389
+    },
+    {
+      "id": "doc_56acdf37f31095a1:002",
+      "section": "작동 원리",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_002.json",
+      "char_count": 476
+    },
+    {
+      "id": "doc_56acdf37f31095a1:003",
+      "section": "비극예언",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_003.json",
+      "char_count": 565
+    },
+    {
+      "id": "doc_56acdf37f31095a1:004",
+      "section": "구세주예언",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_004.json",
+      "char_count": 627
+    },
+    {
+      "id": "doc_56acdf37f31095a1:005",
+      "section": "배신자예언",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_005.json",
+      "char_count": 476
+    },
+    {
+      "id": "doc_56acdf37f31095a1:006",
+      "section": "세 예언의 차이",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_006.json",
+      "char_count": 475
+    },
+    {
+      "id": "doc_56acdf37f31095a1:007",
+      "section": "공개 범위와 제도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_007.json",
+      "char_count": 397
+    },
+    {
+      "id": "doc_56acdf37f31095a1:008",
+      "section": "예언명과 인물",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_008.json",
+      "char_count": 303
+    },
+    {
+      "id": "doc_56acdf37f31095a1:009",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_56acdf37f31095a1_009.json",
+      "char_count": 383
+    }
+  ]
+}

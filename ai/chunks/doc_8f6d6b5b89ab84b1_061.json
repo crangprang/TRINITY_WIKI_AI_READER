@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:061",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] lock | 아포라투스 2+1 기관 보류 판정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_061.json",
+  "text": "## [2026-06-28] lock | 아포라투스 2+1 기관 보류 판정\n\n나라별 `2핵심기관+1제어기관` 확정은 염한만 현재 본문값으로 두고, 염한 외 국가는 사용자 별도 지시 전까지 보류하기로 했다. 레이어드의 제어기관 부재와 플라센티아의 크리살리스 분류처럼 현재 WIKI 표면을 평균내면 새 설정을 만들 위험이 있으므로, 기존 기관 설명을 재배치해 확정표로 만들지 않는다.\n\n이 판정은 [사용자 잠금](review/user_locks.md)과 [세계관 개발 TODO](review/worldbuilding_development_todo.md)에 반영했다.",
+  "metadata": {
+    "char_count": 314,
+    "sha256": "fb6a41ef34df57a8f003a1423772eb8a9c9dbd5509a17f85e5501a55fed455d7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:156",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 플라센티아 국가 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_156.json",
+  "text": "## [2026-06-26] rebuild | 플라센티아 국가 항목 정리\n\n[플라센티아](universe/realms/balance/nations/플라센티아.md)의 중복 기본 정보 블록과 번호형 하위 제목을 정리했다.\n\n- 정리: `기본 정보` 중복 서술을 제거하고, 지리와 구조, 역사, 장치와 순환, 사회와 문화, 주요 인물, 생태와 사냥, 문화와 상징으로 본문 소유권을 재배치했다.\n- 문체: 비교 부정형과 완곡한 `가깝다` 표현을 선언형 문장으로 바꿨다.\n- 표면: `경계 메모`, `레퍼런스 시트`, `금지 및 드리프트 주의` 표면을 이름층, 성상, 모티프 중심의 위키식 본문으로 흡수했다.",
+  "metadata": {
+    "char_count": 336,
+    "sha256": "3f1ac8b5b7e09c5c4d9871803771f223978166de39c7c3a8ef5804cda62f031a"
+  }
+}

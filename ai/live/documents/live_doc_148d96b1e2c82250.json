@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_148d96b1e2c82250",
+  "path": "02_LORE/L09_HARMONY/L09_REFERENCE.txt",
+  "title": "L09_플라센티아 / REFERENCE",
+  "summary": "L09_플라센티아 / REFERENCE",
+  "root": "02_LORE",
+  "category": "02_LORE:L09_HARMONY",
+  "suffix": ".txt",
+  "sha256": "8291baab17d1420701a977dcd7e338f49bc63d1e57e9722cb653e242864dc98f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_148d96b1e2c82250.json",
+  "chunks": [
+    {
+      "id": "live_doc_148d96b1e2c82250:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_148d96b1e2c82250_000.json",
+      "char_count": 1001
+    }
+  ]
+}

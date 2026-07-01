@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_771feacb1a841cfa",
+  "path": "04_MAIN_CHARACTER/03_AXION/AX02_EURYDICE.txt",
+  "title": "유리디스 도리안 드 발루아",
+  "summary": "유리디스 도리안 드 발루아",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:03_AXION",
+  "suffix": ".txt",
+  "sha256": "90001046137d0757b0b7ce3fb35b4c4286f88f3652701dbb3b08701b8a0e8ca4",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_771feacb1a841cfa.json",
+  "chunks": [
+    {
+      "id": "live_doc_771feacb1a841cfa:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_771feacb1a841cfa_000.json",
+      "char_count": 1811
+    }
+  ]
+}

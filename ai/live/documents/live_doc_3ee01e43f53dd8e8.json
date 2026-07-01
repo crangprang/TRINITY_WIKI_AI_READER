@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_3ee01e43f53dd8e8",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/09_PHTHON.txt",
+  "title": "피톤",
+  "summary": "피톤",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "79e4f3bb510333235b1d2ecd89c41a66384546b6fffaa2ce745430622a1d8f0e",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_3ee01e43f53dd8e8.json",
+  "chunks": [
+    {
+      "id": "live_doc_3ee01e43f53dd8e8:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_3ee01e43f53dd8e8_000.json",
+      "char_count": 1112
+    }
+  ]
+}

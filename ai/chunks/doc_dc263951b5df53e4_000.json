@@ -1,0 +1,24 @@
+{
+  "id": "doc_dc263951b5df53e4:000",
+  "document_id": "doc_dc263951b5df53e4",
+  "path": "wiki/universe/realms/balance/organizations/파르마콘.md",
+  "wiki_path": "universe/realms/balance/organizations/파르마콘.md",
+  "title": "파르마콘",
+  "section": "파르마콘",
+  "summary": "파르마콘은 삼위정교 공인 조직으로, 절제의 이름 아래 연구, 의료, 검역, 보건, 저주와 감염과 이레귤러 상태 판정을 맡는다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "orthodox_organization"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_dc263951b5df53e4_000.json",
+  "text": "# 파르마콘\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 삼위정교 공인 조직 |\n| 삼위 대응 | 절제 |\n| 주요 업무 | 연구 / 의료 / 검역 / 보건 / 에너지 체계 판정 |\n| 현장 권한 | 저주와 감염 판정 / 이레귤러 상태 관리 / 격리 기준 제공 |\n| 연계 조직 | [구세군](구세군.md) / [크로니클](크로니클.md) |\n| 관련 제도 | [이레귤러 헌터](이레귤러_헌터.md) |",
+  "metadata": {
+    "char_count": 230,
+    "sha256": "c9f5ed2c1020e036e17bcd260c872552bbf3a9cbc44b0ca2a8c2992e89d17d6a"
+  }
+}

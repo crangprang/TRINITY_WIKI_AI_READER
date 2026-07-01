@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:272",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 사건 정보상자 라벨 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_272.json",
+  "text": "## [2026-06-26] style | 사건 정보상자 라벨 정리\n\n사건 영역 상단 표의 `문서 유형` 라벨을 `분류`로 바꿔 독자 표면의 편집 문서감을 낮췄다.\n\n- 범위: 세계사, 삼위의 군상 1부 초반 사건, 특이점 개별 사건.\n- 유지: 파일 경로, 제목, 하위 항목, 관련 문서 연결은 그대로 둔다.",
+  "metadata": {
+    "char_count": 173,
+    "sha256": "639237d89510df41babed6258b6f410cb8cff079bfe4620d20fa3116edf1009c"
+  }
+}

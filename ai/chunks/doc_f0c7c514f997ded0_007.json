@@ -1,0 +1,24 @@
+{
+  "id": "doc_f0c7c514f997ded0:007",
+  "document_id": "doc_f0c7c514f997ded0",
+  "path": "wiki/characters/main_party/세레나/support/appearance.md",
+  "wiki_path": "characters/main_party/세레나/support/appearance.md",
+  "title": "세레나 외형",
+  "section": "시각 경계",
+  "summary": "세레나의 순례자 검객 실루엣, 검은 외피, 코발트블루 머리, 적안과 뿔, 이동·휴식·전투 상태를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f0c7c514f997ded0_007.json",
+  "text": "## 시각 경계\n\n- 이동 상태에서는 검은 순례자 실루엣과 붉은 눈이 먼저 읽혀야 한다.\n- 뿔은 이동 상태에서 완전 은폐 또는 검은 실루엣의 압력으로 남는다.\n- 휴식 상태에서는 포니테일, 짧은 뿔, 목덜미 비늘, 기록자 소품이 조심스럽게 드러난다.\n- 전투 상태에서는 결의가 먼저 서고 위험한 환희가 뒤따른다.\n- 코발트블루 머리는 달빛과 전투가 깊어질 때 살아난다.\n- 오니, 마족, 지옥성 장식, 풀페이스 드래곤 헬멧, 화려한 무희풍 의상은 기각한다.\n- 전통 갑옷 중심의 전사 코스튬, 과한 주홍색 팔레트, 기록자 요소가 사라진 순수 전투복은 기각한다.\n- 귀여운 전사, 치비, 마스코트 인상은 기각한다.",
+  "metadata": {
+    "char_count": 343,
+    "sha256": "d05cd8765e10c648b1b3a734841b2a91935f04265f5cfc462c91b418f9d80ef4"
+  }
+}

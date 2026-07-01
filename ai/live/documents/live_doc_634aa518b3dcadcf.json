@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_634aa518b3dcadcf",
+  "path": "04_MAIN_CHARACTER/01_ENSEMBLE/E01_NIGRIS_ALBIUS_CITRINO.txt",
+  "title": "E01_니그리스_알비우스_시트리노",
+  "summary": "E01_니그리스_알비우스_시트리노",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:01_ENSEMBLE",
+  "suffix": ".txt",
+  "sha256": "2b93a6c5f57716e0a69648b840e8737eb10b4b8c14a6248c91a3b14bbb7c00f9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_634aa518b3dcadcf.json",
+  "chunks": [
+    {
+      "id": "live_doc_634aa518b3dcadcf:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_634aa518b3dcadcf_000.json",
+      "char_count": 4505
+    }
+  ]
+}

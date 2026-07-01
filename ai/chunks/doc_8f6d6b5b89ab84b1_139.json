@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:139",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 판타즈마 주제 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_139.json",
+  "text": "## [2026-06-26] rebuild | 판타즈마 주제 항목 정리\n\n`beings/phantasmas`의 잔여 `해석 및 비고` 항목을 독자용 주제, 계열, 보조 항목으로 정리했다.\n\n- 정리: 히드라, 피톤, 파프니르, 티폰, 티아마트, 우로보로스, 에키드나, 리바이어던은 `주제` 항목으로 바꿨다.\n- 정리: 마사오트 3등급 판타즈마는 `계열 구분`, 레이어드 3등급 판타즈마는 `보조 판타즈마`, 레이어드 2등급 판타즈마는 `보조 항목`으로 바꿨다.\n- 문체: 아홉 용 본문에 남은 과거형 자연 상징 라벨과 비교식 서술을 선언형 설정 문장으로 정리했다.",
+  "metadata": {
+    "char_count": 315,
+    "sha256": "0cf477f27920fccde59f97fc86f57b732daab2bb9f1a6e084cae8f76a71ea37a"
+  }
+}

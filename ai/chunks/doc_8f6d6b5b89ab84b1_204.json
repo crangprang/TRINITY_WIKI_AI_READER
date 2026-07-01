@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:204",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-23] music update | 단테 Suno 방향 보정",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_204.json",
+  "text": "## [2026-06-23] music update | 단테 Suno 방향 보정\n\nSuno 보컬 테마 실험 결과를 바탕으로 단테의 음악 운용 메모를 보강했다. 12개 변주 중 `泥のワルツ` 계열이 가장 유효했으며, `cabaret` 장르명은 스칼렛과 겹치므로 제거하되 `crooked waltz groove`, `upright piano`, `acoustic bass`, `brushed drums`, `muted trumpet`, `dirty electric guitar accents`, `handclaps`, `minor swing`의 질감은 유지하는 방향으로 정리했다.\n\n- 반영: [P07 단테 / 음악 키워드와 명사 물성](characters/main_party/단테/support/music.md)\n- 주요 판단: 후렴 도입 `有罪なら　歌ってくれ`가 단테의 죄책감과 경박한 공연성을 동시에 열어 주는 유효 훅이다. 길티어와 겹치는 `gothic baritone`, `church organ`, `choir`, 검은 종 중심의 심판자 톤은 피한다.",
+  "metadata": {
+    "char_count": 536,
+    "sha256": "80d00d562e40e7602782bd33098e6931df093bb2b5c16db79a56d8b0209d1023"
+  }
+}

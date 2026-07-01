@@ -1,0 +1,24 @@
+{
+  "id": "doc_b92fc6bafd29c32b:001",
+  "document_id": "doc_b92fc6bafd29c32b",
+  "path": "wiki/characters/savior_candidates/아백/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/아백/support/appearance.md",
+  "title": "아백 외형",
+  "section": "외형 기준",
+  "summary": "아백의 용 같은 인간 실루엣, 이무기 용기사 가면, 낮은 중심, 무거운 손과 전장의 흔적을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b92fc6bafd29c32b_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 실루엣 | 용 같은 인간. 염한 대장군과 올림피아 순수 무력 1위의 압력을 함께 가진다. |\n| 의상 | 전장 명예와 곧은 강함이 먼저 읽히는 무인 계열 |\n| 가면 | 이무기 용기사 가면 |\n| 소품 | 무거운 손, 전장의 흔적, 절제된 힘 |\n| 배경 | 염한 계열 전장, 황제의 방패 같은 압력 |\n| 표정/자세 | 낮은 중심, 무력의 계산된 정지 |",
+  "metadata": {
+    "char_count": 252,
+    "sha256": "ec5df68628c1c7cfbfa9f995084b4d14577ae980f176af4b8b4dcb9410ae0f49"
+  }
+}

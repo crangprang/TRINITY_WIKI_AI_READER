@@ -1,0 +1,24 @@
+{
+  "id": "doc_e38cf4f3fc61468f:006",
+  "document_id": "doc_e38cf4f3fc61468f",
+  "path": "wiki/characters/main_party/진/support/music.md",
+  "wiki_path": "characters/main_party/진/support/music.md",
+  "title": "진 음악",
+  "section": "관련 문서",
+  "summary": "진의 워크맨, 빌려 피운 번갯불, 약속, 오늘과 내일, 장르 변주를 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_e38cf4f3fc61468f_006.json",
+  "text": "## 관련 문서\n\n- [진](../index.md) - 빚, 약속, 워크맨, 못 끝낸 정산이 음악의 박자와 장르 변주로 이어지는 인물.\n- [진 외형](appearance.md) - 워크맨, 바랜 선글라스, 먼저 움직이는 발끝이 음악의 재생과 동기화된다.\n- [진 보이스](voice.md) - 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불의 말투가 보컬 낙차로 이어지는 보이스 항목.",
+  "metadata": {
+    "char_count": 219,
+    "sha256": "09d0c323a7bb8d7a064728d51e0b6286886ae152f9db0a1351d0241c7ca24f20"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_c2878456edb36318:001",
+  "document_id": "doc_c2878456edb36318",
+  "path": "wiki/characters/savior_candidates/캘리번/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/캘리번/support/appearance.md",
+  "title": "캘리번 외형",
+  "section": "외형 기준",
+  "summary": "캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_001.json",
+  "text": "## 외형 기준\n\n| 항목 | 내용 |\n|---|---|\n| 성별/프레젠테이션 | 남성 |\n| 실루엣 | 큰 덩치. 거칠고 인간적인 선원·탐험가. 오래 버틴 사람 |\n| 의상 | 방주 작업복 기반의 거친 소재와 품격의 흔적이 함께 남은 탐험가 의상 |\n| 가면 | 거칠지만 인간적인 얼굴 언어의 탐험가 가면 |\n| 소품 | 밧줄, 항로 도구, 압력계, 작업 장갑 |\n| 배경 | 비행 방주, 선체 갑판, 통풍구, 압력계, 밧줄 작업 |\n| 표정/자세 | 부러진 품위와 짐을 견디는 자세 |",
+  "metadata": {
+    "char_count": 273,
+    "sha256": "f2edec08cf551857069340395e55497d08690987b76bb86d649957bbdbb991ae"
+  }
+}

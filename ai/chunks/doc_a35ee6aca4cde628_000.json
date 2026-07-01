@@ -1,0 +1,23 @@
+{
+  "id": "doc_a35ee6aca4cde628:000",
+  "document_id": "doc_a35ee6aca4cde628",
+  "path": "wiki/review/user_locks.md",
+  "wiki_path": "review/user_locks.md",
+  "title": "사용자 잠금과 창작 철학 메모",
+  "section": "사용자 잠금과 창작 철학 메모",
+  "summary": "위키 레이어 안에서 사용자가 승인한 정본 잠금과 반복 적용할 창작 철학을 모은 문서.",
+  "status": "user_locked",
+  "type": "review",
+  "tags": [
+    "review",
+    "locks",
+    "philosophy"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_a35ee6aca4cde628_000.json",
+  "text": "# 사용자 잠금과 창작 철학 메모\n\n이 문서는 독자용 WIKI 본문이 아니라, 작가와 정리자가 반복해서 참조하는 정본 잠금 및 창작 철학 메모다. 여기의 문장은 곧바로 독자용 문체가 되는 것이 아니라, 각 owner 문서에서 사건, 구조, 관계의 서술로 다시 풀어 쓴다.\n\n사용자가 승인하거나 고정한 결정은 위키 정리 과정에서 임의로 평균내거나 재해석하지 않는다. 새 문서나 새 표를 만들 때도 이 잠금을 우선 기준으로 삼는다.",
+  "metadata": {
+    "char_count": 239,
+    "sha256": "77843aec138cbf4c9720f1aae860fb9093400f22ffcdcb212a0750b7f38abbe2"
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아인"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "그레트헨 실험소"
+    },
+    {
+      "level": 3,
+      "title": "랄의 선택과 폐기장"
+    },
+    {
+      "level": 3,
+      "title": "스트레인저 공동체"
+    },
+    {
+      "level": 2,
+      "title": "세계와 핵심 오답"
+    },
+    {
+      "level": 3,
+      "title": "저마다의 행마"
+    },
+    {
+      "level": 3,
+      "title": "양보받은 시간"
+    },
+    {
+      "level": 3,
+      "title": "두 사람 몫의 이름"
+    },
+    {
+      "level": 3,
+      "title": "깨끗한 수만으로는 닿지 못한다"
+    },
+    {
+      "level": 2,
+      "title": "내면 구조"
+    },
+    {
+      "level": 3,
+      "title": "말 끄는 기수"
+    },
+    {
+      "level": 3,
+      "title": "검은 왕관"
+    },
+    {
+      "level": 3,
+      "title": "끝칸의 죽은 말"
+    },
+    {
+      "level": 3,
+      "title": "복수의 포커페이스"
+    },
+    {
+      "level": 3,
+      "title": "너무나 인간다운"
+    },
+    {
+      "level": 3,
+      "title": "살아남은 이유"
+    },
+    {
+      "level": 2,
+      "title": "능력과 저주"
+    },
+    {
+      "level": 3,
+      "title": "생각"
+    },
+    {
+      "level": 3,
+      "title": "복수와 시한부 외피"
+    },
+    {
+      "level": 3,
+      "title": "기억 저항"
+    },
+    {
+      "level": 3,
+      "title": "네트워크"
+    },
+    {
+      "level": 2,
+      "title": "장면 역할"
+    },
+    {
+      "level": 2,
+      "title": "관계"
+    },
+    {
+      "level": 3,
+      "title": "옌"
+    },
+    {
+      "level": 3,
+      "title": "블랑"
+    },
+    {
+      "level": 3,
+      "title": "길티어"
+    },
+    {
+      "level": 3,
+      "title": "파우스트와 오아시스"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "아인 보이스",
+      "target": "wiki/characters/main_party/아인/support/voice.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "아인 외형",
+      "target": "wiki/characters/main_party/아인/support/appearance.md"
+    },
+    {
+      "label": "아인 보이스",
+      "target": "wiki/characters/main_party/아인/support/voice.md"
+    },
+    {
+      "label": "아인 음악",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "파우스트",
+      "target": "wiki/characters/axions/파우스트/index.md"
+    },
+    {
+      "label": "랄",
+      "target": "wiki/characters/savior_candidates/랄/index.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    }
+  ],
+  "sha256": "e47c392ce82def9b1bd06357550d923da963dec208bc243658d66f61fb5c9f7f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f6a85596e4016a32.json",
+  "chunks": [
+    {
+      "id": "doc_f6a85596e4016a32:000",
+      "section": "아인",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_000.json",
+      "char_count": 192
+    },
+    {
+      "id": "doc_f6a85596e4016a32:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_001.json",
+      "char_count": 501
+    },
+    {
+      "id": "doc_f6a85596e4016a32:002",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_002.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_f6a85596e4016a32:003",
+      "section": "그레트헨 실험소",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_003.json",
+      "char_count": 372
+    },
+    {
+      "id": "doc_f6a85596e4016a32:004",
+      "section": "랄의 선택과 폐기장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_004.json",
+      "char_count": 352
+    },
+    {
+      "id": "doc_f6a85596e4016a32:005",
+      "section": "스트레인저 공동체",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_005.json",
+      "char_count": 289
+    },
+    {
+      "id": "doc_f6a85596e4016a32:006",
+      "section": "세계와 핵심 오답",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_006.json",
+      "char_count": 12
+    },
+    {
+      "id": "doc_f6a85596e4016a32:007",
+      "section": "저마다의 행마",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_007.json",
+      "char_count": 310
+    },
+    {
+      "id": "doc_f6a85596e4016a32:008",
+      "section": "양보받은 시간",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_008.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_f6a85596e4016a32:009",
+      "section": "두 사람 몫의 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_009.json",
+      "char_count": 253
+    },
+    {
+      "id": "doc_f6a85596e4016a32:010",
+      "section": "깨끗한 수만으로는 닿지 못한다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_010.json",
+      "char_count": 302
+    },
+    {
+      "id": "doc_f6a85596e4016a32:011",
+      "section": "내면 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_011.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_f6a85596e4016a32:012",
+      "section": "말 끄는 기수",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_012.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_f6a85596e4016a32:013",
+      "section": "검은 왕관",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_013.json",
+      "char_count": 260
+    },
+    {
+      "id": "doc_f6a85596e4016a32:014",
+      "section": "끝칸의 죽은 말",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_014.json",
+      "char_count": 248
+    },
+    {
+      "id": "doc_f6a85596e4016a32:015",
+      "section": "복수의 포커페이스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_015.json",
+      "char_count": 250
+    },
+    {
+      "id": "doc_f6a85596e4016a32:016",
+      "section": "너무나 인간다운",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_016.json",
+      "char_count": 260
+    },
+    {
+      "id": "doc_f6a85596e4016a32:017",
+      "section": "살아남은 이유",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_017.json",
+      "char_count": 112
+    },
+    {
+      "id": "doc_f6a85596e4016a32:018",
+      "section": "능력과 저주",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_018.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_f6a85596e4016a32:019",
+      "section": "생각",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_019.json",
+      "char_count": 243
+    },
+    {
+      "id": "doc_f6a85596e4016a32:020",
+      "section": "복수와 시한부 외피",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_020.json",
+      "char_count": 427
+    },
+    {
+      "id": "doc_f6a85596e4016a32:021",
+      "section": "기억 저항",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_021.json",
+      "char_count": 205
+    },
+    {
+      "id": "doc_f6a85596e4016a32:022",
+      "section": "네트워크",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_022.json",
+      "char_count": 349
+    },
+    {
+      "id": "doc_f6a85596e4016a32:023",
+      "section": "장면 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_023.json",
+      "char_count": 558
+    },
+    {
+      "id": "doc_f6a85596e4016a32:024",
+      "section": "관계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_024.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_f6a85596e4016a32:025",
+      "section": "옌",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_025.json",
+      "char_count": 238
+    },
+    {
+      "id": "doc_f6a85596e4016a32:026",
+      "section": "블랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_026.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_f6a85596e4016a32:027",
+      "section": "길티어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_027.json",
+      "char_count": 240
+    },
+    {
+      "id": "doc_f6a85596e4016a32:028",
+      "section": "파우스트와 오아시스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_028.json",
+      "char_count": 193
+    },
+    {
+      "id": "doc_f6a85596e4016a32:029",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_029.json",
+      "char_count": 218
+    },
+    {
+      "id": "doc_f6a85596e4016a32:030",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_030.json",
+      "char_count": 716
+    }
+  ]
+}

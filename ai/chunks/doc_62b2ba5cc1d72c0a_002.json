@@ -1,0 +1,23 @@
+{
+  "id": "doc_62b2ba5cc1d72c0a:002",
+  "document_id": "doc_62b2ba5cc1d72c0a",
+  "path": "wiki/events/singularities/Fahrenheit_451.md",
+  "wiki_path": "events/singularities/Fahrenheit_451.md",
+  "title": "Fahrenheit 451",
+  "section": "배경",
+  "summary": "기록과 해석을 태우려는 압력이 도시의 지식 장치를 뒤집는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_62b2ba5cc1d72c0a_002.json",
+  "text": "## 배경\n\n알렉시아는 푸른 수정과 촛불, 오르가논의 질문 제어, 기록과 해석의 강박으로 이루어진 진리의 나라다. 이곳의 질서는 해답보다 질문을 멈추지 않는 구조에 놓인다.\n\n그러나 기록은 보존만으로 안정되지 않는다. 해석되지 않은 기록, 감염된 질문, 분류되지 않은 공백은 도시가 견디지 못하는 위험으로 쌓이고, 소각과 검열은 진리를 지키는 이름으로 가까워진다.",
+  "metadata": {
+    "char_count": 203,
+    "sha256": "c9b77e212ce267254b1835ae76e8a0fd94b0399aeeb1626b0147ae5d0222f426"
+  }
+}

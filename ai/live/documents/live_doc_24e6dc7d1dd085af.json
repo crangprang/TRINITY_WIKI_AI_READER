@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_24e6dc7d1dd085af",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/06_ECHIDNA.txt",
+  "title": "에키드나",
+  "summary": "에키드나",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "1a7f961ceaad645c323a3e9b8ade0407bf715a24460801435721df32edfa2306",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_24e6dc7d1dd085af.json",
+  "chunks": [
+    {
+      "id": "live_doc_24e6dc7d1dd085af:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_24e6dc7d1dd085af_000.json",
+      "char_count": 1111
+    }
+  ]
+}

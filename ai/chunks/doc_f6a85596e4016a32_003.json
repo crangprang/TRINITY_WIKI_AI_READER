@@ -1,0 +1,23 @@
+{
+  "id": "doc_f6a85596e4016a32:003",
+  "document_id": "doc_f6a85596e4016a32",
+  "path": "wiki/characters/main_party/아인/index.md",
+  "wiki_path": "characters/main_party/아인/index.md",
+  "title": "아인",
+  "section": "그레트헨 실험소",
+  "summary": "아인은 양보받은 시간을 복수의 끝칸까지 밀어 넣는 리더다. 작은 체구와 조용한 압력으로 죽은 루트를 버리고 남은 행마를 찾아내며, 인간답게 살고 싶은 마음과 사람까지 배치해야 한다는 자기 명령 사이에서 흔들린다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f6a85596e4016a32_003.json",
+  "text": "### 그레트헨 실험소\n\n아인은 [오아시스](../../../universe/realms/balance/nations/오아시스.md)의 `그레트헨 실험소`에서 자란 실험체다. 실험소는 엑시온 [파우스트](../../axions/파우스트/index.md)가 운영했고, 아이들은 시험 결과와 순위에 따라 남거나 버려졌다. 아인은 그 안에서 사람의 쓸모가 표와 숫자로 줄어드는 장면을 너무 일찍 배웠다.\n\n그 환경은 아인에게 빠른 판단과 깊은 불신을 동시에 남겼다. 그는 누가 어떤 수를 갖고 있는지, 어느 순간 버려질지, 누가 남의 몫까지 끌어안고 있는지를 먼저 읽는다. 이 습관은 이후 리더십의 바탕이 되지만, 사람을 자기 판 안에 놓으려는 위험한 손도 함께 키웠다.",
+  "metadata": {
+    "char_count": 372,
+    "sha256": "8893c2e8e35508099c585377f2654894972a09c733f9ddafffe4e4e84cc41e49"
+  }
+}

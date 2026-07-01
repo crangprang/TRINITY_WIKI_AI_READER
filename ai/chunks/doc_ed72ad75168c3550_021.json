@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:021",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "관련 문서",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_021.json",
+  "text": "## 관련 문서\n\n- [옌](../index.md) - 사회어, 색 판정어, 애착과 낙인의 발화가 발생하는 인물.\n- [옌 외형](appearance.md) - 흰 여행자, 검은 고딕층, 색 판정 시각이 말투와 맞물리는 외형 항목.\n- [옌 음악](music.md) - 사회어, 색 판정어, 사적인 고백이 가까운 보컬과 어쿠스틱 기타의 층위 변화로 이어지는 음악 항목.\n- [아인](../../아인/index.md) - 옌이 검은색의 예외로 부르며 붙잡고 싶어 하는 리더.\n- [블랑](../../블랑/index.md) - 옌의 예의와 불안이 동시에 향하는 낮은 진단의 전면.\n- [스칼렛](../../스칼렛/index.md) - 옌이 덧칠하지 않고 관찰하려는 위험한 전면.\n- [진](../../진/index.md) - 옌이 보라색 불균형을 순한 질문으로 건드리는 동료.\n- [세레나](../../세레나/index.md) - 옌이 푸름과 붉음의 충돌을 늦은 말로 찌르는 동료.\n- [단테](../../단테/index.md) - 옌이 무해한 얼굴 뒤에서 가면과 본색의 틈을 묻는 동료.",
+  "metadata": {
+    "char_count": 551,
+    "sha256": "7553f6378affeb3e73c23b0ae4f3c136680ec540dce89d41e1473622406c1188"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "doc_d805b70e5ac4d39b",
+  "path": "wiki/universe/realms/balance/organizations/글로벌_코텍스.md",
+  "wiki_path": "universe/realms/balance/organizations/글로벌_코텍스.md",
+  "title": "글로벌 코텍스",
+  "summary": "글로벌 코텍스는 레이어드 기반의 기능조직으로, 크레딧 유통과 청산, 계열 사업, 전속 용병 운용을 통해 거래의 나라 기능을 대륙 실무로 공급한다.",
+  "status": "draft",
+  "type": "organization",
+  "tags": [
+    "universe",
+    "balance",
+    "organization",
+    "function_organization"
+  ],
+  "updated": "2026-06-27",
+  "category": "universe",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "글로벌 코텍스"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "업무와 권한"
+    },
+    {
+      "level": 2,
+      "title": "국가와 후보"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "케르베로스",
+      "target": "wiki/characters/savior_candidates/케르베로스/index.md"
+    },
+    {
+      "label": "마이더스",
+      "target": "wiki/characters/axions/마이더스/index.md"
+    }
+  ],
+  "sha256": "18084d5c5e707f9aefaaa6ba165a1d196e3cf76fccff73bcfdad4782c5121313",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d805b70e5ac4d39b.json",
+  "chunks": [
+    {
+      "id": "doc_d805b70e5ac4d39b:000",
+      "section": "글로벌 코텍스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d805b70e5ac4d39b_000.json",
+      "char_count": 318
+    },
+    {
+      "id": "doc_d805b70e5ac4d39b:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d805b70e5ac4d39b_001.json",
+      "char_count": 264
+    },
+    {
+      "id": "doc_d805b70e5ac4d39b:002",
+      "section": "업무와 권한",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d805b70e5ac4d39b_002.json",
+      "char_count": 253
+    },
+    {
+      "id": "doc_d805b70e5ac4d39b:003",
+      "section": "국가와 후보",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d805b70e5ac4d39b_003.json",
+      "char_count": 241
+    },
+    {
+      "id": "doc_d805b70e5ac4d39b:004",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d805b70e5ac4d39b_004.json",
+      "char_count": 297
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_d69c6cc9e386afa2:017",
+  "document_id": "doc_d69c6cc9e386afa2",
+  "path": "wiki/characters/main_party/아인/support/voice.md",
+  "wiki_path": "characters/main_party/아인/support/voice.md",
+  "title": "아인 보이스",
+  "section": "후퇴",
+  "summary": "아인의 층위별 발화, 관계별 어조, 위기 상황의 짧은 지시와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d69c6cc9e386afa2_017.json",
+  "text": "### 후퇴\n\n후퇴를 패배처럼 말하지 않는다. 숨을 고르게 하고, 순서를 정하고, 버릴 것과 챙길 것을 빠르게 가른다. 다친 사람을 달래는 말 대신 걷게 만드는 말이 먼저 나온다.",
+  "metadata": {
+    "char_count": 100,
+    "sha256": "089081ed5460372b9bdb78ecc819a7d98c4f96c71f46a4dec3688df1ac4d7060"
+  }
+}

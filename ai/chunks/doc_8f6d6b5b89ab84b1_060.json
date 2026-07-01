@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:060",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-28] review | 제어핵 심층부 은유 물성 대조",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_060.json",
+  "text": "## [2026-06-28] review | 제어핵 심층부 은유 물성 대조\n\n`아포라투스_HANDOFF.txt`의 제어핵 심층부 은유 물성 후보를 현재 국가 문서와 대조했다. 염한의 `고독항아리`는 [염한](universe/realms/balance/nations/염한.md)이 이미 기원 모티프와 아곤의 은유 물성으로 소유하므로 확정값으로 유지한다.\n\n마사오트의 `방주`는 국가 핵심 모티프와 엑소도스의 표면 은유로 강하게 남지만, 제어핵 심층부 물성으로는 아직 잠그지 않는다. 침몰선, 유람선, 승강기 같은 후보 예시는 현재 WIKI 소유 문서가 확정하지 않은 값이므로 독자용 본문에 추가하지 않고 [세계관 개발 TODO](review/worldbuilding_development_todo.md)의 보류 범위로 낮췄다.",
+  "metadata": {
+    "char_count": 405,
+    "sha256": "6512029276a35f8de2f5a11c413360c8ea17d799907b6b57df1b1bcad8c6a5d1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_d6a2c0f1a14f3640:005",
+  "document_id": "doc_d6a2c0f1a14f3640",
+  "path": "wiki/beings/creatures/index.md",
+  "wiki_path": "beings/creatures/index.md",
+  "title": "하급 생물",
+  "section": "생태 층위",
+  "summary": "하급 생물은 아홉 나라의 자연, 도시, 생활 환경이 낳은 원생 생물, 생활 생물, 직접 위협 생물이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "creatures"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d6a2c0f1a14f3640_005.json",
+  "text": "## 생태 층위\n\n하급 생물은 주민에게 가까운 생활 생물, 지역 바닥을 이루는 원생 생물, 직접 위해를 주는 위험 생물, 국가 장치 주변에서 변질된 장치 주변 생물로 나뉜다. 이 층위는 생물의 크기보다 사건에서 수행하는 기능으로 읽힌다.\n\n| 층위 | 설명 |\n|---|---|\n| 생활 생물 | 주민이 매일 마주치는 해충, 설치류, 조류, 수로 생물, 숲 생물의 먹이망. |\n| 원생 생물 | 젤, 균막, 해면, 근막처럼 지역 환경의 바닥을 이루는 생물층. |\n| 직접 위협 | 포식자, 감염성 생물, 장비 파괴 생물, 지형 사고를 만드는 위험 생물. |\n| 장치 주변 생물 | 아포라투스, 서가, 수로, 출력구, 광맥 같은 국가 장치 주변에서 변질된 생물층. |",
+  "metadata": {
+    "char_count": 372,
+    "sha256": "8c880ba430c3ac74ab85b0c0946daeccd5e74afd1c1a14065db464b0b2be0891"
+  }
+}

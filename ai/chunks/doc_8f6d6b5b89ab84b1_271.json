@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:271",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] style | 상위 항목 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_271.json",
+  "text": "## [2026-06-26] style | 상위 항목 표면 정리\n\n줄거리와 균형계 하위 항목의 상단 표에서 `상위 항목` 같은 편집 구조 라벨을 작품·세계 내부 정보로 바꿨다.\n\n- 줄거리 표는 작품, 시대, 범위로 재구성했다.\n- 균형계 언어와 균형계 문화 표는 성격, 이름, 소속 세계로 바꿨다.\n- 줄거리 본문에서 별도 문서 보존을 설명하던 문장을 특이점 축의 사건 기능 설명으로 바꿨다.",
+  "metadata": {
+    "char_count": 220,
+    "sha256": "633e1900ce307b5869ceed136d0a922fcde742666d4e3bf5a2d368694d64a6cb"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_c2878456edb36318:006",
+  "document_id": "doc_c2878456edb36318",
+  "path": "wiki/characters/savior_candidates/캘리번/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/캘리번/support/appearance.md",
+  "title": "캘리번 외형",
+  "section": "관련 문서",
+  "summary": "캘리번의 큰 덩치와 거친 탐험가 실루엣, 방주 작업복, 탐험가 가면, 밧줄과 비행 방주 갑판을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_c2878456edb36318_006.json",
+  "text": "## 관련 문서\n\n- [캘리번](../index.md) - 마사오트의 구세주 후보이자 탐험가 길드 우니오네 지부장.\n- [마사오트](../../../../universe/realms/balance/nations/마사오트.md) - 캘리번의 외형 기반이 되는 탐험의 나라.\n- [우니오네](../../../../universe/realms/balance/nations/우니오네.md) - 캘리번이 배치된 지부의 무대.\n- [프로스페로](../../../axions/프로스페로/index.md) - 캘리번을 감시선 안에 둔 마사오트의 엑시온.",
+  "metadata": {
+    "char_count": 301,
+    "sha256": "c915e3f90fe5da3bd82023153466a5511a2aefd3e95ab2334b3588f902f211f3"
+  }
+}

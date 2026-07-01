@@ -1,0 +1,168 @@
+{
+  "id": "doc_354313d4f2acf424",
+  "path": "wiki/characters/axions/마텔다/index.md",
+  "wiki_path": "characters/axions/마텔다/index.md",
+  "title": "마텔다",
+  "summary": "마텔다는 오르딜리아의 엑시온이자 심판관으로, 무법의 공포를 막기 위해 반지와 결투 재판과 감시를 법으로 세우고 자기 자신까지 얼린 통치자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:axions",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "마텔다"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "무법 이후의 법"
+    },
+    {
+      "level": 2,
+      "title": "초대 심판관과 마스터 링"
+    },
+    {
+      "level": 2,
+      "title": "오르딜리아의 통치"
+    },
+    {
+      "level": 2,
+      "title": "페리페테이아와 파놉티콘"
+    },
+    {
+      "level": 2,
+      "title": "마스터 링"
+    },
+    {
+      "level": 2,
+      "title": "미노스"
+    },
+    {
+      "level": 2,
+      "title": "붕괴"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "엑시온",
+      "target": "wiki/characters/axions/index.md"
+    },
+    {
+      "label": "마텔다 외형",
+      "target": "wiki/characters/axions/마텔다/support/appearance.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "분노의 판타즈마",
+      "target": "wiki/beings/phantasmas/분노의_판타즈마.md"
+    }
+  ],
+  "sha256": "461f95ace3f1626b6544490467290daa04ee9d35a0eb79beba54513dfc8cffe0",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_354313d4f2acf424.json",
+  "chunks": [
+    {
+      "id": "doc_354313d4f2acf424:000",
+      "section": "마텔다",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_000.json",
+      "char_count": 535
+    },
+    {
+      "id": "doc_354313d4f2acf424:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_001.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_354313d4f2acf424:002",
+      "section": "무법 이후의 법",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_002.json",
+      "char_count": 267
+    },
+    {
+      "id": "doc_354313d4f2acf424:003",
+      "section": "초대 심판관과 마스터 링",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_003.json",
+      "char_count": 398
+    },
+    {
+      "id": "doc_354313d4f2acf424:004",
+      "section": "오르딜리아의 통치",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_004.json",
+      "char_count": 209
+    },
+    {
+      "id": "doc_354313d4f2acf424:005",
+      "section": "페리페테이아와 파놉티콘",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_005.json",
+      "char_count": 278
+    },
+    {
+      "id": "doc_354313d4f2acf424:006",
+      "section": "마스터 링",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_006.json",
+      "char_count": 233
+    },
+    {
+      "id": "doc_354313d4f2acf424:007",
+      "section": "미노스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_007.json",
+      "char_count": 213
+    },
+    {
+      "id": "doc_354313d4f2acf424:008",
+      "section": "붕괴",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_008.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_354313d4f2acf424:009",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_009.json",
+      "char_count": 188
+    },
+    {
+      "id": "doc_354313d4f2acf424:010",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_354313d4f2acf424_010.json",
+      "char_count": 401
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "doc_7a417733898806fe:008",
+  "document_id": "doc_7a417733898806fe",
+  "path": "wiki/characters/personas/카론/index.md",
+  "wiki_path": "characters/personas/카론/index.md",
+  "title": "카론",
+  "section": "관련 문서",
+  "summary": "카론은 레이어드의 페르소나로, 카타바시스와 스틱스를 통해 인간의 불과 가능성을 담보로 잡는 영혼의 전당포 주인이다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7a417733898806fe_008.json",
+  "text": "## 관련 문서\n\n- [페르소나](../index.md) - 나라 내부의 장치 심층 관리자 의식과 표층 대변자.\n- [카론 외형](support/appearance.md) - 전당표 봉인 가면과 스틱스 카운터가 인간의 불을 담보로 잡는 중개인을 고정하는 외형 항목.\n- [레이어드](../../../universe/realms/balance/nations/레이어드.md) - 카론의 스틱스와 카타바시스가 놓이는 거래의 나라.\n- [마이더스](../../axions/마이더스/index.md) - 카론의 거래로 황금 의수와 카타바시스 신용망에 묶이는 엑시온.\n- [케르베로스](../../savior_candidates/케르베로스/index.md) - 카론의 조건과 마이더스의 계약 사이에서 움직이는 구세주 후보.",
+  "metadata": {
+    "char_count": 398,
+    "sha256": "57df2e077b2da04c5c61f4063247cbe9d080358557615b52554ac9057f0955fb"
+  }
+}

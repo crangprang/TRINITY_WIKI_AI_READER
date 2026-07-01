@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:012",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "권위와 다수의 시선",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_012.json",
+  "text": "### 권위와 다수의 시선\n\n외부 권위자나 공개된 무대 앞에서 단테는 가장 빠르게 흔들린다. 반존대가 섞이고, 같은 말을 되풀이하며, 말꼬리가 흐려진다. 칭찬과 조롱이 함께 들어오는 말은 특히 몸을 얼린다.\n\n그는 겁쟁이처럼 보일 수 있지만, 그 반응은 재판대 위 죄인의 온도에서 나온다. 많은 눈이 한꺼번에 모일수록 단테는 출구, 보상, 침묵, 농담을 번갈아 붙잡는다.",
+  "metadata": {
+    "char_count": 207,
+    "sha256": "93998d95bcda829e13263ed96194725f34f9cb5552c0587c7d8544765b1e20ba"
+  }
+}

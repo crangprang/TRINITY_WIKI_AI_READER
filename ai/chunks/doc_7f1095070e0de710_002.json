@@ -1,0 +1,22 @@
+{
+  "id": "doc_7f1095070e0de710:002",
+  "document_id": "doc_7f1095070e0de710",
+  "path": "wiki/beings/dragonkin/index.md",
+  "wiki_path": "beings/dragonkin/index.md",
+  "title": "용 계열",
+  "section": "하위 항목",
+  "summary": "용 계열은 용왕과 아홉 용, 용인처럼 환상과 마니아, 용의 질서에 닿은 존재들을 묶는 존재 축이다.",
+  "status": "draft",
+  "type": "being",
+  "tags": [
+    "beings",
+    "dragonkin"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_7f1095070e0de710_002.json",
+  "text": "## 하위 항목\n\n| 항목 | 역할 |\n|---|---|\n| [아홉 용](아홉_용.md) | 용왕 권능이 자연의 공포와 경외를 입고 갈라진 1시대의 원본 용들. |\n| [용인](용인.md) | 용과 인간의 시대에 형성된 용인 혈통이 삼계 환경에 적응하며 분화한 지성체 집단. |",
+  "metadata": {
+    "char_count": 155,
+    "sha256": "c9acf927a40cf503ad3b3bf5bb5c46013ca35edf7fc93bf2095c42b2ee001701"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:008",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 1시대 용어와 4등급 판타즈마 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_008.json",
+  "text": "## [2026-06-29] worldhistory | 1시대 용어와 4등급 판타즈마 정리\n\n[세계사/1시대](events/world_history/1시대_태초에서_에마나치온까지.md)에 아난케, 자수·염색·편조, 용왕과 아조트, 아홉 용, 용인, 에마나치온 인과를 보강했다.\n\n[아조트](universe/structure/아조트.md), [용 계열](beings/dragonkin/index.md), [아홉 용](beings/dragonkin/아홉_용.md), [용인](beings/dragonkin/용인.md), [역사적 행위자](characters/historical/index.md), [아난케](characters/historical/아난케.md)를 신설했다.\n\n후대 용 계열 판타즈마는 `4등급 판타즈마`로 정리하고, 원본 아홉 용과의 경계를 판타즈마 총론과 개별 문서에 반영했다.",
+  "metadata": {
+    "char_count": 443,
+    "sha256": "4e73acf3f92c7510b62bbc072c3c8c3dab1f5a443cc8c28a6fc8d4ed06f4e68f"
+  }
+}

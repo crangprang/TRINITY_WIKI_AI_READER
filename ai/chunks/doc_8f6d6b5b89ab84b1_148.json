@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:148",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 에레모스 외지 권역 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_148.json",
+  "text": "## [2026-06-26] rebuild | 에레모스 외지 권역 항목 정리\n\n[에레모스](universe/realms/balance/nations/에레모스.md)의 중복 개요와 번호형 하위 제목을 정리했다.\n\n- 정리: 국가 항목 자리에 놓인 외지 권역 성격을 표와 개요에서 명확히 하고, 권역의 성격, 지리와 통과구, 공동체와 세력, 재난과 구난, 문명권과의 관계, 관련 사건, 문화와 상징으로 본문 소유권을 재배치했다.\n- 문체: 비교 부정형과 근사 표현을 줄이고, 에레모스의 길, 장막, 야영지, 스트레인저, 불편지, 구난 루트를 선언형 위키 문장으로 다시 썼다.\n- 표면: 출처 앵커와 드리프트 주의 표면을 제거하고, 유령 의뢰와 스트레인저 관련 내용은 사건·공동체 하위항목으로 흡수했다.",
+  "metadata": {
+    "char_count": 390,
+    "sha256": "3a41ea8aa548e273759842dcb37338f75c1dbc386a259c6be0e0ffa5b018d067"
+  }
+}

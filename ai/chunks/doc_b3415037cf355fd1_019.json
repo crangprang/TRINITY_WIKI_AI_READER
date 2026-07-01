@@ -1,0 +1,24 @@
+{
+  "id": "doc_b3415037cf355fd1:019",
+  "document_id": "doc_b3415037cf355fd1",
+  "path": "wiki/characters/main_party/진/support/voice.md",
+  "wiki_path": "characters/main_party/진/support/voice.md",
+  "title": "진 보이스",
+  "section": "관련 문서",
+  "summary": "진의 수지타산 해결사, 귀신들린 사나이, 빌려 피운 번갯불 발화와 관계별 어조를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b3415037cf355fd1_019.json",
+  "text": "## 관련 문서\n\n- [진](../index.md) - 빚, 약속, 워크맨, 못 끝낸 정산이 말투의 계산과 정을 이루는 해결사.\n- [진 외형](appearance.md) - 바랜 선글라스, 현장복, 워크맨, 먼저 움직이는 발끝이 발화의 몸짓으로 이어지는 외형 항목.\n- [진 음악](music.md) - 워크맨의 재생과 장르 변주가 말투의 낙차와 빌려 피운 번갯불로 이어지는 음악 항목.",
+  "metadata": {
+    "char_count": 217,
+    "sha256": "18e53aad9cc38549650dc235672877d125513be21c2f10794a4dd46e6a478028"
+  }
+}

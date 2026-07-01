@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_b20a23062494e2c9",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P07_DANTE/P07_BRANCH_IDEA.txt",
+  "title": "P07_단테 / BRANCH_IDEA",
+  "summary": "P07_단테 / BRANCH_IDEA",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "b1afdb99a4c1e0ae6cf890998734d158f011628276aaabbc30626f15da45cea1",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_b20a23062494e2c9.json",
+  "chunks": [
+    {
+      "id": "live_doc_b20a23062494e2c9:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_b20a23062494e2c9_000.json",
+      "char_count": 1153
+    }
+  ]
+}

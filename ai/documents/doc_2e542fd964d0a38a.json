@@ -1,0 +1,134 @@
+{
+  "id": "doc_2e542fd964d0a38a",
+  "path": "wiki/events/singularities/백해무익.md",
+  "wiki_path": "events/singularities/백해무익.md",
+  "title": "백해무익",
+  "summary": "인내가 무너질 때 백색 제어가 붕괴하고, 하늘과 지상이 함께 추락하는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "백해무익"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "붕괴 양상"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "헬렌",
+      "target": "wiki/characters/personas/헬렌/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "c32bbb1239f7371cc17c729f7c068d1a0976c449ff31d6ebda5b054ebbc279eb",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_2e542fd964d0a38a.json",
+  "chunks": [
+    {
+      "id": "doc_2e542fd964d0a38a:000",
+      "section": "백해무익",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_000.json",
+      "char_count": 171
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_001.json",
+      "char_count": 246
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_002.json",
+      "char_count": 198
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_003.json",
+      "char_count": 206
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:004",
+      "section": "붕괴 양상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_004.json",
+      "char_count": 128
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:005",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_005.json",
+      "char_count": 211
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:006",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_006.json",
+      "char_count": 214
+    },
+    {
+      "id": "doc_2e542fd964d0a38a:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_2e542fd964d0a38a_007.json",
+      "char_count": 307
+    }
+  ]
+}

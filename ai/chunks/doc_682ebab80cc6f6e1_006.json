@@ -1,0 +1,24 @@
+{
+  "id": "doc_682ebab80cc6f6e1:006",
+  "document_id": "doc_682ebab80cc6f6e1",
+  "path": "wiki/characters/main_party/아인/support/music.md",
+  "wiki_path": "characters/main_party/아인/support/music.md",
+  "title": "아인 음악",
+  "section": "곡 진행",
+  "summary": "아인의 시계, 복수, 양보받은 시간, 인간성, 저주, 증명을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_682ebab80cc6f6e1_006.json",
+  "text": "## 곡 진행\n\n도입은 작고 차가운 ticking pulse로 시작한다. 손목의 초침과 계산의 속도가 먼저 들리고, 보컬은 낮게 들어와 상황을 이미 읽은 사람처럼 결론을 놓는다.\n\n벌스는 말 끄는 기수의 층이다. 초연한 농담과 빠른 판단이 곡을 앞으로 당긴다. 악기는 건조하게 움직이고, 멜로디는 길게 늘어지지 않는다.\n\n프리코러스는 양보받은 시간의 층이다. 화성은 잠깐 따뜻해지지만 곧 카운트의 압박으로 돌아온다. 랄, 이름, 살아남은 이유가 직접 말해지거나 암시된다.\n\n후렴은 검은 왕관의 층이다. 운명, 저주, 증명이 한꺼번에 올라오고, 보컬은 감정 폭발 대신 판정형 선언으로 닫는다.\n\n브리지는 끝칸의 죽은 말의 층이다. 악기가 얇아지고, 호흡과 손목의 통증이 앞으로 나온다. 마지막 후렴은 복수의 포커페이스로 다시 표정을 정리한다.",
+  "metadata": {
+    "char_count": 414,
+    "sha256": "31f32a18dee95abf8ee072e6b9430c739c17270a0b9e1ec9f03c918898f5d790"
+  }
+}

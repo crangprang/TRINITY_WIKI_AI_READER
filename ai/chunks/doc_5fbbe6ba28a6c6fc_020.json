@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:020",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "지워진 자화상",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_020.json",
+  "text": "### 지워진 자화상\n\n- `[그 이름이 찢길 때]` `그 이름으로 나를 부르면, 나도 아직 여기 있다는 뜻이야.`\n- `[지워질까 겁날 때]` `지워지긴 싫어. 그게 다야.`\n- `[미움을 맡을 때]` `그래. 내가 나쁜 쪽이면 편하겠지.`\n- `[질투가 먼저 샐 때]` `블랑은 네 손이 닿을 자리가 없어.`\n- `[블랑을 남기려 할 때]` `내가 남을게. 이번엔 내가 남아야 해.`\n- `[끝났다고 못 말할 때]` `끝났다고 부르기엔, 아직 내가 남았어.`",
+  "metadata": {
+    "char_count": 258,
+    "sha256": "830161cb7803aa0c338e8d3f2039561c90cee32e8b1e8e92cb55ccd90d20af52"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_954d5ef443638997",
+  "path": "04_MAIN_CHARACTER/04_FELLSION/FS02_FAMINE.txt",
+  "title": "기근의 펠시온",
+  "summary": "기근의 펠시온",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:04_FELLSION",
+  "suffix": ".txt",
+  "sha256": "2e45cc3dcff11b6ddd1dd979123059feb1a6af5a8a0a95d75a1ffa49895f4fb9",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_954d5ef443638997.json",
+  "chunks": [
+    {
+      "id": "live_doc_954d5ef443638997:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_954d5ef443638997_000.json",
+      "char_count": 1588
+    }
+  ]
+}

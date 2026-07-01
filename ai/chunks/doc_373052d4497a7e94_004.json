@@ -1,0 +1,24 @@
+{
+  "id": "doc_373052d4497a7e94:004",
+  "document_id": "doc_373052d4497a7e94",
+  "path": "wiki/characters/axions/설리반/support/appearance.md",
+  "wiki_path": "characters/axions/설리반/support/appearance.md",
+  "title": "설리반 외형",
+  "section": "소품과 배경",
+  "summary": "설리반의 40대 중반 통제자 실루엣, 낮은 채도의 흰 머리와 푸른 눈, 방호복형 흰 보호복, 격납 돔형 helmet-mask를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_373052d4497a7e94_004.json",
+  "text": "## 소품과 배경\n\n설리반의 소품은 비용 공개와 통제 장면에 붙는다. 선량계형 계측 장치, 격리 밸브, 배수 홈, 제어 패널은 검은 비의 대가를 현장 장치로 드러낸다.\n\n배경은 구름, 제어 스테이션, 격납 시설 같은 흰 도시 구조다. 병원 이미지는 보조로 쓰이고, 검은 비가 도시 질서를 유지하는 비용이라는 압력이 중심을 이룬다.",
+  "metadata": {
+    "char_count": 184,
+    "sha256": "f604c1ebe0d4a45d3dd587dc7431fe1188a6c16d287629ef93529c3ae1cefe8e"
+  }
+}

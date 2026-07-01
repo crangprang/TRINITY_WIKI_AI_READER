@@ -1,0 +1,156 @@
+{
+  "id": "doc_f08c033bd0d7327c",
+  "path": "wiki/characters/fellsions/속박의_펠시온/index.md",
+  "wiki_path": "characters/fellsions/속박의_펠시온/index.md",
+  "title": "속박의 펠시온",
+  "summary": "속박의 펠시온은 사령공예로 업연을 만든 장인이며, 자기 피로 벼린 사슬을 통해 걸작에게 역으로 조종당하는 인형사다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "category": "characters:fellsions",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "속박의 펠시온"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "정체와 역할"
+    },
+    {
+      "level": 2,
+      "title": "붕괴와 이름"
+    },
+    {
+      "level": 2,
+      "title": "이름 낙인과 균형계 침투"
+    },
+    {
+      "level": 2,
+      "title": "생존 전쟁과 부패"
+    },
+    {
+      "level": 2,
+      "title": "업연과 피 사슬"
+    },
+    {
+      "level": 2,
+      "title": "전투 방식"
+    },
+    {
+      "level": 2,
+      "title": "재회와 배신 모티브"
+    },
+    {
+      "level": 2,
+      "title": "말투와 태도"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "속박의 펠시온 외형",
+      "target": "wiki/characters/fellsions/속박의_펠시온/support/appearance.md"
+    },
+    {
+      "label": "펠시온",
+      "target": "wiki/characters/fellsions/index.md"
+    },
+    {
+      "label": "역병의 펠시온",
+      "target": "wiki/characters/fellsions/역병의_펠시온/index.md"
+    },
+    {
+      "label": "에르고",
+      "target": "wiki/characters/trineads/에르고/index.md"
+    },
+    {
+      "label": "죽음의 트리네아드",
+      "target": "wiki/characters/trineads/죽음의_트리네아드/index.md"
+    }
+  ],
+  "sha256": "227cf8257e892743ff696a5d449c20a87460ab9cc5758c2d7ca6394cd6506299",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_f08c033bd0d7327c.json",
+  "chunks": [
+    {
+      "id": "doc_f08c033bd0d7327c:000",
+      "section": "속박의 펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_000.json",
+      "char_count": 370
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_001.json",
+      "char_count": 222
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:002",
+      "section": "정체와 역할",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_002.json",
+      "char_count": 183
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:003",
+      "section": "붕괴와 이름",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_003.json",
+      "char_count": 203
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:004",
+      "section": "이름 낙인과 균형계 침투",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_004.json",
+      "char_count": 509
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:005",
+      "section": "생존 전쟁과 부패",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_005.json",
+      "char_count": 207
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:006",
+      "section": "업연과 피 사슬",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_006.json",
+      "char_count": 269
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:007",
+      "section": "전투 방식",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_007.json",
+      "char_count": 244
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:008",
+      "section": "재회와 배신 모티브",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_008.json",
+      "char_count": 236
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:009",
+      "section": "말투와 태도",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_009.json",
+      "char_count": 316
+    },
+    {
+      "id": "doc_f08c033bd0d7327c:010",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f08c033bd0d7327c_010.json",
+      "char_count": 371
+    }
+  ]
+}

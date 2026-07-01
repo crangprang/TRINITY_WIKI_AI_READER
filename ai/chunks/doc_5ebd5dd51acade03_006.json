@@ -1,0 +1,24 @@
+{
+  "id": "doc_5ebd5dd51acade03:006",
+  "document_id": "doc_5ebd5dd51acade03",
+  "path": "wiki/characters/savior_candidates/카스파르/support/appearance.md",
+  "wiki_path": "characters/savior_candidates/카스파르/support/appearance.md",
+  "title": "카스파르 외형",
+  "section": "관련 문서",
+  "summary": "카스파르의 마스크맨 현 리더 실루엣, 역할 가면 세트, 흙 묻은 야전 장비, 계약 사냥단 지휘 자세를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5ebd5dd51acade03_006.json",
+  "text": "## 관련 문서\n\n- [카스파르](../index.md) - 플라센티아의 구세주 후보이자 마스크맨 현 리더.\n- [길티어](../../../main_party/길티어/index.md) - 카스파르가 이어받은 마스크맨 실패와 전설의 중심 인물.\n- [플라센티아](../../../../universe/realms/balance/nations/플라센티아.md) - 카스파르의 사냥 장비와 현장 지휘가 놓이는 조화의 나라.\n- [부패의 판타즈마](../../../../beings/phantasmas/부패의_판타즈마.md) - 카스파르가 접근하려는 사냥 실패의 중심 대형 판타즈마.",
+  "metadata": {
+    "char_count": 322,
+    "sha256": "baf9451deafea7ea12227a85c28e11d97c5159093b6efcf71eaefa1fefd7faea"
+  }
+}

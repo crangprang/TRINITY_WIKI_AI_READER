@@ -1,0 +1,23 @@
+{
+  "id": "doc_08d2d2331ddb4265:021",
+  "document_id": "doc_08d2d2331ddb4265",
+  "path": "wiki/characters/main_party/단테/index.md",
+  "wiki_path": "characters/main_party/단테/index.md",
+  "title": "단테",
+  "section": "하이드",
+  "summary": "단테는 별의 시선을 찾아 자기 지옥을 걷는 순례자다. 진흙 속 현지 가이드의 얼굴로 몸을 접고 살지만, 한 사람만 자신을 바라보는 시련에서는 패배가 곧 별과 속죄의 상실이라고 믿고 검을 뽑는다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_08d2d2331ddb4265_021.json",
+  "text": "### 하이드\n\n비술 `하이드`는 자신이나 손에 닿은 물건의 모습을 숨긴다. 단테는 이 비술의 대부분을 기사검 `마지막 질문`을 감추는 데 쓴다.\n\n단테는 로고스 계열과 잘 맞는 사람이 아니어서 비술 효율이 높지 않다. 검 하나를 오래 감추는 일만으로도 부담이 크고, 다른 대상까지 넓히는 운용은 쉽지 않다.",
+  "metadata": {
+    "char_count": 172,
+    "sha256": "c866e1a0983b0c2ac0be4056af259eed992a09b913f2ae70ba19ea6b6c10c1af"
+  }
+}

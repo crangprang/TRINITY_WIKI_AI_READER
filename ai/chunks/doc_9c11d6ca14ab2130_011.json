@@ -1,0 +1,24 @@
+{
+  "id": "doc_9c11d6ca14ab2130:011",
+  "document_id": "doc_9c11d6ca14ab2130",
+  "path": "wiki/characters/axions/가인/support/appearance.md",
+  "wiki_path": "characters/axions/가인/support/appearance.md",
+  "title": "가인 외형",
+  "section": "관련 문서",
+  "summary": "가인의 검은 머리와 붉은 눈, 몸보다 큰 여제 예복, 굴레의 가면, 원한검, 시기별 외형 변화를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_9c11d6ca14ab2130_011.json",
+  "text": "## 관련 문서\n\n- [가인](../index.md) - 염한의 여제이자 황제 성좌의 엑시온.\n- [염한](../../../../universe/realms/balance/nations/염한.md) - 가인의 외형 배경이 되는 투쟁의 나라.\n- [아백](../../../savior_candidates/아백/index.md) - 가인의 굴레와 천명 심문을 비추는 용인 영웅.\n- [세레나](../../../main_party/세레나/index.md) - 서린이라는 이름으로 가인의 시기별 외형과 과거 유대에 연결되는 인물.\n- [황 노인](../../../personas/황_노인/index.md) - 가인의 고통을 자격으로 번역하는 페르소나.",
+  "metadata": {
+    "char_count": 360,
+    "sha256": "6d657dfd1461ba3231ea70aa3f8291d96abd0429c1264f7b38554a3f0c9c330d"
+  }
+}

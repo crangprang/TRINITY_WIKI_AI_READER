@@ -1,0 +1,568 @@
+{
+  "id": "doc_d200f82780a9906c",
+  "path": "wiki/universe/realms/balance/nations/우니오네.md",
+  "wiki_path": "universe/realms/balance/nations/우니오네.md",
+  "title": "우니오네",
+  "summary": "우니오네는 현실과 꿈이 붉은 수면을 사이에 두고 서로를 눌러 찍은 예술의 나라다. 연회와 가면, 샹들리에와 유리잔, 유랑 극단과 수몰 도시의 가스등이 물 위에 떠 있고, 수면 아래에서는 같은 몸짓이 비극과 악몽으로 번진다. 이 나라의 첫 얼굴은 퇴폐보다도 `현실이 허락하지 않은 결말을 가장 아름답게 다시 보여 주는 힘`으로 드러난다.",
+  "status": "draft",
+  "type": "nation",
+  "tags": [
+    "reader",
+    "국가",
+    "nation"
+  ],
+  "updated": "2026-06-28",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "우니오네"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 3,
+      "title": "언어권과 공연 언어"
+    },
+    {
+      "level": 2,
+      "title": "지리와 구조"
+    },
+    {
+      "level": 3,
+      "title": "전면"
+    },
+    {
+      "level": 3,
+      "title": "임패스토와 페티멘토"
+    },
+    {
+      "level": 3,
+      "title": "스푸마토"
+    },
+    {
+      "level": 3,
+      "title": "갤러리아와 키아로스쿠로"
+    },
+    {
+      "level": 2,
+      "title": "기원과 모티프"
+    },
+    {
+      "level": 3,
+      "title": "데칼코마니"
+    },
+    {
+      "level": 3,
+      "title": "꿈과 예술"
+    },
+    {
+      "level": 3,
+      "title": "외면"
+    },
+    {
+      "level": 3,
+      "title": "용기와 창조성"
+    },
+    {
+      "level": 2,
+      "title": "역사"
+    },
+    {
+      "level": 3,
+      "title": "백년 전쟁과 휴전의 꿈"
+    },
+    {
+      "level": 3,
+      "title": "수면 경계의 고착"
+    },
+    {
+      "level": 3,
+      "title": "침수된 연회"
+    },
+    {
+      "level": 2,
+      "title": "장치와 비극"
+    },
+    {
+      "level": 3,
+      "title": "스푸마토와 1+4+4"
+    },
+    {
+      "level": 3,
+      "title": "미메시스와 마고리아"
+    },
+    {
+      "level": 3,
+      "title": "멜포메네"
+    },
+    {
+      "level": 3,
+      "title": "사이프러스 단검"
+    },
+    {
+      "level": 2,
+      "title": "생활과 문화"
+    },
+    {
+      "level": 3,
+      "title": "가면 사회"
+    },
+    {
+      "level": 3,
+      "title": "꿈의 악몽 엔진"
+    },
+    {
+      "level": 3,
+      "title": "대관람차"
+    },
+    {
+      "level": 3,
+      "title": "스푸마토의 수면 행정"
+    },
+    {
+      "level": 3,
+      "title": "현실 4의 생활권"
+    },
+    {
+      "level": 3,
+      "title": "꿈 4의 하강 압력"
+    },
+    {
+      "level": 3,
+      "title": "갤러리아와 아틀리에"
+    },
+    {
+      "level": 3,
+      "title": "꿈 사치와 후원 경제"
+    },
+    {
+      "level": 2,
+      "title": "조직과 집단"
+    },
+    {
+      "level": 3,
+      "title": "유랑 서커스"
+    },
+    {
+      "level": 3,
+      "title": "탐험가 길드 우니오네 지부"
+    },
+    {
+      "level": 3,
+      "title": "모방의 펠시온"
+    },
+    {
+      "level": 2,
+      "title": "인물과 서사"
+    },
+    {
+      "level": 3,
+      "title": "유리디스"
+    },
+    {
+      "level": 3,
+      "title": "빈센트"
+    },
+    {
+      "level": 2,
+      "title": "핵심 질문"
+    },
+    {
+      "level": 3,
+      "title": "아름다운 출구"
+    },
+    {
+      "level": 3,
+      "title": "이름과 귀환"
+    },
+    {
+      "level": 3,
+      "title": "외면과 사랑"
+    },
+    {
+      "level": 2,
+      "title": "문화와 상징"
+    },
+    {
+      "level": 3,
+      "title": "공적 표식과 올림피아 변형"
+    },
+    {
+      "level": 3,
+      "title": "상징 문장"
+    },
+    {
+      "level": 3,
+      "title": "시각과 장면"
+    },
+    {
+      "level": 2,
+      "title": "경계와 오독"
+    },
+    {
+      "level": 2,
+      "title": "장면 모티프"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "로렌초 카발리에리",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "빈센트",
+      "target": "wiki/characters/personas/빈센트/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "유랑 서커스",
+      "target": "wiki/universe/realms/balance/organizations/유랑_서커스.md"
+    },
+    {
+      "label": "로렌초 카발리에리",
+      "target": "wiki/characters/savior_candidates/로렌초_카발리에리/index.md"
+    },
+    {
+      "label": "캘리번",
+      "target": "wiki/characters/savior_candidates/캘리번/index.md"
+    },
+    {
+      "label": "모방의 펠시온",
+      "target": "wiki/characters/fellsions/모방의_펠시온/index.md"
+    },
+    {
+      "label": "외면의 판타즈마",
+      "target": "wiki/beings/phantasmas/외면의_판타즈마.md"
+    }
+  ],
+  "sha256": "c590c1357c9781524444311e53fa95e919672ab533a0bffdef744588706b3888",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d200f82780a9906c.json",
+  "chunks": [
+    {
+      "id": "doc_d200f82780a9906c:000",
+      "section": "우니오네",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_000.json",
+      "char_count": 768
+    },
+    {
+      "id": "doc_d200f82780a9906c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_001.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_d200f82780a9906c:002",
+      "section": "언어권과 공연 언어",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_002.json",
+      "char_count": 212
+    },
+    {
+      "id": "doc_d200f82780a9906c:003",
+      "section": "지리와 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_003.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d200f82780a9906c:004",
+      "section": "전면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_004.json",
+      "char_count": 367
+    },
+    {
+      "id": "doc_d200f82780a9906c:005",
+      "section": "임패스토와 페티멘토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_005.json",
+      "char_count": 282
+    },
+    {
+      "id": "doc_d200f82780a9906c:006",
+      "section": "스푸마토",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_006.json",
+      "char_count": 139
+    },
+    {
+      "id": "doc_d200f82780a9906c:007",
+      "section": "갤러리아와 키아로스쿠로",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_007.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_d200f82780a9906c:008",
+      "section": "기원과 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_008.json",
+      "char_count": 10
+    },
+    {
+      "id": "doc_d200f82780a9906c:009",
+      "section": "데칼코마니",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_009.json",
+      "char_count": 142
+    },
+    {
+      "id": "doc_d200f82780a9906c:010",
+      "section": "꿈과 예술",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_010.json",
+      "char_count": 134
+    },
+    {
+      "id": "doc_d200f82780a9906c:011",
+      "section": "외면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_011.json",
+      "char_count": 135
+    },
+    {
+      "id": "doc_d200f82780a9906c:012",
+      "section": "용기와 창조성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_012.json",
+      "char_count": 271
+    },
+    {
+      "id": "doc_d200f82780a9906c:013",
+      "section": "역사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_013.json",
+      "char_count": 5
+    },
+    {
+      "id": "doc_d200f82780a9906c:014",
+      "section": "백년 전쟁과 휴전의 꿈",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_014.json",
+      "char_count": 445
+    },
+    {
+      "id": "doc_d200f82780a9906c:015",
+      "section": "수면 경계의 고착",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_015.json",
+      "char_count": 258
+    },
+    {
+      "id": "doc_d200f82780a9906c:016",
+      "section": "침수된 연회",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_016.json",
+      "char_count": 280
+    },
+    {
+      "id": "doc_d200f82780a9906c:017",
+      "section": "장치와 비극",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_017.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d200f82780a9906c:018",
+      "section": "스푸마토와 1+4+4",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_018.json",
+      "char_count": 758
+    },
+    {
+      "id": "doc_d200f82780a9906c:019",
+      "section": "미메시스와 마고리아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_019.json",
+      "char_count": 293
+    },
+    {
+      "id": "doc_d200f82780a9906c:020",
+      "section": "멜포메네",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_020.json",
+      "char_count": 190
+    },
+    {
+      "id": "doc_d200f82780a9906c:021",
+      "section": "사이프러스 단검",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_021.json",
+      "char_count": 251
+    },
+    {
+      "id": "doc_d200f82780a9906c:022",
+      "section": "생활과 문화",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_022.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d200f82780a9906c:023",
+      "section": "가면 사회",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_023.json",
+      "char_count": 395
+    },
+    {
+      "id": "doc_d200f82780a9906c:024",
+      "section": "꿈의 악몽 엔진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_024.json",
+      "char_count": 146
+    },
+    {
+      "id": "doc_d200f82780a9906c:025",
+      "section": "대관람차",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_025.json",
+      "char_count": 110
+    },
+    {
+      "id": "doc_d200f82780a9906c:026",
+      "section": "스푸마토의 수면 행정",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_026.json",
+      "char_count": 296
+    },
+    {
+      "id": "doc_d200f82780a9906c:027",
+      "section": "현실 4의 생활권",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_027.json",
+      "char_count": 346
+    },
+    {
+      "id": "doc_d200f82780a9906c:028",
+      "section": "꿈 4의 하강 압력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_028.json",
+      "char_count": 340
+    },
+    {
+      "id": "doc_d200f82780a9906c:029",
+      "section": "갤러리아와 아틀리에",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_029.json",
+      "char_count": 306
+    },
+    {
+      "id": "doc_d200f82780a9906c:030",
+      "section": "꿈 사치와 후원 경제",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_030.json",
+      "char_count": 1256
+    },
+    {
+      "id": "doc_d200f82780a9906c:031",
+      "section": "조직과 집단",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_031.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d200f82780a9906c:032",
+      "section": "유랑 서커스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_032.json",
+      "char_count": 327
+    },
+    {
+      "id": "doc_d200f82780a9906c:033",
+      "section": "탐험가 길드 우니오네 지부",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_033.json",
+      "char_count": 200
+    },
+    {
+      "id": "doc_d200f82780a9906c:034",
+      "section": "모방의 펠시온",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_034.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_d200f82780a9906c:035",
+      "section": "인물과 서사",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_035.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d200f82780a9906c:036",
+      "section": "유리디스",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_036.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_d200f82780a9906c:037",
+      "section": "빈센트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_037.json",
+      "char_count": 83
+    },
+    {
+      "id": "doc_d200f82780a9906c:038",
+      "section": "핵심 질문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_038.json",
+      "char_count": 8
+    },
+    {
+      "id": "doc_d200f82780a9906c:039",
+      "section": "아름다운 출구",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_039.json",
+      "char_count": 144
+    },
+    {
+      "id": "doc_d200f82780a9906c:040",
+      "section": "이름과 귀환",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_040.json",
+      "char_count": 129
+    },
+    {
+      "id": "doc_d200f82780a9906c:041",
+      "section": "외면과 사랑",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_041.json",
+      "char_count": 140
+    },
+    {
+      "id": "doc_d200f82780a9906c:042",
+      "section": "문화와 상징",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_042.json",
+      "char_count": 9
+    },
+    {
+      "id": "doc_d200f82780a9906c:043",
+      "section": "공적 표식과 올림피아 변형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_043.json",
+      "char_count": 187
+    },
+    {
+      "id": "doc_d200f82780a9906c:044",
+      "section": "상징 문장",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_044.json",
+      "char_count": 161
+    },
+    {
+      "id": "doc_d200f82780a9906c:045",
+      "section": "시각과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_045.json",
+      "char_count": 259
+    },
+    {
+      "id": "doc_d200f82780a9906c:046",
+      "section": "경계와 오독",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_046.json",
+      "char_count": 152
+    },
+    {
+      "id": "doc_d200f82780a9906c:047",
+      "section": "장면 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_047.json",
+      "char_count": 62
+    },
+    {
+      "id": "doc_d200f82780a9906c:048",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d200f82780a9906c_048.json",
+      "char_count": 696
+    }
+  ]
+}

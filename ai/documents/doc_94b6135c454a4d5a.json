@@ -1,0 +1,232 @@
+{
+  "id": "doc_94b6135c454a4d5a",
+  "path": "wiki/universe/realms/balance/nations/index.md",
+  "wiki_path": "universe/realms/balance/nations/index.md",
+  "title": "아홉 나라",
+  "summary": "아홉 나라는 균형계에서 보물, 아포라투스, 엑시온, 페르소나, 부정 이데아가 국가 질서와 권역 구조로 굳은 세계 표면이다.",
+  "status": "draft",
+  "type": "realm",
+  "tags": [
+    "universe",
+    "balance",
+    "nations"
+  ],
+  "updated": "2026-06-29",
+  "category": "universe:nations",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아홉 나라"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "구조"
+    },
+    {
+      "level": 2,
+      "title": "국가 엔진"
+    },
+    {
+      "level": 2,
+      "title": "부정 이데아"
+    },
+    {
+      "level": 2,
+      "title": "문명 상호의존"
+    },
+    {
+      "level": 2,
+      "title": "국가와 주변 권역"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "기능조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "레이어드",
+      "target": "wiki/universe/realms/balance/nations/레이어드.md"
+    },
+    {
+      "label": "마사오트",
+      "target": "wiki/universe/realms/balance/nations/마사오트.md"
+    },
+    {
+      "label": "탐험가 길드",
+      "target": "wiki/universe/realms/balance/organizations/탐험가_길드.md"
+    },
+    {
+      "label": "알렉시아",
+      "target": "wiki/universe/realms/balance/nations/알렉시아.md"
+    },
+    {
+      "label": "염한",
+      "target": "wiki/universe/realms/balance/nations/염한.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "오아시스",
+      "target": "wiki/universe/realms/balance/nations/오아시스.md"
+    },
+    {
+      "label": "우니오네",
+      "target": "wiki/universe/realms/balance/nations/우니오네.md"
+    },
+    {
+      "label": "파라디소",
+      "target": "wiki/universe/realms/balance/nations/파라디소.md"
+    },
+    {
+      "label": "플라센티아",
+      "target": "wiki/universe/realms/balance/nations/플라센티아.md"
+    },
+    {
+      "label": "올림피아",
+      "target": "wiki/universe/realms/balance/nations/올림피아.md"
+    },
+    {
+      "label": "에레모스",
+      "target": "wiki/universe/realms/balance/nations/에레모스.md"
+    },
+    {
+      "label": "균형계",
+      "target": "wiki/universe/realms/balance/index.md"
+    },
+    {
+      "label": "균형계 문화",
+      "target": "wiki/universe/realms/balance/culture/index.md"
+    },
+    {
+      "label": "균형계 언어",
+      "target": "wiki/universe/realms/balance/language/index.md"
+    },
+    {
+      "label": "아포라투스",
+      "target": "wiki/universe/realms/balance/apparatus/index.md"
+    },
+    {
+      "label": "균형계 조직",
+      "target": "wiki/universe/realms/balance/organizations/index.md"
+    },
+    {
+      "label": "아홉 보물",
+      "target": "wiki/universe/structure/아홉_보물.md"
+    },
+    {
+      "label": "삼위일체 우주 대응표",
+      "target": "wiki/universe/structure/삼위일체_우주_대응표.md"
+    },
+    {
+      "label": "하위신",
+      "target": "wiki/universe/laws/하위신.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    }
+  ],
+  "sha256": "c4e6647d3698119b16b8d6d0b65cfab3a5ed5338cc5eed97b0bb06de03bfc5a7",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_94b6135c454a4d5a.json",
+  "chunks": [
+    {
+      "id": "doc_94b6135c454a4d5a:000",
+      "section": "아홉 나라",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_000.json",
+      "char_count": 312
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_001.json",
+      "char_count": 382
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:002",
+      "section": "구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_002.json",
+      "char_count": 472
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:003",
+      "section": "국가 엔진",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_003.json",
+      "char_count": 547
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:004",
+      "section": "부정 이데아",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_004.json",
+      "char_count": 716
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:005",
+      "section": "문명 상호의존",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_005.json",
+      "char_count": 342
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:006",
+      "section": "국가와 주변 권역",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_006.json",
+      "char_count": 533
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:007",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_007.json",
+      "char_count": 981
+    },
+    {
+      "id": "doc_94b6135c454a4d5a:008",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_94b6135c454a4d5a_008.json",
+      "char_count": 686
+    }
+  ]
+}

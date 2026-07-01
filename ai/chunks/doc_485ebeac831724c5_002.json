@@ -1,0 +1,24 @@
+{
+  "id": "doc_485ebeac831724c5:002",
+  "document_id": "doc_485ebeac831724c5",
+  "path": "wiki/characters/personas/메피스토/support/appearance.md",
+  "wiki_path": "characters/personas/메피스토/support/appearance.md",
+  "title": "메피스토 외형",
+  "section": "설계도-퀘스트 실루엣",
+  "summary": "메피스토의 설계도-퀘스트형 실루엣, 가면, 발밑 램프 연기, 청사진과 의뢰 태그를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_485ebeac831724c5_002.json",
+  "text": "## 설계도-퀘스트 실루엣\n\n메피스토의 몸은 떠돌이 이야기꾼의 여행복과 시스템 안내자의 표식을 함께 가진다. 옷에는 오래 접힌 지도, 사막 청사진, 의뢰 태그, 작은 선택지 표식이 얇게 겹친다. 실루엣은 사람의 윤곽을 유지하지만, 하단은 모래와 램프 연기로 풀려 페르소나적 경계를 만든다.\n\n의상은 오래된 이야기 도구의 질감을 따른다. 낡은 천, 접힌 종이, 태그 끈, 모래가 묻은 장갑, 조용히 펼친 설계도가 메피스토의 손끝을 만든다.",
+  "metadata": {
+    "char_count": 244,
+    "sha256": "b23d53701542d587e5666a6ebdb69620c6ec662190971bd2d862486a1aa8df28"
+  }
+}

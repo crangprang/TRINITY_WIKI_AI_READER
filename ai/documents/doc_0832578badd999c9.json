@@ -1,0 +1,124 @@
+{
+  "id": "doc_0832578badd999c9",
+  "path": "wiki/events/singularities/생사불문.md",
+  "wiki_path": "events/singularities/생사불문.md",
+  "title": "생사불문",
+  "summary": "마스터 링이 벗겨진 순간 스노우볼 디오라마가 세계의 뒤집힘으로 동기화되는 특이점.",
+  "status": "draft",
+  "type": "event",
+  "tags": [
+    "reader",
+    "사건",
+    "event"
+  ],
+  "updated": "2026-06-27",
+  "category": "events:singularities",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "생사불문"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "배경"
+    },
+    {
+      "level": 2,
+      "title": "전개"
+    },
+    {
+      "level": 2,
+      "title": "결과와 영향"
+    },
+    {
+      "level": 2,
+      "title": "관련 인물 및 세력"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "분노의 판타즈마",
+      "target": "wiki/beings/phantasmas/분노의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "오르딜리아",
+      "target": "wiki/universe/realms/balance/nations/오르딜리아.md"
+    },
+    {
+      "label": "미노스",
+      "target": "wiki/characters/personas/미노스/index.md"
+    },
+    {
+      "label": "분노의 판타즈마",
+      "target": "wiki/beings/phantasmas/분노의_판타즈마.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    }
+  ],
+  "sha256": "bf8417f572027ff43f27d1c5ac496697195f42f10ef196c51f2eceae8e7ebaf2",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_0832578badd999c9.json",
+  "chunks": [
+    {
+      "id": "doc_0832578badd999c9:000",
+      "section": "생사불문",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_000.json",
+      "char_count": 164
+    },
+    {
+      "id": "doc_0832578badd999c9:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_001.json",
+      "char_count": 252
+    },
+    {
+      "id": "doc_0832578badd999c9:002",
+      "section": "배경",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_002.json",
+      "char_count": 194
+    },
+    {
+      "id": "doc_0832578badd999c9:003",
+      "section": "전개",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_003.json",
+      "char_count": 195
+    },
+    {
+      "id": "doc_0832578badd999c9:004",
+      "section": "결과와 영향",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_004.json",
+      "char_count": 212
+    },
+    {
+      "id": "doc_0832578badd999c9:005",
+      "section": "관련 인물 및 세력",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_005.json",
+      "char_count": 232
+    },
+    {
+      "id": "doc_0832578badd999c9:006",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_0832578badd999c9_006.json",
+      "char_count": 305
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:358",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-29] worldhistory | 2시대 아홉 영웅과 칼시네이션 보강",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_358.json",
+  "text": "## [2026-06-29] worldhistory | 2시대 아홉 영웅과 칼시네이션 보강\n\nLIVE WC 2시대와 아홉 보물/아홉 영웅/칼시네이션 계열을 대조해 [세계사/2시대](events/world_history/2시대_아홉_영웅과_칼시네이션.md)의 리그레드와 알레인 출발점, 아홉 영웅-보물-트리네아드 연결 표, 불지피기 의식의 장치 구조, 칼시네이션의 기록 소실과 백색 폐허 물성을 보강했다. 리그레드의 후대 연결은 이상의 보물에서 태어난 붕괴의 트리네아드 [에르고](characters/trineads/에르고/index.md)로 맞췄고, 스타스모스와 백회/백골/백유 설명을 2시대 결과 소절로 연결했다.",
+  "metadata": {
+    "char_count": 344,
+    "sha256": "1371886edd7085da3dcd4ff5620133b040c2714717a8d10381f54b972872f43e"
+  }
+}

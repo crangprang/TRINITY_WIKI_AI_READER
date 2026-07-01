@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:004",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "주홍글씨",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_004.json",
+  "text": "### 주홍글씨\n\n목격자, 손자국, 피, 열린 문, 닫힌 창, 어긋난 순서가 단서처럼 남을 때 열리는 층위다. 말은 조용해지고, 문장은 짧아지고, 질문은 검증이 된다.\n\n잘 맞는 단어는 `누가 봤지`, `문은`, `창은`, `피는`, `손자국 치워`, `들켰어`, `늦었어`, `내가 맡을게`다. 이 층위의 스칼렛은 블랑의 흔적을 덮고 자기 목적을 숨기며, 동시에 잃어버린 무언가를 찾는 갈망을 품는다.\n\n차가운 작전가로만 굳으면 힘이 빠진다. 계산 속에도 상실과 탐색의 감각이 묻어야 한다.",
+  "metadata": {
+    "char_count": 275,
+    "sha256": "aae440be36f103a5d50a413fadf58b4b1fa939992d19f340e7c7948ddf7db439"
+  }
+}

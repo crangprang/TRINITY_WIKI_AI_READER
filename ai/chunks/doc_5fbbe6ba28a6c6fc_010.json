@@ -1,0 +1,24 @@
+{
+  "id": "doc_5fbbe6ba28a6c6fc:010",
+  "document_id": "doc_5fbbe6ba28a6c6fc",
+  "path": "wiki/characters/main_party/스칼렛/support/voice.md",
+  "wiki_path": "characters/main_party/스칼렛/support/voice.md",
+  "title": "스칼렛 보이스",
+  "section": "외부인",
+  "summary": "스칼렛의 발화 층위, 관계별 어조, 상황별 위협과 추적, 대사 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_5fbbe6ba28a6c6fc_010.json",
+  "text": "### 외부인\n\n외부인은 관객이자 안전거리의 판정자다. 스칼렛은 공포가 자기 쪽으로 몰릴 때 더 편해진다. 외부 시선이 블랑에게 오래 붙으면, 그녀는 일부러 장면을 더럽히거나 더 큰 위협으로 시선을 빼앗는다.\n\n이 관계에서 가장 중요한 문장은 `저쪽은 건드리지 마`다. 이 문장은 장면의 규칙을 정하는 선으로 작동한다.",
+  "metadata": {
+    "char_count": 178,
+    "sha256": "bc4dc7d61bde5b37a49cb058e76d2eab60b327379b463bf0a3f85565995ac924"
+  }
+}

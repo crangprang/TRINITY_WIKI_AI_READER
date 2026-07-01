@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed488eec4d90ec3a:015",
+  "document_id": "doc_ed488eec4d90ec3a",
+  "path": "wiki/characters/trineads/index.md",
+  "wiki_path": "characters/trineads/index.md",
+  "title": "트리네아드",
+  "section": "관련 문서",
+  "summary": "트리네아드는 세 세계의 상위 신격과 미덕, 왕권이 이름과 사건으로 드러나는 존재 층위다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "reader",
+    "characters",
+    "trineads",
+    "character_group"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed488eec4d90ec3a_015.json",
+  "text": "## 관련 문서\n\n- [인물](../index.md) - 주인공, 조연, 상위 신격, 하위신이 함께 놓이는 상위 인물 항목.\n- [신격과 신적 권위](../../universe/laws/신격과_신적_권위.md) - 창조주, 오리진, 거짓 신명, 아홉 용, 트리네아드, 하위신 계열의 구분.\n- [하위신](../../universe/laws/하위신.md) - 트리네아드 압력이 세계 내부 존재층으로 번역되는 체계.\n- [삼위일체 우주](../../universe/structure/삼위일체_우주.md) - 트리네아드와 세 세계 구조가 맞물리는 세계 구조.",
+  "metadata": {
+    "char_count": 309,
+    "sha256": "3d261a08e7bc3a237fdc176af904259e9c363ddec8b8b261aae379cd72d05fe7"
+  }
+}

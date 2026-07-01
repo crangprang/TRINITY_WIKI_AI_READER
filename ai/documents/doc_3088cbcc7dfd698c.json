@@ -1,0 +1,142 @@
+{
+  "id": "doc_3088cbcc7dfd698c",
+  "path": "wiki/characters/main_party/index.md",
+  "wiki_path": "characters/main_party/index.md",
+  "title": "주인공 파티",
+  "summary": "주인공 파티는 삼위의 군상 1부에서 아홉 나라의 균열을 따라 이동하며 세계의 법칙과 각자의 판결을 함께 드러내는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "main_party",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "category": "characters:main_party",
+  "is_support": false,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "주인공 파티"
+    },
+    {
+      "level": 2,
+      "title": "개요"
+    },
+    {
+      "level": 2,
+      "title": "집단 구조"
+    },
+    {
+      "level": 2,
+      "title": "배신 문법"
+    },
+    {
+      "level": 2,
+      "title": "하위 항목"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "길티어",
+      "target": "wiki/characters/main_party/길티어/index.md"
+    },
+    {
+      "label": "진",
+      "target": "wiki/characters/main_party/진/index.md"
+    },
+    {
+      "label": "블랑",
+      "target": "wiki/characters/main_party/블랑/index.md"
+    },
+    {
+      "label": "스칼렛",
+      "target": "wiki/characters/main_party/스칼렛/index.md"
+    },
+    {
+      "label": "엘리자베스",
+      "target": "wiki/characters/main_party/엘리자베스/index.md"
+    },
+    {
+      "label": "세레나",
+      "target": "wiki/characters/main_party/세레나/index.md"
+    },
+    {
+      "label": "단테",
+      "target": "wiki/characters/main_party/단테/index.md"
+    },
+    {
+      "label": "파티",
+      "target": "wiki/characters/main_party/파티/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/index.md"
+    },
+    {
+      "label": "삼위의 군상/1부/아홉 나라의 시대/줄거리",
+      "target": "wiki/events/삼위의_군상/1부/아홉_나라의_시대/줄거리.md"
+    },
+    {
+      "label": "특이점",
+      "target": "wiki/events/singularities/index.md"
+    }
+  ],
+  "sha256": "accd90f0c5993978489e420cbf4ca9346737c8eb75be1643f5e373f54ea7086f",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3088cbcc7dfd698c.json",
+  "chunks": [
+    {
+      "id": "doc_3088cbcc7dfd698c:000",
+      "section": "주인공 파티",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_000.json",
+      "char_count": 176
+    },
+    {
+      "id": "doc_3088cbcc7dfd698c:001",
+      "section": "개요",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_001.json",
+      "char_count": 309
+    },
+    {
+      "id": "doc_3088cbcc7dfd698c:002",
+      "section": "집단 구조",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_002.json",
+      "char_count": 351
+    },
+    {
+      "id": "doc_3088cbcc7dfd698c:003",
+      "section": "배신 문법",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_003.json",
+      "char_count": 141
+    },
+    {
+      "id": "doc_3088cbcc7dfd698c:004",
+      "section": "하위 항목",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_004.json",
+      "char_count": 994
+    },
+    {
+      "id": "doc_3088cbcc7dfd698c:005",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_005.json",
+      "char_count": 294
+    }
+  ]
+}

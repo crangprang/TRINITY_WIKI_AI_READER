@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:004",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "사라와 글로벌 코텍스",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_004.json",
+  "text": "### 사라와 글로벌 코텍스\n\n진은 연인 사라와 함께 엑시온 [마이더스](../../axions/마이더스/index.md)가 뒤에서 굴리던 부조리한 판과 폭력의 세계에 휘말렸다. 사라는 진을 살리기 위해 자기 신체 소유권까지 저당잡았고, 진은 그 진실을 모른 채 그녀가 납치당했다고 믿고 글로벌 코텍스 본사에 덤볐다가 실패했다.\n\n그 뒤 진은 사라를 구하려면 천문학적인 값과 자기 미래 전체를 함께 내야 하는 현실을 보았다. 그는 워크맨만 들고 도시를 등졌다. 진을 가장 깊게 찌르는 것은 사랑을 넘어 그날 자기 몫을 끝까지 내지 못하고 도망쳤다는 기억이다.",
+  "metadata": {
+    "char_count": 312,
+    "sha256": "fe6138d26a26920923839f38ce1de0bf2af5105cf46a8dcf550ab79c52b9ca89"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "doc_bb23bdaab11f5dff:020",
+  "document_id": "doc_bb23bdaab11f5dff",
+  "path": "wiki/characters/main_party/단테/support/voice.md",
+  "wiki_path": "characters/main_party/단테/support/voice.md",
+  "title": "단테 보이스",
+  "section": "관련 문서",
+  "summary": "단테의 공개 얼굴, 한 사람 앞의 칼, 관계별 호칭과 상황별 발화를 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_bb23bdaab11f5dff_020.json",
+  "text": "## 관련 문서\n\n- [단테](../index.md) - 별의 시선, 루시아, 코큐토스 결투재판이 말투의 죄책감과 결의를 이루는 순례자.\n- [단테 외형](appearance.md) - 접힌 골목 가이드와 한 사람 앞의 기사선이 말투의 낙차로 이어지는 외형 항목.\n- [단테 음악](music.md) - 진흙, 얼음, 별, 죄, 결투재판이 노래의 물성으로 이어지는 음악 항목.",
+  "metadata": {
+    "char_count": 210,
+    "sha256": "4b9b9b426d2005971b3fb34b86505441c33f425be70220cc3550c3cf13044b66"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_9eeb96e54d38e179",
+  "path": "04_MAIN_CHARACTER/00_PARTY/P05_ELIZABETH/P05_02_SCARLETT/P05_02_SCARLETT_CORE.txt",
+  "title": "P05_02_SCARLETT / CORE",
+  "summary": "P05_02_SCARLETT / CORE",
+  "root": "04_MAIN_CHARACTER",
+  "category": "04_MAIN_CHARACTER:00_PARTY",
+  "suffix": ".txt",
+  "sha256": "eaad1caa5c9ff5da0457336d2a0ff8d225c157781994899693d0b8eab49f7f72",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_9eeb96e54d38e179.json",
+  "chunks": [
+    {
+      "id": "live_doc_9eeb96e54d38e179:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9eeb96e54d38e179_000.json",
+      "char_count": 4016
+    }
+  ]
+}

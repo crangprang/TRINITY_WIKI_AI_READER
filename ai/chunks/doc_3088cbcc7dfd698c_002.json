@@ -1,0 +1,23 @@
+{
+  "id": "doc_3088cbcc7dfd698c:002",
+  "document_id": "doc_3088cbcc7dfd698c",
+  "path": "wiki/characters/main_party/index.md",
+  "wiki_path": "characters/main_party/index.md",
+  "title": "주인공 파티",
+  "section": "집단 구조",
+  "summary": "주인공 파티는 삼위의 군상 1부에서 아홉 나라의 균열을 따라 이동하며 세계의 법칙과 각자의 판결을 함께 드러내는 주인공 집단이다.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "main_party",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3088cbcc7dfd698c_002.json",
+  "text": "## 집단 구조\n\n주인공 파티는 호감이나 명분보다 생존, 추적, 오해, 실무적 유용성으로 먼저 묶인다. 서로를 믿기 전에 서로의 쓸모와 위험을 본다. 같은 장소를 통과할수록 각자의 판단이 반복해서 맞물리고, 반복된 적중은 느슨한 동행을 쉽게 끊어낼 수 없는 공조로 바꾼다.\n\n아홉 나라의 시대에서 이 집단은 세계 법칙을 이동 중에 드러내는 관측점이다. 자유의 나라에서는 루프와 자유의 역설이 아인을 압박하고, 평화의 나라에서는 백색과 고통의 분배가 옌을 드러내며, 예술의 나라에서는 블랑과 스칼렛의 공용 몸이 예술·치료·재연의 경계를 찢어 보인다. 각 나라는 파티 전체의 목적지이면서 한 구성원의 상처를 다시 여는 무대가 된다.",
+  "metadata": {
+    "char_count": 351,
+    "sha256": "c2d7f39fa907b89787377e4a4fb83072c8bbc0e1af4beaac42ddb6c39189a5e7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:182",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] restructure | 캐릭터 외형 잠금 support 분리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_182.json",
+  "text": "## [2026-06-26] restructure | 캐릭터 외형 잠금 support 분리\n\n캐릭터 본문에 있던 외형 잠금과 시각 운용 기준을 각 캐릭터 package의 `support/appearance.md`로 분리했다.\n\n- 분리: 51개 캐릭터 package에 `support/appearance.md`를 추가하고, `외형 잠금`, `외형과 인상`, 시각/복장/외형 기준, 외형 드리프트 주의 블록을 본문에서 이동했다.\n- 유지: `파티`처럼 집단 설명 문서와 `구세주 후보 서술 기준`처럼 작성 기준 문서는 외형 support 분리 대상에서 제외했다.\n- 도구: WIKI 대시보드와 독자 문서 감사가 캐릭터 `support/appearance.md`를 외형 잠금 보유로 인정하도록 조정했다.",
+  "metadata": {
+    "char_count": 391,
+    "sha256": "6a8289b0d309bfbf41b3bb82824ad19cd887a84acdefe0e7f659484972303055"
+  }
+}

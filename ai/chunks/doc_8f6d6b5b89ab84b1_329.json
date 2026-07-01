@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:329",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-27] style | 교체명과 별칭 표면 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_329.json",
+  "text": "## [2026-06-27] style | 교체명과 별칭 표면 정리\n\n사용자 판단에 따라 교체 전 명칭을 보존하지 않는 운영 기준을 적용했다. 판타즈마 문서의 AI성 전승·현장 명칭은 제거하고 정본 판타즈마명만 남겼으며, 문서 제목과 같은 트리네아드 칭호 행은 삭제했다. 세레나의 `서린`은 염한어 전통명, 라케는 라케시스가 인간 아바타로 활동할 때 쓰는 가명, 특이점 영문 별칭은 유지한다.",
+  "metadata": {
+    "char_count": 219,
+    "sha256": "5d79de698bf9c3a0b9756894eec1f2f3a58706b5910eeeedd4fd481524c6782f"
+  }
+}

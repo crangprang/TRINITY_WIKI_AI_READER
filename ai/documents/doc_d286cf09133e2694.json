@@ -1,0 +1,147 @@
+{
+  "id": "doc_d286cf09133e2694",
+  "path": "wiki/characters/main_party/옌/support/music.md",
+  "wiki_path": "characters/main_party/옌/support/music.md",
+  "title": "옌 음악",
+  "summary": "옌의 흰 막, 색을 섞는 손, 덧칠된 무지개, 악기 탈락 문법을 테마곡과 가사 모티프로 다루는 음악 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "music"
+  ],
+  "updated": "2026-06-30",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "옌 음악"
+    },
+    {
+      "level": 2,
+      "title": "음악 콘셉트"
+    },
+    {
+      "level": 2,
+      "title": "음악 키워드"
+    },
+    {
+      "level": 2,
+      "title": "명사 물성"
+    },
+    {
+      "level": 2,
+      "title": "층위별 악기 탈락"
+    },
+    {
+      "level": 2,
+      "title": "악기와 스타일"
+    },
+    {
+      "level": 2,
+      "title": "가사 모티프"
+    },
+    {
+      "level": 2,
+      "title": "곡 진행"
+    },
+    {
+      "level": 2,
+      "title": "운용 경계"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "옌",
+      "target": "wiki/characters/main_party/옌/index.md"
+    },
+    {
+      "label": "옌 외형",
+      "target": "wiki/characters/main_party/옌/support/appearance.md"
+    },
+    {
+      "label": "옌 보이스",
+      "target": "wiki/characters/main_party/옌/support/voice.md"
+    },
+    {
+      "label": "아인 음악",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    },
+    {
+      "label": "진 음악",
+      "target": "wiki/characters/main_party/진/support/music.md"
+    }
+  ],
+  "sha256": "315c37b57deccf85cb217426e2b0f39aa0e6ed0f6a2e5db65564cfda90336f9c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_d286cf09133e2694.json",
+  "chunks": [
+    {
+      "id": "doc_d286cf09133e2694:000",
+      "section": "옌 음악",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_000.json",
+      "char_count": 6
+    },
+    {
+      "id": "doc_d286cf09133e2694:001",
+      "section": "음악 콘셉트",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_001.json",
+      "char_count": 391
+    },
+    {
+      "id": "doc_d286cf09133e2694:002",
+      "section": "음악 키워드",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_002.json",
+      "char_count": 94
+    },
+    {
+      "id": "doc_d286cf09133e2694:003",
+      "section": "명사 물성",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_003.json",
+      "char_count": 587
+    },
+    {
+      "id": "doc_d286cf09133e2694:004",
+      "section": "층위별 악기 탈락",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_004.json",
+      "char_count": 540
+    },
+    {
+      "id": "doc_d286cf09133e2694:005",
+      "section": "악기와 스타일",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_005.json",
+      "char_count": 360
+    },
+    {
+      "id": "doc_d286cf09133e2694:006",
+      "section": "가사 모티프",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_006.json",
+      "char_count": 433
+    },
+    {
+      "id": "doc_d286cf09133e2694:007",
+      "section": "곡 진행",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_007.json",
+      "char_count": 435
+    },
+    {
+      "id": "doc_d286cf09133e2694:008",
+      "section": "운용 경계",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_008.json",
+      "char_count": 178
+    },
+    {
+      "id": "doc_d286cf09133e2694:009",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_d286cf09133e2694_009.json",
+      "char_count": 408
+    }
+  ]
+}

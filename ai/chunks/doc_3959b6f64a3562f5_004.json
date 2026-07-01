@@ -1,0 +1,23 @@
+{
+  "id": "doc_3959b6f64a3562f5:004",
+  "document_id": "doc_3959b6f64a3562f5",
+  "path": "wiki/characters/personas/에어리얼/index.md",
+  "wiki_path": "characters/personas/에어리얼/index.md",
+  "title": "에어리얼",
+  "section": "벤트리스와 편지 의무",
+  "summary": "에어리얼은 마사오트의 페르소나로, 엑소도스와 키베르노스 위에서 방주 항로와 미전달 편지를 쥐고 끝없는 도피를 종착점으로 몰아가는 안내자다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3959b6f64a3562f5_004.json",
+  "text": "## 벤트리스와 편지 의무\n\n벤트리스는 방주 최하층 기관실이며, 역대 엑시온과 선원들의 망령이 끝없는 노역을 이어 가는 심장부다. 에어리얼은 벤트리스에 묶인 망령 선원들에게 밖에서 온 편지를 읽어 주는 유일한 존재다. 그 편지는 위로이자 동력이며, 마사오트의 낭만을 떠받치는 미전달 작별이다.\n\n에어리얼은 달타냥에게 `주기적으로 벤트리스에 남은 선원들에게 선장이 편지를 써야 한다`는 숙제를 남겼다. 편지에 담긴 이데아가 불멸의 보물을 유지하는 동력이 되기 때문이다. 이 의무는 선장의 사적인 정치이자, 방주가 멈추지 않게 하는 저주의 절차다.",
+  "metadata": {
+    "char_count": 304,
+    "sha256": "3f2f587a3500d2efafe4faeed10122d7f3cbc164db3fa03e68de65b84ffa9c67"
+  }
+}

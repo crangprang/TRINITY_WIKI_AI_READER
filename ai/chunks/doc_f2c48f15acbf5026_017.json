@@ -1,0 +1,23 @@
+{
+  "id": "doc_f2c48f15acbf5026:017",
+  "document_id": "doc_f2c48f15acbf5026",
+  "path": "wiki/characters/main_party/진/index.md",
+  "wiki_path": "characters/main_party/진/index.md",
+  "title": "진",
+  "section": "적응",
+  "summary": "진은 한쪽만 계속 값을 내는 판을 보면 농담을 접고 몸부터 움직이는 해결사다. 거래의 나라에서 익힌 빚과 몫의 감각은 사라와 워크맨, 저주받은 약속을 거치며 못 끝낸 정산의 윤리로 굳었다.",
+  "status": "draft",
+  "type": "character",
+  "tags": [
+    "reader",
+    "인물",
+    "character"
+  ],
+  "updated": "2026-06-28",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_f2c48f15acbf5026_017.json",
+  "text": "### 적응\n\n진의 축복 `적응`은 물리적 타격, 전장 환경, 적의 패턴에 몸을 점점 맞추며 강해지는 힘이다. 그는 맞을수록 버티고, 몰릴수록 버틴다. 체력, 순발력, 반응속도, 맷집, 균형감각이 높고 몸으로 익히는 데 강하다.\n\n상처와 충격을 견디는 내성은 비정상적으로 빠르게 올라간다. 육체는 버티지만 정신은 같은 속도로 적응하지 못해, 트라우마와 수치가 선명하게 남는다.",
+  "metadata": {
+    "char_count": 210,
+    "sha256": "444401304f76c89f87b61fb494a0dd7f626883be2a899a7a48b67de9282c80a8"
+  }
+}

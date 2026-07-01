@@ -1,0 +1,24 @@
+{
+  "id": "doc_fb228cc2fc5c46cb:001",
+  "document_id": "doc_fb228cc2fc5c46cb",
+  "path": "wiki/characters/main_party/파티/support/visual_grammar.md",
+  "wiki_path": "characters/main_party/파티/support/visual_grammar.md",
+  "title": "파티 시각 문법",
+  "section": "개요",
+  "summary": "파티 시각 문법은 주인공 파티의 3층위 복장과 가면이 사회적 역할을 덜어내고 개인의 마지막 표지를 남기는 방식이다.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "visual_grammar"
+  ],
+  "updated": "2026-07-01",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_fb228cc2fc5c46cb_001.json",
+  "text": "## 개요\n\n파티 시각 문법은 주인공 파티가 사회적 역할, 장비, 장식, 공적 이름을 잃어 갈수록 어떤 표지만 얼굴과 몸에 남는지 다룬다. 균형계의 [공적 가면](../../../../universe/realms/balance/culture/index.md#공적-가면)은 사회가 승인한 역할을 켜는 표식이지만, 파티의 가면은 그 역할이 깨진 뒤에도 사라지지 않는 개인사의 잔여다.\n\n파티 가면은 고위 정교 인물의 정교한 예술품처럼 완성된 물건으로 두지 않는다. 도망자, 위조자, 임시 동맹이 행사와 검문을 통과하기 위해 준비한 명확한 모티프형 가면이 맞다. 첫인상에서 모티프가 바로 떠올라야 하고, 가까이 보면 각자의 개인사가 새어 나와야 한다.",
+  "metadata": {
+    "char_count": 361,
+    "sha256": "2b46a7351184cab30a1cb6f40c5b07e372971f3c9c4587d3d588b4451802bd05"
+  }
+}

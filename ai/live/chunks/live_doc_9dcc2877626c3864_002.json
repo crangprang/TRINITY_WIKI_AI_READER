@@ -1,0 +1,16 @@
+{
+  "id": "live_doc_9dcc2877626c3864:002",
+  "document_id": "live_doc_9dcc2877626c3864",
+  "path": "05_PLOT_AND_SCENE/PART1_NINE_NATIONS_ERA/PART1_README.txt",
+  "title": "PART1_NINE_NATIONS_ERA",
+  "section": "Active Shape",
+  "summary": "This part is the active plot scaffold for the Nine Nations era.",
+  "root": "05_PLOT_AND_SCENE",
+  "category": "05_PLOT_AND_SCENE:PART1_NINE_NATIONS_ERA",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_9dcc2877626c3864_002.json",
+  "text": "## Active Shape\n\n- `BUILDUP_EPI` covers the nine-nation buildup episodes\n- `BRIDGE_EPI` covers bridge episodes between major beats\n- `EREMOS_EPI` covers Eremos-specific work\n- `OLYMPIA_EPI` covers Olympia-specific work\n- `SINGULARITY EPISODE` files are chapter-level specials, not a separate canon system",
+  "metadata": {
+    "char_count": 304,
+    "sha256": "d067888f200134541c1d1fa8fddfbd294ba7c0a387815c365611350966a354f6"
+  }
+}

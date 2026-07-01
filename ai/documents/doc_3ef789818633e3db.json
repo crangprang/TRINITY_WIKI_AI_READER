@@ -1,0 +1,119 @@
+{
+  "id": "doc_3ef789818633e3db",
+  "path": "wiki/characters/main_party/아인/support/appearance.md",
+  "wiki_path": "characters/main_party/아인/support/appearance.md",
+  "title": "아인 외형",
+  "summary": "아인의 작은 리더 실루엣, 어두운 여행자 외투, 손목시계, 금속 토큰, 끝칸의 죽은 말 표식을 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "category": "characters:main_party",
+  "is_support": true,
+  "is_review": false,
+  "headings": [
+    {
+      "level": 1,
+      "title": "아인 외형"
+    },
+    {
+      "level": 2,
+      "title": "외형 기준"
+    },
+    {
+      "level": 2,
+      "title": "외형과 인상"
+    },
+    {
+      "level": 2,
+      "title": "의상과 소품"
+    },
+    {
+      "level": 2,
+      "title": "끝칸의 죽은 말"
+    },
+    {
+      "level": 2,
+      "title": "배경과 장면"
+    },
+    {
+      "level": 2,
+      "title": "이미지 생성 기준"
+    },
+    {
+      "level": 2,
+      "title": "관련 문서"
+    }
+  ],
+  "links": [
+    {
+      "label": "아인",
+      "target": "wiki/characters/main_party/아인/index.md"
+    },
+    {
+      "label": "아인 보이스",
+      "target": "wiki/characters/main_party/아인/support/voice.md"
+    },
+    {
+      "label": "아인 음악",
+      "target": "wiki/characters/main_party/아인/support/music.md"
+    }
+  ],
+  "sha256": "984e623e1c9715a1daf773d3d09146deaa396dac00a81e13a20d836ff6ddf9f3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/documents/doc_3ef789818633e3db.json",
+  "chunks": [
+    {
+      "id": "doc_3ef789818633e3db:000",
+      "section": "아인 외형",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_000.json",
+      "char_count": 7
+    },
+    {
+      "id": "doc_3ef789818633e3db:001",
+      "section": "외형 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_001.json",
+      "char_count": 503
+    },
+    {
+      "id": "doc_3ef789818633e3db:002",
+      "section": "외형과 인상",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_002.json",
+      "char_count": 465
+    },
+    {
+      "id": "doc_3ef789818633e3db:003",
+      "section": "의상과 소품",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_003.json",
+      "char_count": 655
+    },
+    {
+      "id": "doc_3ef789818633e3db:004",
+      "section": "끝칸의 죽은 말",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_004.json",
+      "char_count": 378
+    },
+    {
+      "id": "doc_3ef789818633e3db:005",
+      "section": "배경과 장면",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_005.json",
+      "char_count": 290
+    },
+    {
+      "id": "doc_3ef789818633e3db:006",
+      "section": "이미지 생성 기준",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_006.json",
+      "char_count": 477
+    },
+    {
+      "id": "doc_3ef789818633e3db:007",
+      "section": "관련 문서",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_3ef789818633e3db_007.json",
+      "char_count": 197
+    }
+  ]
+}

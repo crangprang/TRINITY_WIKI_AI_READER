@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:157",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 우니오네 국가 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_157.json",
+  "text": "## [2026-06-26] rebuild | 우니오네 국가 항목 정리\n\n[우니오네](universe/realms/balance/nations/우니오네.md)의 중복 기본 정보 블록과 번호형 하위 제목을 정리했다.\n\n- 정리: `기본 정보` 중복 서술을 제거하고, 지리와 구조 아래의 전면, 역사, 구조와 장치, 생활과 문화, 핵심 군상을 위키식 제목 체계로 재배치했다.\n- 문체: 비교 부정형과 완곡한 `가깝다` 표현을 선언형 문장으로 바꿨다.\n- 표면: `경계 메모`, `레퍼런스 시트`, `금지 및 드리프트 주의` 표면을 해석 경계와 장면 모티프 중심으로 정리했다.",
+  "metadata": {
+    "char_count": 319,
+    "sha256": "f7479f1f1e8d535e99e3556fc678bbd010ed7e1e8c71e3fabc2079101b0cbee0"
+  }
+}

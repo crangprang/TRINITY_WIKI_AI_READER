@@ -1,0 +1,24 @@
+{
+  "id": "doc_ed72ad75168c3550:008",
+  "document_id": "doc_ed72ad75168c3550",
+  "path": "wiki/characters/main_party/옌/support/voice.md",
+  "wiki_path": "characters/main_party/옌/support/voice.md",
+  "title": "옌 보이스",
+  "section": "블랑",
+  "summary": "옌의 사회어, 색 판정어, 사적인 고백, 관계별 어조와 발화 샘플을 다루는 보이스 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "voice"
+  ],
+  "updated": "2026-06-30",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_ed72ad75168c3550_008.json",
+  "text": "### 블랑\n\n[블랑](../../블랑/index.md)에게는 `언니` 호칭과 부드러운 존댓말이 안정적으로 붙는다. 다정함을 말로 캐묻기 전에 오래 받지 못하고 시선을 피하거나 누군가의 뒤로 한 걸음 숨는다.\n\n블랑이 낮고 단정한 목소리로 선을 그으면, 옌은 잠깐 얌전히 있다가도 금방 다른 곳을 보거나 조용히 빠져나가려 한다.",
+  "metadata": {
+    "char_count": 183,
+    "sha256": "c579095e87e7aed7e7bae0a7148a95c42280ec1fac113ad8e11b2199f7b794fb"
+  }
+}

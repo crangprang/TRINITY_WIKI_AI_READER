@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:361",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "2026-06-30",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_361.json",
+  "text": "# 2026-06-30\n\n- 신설: [옌 음악](characters/main_party/옌/support/music.md)을 캐릭터 support로 추가했다. 흰 막에서 검은 안쪽과 덧칠된 무지개로 내려갈수록 악기가 하나씩 떨어져 마지막에는 가까운 목소리와 어쿠스틱 기타만 남는 테마곡 문법을 정리했다.\n- 연결: [옌](characters/main_party/옌/index.md), [옌 외형](characters/main_party/옌/support/appearance.md), [옌 보이스](characters/main_party/옌/support/voice.md)의 하위 항목과 관련 문서 연결에 음악 항목을 추가하고, [세계관 개발 TODO](review/worldbuilding_development_todo.md)의 메인 캐릭터 음악 support 보류 목록에서 옌을 내렸다.\n- 보강: [파티](characters/main_party/파티/index.md)에 주인공 파티의 3층위 시각 문법을 추가했다. 공통 항목은 3층위 복장과 3층위 가면으로 좁혀 기록하고, 옌의 흰 가면과 한쪽 눈 무지개, 길티어의 마스크맨 가면을 예시로 연결했다.",
+  "metadata": {
+    "char_count": 589,
+    "sha256": "b81b4c180bd13cdd74faae3f076c5988d6c097d462630b7da9dbe2c29fb8a54a"
+  }
+}

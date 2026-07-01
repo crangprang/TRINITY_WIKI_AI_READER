@@ -1,0 +1,23 @@
+{
+  "id": "doc_830bfdb501cc3309:000",
+  "document_id": "doc_830bfdb501cc3309",
+  "path": "wiki/characters/savior_candidates/index.md",
+  "wiki_path": "characters/savior_candidates/index.md",
+  "title": "구세주 후보",
+  "section": "구세주 후보",
+  "summary": "아홉 나라의 표면 이념이 인간 한 명의 기술, 직업, 결함, 욕망으로 굳은 올림피아 대표자.",
+  "status": "draft",
+  "type": "character_group",
+  "tags": [
+    "characters",
+    "savior_candidates",
+    "character_group"
+  ],
+  "updated": "2026-06-27",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_830bfdb501cc3309_000.json",
+  "text": "# 구세주 후보\n\n| 항목 | 내용 |\n|---|---|\n| 분류 | 국가 대표자 |\n| 이름 | 구세주 후보 |\n| 중심 무대 | 올림피아 |\n| 공통 역할 | 국가 간판 / 국제 통행증 / 기능조직 현장 대표 / 체제 균열 |\n| 관련 구조 | 아홉 나라 / 올림피아 제전 / 공적 가면 / 페르소나의 응답권 |",
+  "metadata": {
+    "char_count": 176,
+    "sha256": "2e377038e899590f37064e236513db044a0a563e74f968e5ae8206f2c2696d6f"
+  }
+}

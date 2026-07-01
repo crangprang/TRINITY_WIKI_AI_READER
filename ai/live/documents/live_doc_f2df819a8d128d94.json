@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_f2df819a8d128d94",
+  "path": "02_LORE/L02_ART/L02_FACT_DETAIL.txt",
+  "title": "L02_우니오네 / FACT_DETAIL",
+  "summary": "L02_우니오네 / FACT_DETAIL",
+  "root": "02_LORE",
+  "category": "02_LORE:L02_ART",
+  "suffix": ".txt",
+  "sha256": "e4991125fdbd80081c1f5341bead0ddf0d5fe069004ab4a94d343aed4586546c",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_f2df819a8d128d94.json",
+  "chunks": [
+    {
+      "id": "live_doc_f2df819a8d128d94:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_f2df819a8d128d94_000.json",
+      "char_count": 7147
+    }
+  ]
+}

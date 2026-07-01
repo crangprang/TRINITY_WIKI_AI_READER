@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:134",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 정복의 펠시온 항목 정리",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_134.json",
+  "text": "## [2026-06-26] rebuild | 정복의 펠시온 항목 정리\n\n[정복의 펠시온](characters/fellsions/정복의_펠시온/index.md)의 중복 개요와 `기본 정보` 표면을 인물 기사 구조로 정리했다.\n\n- 정리: 정체와 역할, 골화 갑주, 생존 전쟁, 전투 방식, 말투와 태도로 본문 소유권을 재배치했다.\n- 외형: [정복의 펠시온 외형](characters/fellsions/정복의_펠시온/support/appearance.md)의 관리 문구와 번호형 항목을 제거하고 거대한 대장군 실루엣, 백골 갑주, 죽음 군단의 지휘 압력 중심으로 다시 세웠다.\n- 색인: 펠시온 색인의 정복의 펠시온 요약을 본문 기준으로 맞췄다.",
+  "metadata": {
+    "char_count": 361,
+    "sha256": "b41adb66fb89f0e2fd080d5d4153c5caff1cb6796a2adb6d9c58047c068e2b06"
+  }
+}

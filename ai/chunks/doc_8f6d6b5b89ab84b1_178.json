@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:178",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] maintenance | nation summary 문장 복구",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_178.json",
+  "text": "## [2026-06-26] maintenance | nation summary 문장 복구\n\n국가 문서에 남아 있던 잘린 summary와 개요 문장을 복구했다.\n\n- 복구: 우니오네 summary와 개요의 마지막 문장을 `현실이 허락하지 않은 결말을 가장 아름답게 다시 보여 주는 힘` 기준으로 닫았다.\n- 복구: 오아시스 summary와 개요의 마지막 문장을 `오늘을 버틸 수 있다`는 안도 기준으로 닫았다.\n- 복구: 염한 개요의 마지막 문장을 천명을 몸으로 끝까지 밀어 올린 자리로 여긴다는 기준으로 닫았다.\n- 동기화: 아홉 나라 색인의 오아시스/우니오네 요약도 같은 문장으로 맞췄다.",
+  "metadata": {
+    "char_count": 331,
+    "sha256": "a2ade4bf5a0c61f921350e40a40370b4ff2e6a0e118d010c8c7484f17390c518"
+  }
+}

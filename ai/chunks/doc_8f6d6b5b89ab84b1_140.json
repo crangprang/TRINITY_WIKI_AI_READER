@@ -1,0 +1,22 @@
+{
+  "id": "doc_8f6d6b5b89ab84b1:140",
+  "document_id": "doc_8f6d6b5b89ab84b1",
+  "path": "wiki/log.md",
+  "wiki_path": "log.md",
+  "title": "기록 로그",
+  "section": "[2026-06-26] rebuild | 길티어 패키지 분해",
+  "summary": "위키 작업을 시간순으로 남기는 문서.",
+  "status": "draft",
+  "type": "review",
+  "tags": [
+    "log",
+    "operations"
+  ],
+  "updated": "2026-06-29",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_8f6d6b5b89ab84b1_140.json",
+  "text": "## [2026-06-26] rebuild | 길티어 패키지 분해\n\n[길티어](characters/main_party/길티어/index.md)의 번호형 대형 본문을 인물 기사와 support로 분해했다.\n\n- 정리: 역사, 세계와 하마르티아, 기억과 이름, 내면 구조, 능력과 제약, 말투와 태도, 관계로 본문 소유권을 재배치했다.\n- 분리: 층위별 발화, 관계별 호칭, 위기 발화 조건을 [길티어 보이스](characters/main_party/길티어/support/voice.md)로 옮겼다.\n- 외형: [길티어 외형](characters/main_party/길티어/support/appearance.md)을 30대 현장 사냥꾼, 마스크맨 잔재, 천이 감긴 장총, 낡은 생활 장비 중심으로 다시 세웠다.",
+  "metadata": {
+    "char_count": 395,
+    "sha256": "d2423dadfac56d1f399686d5db24d5bffb746426b2ba261624ef437478ef3567"
+  }
+}

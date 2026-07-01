@@ -1,0 +1,24 @@
+{
+  "id": "doc_b2acc8e62f50d057:004",
+  "document_id": "doc_b2acc8e62f50d057",
+  "path": "wiki/characters/personas/카론/support/appearance.md",
+  "wiki_path": "characters/personas/카론/support/appearance.md",
+  "title": "카론 외형",
+  "section": "담보 불꽃과 장부",
+  "summary": "카론의 전당포 채권자 실루엣, 전당표 봉인 가면, 스틱스 카운터, 담보 불꽃과 장부를 다루는 외형 항목.",
+  "status": "draft",
+  "type": "character_support",
+  "tags": [
+    "reader",
+    "character",
+    "support",
+    "appearance"
+  ],
+  "updated": "2026-06-26",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/chunks/doc_b2acc8e62f50d057_004.json",
+  "text": "## 담보 불꽃과 장부\n\n담보 불꽃은 카론의 핵심 소품이다. 불꽃은 사람의 향상심, 야망, 분노, 신념을 담보로 빼낸 표지이며, 장부와 계약 봉인은 그 불을 신용과 채무의 언어로 고정한다.\n\n검은 잔과 긴 바 스푼, 담보 갈고리는 스틱스의 문턱 카운터를 만든다. 바의 환대와 전당포의 결산이 겹칠 때, 카론은 손님을 맞이하는 사람과 담보를 회수하는 사람의 얼굴을 동시에 가진다.",
+  "metadata": {
+    "char_count": 211,
+    "sha256": "5b0ece3a2774365c56545be619fc7b00c11f27a5c1d0714922fd01b8c8a7a200"
+  }
+}

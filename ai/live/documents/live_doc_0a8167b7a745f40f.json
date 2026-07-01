@@ -1,0 +1,19 @@
+{
+  "id": "live_doc_0a8167b7a745f40f",
+  "path": "03_WORLD/04_CREATURE/99_NINE_DRAGONS/01_LEVIATHAN.txt",
+  "title": "리바이어던",
+  "summary": "리바이어던",
+  "root": "03_WORLD",
+  "category": "03_WORLD:04_CREATURE",
+  "suffix": ".txt",
+  "sha256": "7b6de314f684df8dda65c25039395d8359772828b3c2f0e963ef18bed99f60c3",
+  "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/documents/live_doc_0a8167b7a745f40f.json",
+  "chunks": [
+    {
+      "id": "live_doc_0a8167b7a745f40f:000",
+      "section": "body",
+      "url": "https://crangprang.github.io/TRINITY_WIKI_AI_READER/ai/live/chunks/live_doc_0a8167b7a745f40f_000.json",
+      "char_count": 1072
+    }
+  ]
+}
